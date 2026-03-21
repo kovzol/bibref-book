@@ -18,8 +18,8 @@
 # Install prerequisites:
 FROM debian:trixie
 RUN apt-get update && \
-    apt-get -y install wget \
-        x11-apps xdg-utils firefox-esr libsword-common libsword-dev git cmake build-essential \
+    apt-get -y install wget x11-apps xdg-utils firefox-esr \
+        libsword-common libsword-dev libsword-utils git cmake build-essential \
         libreadline-dev libboost-dev libboost-filesystem-dev bison flex pkgconf unzip libgraphviz-dev \
         libltdl7 libqt6core6t64 libqt6gui6 libqt6network6 libqt6printsupport6 \
         libqt6svg6 libqt6widgets6 ghostscript locate fonts-stix fonts-texgyre locales \
@@ -69,6 +69,11 @@ COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
 # Install bibref-python:
 RUN python3 -m venv .venv
 RUN . .venv/bin/activate && pip install bibref-python
+
+# Install a Hungarian Bible edition (HunRUF):
+# RUN echo yes | SWORD_PATH=/home/user/.sword installmgr -ri CrossWire HunRUF # This does not work... because of missing write permissions?
+RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/HunRUF.zip
+RUN cd .sword && unzip ../HunRUF.zip # So we don't need installmgr (and the sword-utils package) at the moment.
 
 # Run TeXmacs in venv to access bibref-python too (restart prevents showing welcome message):
 CMD . .venv/bin/activate && texmacs -q && texmacs /home/user/bibref-hu.tm
