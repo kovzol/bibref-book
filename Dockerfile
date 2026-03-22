@@ -58,14 +58,6 @@ WORKDIR /home/user
 RUN mv /tmp/bibref-addbooks-cache .
 RUN mv /tmp/.sword .
 
-# Create bibref session plugin for TeXmacs:
-RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
-COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
-
-# Copy book and template:
-COPY bibref-hu.tm /home/user/bibref-hu.tm
-COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
-
 # Install bibref-python:
 RUN python3 -m venv .venv
 RUN . .venv/bin/activate && pip install bibref-python
@@ -74,6 +66,14 @@ RUN . .venv/bin/activate && pip install bibref-python
 # RUN echo yes | SWORD_PATH=/home/user/.sword installmgr -ri CrossWire HunRUF # This does not work... because of missing write permissions?
 RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/HunRUF.zip
 RUN cd .sword && unzip ../HunRUF.zip # So we don't need installmgr (and the sword-utils package) at the moment.
+
+# Create bibref session plugin for TeXmacs:
+RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
+COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
+
+# Copy book and template:
+COPY bibref-hu.tm /home/user/bibref-hu.tm
+COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
 
 # Run TeXmacs in venv to access bibref-python too (restart prevents showing welcome message):
 CMD . .venv/bin/activate && texmacs -q && texmacs /home/user/bibref-hu.tm
