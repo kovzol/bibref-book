@@ -5242,7 +5242,7 @@
   A helyzet az, hogy az Ószövetség magyar nyelv¶ fordításában ez a finomság
   nem látszik, mert \U hasonlóan számos más fordításhoz \U a héber szöveget
   veszi forrásul, ahol az \P® fogja nevezni\Q értelmezés is szóba jön, és
-  értelmileg ennek talán több realitása van.
+  ennek talán több realitása van.
 
   Az ószövetségi és újszövetségi igeszakaszt grafikusan is szemléltethetjük.
   Ehhez a bibref program bevezet egy leíró nyelvet, amivel pontosan
@@ -5387,8 +5387,39 @@
   szabadulás egy törékeny n® által érkezik, de a háttérben Isten fog
   cselekedni.
 
-  Ha el is fogadjuk ezt a magyarázatot, talán furcsának tartjuk, hogy Máté
-  éppen az Áház-történettel kapcsolja össze Jézus fogantatását. A Máté-szöveg
+  Az Olvasó bizonyára felfigyelt arra a még nem említett, de rendkívül fontos
+  különbségre, hogy a magyar nyelv¶ ószövetségi szövegben a \Pfiatal n®\Q, az
+  Újszövetségben pedig a \Psz¶z\Q kifejezés szerepel. A görögben mindkét
+  helyen a \<pi\>\<alpha\>\<rho\>\<theta\>\<#3AD\>\<nu\>\<omicron\>\<varsigma\>
+  szót olvassuk, ami vitán felül <with|font-shape|italic|sz¶z>et jelent.
+  Hogyan lehet akkor, hogy a héber eredetiben nem ez a szó áll? Egy
+  lehetséges rövid választ adunk itt: a héber szó,
+  \<#5E2\>\<#5DC\>\<#5DE\>\<#5D4\> (almah), csupán a \Pfiatal n®\Q jelentést
+  hordozza (a sz¶z szóra van más kifejezés a héberben), viszont a görög
+  fordítás úgymond pontatlan, mert ott egy er®sebb kifejezést használtak.
+  Hibás volna tehát a görög fordítás? A görögben volna más szó is, ami a
+  \Pfiatal n®\Q fordítására választható lett volna. Valamiért azonban a
+  Szeptuaginta fordítói a \Psz¶z\Q szót választották, általunk ismeretlen
+  okokból. Ezzel aztán a zsidó-keresztény teológia egyik legrejtélyesebb
+  kérdését készítették el®.
+
+  Talán maga Isten akarta ezt a <with|font-shape|italic|zavar>t, hogy kihívás
+  elé állítsa az újabb generációkat! Ha Isten valóban létezik és Ž hagyta ezt
+  a kérdést szándékosan nyitva, akkor izgalmas kérdés az is, hogyan vajon
+  miért hagyja ezt a mai napig tisztázatlanul. Egy másik néz®pontot kiemelve
+  viszont úgy is fogalmazhatunk, hogy Isten
+  <with|font-shape|italic|pontosíthatta> is, hogy ami Jézus fogantatásával
+  következik, az <with|font-shape|italic|lényegileg> más, mint egy új ember
+  születésének története. Mert ha valóban szó szerint az történt, amit Máté
+  leírt, ti.<strong| >hogy Mária sz¶zként fogant, akkor ez az emberiség
+  történetének <with|font-shape|italic|egyetlen> ilyen eseménye. Biológiailag
+  ilyesmi nem létezhet, s az egyetlen magyarázat tényleg az, hogy Jézus apai
+  oldala isteni személy, de akkor az egész történetre mint csodálatos, egyedi
+  eseményre kell tekintsünk!
+
+  Akár törékeny \Pfiatal n®\Q-ként, akár törékeny \Psz¶z\Q-ként gondolunk
+  Máriára, talán furcsának tartjuk, hogy Máté az Áház-történet távoli
+  asszociációjával kapcsolja össze Jézus fogantatását. A Máté-szöveg
   rendkívül er®s kapcsolatot kommunikál: azt állítja, hogy az
   Áház-történetnek nem csupán egy véletlen, részleges hasonmása történik több
   mint 700 év elteltével, nem, ennél sokkal többr®l van szó! Máté szerint
@@ -5400,12 +5431,12 @@
   Lehet, hogy mi másfajta bizonyítékokat várnánk, amivel megnyugtathatjuk
   magunkat és hátrad®lhetünk. Úgy azonban túl hamar véget érne utazásunk.
   Isten talán éppen csak annyi biztosítékot akar nekünk adni, amivel
-  felfigyelhetünk erre a nem mindennapi kezdésre, és némileg hitetlenkedve
-  ugyan, de érdekl®déssel követhetjük tovább a leírt eseményeket.
+  felfigyelhetünk erre a nem mindennapi kezdésre, és ha némileg hitetlenkedve
+  is, de komoly érdekl®déssel követhetjük tovább a leírt eseményeket.
 
   <subsection|Jézus születése>
 
-  Máté (nevezzük így az evangélium szerz®jét, akárki is az) komoly hangsúlyt
+  Máté (nevezzük így az evangélium szerz®jét, akárki is az) nagy hangsúlyt
   fektet arra, hogy további párhuzamokat vonjon az Ószövetség leírt szövege
   és az általa leírt történések között. S®t, az egész történetet az isteni
   Terv biztos részeként írja le. Rejtett történetr®l van szó, amit Isten
