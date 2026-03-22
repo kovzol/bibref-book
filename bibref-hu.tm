@@ -5405,16 +5405,16 @@
 
   Talán maga Isten akarta ezt a <with|font-shape|italic|zavar>t, hogy kihívás
   elé állítsa az újabb generációkat! Ha Isten valóban létezik és Ž hagyta ezt
-  a kérdést szándékosan nyitva, akkor izgalmas kérdés az is, hogyan vajon
-  miért hagyja ezt a mai napig tisztázatlanul. Egy másik néz®pontot kiemelve
+  a kérdést szándékosan nyitva, akkor izgalmas kérdés az is, hogy vajon miért
+  hagyja ezt a mai napig tisztázatlanul. Egy másik néz®pontot kiemelve
   viszont úgy is fogalmazhatunk, hogy Isten
   <with|font-shape|italic|pontosíthatta> is, hogy ami Jézus fogantatásával
-  következik, az <with|font-shape|italic|lényegileg> más, mint egy új ember
-  születésének története. Mert ha valóban szó szerint az történt, amit Máté
-  leírt, ti.<strong| >hogy Mária sz¶zként fogant, akkor ez az emberiség
-  történetének <with|font-shape|italic|egyetlen> ilyen eseménye. Biológiailag
-  ilyesmi nem létezhet, s az egyetlen magyarázat tényleg az, hogy Jézus apai
-  oldala isteni személy, de akkor az egész történetre mint csodálatos, egyedi
+  következik, az <with|font-shape|italic|lényegileg> más, több, mint egy
+  ember születése. Mert ha valóban szó szerint az történt, amit Máté leírt,
+  ti.<strong| >hogy Mária sz¶zként fogant, akkor ez az emberiség történetének
+  <with|font-shape|italic|egyetlen> ilyen eseménye. Biológiailag ilyesmi nem
+  létezhet, s az egyetlen magyarázat tényleg az, hogy Jézus apai oldala
+  isteni személy. De akkor az egész történetre mint csodálatos, egyedi
   eseményre kell tekintsünk!
 
   Akár törékeny \Pfiatal n®\Q-ként, akár törékeny \Psz¶z\Q-ként gondolunk
@@ -5647,9 +5647,9 @@
     <associate|auto-20|<tuple|jaccard12|23>>
     <associate|auto-21|<tuple|diagram|24>>
     <associate|auto-22|<tuple|statement|24>>
-    <associate|auto-23|<tuple|2.1.3|25>>
-    <associate|auto-24|<tuple|2.1.3|29>>
-    <associate|auto-25|<tuple|2.1.3|31>>
+    <associate|auto-23|<tuple|2.1.3|26>>
+    <associate|auto-24|<tuple|2.1.3|31>>
+    <associate|auto-25|<tuple|2.1.3|33>>
     <associate|auto-3|<tuple|1.1|8>>
     <associate|auto-4|<tuple|1.1|8>>
     <associate|auto-5|<tuple|1.2|9>>
@@ -5657,10 +5657,10 @@
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
-    <associate|bib-Bunning2022|<tuple|1|31>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|31>>
-    <associate|bib-PfisterGreuel2007|<tuple|3|31>>
-    <associate|bib-Strong1890|<tuple|4|31>>
+    <associate|bib-Bunning2022|<tuple|1|33>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|33>>
+    <associate|bib-PfisterGreuel2007|<tuple|3|33>>
+    <associate|bib-Strong1890|<tuple|4|33>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
     <associate|gorog-angol|<tuple|1.1|8>>
     <associate|greekcntr-Mt1:23|<tuple|2.1|22>>
