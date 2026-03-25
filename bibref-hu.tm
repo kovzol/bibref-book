@@ -6362,7 +6362,7 @@
   >\P\<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>\Q, \PÖvé\Q: ez egy
   visszautalás az ösvény tulajdonosára) különböznek, ezek is csupán amiatt,
   hogy a görög szöveg gördülékenyebb legyen. Máté tehát els®rangú munkát
-  végzett: a helyzethez ill®en a legpontosabban idézte az Ószövetségi
+  végzett: a helyzethez ill®en a legpontosabban idézte az ószövetségi
   szakaszt, ami valóban Ézsaiásnál található, nem máshol. Ma úgy mondanánk:
   hibátlan, precíz tudományos munka!
 
@@ -6372,6 +6372,8 @@
   és az Atya megjelenésével zárul, mintegy a teljesség harmóniájával, mert a
   mennyei hang is meger®síti: \PEz az én szeretett Fiam, akiben
   gyönyörködöm.\Q (3:17)
+
+  \;
 
   <\table-of-contents|toc>
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|El®szó>
