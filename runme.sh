@@ -1,6 +1,8 @@
 #!/bin/bash
 # This script runs TeXmacs in a Docker virtualization while showing the bibref book interactively.
 
+set -e
+
 echo "Checking prerequisites..."
 if command -v apt >/dev/null; then
   echo "This is an apt based system, good."

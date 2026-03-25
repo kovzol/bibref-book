@@ -19,8 +19,8 @@
 FROM debian:trixie
 RUN apt-get update && \
     apt-get -y install wget x11-apps xdg-utils firefox-esr \
-        libsword-common libsword-dev libsword-utils git cmake build-essential \
-        libreadline-dev libboost-dev libboost-filesystem-dev bison flex pkgconf unzip libgraphviz-dev \
+        libsword-common libsword-dev git cmake build-essential \
+        libreadline-dev libboost-dev libboost-filesystem-dev bison flex pkgconf unzip libgraphviz-dev libfribidi-dev \
         libltdl7 libqt6core6t64 libqt6gui6 libqt6network6 libqt6printsupport6 \
         libqt6svg6 libqt6widgets6 ghostscript locate fonts-stix fonts-texgyre locales \
         python3 python3-pip python3-venv
@@ -62,10 +62,10 @@ RUN mv /tmp/.sword .
 RUN python3 -m venv .venv
 RUN . .venv/bin/activate && pip install bibref-python
 
-# Install a Hungarian Bible edition (HunRUF):
-# RUN echo yes | SWORD_PATH=/home/user/.sword installmgr -ri CrossWire HunRUF # This does not work... because of missing write permissions?
+# Install a Hungarian Bible edition (HunRUF) and the Aleppo Codex (Aleppo):
 RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/HunRUF.zip
-RUN cd .sword && unzip ../HunRUF.zip # So we don't need installmgr (and the sword-utils package) at the moment.
+RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/Aleppo.zip
+RUN cd .sword && unzip ../HunRUF.zip && unzip ../Aleppo.zip
 
 # Create bibref session plugin for TeXmacs:
 RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/

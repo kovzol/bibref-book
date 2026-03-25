@@ -5843,7 +5843,7 @@
   és Heródes pedig Betlehem felé igyekeznek. A bölcsek azért, hogy leborulva
   imádják a most szület® királyt, Heródes pedig azért, hogy elpusztítsa.
 
-  <subsection|Egyiptom>
+  <subsection|Menekülés Egyiptomba>
 
   Igencsak szépít® kifejezés, hogy Heródes el akarta
   <with|font-shape|italic|pusztítani> a szület® Krisztust. Sunyi, alattomos
@@ -5931,7 +5931,7 @@
   keresztül, akit Isten, ha akarna, simán félreállíthatna, de nem, Ž belemegy
   a játékba, és hagyja, hogy a Gonosz kidühöngje magát.
 
-  <subsection|Ráma>
+  <subsection|Heródes vérengzése>
 
   Emberi ésszel felfoghatatlan, micsoda vérengzés történt Rámában, vagyis
   Betlehem környékén, amikor Heródes megöletett \Pminden kétesztend®s és
@@ -6168,7 +6168,79 @@
   fókuszál, ami az iménti <verbatim|102794-102894>.<strong| >pozíción lév®
   szöveggel nagyrészt átfed®.
 
-  \;
+  <subsection|A názáreti>
+
+  Nem biztos, hogy az Olvasó el van ragadtatva az eddigi összefüggéseket
+  látván. Ha egy bírósági tárgyalásnál kéne az eddigi idézeteket
+  bizonyítékként el®venni, igencsak bajban lennénk. Úgy t¶nik, Máté (vagy
+  írásának ihlet®je, a Szentlélek) inkább asszociációs játékot ¶z velünk,
+  mint tételesen bizonyítaná, hogy csakugyan minden el®re meg volt írva. Ami
+  most jön, az még rátesz egy lapáttal az eddigiekre, ugyanis a \Pnázáretinek
+  fogják ®t nevezni\Q (2:23) konklúziót az ad-hoc rejtvényfejtés briliáns
+  huszárvágásaként lehet inkább jellemezni, mintsem bizonyító erej¶,
+  cáfolhatatlan érvként.
+
+  \PNázáretinek fogják ®t nevezni.\Q Jézust, aki ott kezdi pályafutását,
+  miután Egyiptomból, félve ugyan, de visszatér családja Kánaánba. Itt Máté
+  nem fogalmaz olyan precízen, mint a korábbi Jeremiás-idézetnél. A helyzet
+  az, hogy a görög szöveget tanulmányozva nem is találnánk megfelel®
+  ószövetségi szakaszt, mert itt a héber nyelv játékosságát használja az
+  Írás. Egészen konkrétan az Ézs 11:1-re utal, habár a magyar kiadás a Zak
+  6:12-re is felhívja a figyelmet a lábjegyzetben:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Isaiah 11:1
+    <|unfolded-io>
+      Vessz®szál hajt ki Isai törzsökér®l, hajtás sarjad gyökereir®l.\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Zechariah 6:12
+    <|unfolded-io>
+      Ezt mondd neki: Így szól a Seregek Ura: Van egy férfi, akinek Sarjadék
+      a neve. Minden sarjadásnak indul a kezei alatt, ® felépíti majd az Úr
+      templomát.\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Isaiah 11:1
+    <|unfolded-io>
+      \<#5D4\>\<#5E8\>\<#5E4\>\<#5D9\> \<#5D5\>\<#5D9\>\<#5E9\>\<#5E8\>\<#5E9\>\<#5DE\>
+      \<#5E8\>\<#5E6\>\<#5E0\>\<#5D5\> \<#5D9\>\<#5E9\>\<#5D9\>
+      \<#5E2\>\<#5D6\>\<#5D2\>\<#5DE\> \<#5E8\>\<#5D8\>\<#5D7\>
+      \<#5D0\>\<#5E6\>\<#5D9\>\<#5D5\>
+    </unfolded-io>
+  </session>
+
+  A magyar fordításban a két szakasz közös eleme a
+  <with|font-shape|italic|sarj>, a <with|font-shape|italic|Sarjadék>. A
+  héberben (itt az Aleppo-kódex elektronikus változatát használjuk), ett®l
+  némileg eltér®en, csak az Ézsaiás-szakaszban megjelen® hajtás szó az,
+  \P\<#5E8\>\<#5E6\>\<#5E0\>\<#5D5\>\Q (w\<#259\>-nê-\<#1E63\>er, \Pés egy
+  hajtás\Q), ami hangzásában a Máté-vershez kapcsolódik. Miért is? Mert a
+  \Pnê-\<#1E63\>er\Q úgy cseng, mint a \Pnázáreti\Q szó eleje.
+
+  Mit mondjunk erre? Ez egy vicc? Nos, sokkal több annál. Isten, úgy t¶nik,
+  fenntartja magának a jogot, hogy a legmeglep®bb összefüggéseket hozza el®,
+  amire ember nem gondol, és még a legmerészebb álmaiban sem szerepel még
+  csak hasonló asszociáció sem. Pál, amikor Krisztus megfeszítésér®l beszél
+  az 1Kor 1:25-ben, bátorkodik Isten bolondságával el®hozakodni: \PMert az
+  Isten \Tbolondsága\S bölcsebb az emberek bölcsességénél, és az Isten
+  \Ter®tlensége\S er®sebb az emberek erejénél.\Q
+
+  Tehát nem tudunk mást tenni, veszünk egy nagy leveg®t és elismer®en
+  csettintünk: igen, erre nem gondoltunk volna! Názáret, ahol Sarjadék és
+  családja letelepszik, nagyon titkosan el®rejelzett hely. Isten megmondta
+  el®re, de feltárni senki sem tudta. Csak akkor és ott lett világos, amikor
+  Isten fellebbentette a fátylat az évszázadokig takargatott rejtvény
+  megoldásáról.
 
   <\table-of-contents|toc>
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|El®szó>
@@ -6205,21 +6277,25 @@
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-23>>
 
-    <with|par-left|1tab|2.1.4.<space|2spc>Egyiptom
+    <with|par-left|1tab|2.1.4.<space|2spc>Menekülés Egyiptomba
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-24>>
 
-    <with|par-left|1tab|2.1.5.<space|2spc>Ráma
+    <with|par-left|1tab|2.1.5.<space|2spc>Heródes vérengzése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-25>>
 
+    <with|par-left|1tab|2.1.6.<space|2spc>A názáreti
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-31>>
+
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-26><vspace|0.5fn>
+    <pageref|auto-32><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-27><vspace|0.5fn>
+    <pageref|auto-33><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -6229,13 +6305,23 @@
 
     <index+1|findN|<pageref|auto-13>>
 
+    <index+1|help|<pageref|auto-26>>
+
     <index+1|jaccard12|<pageref|auto-20>>
+
+    <index+1|latintextN|<pageref|auto-29>>
+
+    <index+1|lengthN|<pageref|auto-30>>
 
     <index+1|lookup|<pageref|auto-8>, <pageref|auto-11>>
 
     <index+1|lookupN|<pageref|auto-15>>
 
     <index+1|maxresults|<pageref|auto-14>>
+
+    <index+1|nearest12|<pageref|auto-27>>
+
+    <index+1|rawN|<pageref|auto-28>>
 
     <index+1|statement|<pageref|auto-22>>
 
@@ -6297,24 +6383,25 @@
     <associate|auto-23|<tuple|2.1.3|26>>
     <associate|auto-24|<tuple|2.1.4|29>>
     <associate|auto-25|<tuple|2.1.5|30>>
-    <associate|auto-26|<tuple|help|33>>
-    <associate|auto-27|<tuple|nearest12|35>>
-    <associate|auto-28|<tuple|rawN|?>>
-    <associate|auto-29|<tuple|latintextN|?>>
+    <associate|auto-26|<tuple|help|32>>
+    <associate|auto-27|<tuple|nearest12|32>>
+    <associate|auto-28|<tuple|rawN|32>>
+    <associate|auto-29|<tuple|latintextN|32>>
     <associate|auto-3|<tuple|1.1|8>>
-    <associate|auto-30|<tuple|lengthN|?>>
-    <associate|auto-31|<tuple|lengthN|?>>
-    <associate|auto-32|<tuple|lengthN|?>>
+    <associate|auto-30|<tuple|lengthN|32>>
+    <associate|auto-31|<tuple|2.1.6|33>>
+    <associate|auto-32|<tuple|2.1.6|37>>
+    <associate|auto-33|<tuple|2.1.6|39>>
     <associate|auto-4|<tuple|1.1|8>>
     <associate|auto-5|<tuple|1.2|9>>
     <associate|auto-6|<tuple|1.1|10>>
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
-    <associate|bib-Bunning2022|<tuple|1|35>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|35>>
-    <associate|bib-PfisterGreuel2007|<tuple|3|35>>
-    <associate|bib-Strong1890|<tuple|4|35>>
+    <associate|bib-Bunning2022|<tuple|1|39>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|39>>
+    <associate|bib-PfisterGreuel2007|<tuple|3|39>>
+    <associate|bib-Strong1890|<tuple|4|39>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
     <associate|gorog-angol|<tuple|1.1|8>>
     <associate|greekcntr-Mt1:23|<tuple|2.1|22>>
@@ -6372,6 +6459,16 @@
       <tuple|<tuple|diagram>|<pageref|auto-21>>
 
       <tuple|<tuple|statement>|<pageref|auto-22>>
+
+      <tuple|<tuple|help>|<pageref|auto-26>>
+
+      <tuple|<tuple|nearest12>|<pageref|auto-27>>
+
+      <tuple|<tuple|rawN>|<pageref|auto-28>>
+
+      <tuple|<tuple|latintextN>|<pageref|auto-29>>
+
+      <tuple|<tuple|lengthN>|<pageref|auto-30>>
     </associate>
     <\associate|table>
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
@@ -6414,21 +6511,25 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-23>>
 
-      <with|par-left|<quote|1tab>|2.1.4.<space|2spc>Egyiptom
+      <with|par-left|<quote|1tab>|2.1.4.<space|2spc>Menekülés Egyiptomba
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-24>>
 
-      <with|par-left|<quote|1tab>|2.1.5.<space|2spc>Ráma
+      <with|par-left|<quote|1tab>|2.1.5.<space|2spc>Heródes vérengzése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-25>>
 
+      <with|par-left|<quote|1tab>|2.1.6.<space|2spc>A názáreti
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-31>>
+
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-26><vspace|0.5fn>
+      <pageref|auto-32><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-27><vspace|0.5fn>
+      <pageref|auto-33><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
