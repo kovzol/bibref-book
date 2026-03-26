@@ -17,8 +17,8 @@
 
 # Install prerequisites:
 FROM debian:trixie
-RUN apt-get update && \
-    apt-get -y install wget x11-apps xdg-utils firefox-esr \
+RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
+    DEBIAN_FRONTEND=noninteractive apt-get -y install wget x11-apps xdg-utils firefox-esr \
         libsword-common libsword-dev git cmake build-essential \
         libreadline-dev libboost-dev libboost-filesystem-dev bison flex pkgconf unzip libgraphviz-dev libfribidi-dev \
         libltdl7 libqt6core6t64 libqt6gui6 libqt6network6 libqt6printsupport6 \
