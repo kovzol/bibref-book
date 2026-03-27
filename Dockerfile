@@ -71,6 +71,10 @@ RUN cd .sword && unzip ../HunRUF.zip && unzip ../Aleppo.zip
 RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
 COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
 
+# Update Hungarian translation:
+RUN mkdir -p /home/user/.TeXmacs/langs/natural/dic
+COPY english-hungarian.scm /home/user/.TeXmacs/langs/natural/dic/english-hungarian.scm
+
 # Copy book and template:
 COPY bibref-hu.tm /home/user/bibref-hu.tm
 COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
