@@ -4912,10 +4912,9 @@
 
         for name in names:
 
-        \ \ \ \ text_n(1, name) # Ez ugyanaz, mint az iménti text1 parancs.
+        \ \ \ \ text1(name)
 
-        \ \ \ \ occurrences = find_n(1, "LXX") # Ez pedig ugyanaz, mint az
-        iménti find1 parancs.
+        \ \ \ \ occurrences = find1("LXX")
 
         \ \ \ \ print(f"{name}:{len(occurrences)} ", end='')
       <|unfolded-io>
@@ -6998,7 +6997,7 @@
   program szerint), mert az 5Móz 5,17-18-ban megismétl®dnek.
 
   A következ® két \Pmegmondatott\Q bevezetés¶ igeverset nehezen találjuk meg
-  az Ószövetségben.
+  az Ószövetségben. Az els® itt található:
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -7108,6 +7107,95 @@
   <\exercise>
     Nézzünk utána, hogy a többi mózesi könyvben van-e hasonló rendelkezés!
   </exercise>
+
+  <\solution*>
+    A következ® Python-kód mind a három hátralév® mózesi könyvben rákeres,
+    hogy mely rész-szövegek a hasonlóak leginkább a Jézus által említett
+    szöveghez:
+
+    <\session|python|default>
+      <\input>
+        \<gtr\>\<gtr\>\<gtr\>\ 
+      <|input>
+        from bibref.tools import *
+      </input>
+
+      <\unfolded-io>
+        \<gtr\>\<gtr\>\<gtr\>\ 
+      <|unfolded-io>
+        text2("\<Omicron\>\<varsigma\> \<alpha\>\<nu\>
+        \<alpha\>\<pi\>\<omicron\>\<lambda\>\<upsilon\>\<sigma\>\<eta\>
+        \<tau\>\<eta\>\<nu\> \<gamma\>\<upsilon\>\<nu\>\<alpha\>\<iota\>\<kappa\>\<alpha\>
+        \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>,
+        \<delta\>\<omicron\>\<tau\>\<omega\>
+        \<alpha\>\<upsilon\>\<tau\>\<eta\>
+        \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<alpha\>\<sigma\>\<iota\>\<omicron\>\<nu\>")
+
+        for book in ["Leviticus", "Numbers", "Deuteronomy"]:
+
+        \ \ \ \ raw1("LXX",book,1,-1)
+
+        \ \ \ \ n=nearest12() # n[0]=Jaccard-távolság, n[1]=találat-szöveg
+
+        \ \ \ \ latintext1(n[1])
+
+        \ \ \ \ print(n,find1("LXX"))
+      <|unfolded-io>
+        (39.5349, 'oyprosferontosaythnaytvestaikaipasauysiaanap')
+        [['Leviticus 7:9+90 7:10-69', 15859, 15902]]
+
+        (41.8605, 'uysiasthrionkaimetataytapotieithngynaikatoyd') [['Numbers
+        5:26+66 5:26-2', 21447, 21490]]
+
+        (44.186, 'taaytonkaiapesthapoueoysvthrosaytoyparvjynan')
+        [['Deuteronomy 32:15+104 32:16-45', 101034, 101077], ['Odes 2:15+104
+        2:16-45', 2884, 2927]]
+
+        <timing|146.386 sec>
+      </unfolded-io>
+    </session>
+
+    A százalékos távolságból az sejthet®, hogy ezek a találatok nem lesznek
+    relevánsak. Mindezt akár a Python-rendszeren kívül is ellen®rizhetjük, a
+    magyar fordításokat kézzel fellapozva:
+
+    <\session|bibref|default>
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Leviticus 7:9
+      <|unfolded-io>
+        Minden ételáldozat, amelyet kemencében sütnek, és mindaz, ami
+        edényben vagy süt®lapon készül, azé a papé legyen, aki bemutatta.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Numbers 5:26
+      <|unfolded-io>
+        Vegyen a pap egy marokkal az áldozatból az asszony emlékeztet®
+        áldozatául, és füstölögtesse el az oltáron. Azután itassa meg az
+        asszonnyal a vizet.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Deuteronomy 32:15
+      <|unfolded-io>
+        Meghízott Jesúrún, kirúgott a hámból \U elhíztál, kövér vagy, hájat
+        eresztettél! \U, és elvetette Istent, alkotóját, elhagyta szabadító
+        k®szikláját. \ 
+      </unfolded-io>
+    </session>
+
+    Ezek tehát fals pozitív találatok, amire a magas százalékos távolság már
+    utalt. Az Ódák könyvében található szöveget a <verbatim|HunRUF>-ban nem
+    találjuk (mivel az Ódákat ez a kiadás nem tartalmazza), de ez bet¶
+    szerint azonos lenne az 5Móz 32:15-tel, mivel ez annak a tematikusan
+    kigy¶jtött, bet¶ szerinti másolata.
+  </solution*>
 
   Amit minden bizonnyal megtalálunk (ha szorgalmasan végiglapozzuk a mózesi
   könyveket), az az 5Móz 24 elején olvasható parancs:
