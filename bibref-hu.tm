@@ -7463,11 +7463,11 @@
   <with|font-shape|italic|más>. A mesél® maga is ezekben az id®kben
   csatlakozik a Mesterhez, és ennek történetét eleveníti fel a 9.<strong|
   >fejezetben (9:9-13). Máté, a vámszed®, a Mester utasítására egy
-  szempillantás alatt otthagyja jövedelmez®, ám közutálatnak örvend®
-  praxisát, és követi Jézust. A valószín¶leg azt követ® közös étkezésnél,
-  talán egy másik vámszed®nél, talán éppen Máténál, a bámészkodó farizeusok
-  szóvá teszik, hogy mi köze Jézusnak a b¶nösökhez, így ehhez a megátalkodott
-  vámszed®höz is.
+  szempillantás alatt otthagyja jövedelmez® praxisát, és követi Jézust. A
+  valószín¶leg ezt a döntést követ® közös étkezésnél, talán egy másik
+  vámszed®nél, talán éppen magánál Máténál (vö.<strong| >Mk 2:15), a
+  bámészkodó farizeusok szóvá teszik, hogy mi köze Jézusnak a b¶nösökhez, így
+  ehhez a megátalkodott vámszed®höz is.
 
   Jézus így felel:
 
@@ -7494,8 +7494,8 @@
 
   Itt tehát Jézus újra el®veszi az Írást, s habár nem egészen explicit módon
   utal rá, az utalás világos: \Pmit jelent ez\Q (\P\<tau\>\<iota\>
-  \<varepsilon\>\<sigma\>\<tau\>\<iota\>\<nu\>\Q). Abból is világos, hogy itt
-  egy idézet következik, hogy újra bet¶ szerint olvassuk Hóseás szövegét:
+  \<varepsilon\>\<sigma\>\<tau\>\<iota\>\<nu\>\Q). Abból is nyilvánvaló, hogy
+  itt egy idézet következik, hogy újra bet¶ szerint olvassuk Hóseás szövegét:
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -7540,17 +7540,19 @@
   </session>
 
   Miért pont erre a szakaszra utal Jézus? A Hóseás 6:4-ben a nép h¶ségét
-  annyira múlékonynak mutatja be Isten, mint reggeli felh®t és a korán t¶n®
+  annyira múlékonynak mutatja be Isten, mint a reggeli felh®t és a korán t¶n®
   harmatot. Majd a 7.<strong| >verst®l újra a h¶tlenségr®l és a gonoszságról
-  beszél, konkrét b¶nökr®l: gyilkosságokról, paráznaságról. Ezekre a szavakra
-  visszaemlékezve Jézus kritikusainak illett volna magukba szállniuk, hogy ®k
-  talán semmivel sem jobbak azoknál a b¶nösöknél, akikkel Jézus együtt evett
-  \U már azért is, mert ®k b¶nbánattal igyekeztek jó útra térni.
+  beszél, konkrét b¶nökr®l: gyilkosságokról, paráznaságról, egyértelm¶en
+  rámutatva a vallási vezet®kre is. Ezekre a szavakra visszaemlékezve Jézus
+  kritikusainak illett volna magukba szállniuk, hogy ®k talán semmivel sem
+  jobbak azoknál a b¶nösöknél, akikkel Jézus együtt evett \U már azért is,
+  mert ®k legalább b¶nbánattal igyekeztek jó útra térni.
 
   A szokások formális betartása nem vezet igazi örömre, békességre, és Isten
-  sem tartja elégségesnek. Ennél több kell: Isten ismerete és az ennek
-  alárendelt életvitel. Ez abban teljesedik ki, hogy Isten Fiát megismerjük,
-  ezt pedig a leginkább az evangéliumok híradása alapján tehetjük meg.
+  sem tartja elégségesnek. Ennél több kell: (Hóseást újraolvasva)
+  <with|font-shape|italic|Isten ismerete> és az ennek alárendelt életvitel.
+  Ez abban teljesedik ki, hogy Isten Fiát megismerjük, ezt pedig a leginkább
+  az evangéliumok híradása alapján tehetjük meg.
 
   \;
 
