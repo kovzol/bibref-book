@@ -8091,6 +8091,61 @@
   késleltetés szándékos: \Pmegparancsolta nekik, hogy ne fedjék fel, kicsoda
   ®\Q (12:16).
 
+  <\exercise>
+    Keressük meg Ézsaiás könyvében a Máté 12:18-21 idézetét algoritmikusan!
+  </exercise>
+
+  <\solution*>
+    A következ® bibref parancssorokal tehet® ez meg:
+
+    <\session|bibref|default>
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup2 StatResGNT Matthew 12:18 12:21
+      <|unfolded-io>
+        Stored internally as idoyopaismoyonhretisaoagaphtosmoyoneydokhsenhcyxhm-oyuhsvtopneymamoyepaytonkaikrisintoiseunesinapagge-leioykeriseioydekraygaseioydeakoyseitisentaisplate-iaisthnfvnhnaytoykalamonsyntetrimmenonoykateajeika-ilinontyfomenonoysbeseievsanekbalheisnikosthnkrisi-nkaitvonomatiaytoyeunhelpioysin.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        raw1 LXX Isaiah 1 -1
+      <|unfolded-io>
+        Stored.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        nearest12
+      <|unfolded-io>
+        Nearest Jaccard distance is 0.249110 with substring
+        atoaytonhcyxhmoyedvkatopneymamoyepaytonkrisintoise-unesinejoiseioykekrajetaioydeanhseioydeakoysuhseta-iejvhfvnhaytoykalamonteulasmenonoysyntriceikailino-nkapnizomenonoysbeseiallaeisalhueianejoiseikrisina-nalamceikaioyuraysuhsetaievsanuhepithsghskrisinkai-epitvonomatiaytoyeunhelpioysinoy.
+
+        <timing|73.626 sec>
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        latintext1 atoaytonhcyxhmoyedvkatopneymamoyepaytonkrisintoise-unesinejoiseioykekrajetaioydeanhseioydeakoysuhseta-iejvhfvnhaytoykalamonteulasmenonoysyntriceikailino-nkapnizomenonoysbeseiallaeisalhueianejoiseikrisina-nalamceikaioyuraysuhsetaievsanuhepithsghskrisinkai-epitvonomatiaytoyeunhelpioysinoy
+      <|unfolded-io>
+        Stored.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        find1 LXX
+      <|unfolded-io>
+        Found in Isaiah 42:1+56 42:5-131 (book position 83388-83669)
+
+        1 occurrences.
+      </unfolded-io>
+    </session>
+  </solution*>
+
   <\table-of-contents|toc>
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|El®szó>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
@@ -8170,13 +8225,17 @@
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-39>>
 
+    <with|par-left|1tab|2.1.15.<space|2spc>Nem lármáz
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-40>>
+
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-40><vspace|0.5fn>
+    <pageref|auto-41><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-41><vspace|0.5fn>
+    <pageref|auto-42><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -8281,18 +8340,18 @@
     <associate|auto-39|<tuple|2.1.14|48>>
     <associate|auto-4|<tuple|1.1|8>>
     <associate|auto-40|<tuple|2.1.15|49>>
-    <associate|auto-41|<tuple|2.1.15|53>>
-    <associate|auto-42|<tuple|2.1.15|55>>
+    <associate|auto-41|<tuple|2.5|55>>
+    <associate|auto-42|<tuple|2.5|57>>
     <associate|auto-5|<tuple|1.2|9>>
     <associate|auto-6|<tuple|1.1|10>>
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
-    <associate|bib-Bunning2022|<tuple|1|55>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|55>>
-    <associate|bib-PfisterGreuel2007|<tuple|3|55>>
-    <associate|bib-Strong1890|<tuple|4|55>>
-    <associate|bj-bortonben|<tuple|2.1.13|?>>
+    <associate|bib-Bunning2022|<tuple|1|57>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|57>>
+    <associate|bib-PfisterGreuel2007|<tuple|3|57>>
+    <associate|bib-Strong1890|<tuple|4|57>>
+    <associate|bj-bortonben|<tuple|2.1.13|46>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
     <associate|gorog-angol|<tuple|1.1|8>>
     <associate|greekcntr-Mt1:23|<tuple|2.1|22>>
