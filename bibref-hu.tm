@@ -8447,6 +8447,72 @@
   pontosan beteljesedett. Nemcsak Jónás által, hanem Jézus saját
   interpretációja alapján <with|font-shape|italic|is>.
 
+  <subsection|Nagyobb Jónásnál és Salamonnál>
+
+  A két következ® vers, a 12:41 és a 12:42 nem utalnak közvetlen ószövetségi
+  szakaszra, de felt¶nik bennük Ninive városa és Dél királyn®je, mint akikben
+  félelmet keltett Jónás isteni üzenete illetve tiszteletet ébresztett
+  Salamon gazdagsága. E két konkrét példából arra következtethetünk, hogy
+  mind Ninive városa, mind Jónás, mind Dél királyn®je, mind Salamon a
+  történelemben valóságosan léteztek.
+
+  Így Jézus közvetve ugyan, de hitelt érdeml®nek tekinti az egész Jónás
+  könyvét (vagyis az egész történetet, nemcsak azt, hogy Jónás a hal
+  gyomrában volt), továbbá az 1Kir 10:1-13-at is (egyúttal a 2Krón 9:1-12-t).
+
+  <\exercise>
+    Megegyezik-e az 1Kir 10:1-13 és a 2Krón 9:1-12 a görög eredetiben?
+  </exercise>
+
+  <\solution*>
+    Hasonlítsuk ®ket össze:
+
+    <\session|bibref|default>
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup1 LXX I_Kings 10:1 10:13
+      <|unfolded-io>
+        Stored internally as kaibasilissasabahkoysentoonomasalvmvnkaitoonomakyr-ioykaihluenpeirasaiaytonenainigmasinkaihlueneisier-oysalhmendynameibareiasfodrakaikamhloiairoysaihdys-matakaixrysonpolynsfodrakailiuontimionkaieishluenp-rossalvmvnkaielalhsenaytvpantaosahnenthkardiaayths-kaiaphggeilenaythsalvmvnpantastoyslogoysaythsoykhn-logosparevramenosparatoybasilevsonoykaphggeilenayt-hkaieidenbasilissasabapasanfronhsinsalvmvnkaitonoi-kononvkodomhsenkaitabrvmatasalvmvnkaithnkauedranpa-idvnaytoykaithnstasinleitoyrgvnaytoykaitonimatismo-naytoykaitoysoinoxooysaytoykaithnolokaytvsinaytoyh-naneferenenoikvkyrioykaiejeaythsegenetokaieipenpro-stonbasileasalvmvnalhuinosologosonhkoysaenthghmoyp-eritoylogoysoykaiperithsfronhsevssoykaioykepisteys-atoislaloysinmoievsotoyparegenomhnkaievrakasinoiof-ualmoimoykaiidoyoykestintohmisykauvsaphggeilanmoip-rosteueikasagauaprosaytaepipasanthnakohnhnhkoysaen-thghmoymakariaiaigynaikessoymakarioioipaidessoyoyt-oioiparesthkotesenvpionsoydioloyoiakoyontespasanth-nfronhsinsoygenoitokyriosoueossoyeyloghmenososhuel-hsenensoidoynaiseepiuronoyisrahldiatoagapankyriont-onisrahlsthsaieistonaivnakaieuetosebasileaepaytoys-toypoieinkrimaendikaiosynhkaienkrimasinaytvnkaiedv-kentvsalvmvnekatoneikositalantaxrysioykaihdysmatap-ollasfodrakailiuontimionoykelhlyueikatatahdysmatae-keinaetieisplhuosaedvkenbasilissasabatvbasileisalv-mvnkaihnaysxiramhairoysatoxrysioneksoyfirhnegkenjy-laapelekhtapollasfodrakailiuontimionkaiepoihsenoba-sileystajylataapelekhtayposthrigmatatoyoikoykyrioy-kaitoyoikoytoybasilevskainablaskaikinyrastoisvdois-oykelhlyueitoiaytajylaapelekhtaepithsghsoydevfuhsa-npoyevsthshmerastaythskaiobasileyssalvmvnedvkenthb-asilisshsabapantaosahuelhsenosahthsatoektospantvnv-ndedvkeiaythdiaxeirostoybasilevssalvmvnkaiapestraf-hkaihlueneisthnghnaythsaythkaipantesoipaidesayths.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup2 LXX II_Chronicles 9:1 9:13
+      <|unfolded-io>
+        Stored internally as kaibasilissasabahkoysentoonomasalvmvnkaihluentoype-irasaisalvmvnenainigmasineisieroysalhmendynameibar-eiasfodrakaikamhloiairoysaiarvmatakaixrysioneisplh-uoskailiuontimionkaihluenprossalvmvnkaielalhsenpro-saytonpantaosaenthcyxhaythskaianhggeilenaythsalvmv-npantastoyslogoysaythskaioyparhluenlogosaposalvmvn-onoykaphggeilenaythkaieidenbasilissasabathnsofians-alvmvnkaitonoikononvkodomhsenkaitabrvmatatvntrapez-vnkaikauedranpaidvnaytoykaistasinleitoyrgvnaytoyka-iimatismonaytvnkaioinoxooysaytoykaistolismonaytvnk-aitaolokaytvmataaaneferenenoikvkyrioykaiejeaythseg-enetokaieipenprostonbasileaalhuinosologosonhkoysae-nthghmoyperitvnlogvnsoykaiperithssofiassoykaioykep-isteysatoislogoisevsoyhluonkaieidonoiofualmoimoyka-iidoyoykaphggelhmoihmisytoyplhuoysthssofiassoypros-euhkasepithnakohnhnhkoysamakarioioiandresmakarioio-ipaidessoyoytoioiparesthkotessoidiapantoskaiakoyoy-sinsofiansoyestvkyriosoueossoyhyloghmenososhuelhse-nsoitoydoynaiseepiurononaytoyeisbasileatvkyrivuevs-oyentvagaphsaikyriontonueonsoytonisrahltoysthsaiay-toneisaivnakaiedvkenseepaytoyseisbasileatoypoihsai-krimakaidikaiosynhnkaiedvkentvbasileiekatoneikosit-alantaxrysioykaiarvmataeisplhuospolykailiuontimion-kaioykhnkatataarvmataekeinaaedvkenbasilissasabatvb-asileisalvmvnkaioipaidessalvmvnkaioipaidesxiramefe-ronxrysiontvsalvmvneksoyfirkaijylapeykinakailiuont-imionkaiepoihsenobasileystajylatapeykinaanabaseist-voikvkyrioykaitvoikvtoybasilevskaikiuaraskainablas-toisvdoiskaioykvfuhsantoiaytaemprosuenenghioydakai-obasileyssalvmvnedvkenthbasilisshsabapantatauelhma-taaythsahthsenektospantvnvnhnegkentvbasileisalvmvn-kaiapestreceneisthnghnaythskaihnostaumostoyxrysioy-toyenexuentostvsalvmvneneniaytveniejakosiaejhkonta-ejtalantaxrysioy.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        jaccard12
+      <|unfolded-io>
+        Jaccard distance is 0.155606.
+      </unfolded-io>
+    </session>
+
+    Vagyis nem teljes az egyezés, de a két szöveg elég közel áll egymáshoz.
+  </solution*>
+
+  Jelen könyv egyik fontos kérdésfeltevése, hogy
+  <with|font-shape|italic|mennyire tekinthetjük megbízhatónak az
+  Újszövetséget>. Kutatásunknak csupán az elején járunk, de annyi
+  mindenesetre már most látszik, hogy bizonyos ószövetségi idézetek nagyon
+  pontosak. A következ® szakaszban látunk egy extrém példát is erre. Azonban
+  egy másik kérdés is el®jön: <with|font-shape|italic|Mely ószövetségi
+  könyveknek ad hitelt az Újszövetség?> Az eddigiek alapján jól látható, hogy
+  számos könyv említésre kerül: Ézsaiás (1:23, 3:3, 4:15, 8:17, 12:18),
+  Hóseás (2:15, 9:13, 12:7), Jeremiás (2:18), Mikeás (2:6), Sámuel
+  II.<strong| >könyve (2:6), Mózes V.<strong| >könyve (4:4, 4:7, 4:10), a
+  Zsoltárok (4:6), Mózes II.<strong| >könyve (5:21, 5:27, 5:38, 11:10), Mózes
+  III.<strong| >könyve (5:43), Jónás (12:40), valamint utalás szintjén két
+  történeti könyv. Ez máris legalább 10 könyv, és még félúton sem vagyunk
+  Máté evangéliumában.
+
+  \ 
+
   \;
 
   <\table-of-contents|toc>
@@ -8536,13 +8602,17 @@
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-41>>
 
+    <with|par-left|1tab|2.1.17.<space|2spc>Nagyobb Jónásnál és Salamonnál
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-42>>
+
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-42><vspace|0.5fn>
+    <pageref|auto-43><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-43><vspace|0.5fn>
+    <pageref|auto-44><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -8649,8 +8719,9 @@
     <associate|auto-4|<tuple|1.1|8>>
     <associate|auto-40|<tuple|2.1.15|49>>
     <associate|auto-41|<tuple|2.1.16|53>>
-    <associate|auto-42|<tuple|2.1.16|59>>
-    <associate|auto-43|<tuple|2.1.16|61>>
+    <associate|auto-42|<tuple|2.1.17|55>>
+    <associate|auto-43|<tuple|2.7|59>>
+    <associate|auto-44|<tuple|2.7|61>>
     <associate|auto-5|<tuple|1.2|9>>
     <associate|auto-6|<tuple|1.1|10>>
     <associate|auto-7|<tuple|1.2|10>>
@@ -8824,13 +8895,17 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-41>>
 
+      <with|par-left|<quote|1tab>|2.1.17.<space|2spc>Nagyobb Jónásnál és
+      Salamonnál <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-42>>
+
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-42><vspace|0.5fn>
+      <pageref|auto-43><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-43><vspace|0.5fn>
+      <pageref|auto-44><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
