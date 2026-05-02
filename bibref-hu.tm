@@ -8149,7 +8149,7 @@
 
   <\exercise>
     Írjunk egy bibref <verbatim|statement>-parancsot, ami ömlesztve adja a
-    két szakasz közötti összefüggést!
+    két szakasz közötti összefüggést!<index|statement>
   </exercise>
 
   <\solution*>
@@ -9423,7 +9423,7 @@
 
   Tartalmilag mindenképpen összeillik az ó- és újszövetségi szakasz. Bár a
   fenti diagram 45 %-os eltérése némileg mást mutat, ha kisebb blokkokra
-  bontjuk a szövegeket, jobban látszik az egyezés:
+  bontjuk a szövegeket, jobban látszik az egyezés:<index|statement>
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -10453,6 +10453,586 @@
   De aki ezt a történelmi helyzetet sokszori nekifutásra sem ismeri fel,
   annak a személyes helyzete menthetetlen.
 
+  <subsection|A sarokk®>
+
+  A 118.<strong| >zsoltárban más is van még, ami többször szóba jön. Nagyon
+  közel a 26.<strong| >vershez, amir®l a fentiekben szó volt; egészen
+  pontosan a 22-23.<strong| >versben olvassuk:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Psalms 118:22
+    <|unfolded-io>
+      Az a k®, amelyet az épít®k megvetettek, az lett a sarokk®.\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Psalms 118:23
+    <|unfolded-io>
+      Az Úrtól lett ez, csodálatos a mi szemünkben.
+    </unfolded-io>
+  </session>
+
+  Jézus hamarosan szóba hozza ezt is, mégpedig a sz®l®munkások példázatának
+  zárásaként. Ž mint a sz®l®birtok örököse megbecsülést érdemelne, de az
+  irigy sz®l®munkások inkább megölik. Jézus félreérthetetlenül fogalmaz: a
+  zsidóktól elvétetik az Isten országa, és egy másik népnek adatik \U err®l
+  korábban már megfogalmaztuk, hogy a Krisztust követ® keresztényeké lesz,
+  legalábbis a Jézust közvetlenül követ® évszázadokban.
+
+  A sarokk® képe azonban még határozottabb kijelentés: \Paki erre a k®re
+  esik, összezúzza magát, akire pedig ez a k® ráesik, azt szétmorzsolja\Q
+  (21:44). Ez arra utal, hogy esélytelen bármilyen harc, ellenállás Isten
+  Fiával szemben. Jézus itt még nincs abban a helyzetben, hogy ezt fizikailag
+  is aprópénzre váltsa (habár technikailag megtehetné, l.<strong| >Mt 12:19),
+  de ami késik, nem múlik.
+
+  Akárcsak a 26.<strong| >vers, ez a szakasz is része a szokásos zsidó
+  liturgiának. Így elkerülhetetlen, hogy egy vallását gyakorló zsidó ne
+  szembesüljön ezzel a gondolattal. Íme a Mt 21:42-höz tartozó diagram:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      Statement Matthew-21,42+47 connects
+
+      \ StatResGNT Matthew 21:42+47 21:42 (62608-62721, length 114) with
+
+      \ LXX Psalms 117:22 117:23 (138495-138608, length 114) based on
+
+      \ \ introduction 21:42 21:42-114 (62561-62607, length 47) a-z form
+      legeiaytoisoihsoysoydepoteanegnvteentaisgrafais that
+
+      \ \ \ declares a quotation with '\<alpha\>\<nu\>\<varepsilon\>\<gamma\>\<nu\>\<omega\>\<tau\>\<varepsilon\>'
+      also
+
+      \ \ \ identifies the source with '\<varepsilon\>\<nu\>
+      \<tau\>\<alpha\>\<iota\>\<varsigma\>
+      \<gamma\>\<rho\>\<alpha\>\<varphi\>\<alpha\>\<iota\>\<varsigma\>'
+      moreover
+
+      \ \ fragment 21:42+47 21:42 (62608-62721, length 114) a-z form
+      liuononapedokimasanoioikodomoyntesoytosegenhuheiskefalhngvnias-parakyrioyegenetoaythkaiestinuaymasthenofualmoishmvn
+
+      \ \ \ matches LXX Psalms 117:22 117:23 (138495-138608, length 114) a-z
+      form liuononapedokimasanoioikodomoyntesoytosegenhuheiskefalhngvnias-parakyrioyegenetoaythkaiestinuaymasthenofualmoishmvn
+
+      \ \ \ \ unique in Old Testament
+
+      \ \ \ \ verbatim
+
+      \ \ providing an overall cover of 100.00%.
+    <|unfolded-io>
+      <image|<tuple|<#252150532D41646F62652D332E3020455053462D332E300A252543726561746F723A20677261706876697A2076657273696F6E20322E34332E30202830290A25255469746C653A202531350A252550616765733A20310A2525426F756E64696E67426F783A20333620333620323830203137300A2525456E64436F6D6D656E74730A736176650A2525426567696E50726F6C6F670A2F446F7444696374203230302064696374206465660A446F744469637420626567696E0A0A2F73657475704C6174696E31207B0A6D61726B0A2F456E636F64696E67566563746F7220323536206172726179206465660A20456E636F64696E67566563746F7220300A0A49534F4C6174696E31456E636F64696E6720302032353520676574696E74657276616C20707574696E74657276616C0A456E636F64696E67566563746F72203435202F68797068656E207075740A0A25205365742075702049534F204C6174696E20312063686172616374657220656E636F64696E670A2F737461726E657449534F207B0A2020202020202020647570206475702066696E64666F6E7420647570206C656E677468206469637420626567696E0A20202020202020207B203120696E646578202F464944206E65207B20646566207D7B20706F7020706F70207D206966656C73650A20202020202020207D20666F72616C6C0A20202020202020202F456E636F64696E6720456E636F64696E67566563746F72206465660A202020202020202063757272656E746469637420656E6420646566696E65666F6E740A7D206465660A2F54696D65732D526F6D616E20737461726E657449534F206465660A2F54696D65732D4974616C696320737461726E657449534F206465660A2F54696D65732D426F6C6420737461726E657449534F206465660A2F54696D65732D426F6C644974616C696320737461726E657449534F206465660A2F48656C76657469636120737461726E657449534F206465660A2F48656C7665746963612D4F626C6971756520737461726E657449534F206465660A2F48656C7665746963612D426F6C6420737461726E657449534F206465660A2F48656C7665746963612D426F6C644F626C6971756520737461726E657449534F206465660A2F436F757269657220737461726E657449534F206465660A2F436F75726965722D4F626C6971756520737461726E657449534F206465660A2F436F75726965722D426F6C6420737461726E657449534F206465660A2F436F75726965722D426F6C644F626C6971756520737461726E657449534F206465660A636C656172746F6D61726B0A7D2062696E64206465660A0A2525426567696E5265736F757263653A2070726F6373657420677261706876697A203020300A2F636F6F72642D666F6E742D66616D696C79202F54696D65732D526F6D616E206465660A2F64656661756C742D666F6E742D66616D696C79202F54696D65732D526F6D616E206465660A2F636F6F7264666F6E7420636F6F72642D666F6E742D66616D696C792066696E64666F6E742038207363616C65666F6E74206465660A0A2F496E765363616C65466163746F7220312E30206465660A2F7365745F7363616C65207B0A202020202020206475702031206578636820646976202F496E765363616C65466163746F722065786368206465660A202020202020207363616C650A7D2062696E64206465660A0A25207374796C65730A2F736F6C6964207B205B5D20302073657464617368207D2062696E64206465660A2F646173686564207B205B3920496E765363616C65466163746F72206D756C20647570205D20302073657464617368207D2062696E64206465660A2F646F74746564207B205B3120496E765363616C65466163746F72206D756C203620496E765363616C65466163746F72206D756C5D20302073657464617368207D2062696E64206465660A2F696E766973207B2F66696C6C207B6E6577706174687D20646566202F7374726F6B65207B6E6577706174687D20646566202F73686F77207B706F70206E6577706174687D206465667D2062696E64206465660A2F626F6C64207B2032207365746C696E657769647468207D2062696E64206465660A2F66696C6C6564207B207D2062696E64206465660A2F756E66696C6C6564207B207D2062696E64206465660A2F726F756E646564207B207D2062696E64206465660A2F646961676F6E616C73207B207D2062696E64206465660A2F74617065726564207B207D2062696E64206465660A0A2520686F6F6B7320666F722073657474696E6720636F6C6F72200A2F6E6F6465636F6C6F72207B20736574687362636F6C6F72207D2062696E64206465660A2F65646765636F6C6F72207B20736574687362636F6C6F72207D2062696E64206465660A2F6772617068636F6C6F72207B20736574687362636F6C6F72207D2062696E64206465660A2F6E6F70636F6C6F72207B706F7020706F7020706F707D2062696E64206465660A0A2F626567696E70616765207B09252069206A206E70616765730A092F6E70616765732065786368206465660A092F6A2065786368206465660A092F692065786368206465660A092F73747220313020737472696E67206465660A096E70616765732031206774207B0A090967736176650A090909636F6F7264666F6E7420736574666F6E740A090909302030206D6F7665746F0A090909285C28292073686F77206920737472206376732073686F7720282C292073686F77206A20737472206376732073686F7720285C29292073686F770A090967726573746F72650A097D2069660A7D2062696E64206465660A0A2F7365745F666F6E74207B0A0966696E64666F6E7420657863680A097363616C65666F6E7420736574666F6E740A7D206465660A0A25206472617720746578742066697474656420746F206974732065787065637465642077696474680A2F616C69676E656474657874207B0909092520776964746820746578740A092F746578742065786368206465660A092F77696474682065786368206465660A0967736176650A090977696474682030206774207B0A0909095B5D203020736574646173680A0909097465787420737472696E67776964746820706F702077696474682065786368207375622074657874206C656E6774682064697620302074657874206173686F770A09097D2069660A0967726573746F72650A7D206465660A0A2F626F787072696D207B09090909252078636F726E65722079636F726E6572207873697A65207973697A650A090934203220726F6C6C0A09096D6F7665746F0A09093220636F70790A090965786368203020726C696E65746F0A090930206578636820726C696E65746F0A0909706F70206E6567203020726C696E65746F0A0909636C6F7365706174680A7D2062696E64206465660A0A2F656C6C697073655F70617468207B0A092F72792065786368206465660A092F72782065786368206465660A092F792065786368206465660A092F782065786368206465660A096D61747269782063757272656E746D61747269780A096E6577706174680A09782079207472616E736C6174650A097278207279207363616C650A093020302031203020333630206172630A097365746D61747269780A7D2062696E64206465660A0A2F656E6470616765207B2073686F7770616765207D2062696E64206465660A2F73686F7770616765207B207D206465660A0A2F6C61796572636F6C6F727365710A095B0925206C6179657220636F6C6F722073657175656E6365202D206461726B65737420746F206C696768746573740A09095B30203020305D0A09095B2E32202E38202E385D0A09095B2E34202E38202E385D0A09095B2E36202E38202E385D0A09095B2E38202E38202E385D0A095D0A6465660A0A2F6C617965726C656E206C61796572636F6C6F72736571206C656E677468206465660A0A2F7365746C61796572207B2F6D61786C61796572206578636820646566202F6375726C617965722065786368206465660A096C61796572636F6C6F72736571206375726C61796572203120737562206C617965726C656E206D6F64206765740A09616C6F616420706F7020736574687362636F6C6F720A092F6E6F6465636F6C6F72207B6E6F70636F6C6F727D206465660A092F65646765636F6C6F72207B6E6F70636F6C6F727D206465660A092F6772617068636F6C6F72207B6E6F70636F6C6F727D206465660A7D2062696E64206465660A0A2F6F6E6C61796572207B206375726C61796572206E65207B696E7669737D206966207D206465660A0A2F6F6E6C6179657273207B0A092F6D7975707065722065786368206465660A092F6D796C6F7765722065786368206465660A096375726C61796572206D796C6F776572206C740A096375726C61796572206D7975707065722067740A096F720A097B696E7669737D2069660A7D206465660A0A2F6375726C617965722030206465660A0A2525456E645265736F757263650A2525456E6450726F6C6F670A2525426567696E53657475700A31342064656661756C742D666F6E742D66616D696C79207365745F666F6E740A25202F6172726F776C656E677468203130206465660A25202F6172726F7777696474682035206465660A0A25206D616B652073757265207064666D61726B206973206861726D6C65737320666F722050532D696E74657270726574657273206F74686572207468616E2044697374696C6C65720A2F7064666D61726B207768657265207B706F707D207B7573657264696374202F7064666D61726B202F636C656172746F6D61726B206C6F6164207075747D206966656C73650A25206D616B6520273C3C2720616E6420273E3E272073616665206F6E205053204C6576656C203120646576696365730A2F6C616E67756167656C6576656C207768657265207B706F70206C616E67756167656C6576656C7D7B317D206966656C73650A32206C74207B0A20202020757365726469637420283C3C292063766E20285B292063766E206C6F6164207075740A20202020757365726469637420283E3E292063766E20285B292063766E206C6F6164207075740A7D2069660A0A2525456E6453657475700A73657475704C6174696E310A2525506167653A203120310A252550616765426F756E64696E67426F783A20333620333620323830203137300A2525506167654F7269656E746174696F6E3A20506F7274726169740A302030203120626567696E706167650A67736176650A3336203336203234342031333420626F787072696D20636C6970206E6577706174680A312031207365745F7363616C65203020726F74617465203430203430207472616E736C6174650A2520636C75737465725F4E540A67736176650A302E3520302E34393830342031206772617068636F6C6F720A6E6577706174682038203733206D6F7665746F0A3820313138206C696E65746F0A32323820313138206C696E65746F0A323238203733206C696E65746F0A636C6F7365706174682066696C6C0A67726573746F72650A2520636C75737465725F4F54310A67736176650A302E313636363720302E34393830342031206772617068636F6C6F720A6E6577706174682032312038206D6F7665746F0A3231203533206C696E65746F0A313738203533206C696E65746F0A3137382038206C696E65746F0A636C6F7365706174682066696C6C0A67726573746F72650A25206F746C6162656C310A67736176650A3020302030206E6F6465636F6C6F720A3134202F54696D65732D526F6D616E207365745F666F6E740A33362E352032362E38206D6F7665746F20383120285073616C6D73203131373A32322920616C69676E6564746578740A67726573746F72650A252069340A67736176650A302E3333333333203120302E3530313936206E6F6465636F6C6F720A6E657770617468203136392E35203435206D6F7665746F0A3133322E35203435206C696E65746F0A3133322E35203136206C696E65746F0A3136392E35203136206C696E65746F0A636C6F7365706174682066696C6C0A31207365746C696E6577696474680A66696C6C65640A302E363636363720302E34393830342031206E6F6465636F6C6F720A6E657770617468203136392E35203435206D6F7665746F0A3133322E35203435206C696E65746F0A3133322E35203136206C696E65746F0A3136392E35203136206C696E65746F0A636C6F736570617468207374726F6B650A302E313337323520312031206E6F6465636F6C6F720A3134202F54696D65732D526F6D616E207365745F666F6E740A3134302E352032362E38206D6F7665746F20323120283131342920616C69676E6564746578740A67726573746F72650A25206F746C6162656C312D3E69340A25206E746C6162656C0A67736176650A3020302030206E6F6465636F6C6F720A3134202F54696D65732D526F6D616E207365745F666F6E740A32342039312E38206D6F7665746F2031303620284D6174746865772032313A34322B34372920616C69676E6564746578740A67726573746F72650A25206E746C6162656C2D3E6F746C6162656C310A25206E74300A67736176650A302E363636363720302E342031206E6F6465636F6C6F720A6E6577706174682031373520313130206D6F7665746F0A31343520313130206C696E65746F0A313435203831206C696E65746F0A313735203831206C696E65746F0A636C6F7365706174682066696C6C0A31207365746C696E6577696474680A66696C6C65640A302E363636363720302E34393830342031206E6F6465636F6C6F720A6E6577706174682031373520313130206D6F7665746F0A31343520313130206C696E65746F0A313435203831206C696E65746F0A313735203831206C696E65746F0A636C6F736570617468207374726F6B650A30203020302E3836363637206E6F6465636F6C6F720A3134202F54696D65732D526F6D616E207365745F666F6E740A3135332039312E38206D6F7665746F203134202834372920616C69676E6564746578740A67726573746F72650A25206E746C6162656C2D3E6E74300A25206E74310A67736176650A302E3333333333203120302E3439383034206E6F6465636F6C6F720A6E657770617468203231392E3520313130206D6F7665746F0A3138322E3520313130206C696E65746F0A3138322E35203831206C696E65746F0A3231392E35203831206C696E65746F0A636C6F7365706174682066696C6C0A31207365746C696E6577696474680A66696C6C65640A302E363636363720302E34393830342031206E6F6465636F6C6F720A6E657770617468203231392E3520313130206D6F7665746F0A3138322E3520313130206C696E65746F0A3138322E35203831206C696E65746F0A3231392E35203831206C696E65746F0A636C6F736570617468207374726F6B650A3020302031206E6F6465636F6C6F720A3134202F54696D65732D526F6D616E207365745F666F6E740A3139302E352039312E38206D6F7665746F20323120283131342920616C69676E6564746578740A67726573746F72650A25206E74302D3E6E74310A67736176650A31207365746C696E6577696474680A30203020302065646765636F6C6F720A6E657770617468203137352E303534372039352E35206D6F7665746F0A3137372E343837312039352E35203137392E393139342039352E35203138322E333531382039352E35206375727665746F0A7374726F6B650A67726573746F72650A25206E74312D3E69340A67736176650A31207365746C696E6577696474680A302E3333333333203120302E35303139362065646765636F6C6F720A6E657770617468203139302E313530372038302E38323939206D6F7665746F0A3138332E373239372037322E37333934203137352E343531362036322E33303931203136382E313632352035332E31323438206375727665746F0A7374726F6B650A302E3333333333203120302E35303139362065646765636F6C6F720A6E657770617468203136312E383238312034352E31343334206D6F7665746F0A3137312E353639352035302E31373838206C696E65746F0A3136342E393336342034392E30353938206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136342E393336342034392E30353938206C696E65746F0A3136342E353139392035352E37373338206C696E65746F0A3136312E383238312034352E31343334206C696E65746F0A636C6F7365706174682066696C6C0A31207365746C696E6577696474680A736F6C69640A302E3333333333203120302E35303139362065646765636F6C6F720A6E657770617468203136312E383238312034352E31343334206D6F7665746F0A3137312E353639352035302E31373838206C696E65746F0A3136342E393336342034392E30353938206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136382E303434372035322E39373633206C696E65746F0A3136342E393336342034392E30353938206C696E65746F0A3136342E353139392035352E37373338206C696E65746F0A3136312E383238312034352E31343334206C696E65746F0A636C6F736570617468207374726F6B650A67726573746F72650A656E64706167650A73686F77706167650A67726573746F72650A252550616765547261696C65720A2525456E64506167653A20310A2525547261696C65720A656E640A726573746F72650A2525454F460A>|ps>|80%|||>
+    </unfolded-io>
+  </session>
+
+  Jézus bet¶ szerint idézi az ismert zsoltár jól ismert verseit. Persze az,
+  hogy ezek rá vonatkoznak, a zsoltár kontextusában nem egyértelm¶ek.
+  <with|font-shape|italic|Hit>, a Jézusban való hit kell ahhoz, hogy
+  elfogadjuk, hogy az Ž interpretációja helyes, hogy Róla szól ez a
+  jövendölés.
+
+  A 118.<strong| >zsoltárt olvasgatva talán találunk további újszövetségi
+  szakaszokat is, ahol ezt a zsoltár bet¶ szerint idézi valamelyik szerz®.
+  Lássuk, mire jutunk az algoritmikus módszerrel!<index|getrefs>
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      getrefs StatResGNT LXX Psalms 117
+    <|unfolded-io>
+      <assign|color|orange>LXX Psalms 117:12+20 117:12-67<assign|color|black>
+      = <assign|color|blue>StatResGNT Galatians 1:18+43
+      1:18-38<assign|color|black> (length=5,
+      pos1=<assign|color|orange>137945<assign|color|black>,
+      pos2=<assign|color|blue>1452<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+91 117:13-43<assign|color|black>
+      = <assign|color|blue>StatResGNT Acts 18:17+20
+      18:17-75<assign|color|black> (length=5,
+      pos1=<assign|color|orange>138016<assign|color|black>,
+      pos2=<assign|color|blue>60711<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+91 117:13-43<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Corinthians 1:1+52
+      1:1-11<assign|color|black> (length=5,
+      pos1=<assign|color|orange>138016<assign|color|black>,
+      pos2=<assign|color|blue>53<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:14+48 117:15-67<assign|color|black>
+      = <assign|color|blue>StatResGNT John 18:29+49
+      18:29-26<assign|color|black> (length=5,
+      pos1=<assign|color|orange>138112<assign|color|black>,
+      pos2=<assign|color|blue>60024<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26+9 117:26-50<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Timothy 5:18+41
+      5:18-19<assign|color|black> (length=5,
+      pos1=<assign|color|orange>138707<assign|color|black>,
+      pos2=<assign|color|blue>6317<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+34 117:27-46<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Corinthians 5:8+3
+      5:8-82<assign|color|black> (length=5,
+      pos1=<assign|color|orange>138796<assign|color|black>,
+      pos2=<assign|color|blue>7597<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+10 117:12-76<assign|color|black>
+      = <assign|color|blue>StatResGNT Philippians 4:15+122
+      4:15-11<assign|color|black> (length=6,
+      pos1=<assign|color|orange>137935<assign|color|black>,
+      pos2=<assign|color|blue>7471<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+13 117:12-73<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 1:13+54
+      1:13-23<assign|color|black> (length=6,
+      pos1=<assign|color|orange>137938<assign|color|black>,
+      pos2=<assign|color|blue>995<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:15+39 117:15-23<assign|color|black>
+      = <assign|color|blue>StatResGNT Mark 9:37+21
+      9:37-80<assign|color|black> (length=6,
+      pos1=<assign|color|orange>138155<assign|color|black>,
+      pos2=<assign|color|blue>30210<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:8+42 117:9-40<assign|color|black> =
+      <assign|color|blue>StatResGNT Acts 6:15+81 6:15-5<assign|color|black>
+      (length=6, pos1=<assign|color|orange>137771<assign|color|black>,
+      pos2=<assign|color|blue>18204<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+22 117:27-56<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 17:20+146
+      17:22-97<assign|color|black> (length=7,
+      pos1=<assign|color|orange>138784<assign|color|black>,
+      pos2=<assign|color|blue>49543<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+34 117:27-44<assign|color|black>
+      = <assign|color|blue>StatResGNT Mark 15:6+5 15:6-35<assign|color|black>
+      (length=7, pos1=<assign|color|orange>138796<assign|color|black>,
+      pos2=<assign|color|blue>51583<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:6+46 117:7-38<assign|color|black> =
+      <assign|color|blue>StatResGNT John 14:8+14 14:8-32<assign|color|black>
+      (length=7, pos1=<assign|color|orange>137684<assign|color|black>,
+      pos2=<assign|color|blue>48673<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:9+5 117:9-30<assign|color|black> =
+      <assign|color|blue>StatResGNT Luke 6:34+18 6:34-76<assign|color|black>
+      (length=7, pos1=<assign|color|orange>137780<assign|color|black>,
+      pos2=<assign|color|blue>23414<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:11+3 117:11-43<assign|color|black>
+      = <assign|color|blue>StatResGNT Acts 17:5+2
+      17:5-153<assign|color|black> (length=8,
+      pos1=<assign|color|orange>137874<assign|color|black>,
+      pos2=<assign|color|blue>56138<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:11+3 117:11-43<assign|color|black>
+      = <assign|color|blue>StatResGNT Acts 7:9+17 7:9-45<assign|color|black>
+      (length=8, pos1=<assign|color|orange>137874<assign|color|black>,
+      pos2=<assign|color|blue>19063<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:19+3 117:19-53<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 20:24+2
+      20:24-52<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138335<assign|color|black>,
+      pos2=<assign|color|blue>77810<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:19+3 117:19-53<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 22:19+5
+      22:19-45<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138335<assign|color|black>,
+      pos2=<assign|color|blue>64513<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:19+37 117:19-19<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 6:12+23
+      6:12-69<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138369<assign|color|black>,
+      pos2=<assign|color|blue>21549<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+14 117:22-40<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 11:14+79
+      11:14-4<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138509<assign|color|black>,
+      pos2=<assign|color|blue>45578<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+14 117:22-40<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 9:33+47
+      9:33-40<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138509<assign|color|black>,
+      pos2=<assign|color|blue>23445<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+27 117:22-27<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Peter 2:10+118
+      2:11-80<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138522<assign|color|black>,
+      pos2=<assign|color|blue>2983<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+27 117:22-27<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Peter 4:4+66
+      4:5-48<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138522<assign|color|black>,
+      pos2=<assign|color|blue>6726<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+17 117:27-60<assign|color|black>
+      = <assign|color|blue>StatResGNT II_John 1:2+23
+      1:2-26<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138779<assign|color|black>,
+      pos2=<assign|color|blue>136<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+34 117:27-43<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 27:15+5
+      27:15-44<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138796<assign|color|black>,
+      pos2=<assign|color|blue>84177<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:27+49 117:27-28<assign|color|black>
+      = <assign|color|blue>StatResGNT Galatians 6:12+40
+      6:12-59<assign|color|black> (length=8,
+      pos1=<assign|color|orange>138811<assign|color|black>,
+      pos2=<assign|color|blue>10549<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:15+61 117:16-43<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Corinthians 15:24+90
+      15:25-61<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138177<assign|color|black>,
+      pos2=<assign|color|blue>28642<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:16+37 117:17-51<assign|color|black>
+      = <assign|color|blue>StatResGNT Revelation_of_John 4:11+56
+      4:11-52<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138221<assign|color|black>,
+      pos2=<assign|color|blue>8603<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:16+41 117:17-47<assign|color|black>
+      = <assign|color|blue>StatResGNT Romans 11:1+91
+      11:2-90<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138225<assign|color|black>,
+      pos2=<assign|color|blue>22253<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:17+14 117:17-29<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Corinthians 13:4+73
+      13:4-30<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138243<assign|color|black>,
+      pos2=<assign|color|blue>21460<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:19+37 117:19-18<assign|color|black>
+      = <assign|color|blue>StatResGNT Revelation_of_John 9:3+45
+      9:3-37<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138369<assign|color|black>,
+      pos2=<assign|color|blue>15958<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:20+16 117:20-19<assign|color|black>
+      = <assign|color|blue>StatResGNT Romans 2:13+18
+      2:13-40<assign|color|black> (length=9,
+      pos1=<assign|color|orange>138412<assign|color|black>,
+      pos2=<assign|color|blue>3784<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:7+39 117:8-40<assign|color|black> =
+      <assign|color|blue>StatResGNT Romans 7:18+42
+      7:18-50<assign|color|black> (length=9,
+      pos1=<assign|color|orange>137726<assign|color|black>,
+      pos2=<assign|color|blue>14479<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:9+4 117:9-29<assign|color|black> =
+      <assign|color|blue>StatResGNT Acts 26:7+52 26:7-51<assign|color|black>
+      (length=9, pos1=<assign|color|orange>137779<assign|color|black>,
+      pos2=<assign|color|blue>86017<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+84 117:13-45<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 9:24+17
+      9:24-65<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138009<assign|color|black>,
+      pos2=<assign|color|blue>37117<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+84 117:13-45<assign|color|black>
+      = <assign|color|blue>StatResGNT Mark 8:35+18
+      8:35-77<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138009<assign|color|black>,
+      pos2=<assign|color|blue>26777<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+84 117:13-45<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 16:25+18
+      16:25-62<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138009<assign|color|black>,
+      pos2=<assign|color|blue>47361<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:12+86 117:13-43<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Corinthians 6:4+22
+      6:4-58<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138011<assign|color|black>,
+      pos2=<assign|color|blue>8664<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:14+6 117:14-36<assign|color|black>
+      = <assign|color|blue>StatResGNT Mark 14:25+106
+      14:26-30<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138070<assign|color|black>,
+      pos2=<assign|color|blue>47424<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:16+37 117:17-50<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Corinthians 4:19+83
+      4:20-37<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138221<assign|color|black>,
+      pos2=<assign|color|blue>6917<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:18+28 117:18-13<assign|color|black>
+      = <assign|color|blue>StatResGNT Romans 7:5+94 7:5<assign|color|black>
+      (length=10, pos1=<assign|color|orange>138309<assign|color|black>,
+      pos2=<assign|color|blue>13474<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:18+30 117:18-11<assign|color|black>
+      = <assign|color|blue>StatResGNT Romans 5:21+29
+      5:21-77<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138311<assign|color|black>,
+      pos2=<assign|color|blue>11046<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:19+33 117:19-21<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Peter 3:16+26
+      3:16-111<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138365<assign|color|black>,
+      pos2=<assign|color|blue>5745<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:20+18 117:20-16<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 25:46+41
+      25:46-11<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138414<assign|color|black>,
+      pos2=<assign|color|blue>77032<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+30 117:22-22<assign|color|black>
+      = <assign|color|blue>StatResGNT Acts 8:10+40
+      8:10-35<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138525<assign|color|black>,
+      pos2=<assign|color|blue>24519<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+30 117:22-22<assign|color|black>
+      = <assign|color|blue>StatResGNT John 9:19+21
+      9:19-59<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138525<assign|color|black>,
+      pos2=<assign|color|blue>31771<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+30 117:22-22<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 20:14+51
+      20:14-57<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138525<assign|color|black>,
+      pos2=<assign|color|blue>76910<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:23+46 117:24-56<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Corinthians 1:12+10
+      1:12-146<assign|color|black> (length=10,
+      pos1=<assign|color|orange>138603<assign|color|black>,
+      pos2=<assign|color|blue>1148<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:8+10 117:8-26<assign|color|black> =
+      <assign|color|blue>StatResGNT Acts 5:15+45 5:15-64<assign|color|black>
+      (length=10, pos1=<assign|color|orange>137739<assign|color|black>,
+      pos2=<assign|color|blue>14016<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:8+4 117:8-32<assign|color|black> =
+      <assign|color|blue>StatResGNT Matthew 27:42+94
+      27:43-55<assign|color|black> (length=10,
+      pos1=<assign|color|orange>137733<assign|color|black>,
+      pos2=<assign|color|blue>86348<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26+19 117:26-34<assign|color|black>
+      = <assign|color|blue>StatResGNT Mark 9:41+29
+      9:41-54<assign|color|black> (length=11,
+      pos1=<assign|color|orange>138717<assign|color|black>,
+      pos2=<assign|color|blue>30563<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:14+4 117:14-36<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 26:29+117
+      26:30-30<assign|color|black> (length=12,
+      pos1=<assign|color|orange>138068<assign|color|black>,
+      pos2=<assign|color|blue>79194<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:17+46 117:18-45<assign|color|black>
+      = <assign|color|blue>StatResGNT I_Corinthians 11:32+18
+      11:32-32<assign|color|black> (length=12,
+      pos1=<assign|color|orange>138275<assign|color|black>,
+      pos2=<assign|color|blue>20684<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:14+18 117:14-21<assign|color|black>
+      = <assign|color|blue>StatResGNT Matthew 24:48+51
+      24:49-63<assign|color|black> (length=13,
+      pos1=<assign|color|orange>138082<assign|color|black>,
+      pos2=<assign|color|blue>73188<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:21+43 117:22-61<assign|color|black>
+      = <assign|color|blue>StatResGNT Romans 10:10+52
+      10:11-49<assign|color|black> (length=13,
+      pos1=<assign|color|orange>138483<assign|color|black>,
+      pos2=<assign|color|blue>21302<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:15+11 117:15-41<assign|color|black>
+      = <assign|color|blue>StatResGNT II_Corinthians 1:6+33
+      1:6-97<assign|color|black> (length=16,
+      pos1=<assign|color|orange>138127<assign|color|black>,
+      pos2=<assign|color|blue>525<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+46 117:22<assign|color|black> =
+      <assign|color|blue>StatResGNT Acts 4:11+57 4:11<assign|color|black>
+      (length=16, pos1=<assign|color|orange>138541<assign|color|black>,
+      pos2=<assign|color|blue>10276<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26+20 117:26-27<assign|color|black>
+      = <assign|color|blue>StatResGNT Luke 19:38+37
+      19:38-30<assign|color|black> (length=17,
+      pos1=<assign|color|orange>138718<assign|color|black>,
+      pos2=<assign|color|blue>75035<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:5+55 117:6-33<assign|color|black> =
+      <assign|color|blue>StatResGNT Hebrews 13:6+23
+      13:6-36<assign|color|black> (length=17,
+      pos1=<assign|color|orange>137637<assign|color|black>,
+      pos2=<assign|color|blue>24726<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:7 117:7-24<assign|color|black> =
+      <assign|color|blue>StatResGNT Hebrews 13:6+24
+      13:6-34<assign|color|black> (length=18,
+      pos1=<assign|color|orange>137687<assign|color|black>,
+      pos2=<assign|color|blue>24727<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-43<assign|color|black> =
+      <assign|color|blue>StatResGNT Luke 19:38+8 19:38-55<assign|color|black>
+      (length=21, pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>75006<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-28<assign|color|black> =
+      <assign|color|blue>StatResGNT John 12:13+68
+      12:13-21<assign|color|black> (length=36,
+      pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>42125<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-28<assign|color|black> =
+      <assign|color|blue>StatResGNT Luke 13:35+55 13:35<assign|color|black>
+      (length=36, pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>57426<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-28<assign|color|black> =
+      <assign|color|blue>StatResGNT Matthew 21:9+75
+      21:9-20<assign|color|black> (length=36,
+      pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>59444<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-28<assign|color|black> =
+      <assign|color|blue>StatResGNT Matthew 23:39+39
+      23:39<assign|color|black> (length=36,
+      pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>69470<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:26 117:26-22<assign|color|black> =
+      <assign|color|blue>StatResGNT Mark 11:9+46 11:10-59<assign|color|black>
+      (length=42, pos1=<assign|color|orange>138698<assign|color|black>,
+      pos2=<assign|color|blue>36385<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22+5 117:22<assign|color|black> =
+      <assign|color|blue>StatResGNT I_Peter 2:7+44 2:7<assign|color|black>
+      (length=57, pos1=<assign|color|orange>138500<assign|color|black>,
+      pos2=<assign|color|blue>2726<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22 117:23-50<assign|color|black> =
+      <assign|color|blue>StatResGNT Luke 20:17+50
+      20:18-62<assign|color|black> (length=64,
+      pos1=<assign|color|orange>138495<assign|color|black>,
+      pos2=<assign|color|blue>77197<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22 117:23<assign|color|black> =
+      <assign|color|blue>StatResGNT Mark 12:10+27 12:11<assign|color|black>
+      (length=114, pos1=<assign|color|orange>138495<assign|color|black>,
+      pos2=<assign|color|blue>39215<assign|color|black>)
+
+      <assign|color|orange>LXX Psalms 117:22 117:23<assign|color|black> =
+      <assign|color|blue>StatResGNT Matthew 21:42+47
+      21:42<assign|color|black> (length=114,
+      pos1=<assign|color|orange>138495<assign|color|black>,
+      pos2=<assign|color|blue>62608<assign|color|black>)
+
+      Finished
+
+      <timing|25.607 sec>
+    </unfolded-io>
+  </session>
+
+  A keresés csaknem fél percig tart. Az világosan látszik, hogy számos fals
+  pozitív találat kell legyen, de az is látható, hogy vannak egészen hosszú
+  egyezések, amelyeknek muszáj idézeteknek lenniük. Vegyük sorra ezeket. A
+  22.<strong| >vers a következ® újszövetségi helyeken jelenik meg:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Mark 12:10
+    <|unfolded-io>
+      Vajon nem olvastátok a Szentírásban: \RA k®, amelyet az épít®k
+      megvetettek, az lett a sarokk®;\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Luke 20:17
+    <|unfolded-io>
+      Ž azonban rájuk nézett, és ezt mondta: Akkor mit jelent az Írásnak ez a
+      szava: \RA k®, amelyet az épít®k megvetettek, az lett a sarokk®\Q?\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF I_Peter 2:7
+    <|unfolded-io>
+      Nektek, a hív®knek drága kincs, a hitetleneknek pedig az a k®, amelyet
+      megvetettek az épít®k, sarokk®vé lett,\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF I_Peter 2:8
+    <|unfolded-io>
+      megütközés kövévé és megbotránkozás sziklájává, azok beleütköznek, mert
+      nem engedelmeskednek az igének. Žk erre is rendeltettek.\ 
+    </unfolded-io>
+  </session>
+
+  Vagyis még 3 helyen, összességében 4 helyen (3 evangéliumban és az
+  1Péter-ben). Jól látszik, hogy Péter apostol is az evangéliummal
+  összhangban magyarázza a sarokk®-képet.
+
+  Ami ezen kívül még el®jön, a zsoltár 6.<strong| >verse, mégpedig A
+  zsidókhoz írt levélben:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Psalms 118:6
+    <|unfolded-io>
+      Velem van az Úr, nem félek, ember mit árthat nekem?\ 
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup HunRUF Hebrews 13:6
+    <|unfolded-io>
+      Ezért bizakodva mondjuk: \RVelem van az Úr, nem félek, ember mit árthat
+      nekem?\Q \ \ 
+    </unfolded-io>
+  </session>
+
+  A <verbatim|getrefs> parancs mindig bet¶ szerinti pontos egyezésekre keres.
+  Ez gyakran elegend® eredményt ad, de néha más módszerekre is szükség lehet,
+  ha csak közelít®leg azonos szövegeket keresünk.
+
   \;
 
   <\table-of-contents|toc>
@@ -10540,47 +11120,51 @@
 
     <with|par-left|1tab|2.1.16.<space|2spc>Jónás jele
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-41>>
+    <no-break><pageref|auto-42>>
 
     <with|par-left|1tab|2.1.17.<space|2spc>Nagyobb Jónásnál és Salamonnál
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-42>>
+    <no-break><pageref|auto-43>>
 
     <with|par-left|1tab|2.1.18.<space|2spc>Süketek és vakok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-43>>
+    <no-break><pageref|auto-44>>
 
     <with|par-left|1tab|2.1.19.<space|2spc>Példázatok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-45>>
+    <no-break><pageref|auto-46>>
 
     <with|par-left|1tab|2.1.20.<space|2spc>A képmutatók leleplezése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-46>>
+    <no-break><pageref|auto-47>>
 
     <with|par-left|1tab|2.1.21.<space|2spc>Intermezzo: Idézet vagy nem?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-47>>
+    <no-break><pageref|auto-48>>
 
     <with|par-left|1tab|2.1.22.<space|2spc>Újabb kekecked®k
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-49>>
+    <no-break><pageref|auto-51>>
 
     <with|par-left|1tab|2.1.23.<space|2spc>Kövess engem!
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-50>>
+    <no-break><pageref|auto-52>>
 
     <with|par-left|1tab|2.1.24.<space|2spc>Virágvasárnap
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-51>>
+    <no-break><pageref|auto-53>>
+
+    <with|par-left|1tab|2.1.25.<space|2spc>A sarokk®
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-55>>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-53><vspace|0.5fn>
+    <pageref|auto-57><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-54><vspace|0.5fn>
+    <pageref|auto-58><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -10590,7 +11174,7 @@
 
     <index+1|findN|<pageref|auto-13>>
 
-    <index+1|getrefs|<pageref|auto-52>>
+    <index+1|getrefs|<pageref|auto-54>, <pageref|auto-56>>
 
     <index+1|help|<pageref|auto-26>>
 
@@ -10610,7 +11194,8 @@
 
     <index+1|rawN|<pageref|auto-28>>
 
-    <index+1|statement|<pageref|auto-22>>
+    <index+1|statement|<pageref|auto-22>, <pageref|auto-41>,
+    <pageref|auto-49>>
 
     <index+1|textN|<pageref|auto-12>>
   </the-index>
@@ -10688,29 +11273,33 @@
     <associate|auto-39|<tuple|2.1.14|48>>
     <associate|auto-4|<tuple|1.1|8>>
     <associate|auto-40|<tuple|2.1.15|49>>
-    <associate|auto-41|<tuple|2.1.16|54>>
-    <associate|auto-42|<tuple|2.1.17|55>>
-    <associate|auto-43|<tuple|2.1.18|56>>
-    <associate|auto-44|<tuple|2.2|58>>
-    <associate|auto-45|<tuple|2.1.19|59>>
-    <associate|auto-46|<tuple|2.1.20|60>>
-    <associate|auto-47|<tuple|2.1.21|63>>
-    <associate|auto-48|<tuple|2.3|66>>
-    <associate|auto-49|<tuple|2.1.22|66>>
+    <associate|auto-41|<tuple|statement|52>>
+    <associate|auto-42|<tuple|2.1.16|54>>
+    <associate|auto-43|<tuple|2.1.17|55>>
+    <associate|auto-44|<tuple|2.1.18|56>>
+    <associate|auto-45|<tuple|2.2|58>>
+    <associate|auto-46|<tuple|2.1.19|59>>
+    <associate|auto-47|<tuple|2.1.20|60>>
+    <associate|auto-48|<tuple|2.1.21|63>>
+    <associate|auto-49|<tuple|statement|65>>
     <associate|auto-5|<tuple|1.2|9>>
-    <associate|auto-50|<tuple|2.1.23|68>>
-    <associate|auto-51|<tuple|2.1.24|70>>
-    <associate|auto-52|<tuple|getrefs|73>>
-    <associate|auto-53|<tuple|getrefs|79>>
-    <associate|auto-54|<tuple|getrefs|81>>
+    <associate|auto-50|<tuple|2.3|66>>
+    <associate|auto-51|<tuple|2.1.22|66>>
+    <associate|auto-52|<tuple|2.1.23|68>>
+    <associate|auto-53|<tuple|2.1.24|70>>
+    <associate|auto-54|<tuple|getrefs|73>>
+    <associate|auto-55|<tuple|2.1.25|76>>
+    <associate|auto-56|<tuple|getrefs|77>>
+    <associate|auto-57|<tuple|getrefs|83>>
+    <associate|auto-58|<tuple|getrefs|85>>
     <associate|auto-6|<tuple|1.1|10>>
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
-    <associate|bib-Bunning2022|<tuple|1|81>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|81>>
-    <associate|bib-PfisterGreuel2007|<tuple|3|81>>
-    <associate|bib-Strong1890|<tuple|4|81>>
+    <associate|bib-Bunning2022|<tuple|1|85>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|85>>
+    <associate|bib-PfisterGreuel2007|<tuple|3|85>>
+    <associate|bib-Strong1890|<tuple|4|85>>
     <associate|bj-bortonben|<tuple|2.1.13|46>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
     <associate|gorog-angol|<tuple|1.1|8>>
@@ -10757,13 +11346,13 @@
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
         <locus|<id|%-DAF3F048--D998F500>|<link|hyperlink|<id|%-DAF3F048--D998F500>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
-      </surround>|<pageref|auto-44>>
+      </surround>|<pageref|auto-45>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.3><with|font-series|<quote|bold>|ábra.>
       |>
         A greekcntr.org oldalon látható összehasonlító táblázat a Máté 18:16
         els® néhány szaváról.\ 
-      </surround>|<pageref|auto-48>>
+      </surround>|<pageref|auto-50>>
     </associate>
     <\associate|gly>
       <tuple|normal|Python|<pageref|auto-17>>
@@ -10797,7 +11386,13 @@
 
       <tuple|<tuple|lengthN>|<pageref|auto-30>>
 
-      <tuple|<tuple|getrefs>|<pageref|auto-52>>
+      <tuple|<tuple|statement>|<pageref|auto-41>>
+
+      <tuple|<tuple|statement>|<pageref|auto-49>>
+
+      <tuple|<tuple|getrefs>|<pageref|auto-54>>
+
+      <tuple|<tuple|getrefs>|<pageref|auto-56>>
     </associate>
     <\associate|table>
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
@@ -10890,47 +11485,51 @@
 
       <with|par-left|<quote|1tab>|2.1.16.<space|2spc>Jónás jele
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-41>>
+      <no-break><pageref|auto-42>>
 
       <with|par-left|<quote|1tab>|2.1.17.<space|2spc>Nagyobb Jónásnál és
       Salamonnál <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-42>>
+      <no-break><pageref|auto-43>>
 
       <with|par-left|<quote|1tab>|2.1.18.<space|2spc>Süketek és vakok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-43>>
+      <no-break><pageref|auto-44>>
 
       <with|par-left|<quote|1tab>|2.1.19.<space|2spc>Példázatok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-45>>
+      <no-break><pageref|auto-46>>
 
       <with|par-left|<quote|1tab>|2.1.20.<space|2spc>A képmutatók leleplezése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-46>>
+      <no-break><pageref|auto-47>>
 
       <with|par-left|<quote|1tab>|2.1.21.<space|2spc>Intermezzo: Idézet vagy
       nem? <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-47>>
+      <no-break><pageref|auto-48>>
 
       <with|par-left|<quote|1tab>|2.1.22.<space|2spc>Újabb kekecked®k
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-49>>
+      <no-break><pageref|auto-51>>
 
       <with|par-left|<quote|1tab>|2.1.23.<space|2spc>Kövess engem!
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-50>>
+      <no-break><pageref|auto-52>>
 
       <with|par-left|<quote|1tab>|2.1.24.<space|2spc>Virágvasárnap
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-51>>
+      <no-break><pageref|auto-53>>
+
+      <with|par-left|<quote|1tab>|2.1.25.<space|2spc>A sarokk®
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-55>>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-53><vspace|0.5fn>
+      <pageref|auto-57><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-54><vspace|0.5fn>
+      <pageref|auto-58><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
