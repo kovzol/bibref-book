@@ -330,27 +330,27 @@
   legtöbb számítógépre gond nélkül telepíthet®k.
 
   A SWORD-ban elérhet® szövegek modulokra vannak osztva. Egy-egy modul
-  egy-egy bibliakiadást jelent. Ilyen modul például a
-  <with|font-shape|italic|HunRUF>, ami a <with|font-shape|italic|Magyar
-  Bibliatársulat Revideált Újfordítású Bibliája>, de természetesen más
-  nyelveken is vannak bibliafordítások, némely nyelven figyelemreméltóan
-  sokféle. Angolul például klasszikus kiadás a <with|font-shape|italic|KJV>
-  (a <with|font-shape|italic|King James Version>), de koiné görög modulok is
-  elérhet®k. Mi három koiné görög bibliamodulra fogunk összpontosítani:
+  egy-egy bibliakiadást jelent. Ilyen modul például a <verbatim|HunRUF>, ami
+  a <with|font-shape|italic|Magyar Bibliatársulat Revideált Újfordítású
+  Bibliája>, de természetesen más nyelveken is vannak bibliafordítások,
+  némely nyelven figyelemreméltóan sokféle. Angolul például klasszikus kiadás
+  a <verbatim|KJV> (a <with|font-shape|italic|King James Version>), de koiné
+  görög modulok is elérhet®k. Mi három koiné görög bibliamodulra fogunk
+  összpontosítani:
 
   <\itemize-dot>
-    <item>az <with|font-shape|italic|LXX>-re, ami a Szeptuaginta egy
-    revideált elektronikus változata, melyet a Pennsylvaniai Egyetem Center
-    for Computer Analysis of Texts intézete tart karban;
+    <item>az <verbatim|LXX>-re, ami a Szeptuaginta egy revideált elektronikus
+    változata, melyet a Pennsylvaniai Egyetem Center for Computer Analysis of
+    Texts intézete tart karban;
 
-    <item>az <with|font-shape|italic|SBLGNT>-re, ami a görög nyelv¶
-    Újszövetséget tartalmaza nagyrészt Michael W.<strong| >Holmes
-    munkájaként, aki számos nyomtatott bibliakiadást összevetve állította
-    össze ezt a digitalizált verziót; valamint
+    <item>az <verbatim|SBLGNT>-re, ami a görög nyelv¶ Újszövetséget
+    tartalmaza nagyrészt Michael W.<strong| >Holmes munkájaként, aki számos
+    nyomtatott bibliakiadást összevetve állította össze ezt a digitalizált
+    verziót; valamint
 
-    <item>a <with|font-shape|italic|StatResGNT>-re, ami szintén a görög
-    nyelv¶ Újszövetség egy statisztikai alapú újrakiadása, Alan Bunning
-    amerikai teológus-informatikus több évtizedes kutatásának eredményeként.
+    <item>a <verbatim|StatResGNT>-re, ami szintén a görög nyelv¶ Újszövetség
+    egy statisztikai alapú újrakiadása, Alan Bunning amerikai
+    teológus-informatikus több évtizedes kutatásának eredményeként.
   </itemize-dot>
 
   Ha valaki bele kíván lapozni egy ilyen modulba, akkor vagy egy SWORD alapú
@@ -423,17 +423,29 @@
   minden kutatásnak: Az elért eredményeket bárki újra megismételheti,
   ellen®rizheti, és akár tovább is fejlesztheti.
 
-  A parancssori input els® látásra kényelmetlennek t¶nhet, különösen akkor,
-  ha inkább egérvezérelt programokhoz vagyunk szokva. A gépelés fáradságos
-  részét lerövidítheti, ha a gyakran használt parancsokat, kulcsszavakat a
-  <verbatim|Tab> gomb segítségével írjuk be: csak az els® néhány karaktert
-  gépeljük be, majd a <verbatim|Tab> megnyomásával kiegészítjük a parancsot a
-  teljes változatra. Ha a kiegészítés nem lenne egyértelm¶, a <verbatim|Tab>
-  további megnyomásával, esetleg további karakterek begépelésével
-  pontosíthatjuk, hogy egészen pontosan mire is gondoltunk. Ennek részletes
-  technikai felfedezését az Olvasóra bízzuk, már csak azért is, mert a
-  <verbatim|Tab> használata az egyes felületeken kisebb-nagyobb részletekben
-  eltér® lehet.
+  A görög szöveget bizonyos esetekben csupa nagybet¶vel, máshol kisbet¶sen
+  látjuk. A legrégebbi kéziratokat nagybet¶vel, ékezetek és központozás
+  nélkül írták, de az általunk jelenleg használt elektronikus szövegeket már
+  viszonylag modern módon, tagoltan, ékezetekkel gépelték be. Ez azt a furcsa
+  helyzetet eredményezi, hogy a modern adatbázisokban tárolt szövegeket \Ple
+  kell butítsuk\Q, hogy a legrégebbi kéziratokhoz hasonló kimenetet kapjunk.
+  Mivel nincs biztos információnk arról, hogy volt-e a koiné görög nyelvnek
+  helyesírási szabályzata (valószín¶leg nem), így bizonyos esetekben apró
+  eltéréseket fedezhetünk fel egy-egy koiné görög szó modern, kisbet¶s, fix
+  írásmódja és a leginkább valószín¶ régi, nagybet¶s változata között. Ezek
+  az eltérések azonban munkánkat kevéssé fogják zavarni.
+
+  A fenti parancssori input els® látásra kényelmetlennek t¶nhet, különösen
+  akkor, ha inkább egérvezérelt programokhoz vagyunk szokva. A gépelés
+  fáradságos részét lerövidítheti, ha a gyakran használt parancsokat,
+  kulcsszavakat a <verbatim|Tab> gomb segítségével írjuk be: csak az els®
+  néhány karaktert gépeljük be, majd a <verbatim|Tab> megnyomásával
+  kiegészítjük a parancsot a teljes változatra. Ha a kiegészítés nem lenne
+  egyértelm¶, a <verbatim|Tab> további megnyomásával, esetleg további
+  karakterek begépelésével pontosíthatjuk, hogy egészen pontosan mire is
+  gondoltunk. Ennek részletes technikai felfedezését az Olvasóra bízzuk, már
+  csak azért is, mert a <verbatim|Tab> használata az egyes felületeken
+  kisebb-nagyobb részletekben eltér® lehet.
 
   A bibref további változatokban is elérhet®. Telepíthetjük is a grafikus
   vagy a szöveges verziót a saját gépünkre (vagyis nem szükséges az
@@ -5047,7 +5059,7 @@
     <|unfolded-io>
       lookup StatResGNT Matthew 1:23
     <|unfolded-io>
-      <assign|color|blue>\P\<Iota\>\<delta\>\<omicron\>\<upsilon\>, \<eta\>
+      <assign|color|blue>\S\<Iota\>\<delta\>\<omicron\>\<upsilon\>, \<eta\>
       \<pi\>\<alpha\>\<rho\>\<theta\>\<varepsilon\>\<nu\>\<omicron\>\<varsigma\>
       \<varepsilon\>\<nu\> \<gamma\>\<alpha\>\<sigma\>\<tau\>\<rho\>\<iota\>
       \<varepsilon\>\<xi\>\<varepsilon\>\<iota\> \<kappa\>\<alpha\>\<iota\>
@@ -5056,11 +5068,11 @@
       \<kappa\>\<alpha\>\<lambda\>\<varepsilon\>\<sigma\>\<omicron\>\<upsilon\>\<sigma\>\<iota\>\<nu\>
       \<tau\>\<omicron\> \<omicron\>\<nu\>\<omicron\>\<mu\>\<alpha\>
       \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>
-      \<Epsilon\>\<mu\>\<mu\>\<alpha\>\<nu\>\<omicron\>\<upsilon\>\<eta\>\<lambda\>\Q,
+      \<Epsilon\>\<mu\>\<mu\>\<alpha\>\<nu\>\<omicron\>\<upsilon\>\<eta\>\<lambda\>\T,
       \<omicron\> \<varepsilon\>\<sigma\>\<tau\>\<iota\>\<nu\>
       \<mu\>\<varepsilon\>\<theta\>\<varepsilon\>\<rho\>\<mu\>\<eta\>\<nu\>\<varepsilon\>\<upsilon\>\<omicron\>\<mu\>\<varepsilon\>\<nu\>\<omicron\>\<nu\>,
-      \P\<Mu\>\<varepsilon\>\<theta\>\<#2BC\> \<eta\>\<mu\>\<omega\>\<nu\>
-      \<omicron\> \<Theta\>\<Epsilon\>\<Omicron\>\<Sigma\>\Q.<assign|color|black>
+      \S\<Mu\>\<varepsilon\>\<theta\>\<#2BC\> \<eta\>\<mu\>\<omega\>\<nu\>
+      \<omicron\> \<Theta\>\<Epsilon\>\<Omicron\>\<Sigma\>\T.<assign|color|black>
     </unfolded-io>
   </session>
 
@@ -5576,7 +5588,7 @@
     <|unfolded-io>
       lookup StatResGNT Matthew 2:6
     <|unfolded-io>
-      <assign|color|blue>\P\<Kappa\>\<alpha\>\<iota\> \<sigma\>\<upsilon\>
+      <assign|color|blue>\S\<Kappa\>\<alpha\>\<iota\> \<sigma\>\<upsilon\>
       \<Beta\>\<eta\>\<theta\>\<lambda\>\<varepsilon\>\<varepsilon\>\<mu\>,
       \<gamma\>\<eta\> \<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\>,
       \<omicron\>\<upsilon\>\<delta\>\<alpha\>\<mu\>\<omega\>\<varsigma\>
@@ -5592,7 +5604,7 @@
       \<pi\>\<omicron\>\<iota\>\<mu\>\<alpha\>\<nu\>\<varepsilon\>\<iota\>
       \<tau\>\<omicron\>\<nu\> \<lambda\>\<alpha\>\<omicron\>\<nu\>
       \<mu\>\<omicron\>\<upsilon\> \<tau\>\<omicron\>\<nu\>
-      \<Iota\>\<sigma\>\<rho\>\<alpha\>\<eta\>\<lambda\>.\Q<assign|color|black>
+      \<Iota\>\<sigma\>\<rho\>\<alpha\>\<eta\>\<lambda\>.\T<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -6323,16 +6335,16 @@
       \<delta\>\<iota\>\<alpha\> \<Eta\>\<sigma\>\<alpha\>\<#390\>\<omicron\>\<upsilon\>
       \<tau\>\<omicron\>\<upsilon\> \<pi\>\<rho\>\<omicron\>\<varphi\>\<eta\>\<tau\>\<omicron\>\<upsilon\>
       \<lambda\>\<varepsilon\>\<gamma\>\<omicron\>\<nu\>\<tau\>\<omicron\>\<varsigma\>,
-      \P\<Phi\>\<omega\>\<nu\>\<eta\> \<beta\>\<omicron\>\<omega\>\<nu\>\<tau\>\<omicron\>\<varsigma\>
+      \S\<Phi\>\<omega\>\<nu\>\<eta\> \<beta\>\<omicron\>\<omega\>\<nu\>\<tau\>\<omicron\>\<varsigma\>
       \<varepsilon\>\<nu\> \<tau\>\<eta\>
       \<varepsilon\>\<rho\>\<eta\>\<mu\>\<omega\>:
-      `\<Epsilon\>\<tau\>\<omicron\>\<iota\>\<mu\>\<alpha\>\<sigma\>\<alpha\>\<tau\>\<varepsilon\>
+      \P\<Epsilon\>\<tau\>\<omicron\>\<iota\>\<mu\>\<alpha\>\<sigma\>\<alpha\>\<tau\>\<varepsilon\>
       \<tau\>\<eta\>\<nu\> \<omicron\>\<delta\>\<omicron\>\<nu\>
       \<Kappa\>\<Upsilon\>\<Rho\>\<Iota\>\<Omicron\>\<Upsilon\>,
       \<varepsilon\>\<upsilon\>\<theta\>\<varepsilon\>\<iota\>\<alpha\>\<varsigma\>
       \<pi\>\<omicron\>\<iota\>\<varepsilon\>\<iota\>\<tau\>\<varepsilon\>
       \<tau\>\<alpha\>\<varsigma\> \<tau\>\<rho\>\<iota\>\<beta\>\<omicron\>\<upsilon\>\<varsigma\>
-      \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>.\Q<assign|color|black>
+      \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>.\Q\T<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -6675,14 +6687,14 @@
       \<lambda\>\<varepsilon\>\<gamma\>\<varepsilon\>\<iota\>
       \<alpha\>\<upsilon\>\<tau\>\<omega\> \<omicron\>
       \<Iota\>\<Eta\>\<Sigma\>\<Omicron\>\<Upsilon\>\<Sigma\>,
-      \P\<Upsilon\>\<pi\>\<alpha\>\<gamma\>\<varepsilon\>,
+      \S\<Upsilon\>\<pi\>\<alpha\>\<gamma\>\<varepsilon\>,
       \<Sigma\>\<alpha\>\<tau\>\<alpha\>\<nu\>\<alpha\>\<centerdot\>
       \<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>
-      \<gamma\>\<alpha\>\<rho\>, `\<Kappa\>\<Upsilon\>\<Rho\>\<Iota\>\<Omicron\>\<Nu\>
+      \<gamma\>\<alpha\>\<rho\>, \P\<Kappa\>\<Upsilon\>\<Rho\>\<Iota\>\<Omicron\>\<Nu\>
       \<tau\>\<omicron\>\<nu\> \<Theta\>\<Epsilon\>\<Omicron\>\<Nu\>
       \<sigma\>\<omicron\>\<upsilon\> \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<upsilon\>\<nu\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>,
       \<kappa\>\<alpha\>\<iota\> \<alpha\>\<upsilon\>\<tau\>\<omega\>
-      \<mu\>\<omicron\>\<nu\>\<omega\> \<lambda\>\<alpha\>\<tau\>\<rho\>\<varepsilon\>\<upsilon\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>.\Q<assign|color|black>
+      \<mu\>\<omicron\>\<nu\>\<omega\> \<lambda\>\<alpha\>\<tau\>\<rho\>\<varepsilon\>\<upsilon\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>.\Q\T<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -7015,12 +7027,12 @@
       lookup StatResGNT Matthew 5:31
     <|unfolded-io>
       <assign|color|blue>\<Epsilon\>\<rho\>\<rho\>\<varepsilon\>\<theta\>\<eta\>
-      \<delta\>\<varepsilon\>, `\<Omicron\>\<varsigma\> \<alpha\>\<nu\>
+      \<delta\>\<varepsilon\>, \P\<Omicron\>\<varsigma\> \<alpha\>\<nu\>
       \<alpha\>\<pi\>\<omicron\>\<lambda\>\<upsilon\>\<sigma\>\<eta\>
       \<tau\>\<eta\>\<nu\> \<gamma\>\<upsilon\>\<nu\>\<alpha\>\<iota\>\<kappa\>\<alpha\>
       \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>,
       \<delta\>\<omicron\>\<tau\>\<omega\> \<alpha\>\<upsilon\>\<tau\>\<eta\>
-      \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<alpha\>\<sigma\>\<iota\>\<omicron\>\<nu\>.<assign|color|black>
+      \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<alpha\>\<sigma\>\<iota\>\<omicron\>\<nu\>.\Q<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -7663,7 +7675,7 @@
       \<varepsilon\>\<sigma\>\<tau\>\<iota\>\<nu\>
       \<pi\>\<varepsilon\>\<rho\>\<iota\> \<omicron\>\<upsilon\>
       \<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>,
-      `\<Iota\>\<delta\>\<omicron\>\<upsilon\>,
+      \P\<Iota\>\<delta\>\<omicron\>\<upsilon\>,
       \<varepsilon\>\<gamma\>\<omega\> \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<varepsilon\>\<lambda\>\<lambda\>\<omega\>
       \<tau\>\<omicron\>\<nu\> \<alpha\>\<gamma\>\<gamma\>\<varepsilon\>\<lambda\>\<omicron\>\<nu\>
       \<mu\>\<omicron\>\<upsilon\> \<pi\>\<rho\>\<omicron\>
@@ -7672,7 +7684,7 @@
       \<kappa\>\<alpha\>\<tau\>\<alpha\>\<sigma\>\<kappa\>\<varepsilon\>\<upsilon\>\<alpha\>\<sigma\>\<varepsilon\>\<iota\>
       \<tau\>\<eta\>\<nu\> \<omicron\>\<delta\>\<omicron\>\<nu\>
       \<sigma\>\<omicron\>\<upsilon\> \<varepsilon\>\<mu\>\<pi\>\<rho\>\<omicron\>\<sigma\>\<theta\>\<varepsilon\>\<nu\>
-      \<sigma\>\<omicron\>\<upsilon\>.<assign|color|black>
+      \<sigma\>\<omicron\>\<upsilon\>.\Q<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -7998,7 +8010,7 @@
     <|unfolded-io>
       lookup StatResGNT Matthew 12:18
     <|unfolded-io>
-      <assign|color|blue>\P\<Iota\>\<delta\>\<omicron\>\<upsilon\>,
+      <assign|color|blue>\S\<Iota\>\<delta\>\<omicron\>\<upsilon\>,
       \<omicron\> \<pi\>\<alpha\>\<iota\>\<varsigma\>
       \<mu\>\<omicron\>\<upsilon\> \<omicron\>\<nu\>
       \<eta\>\<rho\>\<varepsilon\>\<tau\>\<iota\>\<sigma\>\<alpha\>,
@@ -8610,7 +8622,7 @@
       \<pi\>\<rho\>\<omicron\>\<varphi\>\<eta\>\<tau\>\<varepsilon\>\<iota\>\<alpha\>
       \<Eta\>\<sigma\>\<alpha\>\<#390\>\<omicron\>\<upsilon\> \<eta\>
       \<lambda\>\<varepsilon\>\<gamma\>\<omicron\>\<upsilon\>\<sigma\>\<alpha\>,
-      `\<Alpha\>\<kappa\>\<omicron\>\<eta\>
+      \P\<Alpha\>\<kappa\>\<omicron\>\<eta\>
       \<alpha\>\<kappa\>\<omicron\>\<upsilon\>\<sigma\>\<varepsilon\>\<tau\>\<varepsilon\>
       \<kappa\>\<alpha\>\<iota\> \<omicron\>\<upsilon\> \<mu\>\<eta\>
       \<sigma\>\<upsilon\>\<nu\>\<eta\>\<tau\>\<varepsilon\>,
@@ -8647,7 +8659,7 @@
       \<sigma\>\<upsilon\>\<nu\>\<omega\>\<sigma\>\<iota\>\<nu\>,
       \<kappa\>\<alpha\>\<iota\> \<varepsilon\>\<pi\>\<iota\>\<sigma\>\<tau\>\<rho\>\<varepsilon\>\<psi\>\<omega\>\<sigma\>\<iota\>\<nu\>
       \<kappa\>\<alpha\>\<iota\> \<iota\>\<alpha\>\<sigma\>\<omicron\>\<mu\>\<alpha\>\<iota\>
-      \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>\<varsigma\>.<assign|color|black>
+      \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>\<varsigma\>.\Q<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -8834,13 +8846,13 @@
       \<delta\>\<iota\>\<alpha\> \<tau\>\<omicron\>\<upsilon\>
       \<pi\>\<rho\>\<omicron\>\<varphi\>\<eta\>\<tau\>\<omicron\>\<upsilon\>
       \<lambda\>\<varepsilon\>\<gamma\>\<omicron\>\<nu\>\<tau\>\<omicron\>\<varsigma\>,
-      \P\<Alpha\>\<nu\>\<omicron\>\<iota\>\<xi\>\<omega\>
+      \S\<Alpha\>\<nu\>\<omicron\>\<iota\>\<xi\>\<omega\>
       \<varepsilon\>\<nu\> \<pi\>\<alpha\>\<rho\>\<alpha\>\<beta\>\<omicron\>\<lambda\>\<alpha\>\<iota\>\<varsigma\>
       \<tau\>\<omicron\> \<sigma\>\<tau\>\<omicron\>\<mu\>\<alpha\>
       \<mu\>\<omicron\>\<upsilon\>, \<varepsilon\>\<rho\>\<varepsilon\>\<upsilon\>\<xi\>\<omicron\>\<mu\>\<alpha\>\<iota\>
       \<kappa\>\<varepsilon\>\<kappa\>\<rho\>\<upsilon\>\<mu\>\<mu\>\<varepsilon\>\<nu\>\<alpha\>
       \<alpha\>\<pi\>\<omicron\> \<kappa\>\<alpha\>\<tau\>\<alpha\>\<beta\>\<omicron\>\<lambda\>\<eta\>\<varsigma\>
-      \<kappa\>\<omicron\>\<sigma\>\<mu\>\<omicron\>\<upsilon\>.\Q<assign|color|black>
+      \<kappa\>\<omicron\>\<sigma\>\<mu\>\<omicron\>\<upsilon\>.\T<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -9366,11 +9378,11 @@
       \<mu\>\<varepsilon\>\<tau\>\<alpha\> \<sigma\>\<omicron\>\<upsilon\>
       \<varepsilon\>\<tau\>\<iota\>, \<varepsilon\>\<nu\>\<alpha\> \<eta\>
       \<delta\>\<upsilon\>\<omicron\>, \<iota\>\<nu\>\<alpha\>
-      `\<varepsilon\>\<pi\>\<iota\> \<sigma\>\<tau\>\<omicron\>\<mu\>\<alpha\>\<tau\>\<omicron\>\<varsigma\>
+      \P\<varepsilon\>\<pi\>\<iota\> \<sigma\>\<tau\>\<omicron\>\<mu\>\<alpha\>\<tau\>\<omicron\>\<varsigma\>
       \<delta\>\<upsilon\>\<omicron\> \<mu\>\<alpha\>\<rho\>\<tau\>\<upsilon\>\<rho\>\<omega\>\<nu\>
       \<eta\> \<tau\>\<rho\>\<iota\>\<omega\>\<nu\>,
       \<sigma\>\<tau\>\<alpha\>\<theta\>\<eta\> \<pi\>\<alpha\>\<nu\>
-      \<rho\>\<eta\>\<mu\>\<alpha\>.<assign|color|black>
+      \<rho\>\<eta\>\<mu\>\<alpha\>\Q.<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -9483,9 +9495,7 @@
 
   A fenti bibref-kommunikációban két újszövetségi szövegvariánst is
   megnéztünk, hogy azok szerkeszt®i idézetnek veszik-e a Máté 18:16 végét. A
-  <verbatim|StatResGNT> igen, az <verbatim|SBLGNT> nem. (Egy technikai hiba
-  miatt a csukó aposztróf lemaradt a <verbatim|StatResGNT>-idézet végér®l, de
-  a hivatalos szövegben ott van az idéz®jel.) A
+  <verbatim|StatResGNT> igen, az <verbatim|SBLGNT> nem. A
   <slink|https://greekcntr.org/collation/index.html?&v=40018016> weboldalon
   is látható (<reference|mt-18-16>.<strong| >ábra), hogy a listázott modern
   Újszövetség-kiadások közül csak a <verbatim|StatResGNT> (a képen SR)
@@ -9664,14 +9674,14 @@
       lookup StatResGNT Matthew 19:7
     <|unfolded-io>
       <assign|color|blue>\<Lambda\>\<varepsilon\>\<gamma\>\<omicron\>\<upsilon\>\<sigma\>\<iota\>\<nu\>
-      \<alpha\>\<upsilon\>\<tau\>\<omega\>, \P\<Tau\>\<iota\>
+      \<alpha\>\<upsilon\>\<tau\>\<omega\>, \S\<Tau\>\<iota\>
       \<omicron\>\<upsilon\>\<nu\> \<Mu\>\<omega\>\<upsilon\>\<sigma\>\<eta\>\<varsigma\>
       \<varepsilon\>\<nu\>\<varepsilon\>\<tau\>\<varepsilon\>\<iota\>\<lambda\>\<alpha\>\<tau\>\<omicron\>
-      `\<delta\>\<omicron\>\<upsilon\>\<nu\>\<alpha\>\<iota\>
+      \P\<delta\>\<omicron\>\<upsilon\>\<nu\>\<alpha\>\<iota\>
       \<beta\>\<iota\>\<beta\>\<lambda\>\<iota\>\<omicron\>\<nu\>
       \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<alpha\>\<sigma\>\<iota\>\<omicron\>\<upsilon\>
       \<kappa\>\<alpha\>\<iota\> \<alpha\>\<pi\>\<omicron\>\<lambda\>\<upsilon\>\<sigma\>\<alpha\>\<iota\>
-      \<alpha\>\<upsilon\>\<tau\>\<eta\>\<nu\>;\Q<assign|color|black>
+      \<alpha\>\<upsilon\>\<tau\>\<eta\>\<nu\>\Q;\T<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -10343,23 +10353,23 @@
       <assign|color|blue>\<Kappa\>\<alpha\>\<iota\>
       \<lambda\>\<varepsilon\>\<gamma\>\<varepsilon\>\<iota\>
       \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<iota\>\<varsigma\>,
-      \P\<Gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>,
-      `\<Omicron\> \<omicron\>\<iota\>\<kappa\>\<omicron\>\<varsigma\>
+      \S\<Gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>,
+      \P\<Omicron\> \<omicron\>\<iota\>\<kappa\>\<omicron\>\<varsigma\>
       \<mu\>\<omicron\>\<upsilon\> \<omicron\>\<iota\>\<kappa\>\<omicron\>\<varsigma\>
       \<pi\>\<rho\>\<omicron\>\<sigma\>\<varepsilon\>\<upsilon\>\<chi\>\<eta\>\<varsigma\>
-      \<kappa\>\<lambda\>\<eta\>\<theta\>\<eta\>\<sigma\>\<varepsilon\>\<tau\>\<alpha\>\<iota\>,
+      \<kappa\>\<lambda\>\<eta\>\<theta\>\<eta\>\<sigma\>\<varepsilon\>\<tau\>\<alpha\>\<iota\>\Q,
       \<upsilon\>\<mu\>\<varepsilon\>\<iota\>\<varsigma\>
       \<delta\>\<varepsilon\> \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<nu\>
       \<pi\>\<omicron\>\<iota\>\<varepsilon\>\<iota\>\<tau\>\<varepsilon\>
-      `\<sigma\>\<pi\>\<eta\>\<lambda\>\<alpha\>\<iota\>\<omicron\>\<nu\>
-      \<lambda\>\<eta\>\<sigma\>\<tau\>\<omega\>\<nu\>.\Q<assign|color|black>
+      \P\<sigma\>\<pi\>\<eta\>\<lambda\>\<alpha\>\<iota\>\<omicron\>\<nu\>
+      \<lambda\>\<eta\>\<sigma\>\<tau\>\<omega\>\<nu\>\Q.\T<assign|color|black>
     </unfolded-io>
   </session>
 
   Ismét egy kett®s idézet: két ószövetségi szakaszt f¶z egybe Jézus, amikor
-  beolvas a templomi keresked®knek. Itt nem látszik jól, de a
-  <verbatim|StatResGNT>-ben valójában két szövegdarab van aposztróf közé
-  téve, ahogyan a fenti diagram is mutatja.
+  beolvas a templomi keresked®knek. A <verbatim|StatResGNT>-ben két
+  szövegdarab van beágyazott idéz®jelek közé téve, ahogyan a fenti diagram is
+  mutatja.
 
   Az Ézsaiás-idézet kontextusa érdekes módon azoknak hirdet els®sorban
   örömöt, akik társadalmilag kirekesztettek: az idegeneknek és a herélteknek.
@@ -11309,7 +11319,7 @@
     <|unfolded-io>
       <assign|color|blue>\<Omicron\> \<delta\>\<varepsilon\>
       \<varepsilon\>\<varphi\>\<eta\> \<alpha\>\<upsilon\>\<tau\>\<omega\>,
-      \P`\<Alpha\>\<gamma\>\<alpha\>\<pi\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>
+      \S\P\<Alpha\>\<gamma\>\<alpha\>\<pi\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>
       \<Kappa\>\<Upsilon\>\<Rho\>\<Iota\>\<Omicron\>\<Nu\>
       \<tau\>\<omicron\>\<nu\> \<Theta\>\<Epsilon\>\<Omicron\>\<Nu\>
       \<sigma\>\<omicron\>\<upsilon\> \<varepsilon\>\<nu\>
@@ -11320,7 +11330,7 @@
       \<kappa\>\<alpha\>\<iota\> \<varepsilon\>\<nu\>
       \<omicron\>\<lambda\>\<eta\> \<tau\>\<eta\>
       \<delta\>\<iota\>\<alpha\>\<nu\>\<omicron\>\<iota\>\<alpha\>
-      \<sigma\>\<omicron\>\<upsilon\>.<assign|color|black>
+      \<sigma\>\<omicron\>\<upsilon\>.\Q<assign|color|black>
     </unfolded-io>
 
     <\unfolded-io>
@@ -11861,7 +11871,7 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-56030A218--55F6F2468>|<link|hyperlink|<id|%-56030A218--55F6F2468>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%14ADC6FA8-14BAC8748>|<link|hyperlink|<id|%14ADC6FA8-14BAC8748>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
       </surround>|<pageref|auto-45>>
 
