@@ -167,7 +167,7 @@
 
   A görög annyira a tudományos élet kommunikációs nyelvévé vált, hogy a
   fontos m¶veket görögül is elérhet®vé tették az akkori kor nagyjai. Jól
-  ismert projekt a Septuaginta keletkezésének története, amelyben a héber
+  ismert projekt a Szeptuaginta keletkezésének története, amelyben a héber
   nyelv¶ Ószövetséget egy szakfordítói csoport görögre fordította. Mindez a
   Kr.<strong| >e.<strong| >3.<strong| >században történt II.<strong|
   >Ptolemaiosz fáraó uralkodása idején az egyiptomi Alexandriában.
@@ -182,7 +182,7 @@
   mert h¶tlenné váltak hozzám, és én elrejtettem arcomat el®lük; ellenségeik
   kezébe adtam ®ket, és sokan elestek fegyver által.\Q (Ez 39:23)
 
-  Bizonyos értelmezések szerint a Septuaginta létrejötte része ennek az
+  Bizonyos értelmezések szerint a Szeptuaginta létrejötte része ennek az
   isteni ítéletnek, úgymond prekurzora annak a katasztrófának, ami a
   zsidóságot Kr.<strong| >u.<strong| >70-ben a jeruzsálemi templom
   megsemisítésével érte. A zsidóság ebben az id®ben egy újabb szétszóratást
@@ -196,7 +196,7 @@
   rettenetes id®k várhatók, ha a zsidóság nem engedelmeskedik Istennek, és
   nem ismeri fel Megváltóját a közöttük járó Krisztusban. Az újszövetségi
   görög szövegek pedig (ahogyan látni fogjuk) számos helyen egyértelm¶en a
-  rendelkezésre álló görög Septuaginta szövegére hagyatkoznak, nem pedig a
+  rendelkezésre álló görög Szeptuaginta szövegére hagyatkoznak, nem pedig a
   héber eredetire. Ez azt sejteti, hogy a történelem menete (vagy, ha jobban
   tetszik: Isten terve) a zsidóságot a krisztusi id®ket követ®en egyértelm¶en
   félreállította abból a szerepb®l, hogy mint nép példát adjanak a többinek a
@@ -7005,8 +7005,9 @@
     </unfolded-io>
   </session>
 
-  Sem ez, sem az ezt megel®z® parancsolat nem számít egyedinek (a bibref
-  program szerint), mert az 5Móz 5,17-18-ban megismétl®dnek.
+  (A magyar fordításban ez a 2Móz 20:14.) Sem ez, sem az ezt megel®z®
+  parancsolat nem számít egyedinek (a bibref program szerint), mert az 5Móz
+  5,17-18-ban megismétl®dnek.
 
   A következ® két \Pmegmondatott\Q bevezetés¶ igeverset nehezen találjuk meg
   az Ószövetségben. Az els® itt található:
@@ -8087,7 +8088,7 @@
   néz®pontot er®sítse az olvasóban, vagyis felhívja a figyelmet a régi üzenet
   aktualitására.
 
-  A figyelmes olvasó azt is észreveheti, hogy az <verbatim|LXX>-ben nem az
+  A figyelmes Olvasó azt is észreveheti, hogy az <verbatim|LXX>-ben nem az
   \Píme\Q szóval, hanem a \PJákób\Q névvel kezd®dik az Ézs 42, tehát egészen
   biztos, hogy Máté új jelentéstartalmat is visz a szövegbe. Szabad ilyet
   csinálni? Nos, az ókori szerz®knél, köztük az Újszövetség íróinál is bevett
@@ -9711,7 +9712,7 @@
   De apropó, Mózes nem egészen ezt mondta! Mózest®l a farizeusok inkább csak
   kiragadtak egy részgondolatot, s azt tették meg f®gondolatnak. Így jogos
   lehet a kritikánk, hogy itt valójában nem idézettel állunk szemben, hanem
-  inkább egy pontatlanul fölvetett kérdésnek. Az olvasó ezek után bizonyára
+  inkább egy pontatlanul fölvetett kérdésnek. Az Olvasó ezek után bizonyára
   nem bánja, ha a farizeusok által összeállított mondat és az 5Móz 24
   elejének szavai közötti összehasonlítástól \U ami úgysem vezetne látványos
   eredményre \U eltekintünk.
@@ -11410,7 +11411,7 @@
   >a Józsuéban.
 
   A második diagram egyszer¶bben átlátható, de ott is van pár apróság, ami
-  néhány olvasónak felt¶nhet. Ott két bevezet® is fel lett tüntetve: a
+  néhány Olvasónak felt¶nhet. Ott két bevezet® is fel lett tüntetve: a
   22:36-tól olvasható 43 bet¶s szakasz, ami a farizeusok kérdésfelvetését is
   magába foglalja, ezt követi 74 bet¶ (ami a Máté 27:37+10 27:37, vagyis a
   tényleges els® idézet), majd a második bevezet®, ami magába foglalja a
@@ -11982,7 +11983,7 @@
   A Máté-evangélium egészének újraolvasásával talán további utalásokat
   találnánk az Ószövetségre. Már az itt bemutatott, olykor rejtett
   kapcsolatok is arra ösztökélhetnek bennünket, hogy olvassuk (illet®leg:
-  újra és újraolvassuk) az Újszövetséget pontosan ezzel az attit¶ddel! Ha
+  újra- és újraolvassuk) az Újszövetséget pontosan ezzel az attit¶ddel! Ha
   meggy®z®dtünk arról, hogy az evangéliumi történet nem egy random sztori,
   ami jól eladható bizonyos tömegek számára, hanem egy annál sokkal mélyebb,
   az isteni tervbe tökéletesen beleill® eseménysor, akkor bizonyára
@@ -11991,6 +11992,261 @@
   olvasva még inkább feltárul el®ttünk Isten terve, amelynek talán mi is
   részesei, szerepl®i lehetünk. Akár úgy, hogy a zsidóság hagyományából
   jövünk, akár úgy, hogy azon kívül, a \Pnépek\Q közül.
+
+  <subsection|Összefoglalás>
+
+  A Máté-evangélium nem ér véget Jézus halálával. Az utolsó, 28.<strong|
+  >fejezet arról szól, hogy Jézust az ®t bebalzsamozni akaró asszonyok nem
+  találják a sírboltban. Egy villámló tekintet¶, fehér ruhás angyal igazítja
+  el ®ket, aki elhengeríti a követ a sírbolt el®l, s leül rá. \PNincsen itt,
+  mert feltámadt, amint megmondta.\Q (28:6)
+
+  \PAmint megmondta.\Q Korábban az Írás szólt, mostantól pedig a Fiú beszél.
+  Várja a tanítványokat Galileában, a szül®földjükön, otthon: ezt üzeni.
+  Aztán személyesen is megjelenik, és személyesen is meger®síti az üzenetet
+  az asszonyokon keresztül: \PNe féljetek! Menjetek el, adjátok hírül
+  testvéreimnek, hogy menjenek Galileába, és ott meglátnak engem.\Q (28:10)
+
+  Tényleg így is lesz, Galileában valóban létrejön a találkozó, ahol új
+  feladatokat bíz a tanítványokra, majd ígéri: \Píme, én veletek vagyok
+  minden napon a világ végezetéig.\Q (28:20)
+
+  A Máté-evangélium gyorsabban véget ér, mint a másik három evangélium;
+  Lukács pedig még tovább is meséli a történetet a pünkösdi történésekkel és
+  az azután következ® nagy kalanddal: a keresztény gyülekezet megalakulásával
+  és fejl®désével. Ezeket kés®bb mi is szemügyre vesszük majd a fentiekhez
+  hasonlóan. Itt azonban hadd adjunk egy összefoglalót Máté evangéliumáról,
+  különös tekintettel a megvizsgált idézetekre.
+
+  <\big-table|<tabular|<tformat|<table|<row|<cell|<tformat|<cwith|1|-1|1|-1|par-mode|center>|<cwith|1|-1|1|-1|cell-halign|c>|<cwith|1|1|1|-1|cell-tborder|0ln>|<cwith|1|1|1|-1|cell-bborder|1ln>|<cwith|2|2|1|-1|cell-tborder|1ln>|<cwith|1|1|2|2|cell-lborder|0ln>|<cwith|1|1|3|3|cell-rborder|0ln>|<table|<row|<cell|Sorszám>|<cell|Máté-vers>|<cell|Idézett
+  vers>>|<row|<cell|1.>|<cell|1:23>|<cell|Ézs
+  7:14>>|<row|<cell|2.>|<cell|2:6>|<cell|2Sám 5:2, Mik
+  5:1>>|<row|<cell|3.>|<cell|2:15>|<cell|Hós
+  11:1>>|<row|<cell|4.>|<cell|2:18>|<cell|Jer
+  31:16>>|<row|<cell|5.>|<cell|3:3>|<cell|Ézs
+  40:3>>|<row|<cell|6.>|<cell|4:4>|<cell|5Móz
+  8:3>>|<row|<cell|7.>|<cell|4:6>|<cell|Zsolt
+  91:11>>|<row|<cell|8.>|<cell|4:7>|<cell|5Móz
+  6:16>>|<row|<cell|9.>|<cell|4:10>|<cell|5Móz
+  6:13>>|<row|<cell|10.>|<cell|4:15>|<cell|Ézs
+  8:23>>|<row|<cell|11.>|<cell|5:21>|<cell|2Móz
+  20:13>>|<row|<cell|12.>|<cell|5:27>|<cell|2Móz
+  20:14>>|<row|<cell|13.>|<cell|5:38>|<cell|2Móz
+  21:24>>|<row|<cell|14.>|<cell|5:43>|<cell|3Móz
+  19:18>>|<row|<cell|15.>|<cell|8:17>|<cell|Ézs
+  53:4>>|<row|<cell|16.>|<cell|9:13>|<cell|Hós
+  6:6>>|<row|<cell|17.>|<cell|11:10>|<cell|2Móz
+  23:20>>|<row|<cell|18.>|<cell|12:7>|<cell|Hós
+  6:6>>|<row|<cell|19.>|<cell|12:18>|<cell|Ézs
+  42:1>>|<row|<cell|20.>|<cell|12:40>|<cell|Jón
+  2:1>>|<row|<cell|21.>|<cell|13:14>|<cell|Ézs
+  6:9>>|<row|<cell|22.>|<cell|13:35>|<cell|Zsolt
+  78:2>>|<row|<cell|23.>|<cell|15:4>|<cell|2Móz
+  20:12>>|<row|<cell|24.>|<cell|15:4>|<cell|2Móz
+  21:16>>|<row|<cell|25.>|<cell|15:8>|<cell|Ézs
+  29:13>>|<row|<cell|26.>|<cell|18:16>|<cell|5Móz
+  19:15>>|<row|<cell|27.>|<cell|19:4>|<cell|1Móz
+  1:27>>|<row|<cell|28.>|<cell|19:5>|<cell|1Móz
+  2:24>>|<row|<cell|29.>|<cell|19:18>|<cell|2Móz
+  20:12-16>>|<row|<cell|30.>|<cell|19:19>|<cell|3Móz
+  19:18>>|<row|<cell|31.>|<cell|21:5>|<cell|Ézs 62:11, Zak
+  9:9>>|<row|<cell|32.>|<cell|21:9>|<cell|Zsolt
+  118:26>>|<row|<cell|33.>|<cell|21:13>|<cell|Ézs 56:7, Jer
+  7:11>>|<row|<cell|34.>|<cell|21:16>|<cell|Zsolt
+  8:3>>|<row|<cell|35.>|<cell|21:42>|<cell|Zsolt
+  118:22>>|<row|<cell|36.>|<cell|22:32>|<cell|2Móz
+  3:6>>|<row|<cell|37.>|<cell|22:37>|<cell|5Móz 6:5, Józs
+  22:5>>|<row|<cell|38.>|<cell|22:39>|<cell|3Móz
+  19:18>>|<row|<cell|39.>|<cell|22:44>|<cell|Zsolt
+  110:1>>|<row|<cell|40.>|<cell|23:39>|<cell|Zsolt
+  118:26>>|<row|<cell|41.>|<cell|24:15>|<cell|Dán
+  9:27>>|<row|<cell|42.>|<cell|26:31>|<cell|Zak
+  13:7>>|<row|<cell|43.>|<cell|27:9>|<cell|Zak 11:13>>>>>>>>>>
+    <label|mt-idezetek>Összefoglaló táblázat a Máté-evangéliumban szerepl®
+    idézetekr®l.
+  </big-table>
+
+  A <reference|mt-idezetek>.<strong| >táblázatban foglaltuk össze a tárgyalt
+  idézeteket, szám szerint 43-at. Kés®bb fogjuk látni, hogy ez egy igen magas
+  szám, csak kevés újszövetségi szerz® ment ilyen részletességgel bele az
+  ószövetségi el®rejelzések elemzésébe. Jól látszik, hogy számos ószövetségi
+  könyv említésre kerül: Mózes 4.<strong| >könyvét leszámítva mind az 5
+  mózesi könyv, Józsué, 2Sámuel, számos zsoltár (így a 8., 78., 91., 110. és
+  118.), valamint sok prófétai könyv: Ézsaiás, Mikeás, Hóseás, Jeremiás,
+  Jónás, Zakariás és Dániel. Összesen 14 könyv.
+
+  A Biblia szavahihet®ségének kérdése mindig is aktuális volt. Azt a fentiek
+  alapján nyilván nem állíthatjuk biztonsággal, hogy a Bibliát most már
+  teljes egészében szavahihet® könyvnek fogadjuk el. Az viszont tény, hogy
+  Máté (egyúttal Jézus, a kor tanult emberei, de maga a Sátán is) biztos
+  alapnak tekinti az Ószövetség számos könyvét. Nem kérdés, hogy bizonyos
+  szövegek bet¶ szerint legyenek idézve, akár egészen hosszú szakaszok is. Ez
+  arra enged következtetni, hogy az eredetileg héber szöveg görög
+  <with|font-shape|italic|fordítását> is különlegesnek tekintették: akár bet¶
+  szerint is megbízható alapnak ahhoz, hogy következtetéseket vonjanak le
+  bel®le.
+
+  A héber szövegek szakért®i gyakran említik kritikaként, hogy lehetetlen a
+  héber szöveget tökéletesen átültetni más nyelvekre. Ez persze a más
+  nyelvekb®l további nyelvekre fordítással is gyakran így van. Ha a
+  héber-görög fordítás kapcsán csak arra gondolunk, hogy a 119.<strong|
+  >zsoltár egy olyan, 22 db 8-soros versszakból áll, melyben minden sor
+  ugyanazzal a héber bet¶vel kezd®dik, mindjárt elfogadjuk, hogy ezt más
+  nyelvekre átültetni (így görögre is) igencsak nehéz vállalkozás. Íme a
+  119.<strong| >zsoltár els® néhány verse héberül:
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:1
+    <|unfolded-io>
+      \<#5D4\>\<#5D5\>\<#5D4\>\<#5D9\> \<#5EA\>\<#5E8\>\<#5D5\>\<#5EA\>\<#5D1\>
+      \<#5DD\>\<#5D9\>\<#5DB\>\<#5DC\>\<#5D4\>\<#5D4\>
+      \ \V\<#5DA\>\<#5E8\>\<#5D3\>-\<#5D9\>\<#5DE\>\<#5D9\>\<#5DE\>\<#5EA\>
+      \<#5D9\>\<#5E8\>\<#5E9\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:2
+    <|unfolded-io>
+      \<#5D5\>\<#5D4\>\<#5D5\>\<#5E9\>\<#5E8\>\<#5D3\>\<#5D9\>
+      \<#5D1\>\<#5DC\>-\<#5DC\>\<#5DB\>\<#5D1\>
+      \ \<#5D5\>\<#5D9\>\<#5EA\>\<#5D3\>\<#5E2\>
+      \<#5D9\>\<#5E8\>\<#5E6\>\<#5E0\> \<#5D9\>\<#5E8\>\<#5E9\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:3
+    <|unfolded-io>
+      \<#5D5\>\<#5DB\>\<#5DC\>\<#5D4\> \<#5D5\>\<#5D9\>\<#5DB\>\<#5E8\>\<#5D3\>\<#5D1\>
+      \ \<#5D4\>\<#5DC\>\<#5D5\>\<#5E2\> \<#5D5\>\<#5DC\>\<#5E2\>\<#5E4\>-\<#5D0\>\<#5DC\>
+      \<#5E3\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:4
+    <|unfolded-io>
+      \<#5D3\>\<#5D0\>\<#5DE\> \<#5E8\>\<#5DE\>\<#5E9\>\<#5DC\>
+      \ \V\<#5DA\>\<#5D9\>\<#5D3\>\<#5E7\>\<#5E4\>
+      \<#5D4\>\<#5EA\>\<#5D9\>\<#5D5\>\<#5E6\> \<#5D4\>\<#5EA\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:5
+    <|unfolded-io>
+      \<#5DA\>\<#5D9\>\<#5E7\>\<#5D7\> \<#5E8\>\<#5DE\>\<#5E9\>\<#5DC\>
+      \ \V\<#5D9\>\<#5DB\>\<#5E8\>\<#5D3\> \<#5D5\>\<#5E0\>\<#5DB\>\<#5D9\>
+      \<#5D9\>\<#5DC\>\<#5D7\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:6
+    <|unfolded-io>
+      \<#5DA\>\<#5D9\>\<#5EA\>\<#5D5\>\<#5E6\>\<#5DE\>-\<#5DC\>\<#5DB\>-\<#5DC\>\<#5D0\>
+      \<#5D9\>\<#5D8\>\<#5D9\>\<#5D1\>\<#5D4\>\<#5D1\>
+      \ \V\<#5E9\>\<#5D5\>\<#5D1\>\<#5D0\>-\<#5D0\>\<#5DC\> \<#5D6\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:7
+    <|unfolded-io>
+      \<#5DA\>\<#5E7\>\<#5D3\>\<#5E6\> \<#5D9\>\<#5D8\>\<#5E4\>\<#5E9\>\<#5DE\>
+      \<#5D9\>\<#5D3\>\<#5DE\>\<#5DC\>\<#5D1\> \ \V\<#5D1\>\<#5D1\>\<#5DC\>
+      \<#5E8\>\<#5E9\>\<#5D9\>\<#5D1\> \<#5DA\>\<#5D3\>\<#5D5\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:8
+    <|unfolded-io>
+      \<#5D3\>\<#5D0\>\<#5DE\>-\<#5D3\>\<#5E2\>
+      \<#5D9\>\<#5E0\>\<#5D1\>\<#5D6\>\<#5E2\>\<#5EA\>-\<#5DC\>\<#5D0\>
+      \ \<#5E8\>\<#5DE\>\<#5E9\>\<#5D0\> \<#5DA\>\<#5D9\>\<#5E7\>\<#5D7\>-\<#5EA\>\<#5D0\>
+    </unfolded-io>
+
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:9
+    <|unfolded-io>
+      \<#5DA\>\<#5E8\>\<#5D1\>\<#5D3\>\<#5DB\>
+      \<#5E8\>\<#5DE\>\<#5E9\>\<#5DC\> \ \V\<#5D5\>\<#5D7\>\<#5E8\>\<#5D0\>-\<#5EA\>\<#5D0\>
+      \<#5E8\>\<#5E2\>\<#5E0\>-\<#5D4\>\<#5DB\>\<#5D6\>\<#5D9\>
+      \<#5D4\>\<#5DE\>\<#5D1\>
+    </unfolded-io>
+  </session>
+
+  És így tovább, az els® 8 vers jobb szélén jól látszik a kezd®
+  <verbatim|\<#5D0\>> (alef), ami azután <verbatim|\<#5D1\>> (beth) bet¶be,
+  majd <verbatim|\<#5D2\>> (gimel) bet¶be, és így tovább, megy át, egészen a
+  176.<strong| >versig (a héber ábécé utolsó bet¶je a <verbatim|\<#5EA\>>,
+  \Ptaf\Q):
+
+  <\session|bibref|default>
+    <\unfolded-io>
+      \<gtr\>\ 
+    <|unfolded-io>
+      lookup Aleppo Psalms 119:176
+    <|unfolded-io>
+      \<#5DA\>\<#5D3\>\<#5D1\>\<#5E2\> \<#5E9\>\<#5E7\>\<#5D1\>
+      \<#5D3\>\<#5D1\>\<#5D0\> \<#5D4\>\<#5E9\>\<#5DB\>
+      \ \V\<#5D9\>\<#5EA\>\<#5D9\>\<#5E2\>\<#5EA\>
+
+      \<#5D9\>\<#5EA\>\<#5D7\>\<#5DB\>\<#5E9\> \<#5D0\>\<#5DC\>
+      \ \<#5DA\>\<#5D9\>\<#5EA\>\<#5D5\>\<#5E6\>\<#5DE\> \<#5D9\>\<#5DB\>
+    </unfolded-io>
+  </session>
+
+  Mit tehet ilyenkor egy fordító? A Szeptuaginta fordítói elégedettek voltak
+  munkájukkal, és úgy t¶nik, Máté is \Pelég jónak\Q találja a görög
+  szövegeket, amikor hivatkozik rájuk. Kés®bb látni fogjuk, hogy más szerz®k
+  (pl.<strong| >János evangélista) olykor héber szövegeket is közölnek, ha
+  közelebbi képet akarnak adni a történtekr®l.
+
+  A szöveg tehát \Pelég jó\Q, és habár vannak hibái, a magyar fordítás is
+  \Pelég jó\Q. Elegend®en jó ahhoz, hogy akár kívülállóként, akár a zsidó
+  hagyományokat jól ismer® beavatottként megismerkedjünk azzal a történettel,
+  ami 2000 évvel ezel®tt Júdea vidékén játszódott. Dönthetünk úgy, hogy a
+  40-nél is több idézettel alátámasztott történetnek hitelt adunk. De úgy is
+  dönthetünk, hogy a sírbolt el®tt ®rt álló katonáknak hiszünk, akik azt
+  állították, hogy Jézus \Ptanítványai éjjel odajöttek, és ellopták ®t, amíg
+  mi aludtunk.\Q (28:13) Máté szerint ez a verzió terjedt el inkább a zsidók
+  között \Pmind a mai napig\Q (28:15).
+
+  Ha egy személyes érvet felhozhatok: mint matematikusnak, nekem igazán
+  leny¶göz® azt látni, hogy Máté tudományos szempontból is egzakt, pontos
+  munkát végez. Egy másik nép nyelvén, <with|font-shape|italic|nem az
+  anyanyelvén> gy¶jti az összefüggéseket, a bizonyítékokat, és ezeket
+  igyekszik tudományos pontossággal az olvasó elé tárni. Miért tenné ezt, ha
+  csalni akarna? Ha ® maga tudós hozzáállású, akkor feltételezhet®en a
+  célközönsége is legalább részben az. Ha Máté megemlíti, hogy a szóbeszéd
+  szerint Jézus nem feltámadt, csak ellopták, akkor feltételezhet®, hogy
+  megengedi az olvasóközönségének is, hogy játsszon el a gondolattal:
+  lehetett-e így?
+
+  A döntés \U ha még bizonytalan lenne ezek után is \U az Olvasó kezében van.
+  Elegend® bizonyíték mindez arra, hogy valóban Jézus a megígért Messiás, a
+  Szabadító? Egyben tényleg Ž lenne az, aki kimondhatja: \Pnekem adatott
+  minden hatalom mennyen és földön\Q?
+
+  Ne hamarkodjuk el a kérdés megválaszolását, mert ezzel akár a saját életünk
+  teljes átértékelésére is kényszerülünk. De a jó hír: a történetet még három
+  további szerz® tollából is megismerhetjük. Az ® beszámolójuk talán tovább
+  árnyalja, mi is történt ott és akkor, 2000 évvel ezel®tt<text-dots>
 
   <\table-of-contents|toc>
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|El®szó>
@@ -12127,13 +12383,22 @@
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-59>>
 
+    <with|par-left|1tab|2.1.29.<space|2spc>A
+    22.<with|font-series|bold|math-font-series|bold| >zsoltár
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-60>>
+
+    <with|par-left|1tab|2.1.30.<space|2spc>Összefoglalás
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-61>>
+
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-60><vspace|0.5fn>
+    <pageref|auto-63><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-61><vspace|0.5fn>
+    <pageref|auto-64><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -12263,16 +12528,18 @@
     <associate|auto-58|<tuple|2.1.27|85>>
     <associate|auto-59|<tuple|2.1.28|86>>
     <associate|auto-6|<tuple|1.1|10>>
-    <associate|auto-60|<tuple|2.1.29|91>>
-    <associate|auto-61|<tuple|2.1.29|93>>
-    <associate|auto-62|<tuple|2.1.29|?>>
+    <associate|auto-60|<tuple|2.1.29|89>>
+    <associate|auto-61|<tuple|2.1.30|89>>
+    <associate|auto-62|<tuple|2.1|90>>
+    <associate|auto-63|<tuple|2.1|95>>
+    <associate|auto-64|<tuple|2.1|97>>
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
-    <associate|bib-Bunning2022|<tuple|1|93>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|93>>
-    <associate|bib-PfisterGreuel2007|<tuple|3|93>>
-    <associate|bib-Strong1890|<tuple|4|93>>
+    <associate|bib-Bunning2022|<tuple|1|97>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|2|97>>
+    <associate|bib-PfisterGreuel2007|<tuple|3|97>>
+    <associate|bib-Strong1890|<tuple|4|97>>
     <associate|bj-bortonben|<tuple|2.1.13|46>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
     <associate|gorog-angol|<tuple|1.1|8>>
@@ -12280,6 +12547,7 @@
     <associate|hegyi-beszed|<tuple|2.1.10|40>>
     <associate|megismerni-istent|<tuple|2.1.12|45>>
     <associate|mt-18-16|<tuple|2.3|66>>
+    <associate|mt-idezetek|<tuple|2.1|90>>
     <associate|qt-web-lookup|<tuple|1.1|10>>
     <associate|sinaiticus-mt-13-15|<tuple|2.2|58>>
   </collection>
@@ -12372,6 +12640,11 @@
       <hidden-binding|<tuple>|1.1>|>
         \;
       </surround>|<pageref|auto-4>>
+
+      <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
+      <hidden-binding|<tuple>|2.1>|>
+        Összefoglaló táblázat a Máté-evangéliumban szerepl® idézetekr®l.
+      </surround>|<pageref|auto-62>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|El®szó>
@@ -12508,13 +12781,22 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-59>>
 
+      <with|par-left|<quote|1tab>|2.1.29.<space|2spc>A
+      22.<with|font-series|<quote|bold>|math-font-series|<quote|bold>|
+      >zsoltár <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-60>>
+
+      <with|par-left|<quote|1tab>|2.1.30.<space|2spc>Összefoglalás
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-61>>
+
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-60><vspace|0.5fn>
+      <pageref|auto-63><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-61><vspace|0.5fn>
+      <pageref|auto-64><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
