@@ -11923,17 +11923,74 @@
   régi tekercseken Jeremiással együtt szerepelt, és azt a tekercset hívták
   akkoriban Jeremiás-tekercsnek. Amúgy csakugyan van egy példázat Jeremiásnál
   a <with|font-shape|italic|fazekasról> (a 18.<strong| >fejezet elejével
-  kezd®d®en, ahogyan ezt már korábban említettük), tehát akár szándékos is
-  lehet Jeremiás említése Máté részér®l. A 27:10-et azonban ebben a formában
-  nem igazán találjuk az Ószövetségben, így ennek a próféciának a pontos
-  elemzésér®l le kell, hogy tegyünk \U legalábbis ennek a könyvnek a keretein
-  belül.
+  kezd®d®en, ahogyan ezt már korábban említettük) és
+  <with|font-shape|italic|földvásárlásról> is (a 32:44-ben, mégpedig
+  ezüstért), tehát akár szándékos is lehet Jeremiás említése Máté részér®l. A
+  27:10-et azonban ebben a formában nem igazán találjuk az Ószövetségben, így
+  ennek a próféciának a pontos elemzésér®l le kell, hogy tegyünk \U
+  legalábbis ennek a könyvnek a keretein belül.
 
   A 27:9-10 az utolsó néven nevezett prófécia, idézet a Máté-evangéliumban.
   Nincs további közvetlen kapcsolat az Ószövetséggel. Ahogyan Jézus élete is
   kioltódik, nincs többé, Akinek csapdát állítsanak \U az Írás nem szól
   többé. Ž maga sem kérdez többé. \PTizenkét órától kezdve három óráig\Q
   sötétség támad az egész földön. (27:45)
+
+  <subsection|A 22.<strong| >zsoltár>
+
+  Közvetlenül ezután a 27:46-ban olvassuk: \PHárom óra tájban Jézus hangosan
+  felkiáltott: Éli, éli, lámá sabaktáni, azaz: Én Istenem, én Istenem, miért
+  hagytál el engem?\Q Nincs megjelölve, de a 22.<strong| >zsoltár 2.<strong|
+  >versét kiáltja haláltusájában a megfeszített Mester.
+
+  Van-e erre reakciója az ott bámészkodóknak? Felismerik vajon a zsoltárt?
+  Ugyan, azt hiszik, \PIllést hívja\Q! (47.<strong| >vers) Valaki ecetet adna
+  neki (48.<strong| >vers). Ha valaki mélyebben ismeri a Zsoltárokat, eszébe
+  juthat a 69.<strong| >zsoltár 22.<strong| >verse: \Pszomjúságomban ecettel
+  itattak\Q.
+
+  Jézus elfogadja az ecetet (ezt a János 19:30-ból tudjuk), majd a Máté 27:49
+  szerint a bámészkodók tovább gúnyolják: \Plássuk, eljön-e Illés, hogy
+  megmentse ®t\Q. Mintha a 22.<strong| >zsoltár elevenedne meg, hiszen ott is
+  ezt olvassuk: \PAz Úrra bízta magát, mentse hát meg ®t, szabadítsa meg,
+  hiszen kedvelte!\Q (9.<strong| >vers) Már a Máté 27:43-ban is ugyanígy
+  gyalázták egyesek: \PBízott az Istenben, szabadítsa meg most, ha kedveli
+  ®t\Q \U mondták. Továbbá, a 39.<strong| >versben is: \PAkik elmentek
+  mellette, a fejüket csóválva káromolták\Q \U ez pedig a Zsolt 22:8-cal
+  egyezik: \PGúnyolódnak rajtam mind, akik látnak, ajkukat biggyesztik,
+  fejüket csóválják\Q.
+
+  Vajon véletlen egyezés, hogy ugyanezen zsoltár 17.<strong| >verse ezt írja:
+  \Pátlyukasztották kezemet, lábamat\Q? Máté ugyan nem ír arról, mit is
+  jelentett a rómaiak kivégzési gyakorlata, a keresztrefeszítés, de máshol
+  vannak erre utalások (pl.<strong| >a Jn 19:37-ben és a 20:25-ben, ez utóbbi
+  a Zak 12:10-et idézi). A zsoltár 19.<strong| >verse ezt mondja:
+  \PMegosztoznak ruháimon, köntösömre sorsot vetnek.\Q A Mt 27:35 szerint:
+  \Psorsvetéssel megosztoztak ruháin\Q. Véletlen egybeesés?
+
+  Tüzetesen végigolvasva a 22.<strong| >zsoltárt, mást is találunk benne, ami
+  közvetlenül nem kapcsolható Jézus szenvedéséhez (vagy legalábbis els®
+  látásra nincs konkrét összefüggés). Ez arra is int bennünket, hogy óvatosan
+  vonjunk le bármilyen következtetést. Nincs arra szabály, hogy egy
+  ószövetségi igeszakaszt az Újszövetségnek szó szerint kellene idéznie, vagy
+  egy idézetnek pontosan ill® kontextusban kell lennie ahhoz, hogy
+  \Pérvényes\Q idézetnek számítson. Látjuk, hogy Máté olykor egészen pontosan
+  idézte az ószövetségi szerz®ket, máskor csak felelevenített néhány
+  gondolatot. Máté szándéka azonban, hogy az olvasó számára er®s bizonyosság
+  legyen: Jézus Isten Fia, a megígért küldött, talán jól érzékelhet®.
+
+  A Máté-evangélium egészének újraolvasásával talán további utalásokat
+  találnánk az Ószövetségre. Már az itt bemutatott, olykor rejtett
+  kapcsolatok is arra ösztökélhetnek bennünket, hogy olvassuk (illet®leg:
+  újra és újraolvassuk) az Újszövetséget pontosan ezzel az attit¶ddel! Ha
+  meggy®z®dtünk arról, hogy az evangéliumi történet nem egy random sztori,
+  ami jól eladható bizonyos tömegek számára, hanem egy annál sokkal mélyebb,
+  az isteni tervbe tökéletesen beleill® eseménysor, akkor bizonyára
+  <with|font-shape|italic|még sokkal több> összefüggés is van a régmúlt és az
+  akkori események között. Nyitott szemmel, lelkesedéssel és nyitott szívvel
+  olvasva még inkább feltárul el®ttünk Isten terve, amelynek talán mi is
+  részesei, szerepl®i lehetünk. Akár úgy, hogy a zsidóság hagyományából
+  jövünk, akár úgy, hogy azon kívül, a \Pnépek\Q közül.
 
   <\table-of-contents|toc>
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|El®szó>
@@ -12206,8 +12263,9 @@
     <associate|auto-58|<tuple|2.1.27|85>>
     <associate|auto-59|<tuple|2.1.28|86>>
     <associate|auto-6|<tuple|1.1|10>>
-    <associate|auto-60|<tuple|2.1.28|91>>
-    <associate|auto-61|<tuple|2.1.28|93>>
+    <associate|auto-60|<tuple|2.1.29|91>>
+    <associate|auto-61|<tuple|2.1.29|93>>
+    <associate|auto-62|<tuple|2.1.29|?>>
     <associate|auto-7|<tuple|1.2|10>>
     <associate|auto-8|<tuple|lookup|10>>
     <associate|auto-9|<tuple|2|13>>
@@ -12259,7 +12317,7 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-3E757B108--3E6743E48>|<link|hyperlink|<id|%-3E757B108--3E6743E48>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%1B11D6528-1B1EA66F8>|<link|hyperlink|<id|%1B11D6528-1B1EA66F8>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
       </surround>|<pageref|auto-45>>
 
