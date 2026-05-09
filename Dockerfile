@@ -75,9 +75,10 @@ COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
 RUN mkdir -p /home/user/.TeXmacs/langs/natural/dic
 COPY english-hungarian.scm /home/user/.TeXmacs/langs/natural/dic/english-hungarian.scm
 
-# Copy book and template:
+# Copy book, template and bibliography:
 COPY bibref-hu.tm /home/user/bibref-hu.tm
 COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
+COPY bibref-hu.bib /home/user/bibref-hu.bib
 
 # Run TeXmacs in venv to access bibref-python too (restart prevents showing welcome message):
 CMD . .venv/bin/activate && texmacs -q && texmacs /home/user/bibref-hu.tm
