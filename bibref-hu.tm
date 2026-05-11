@@ -37,18 +37,18 @@
   legalkalmasabb: a technikai és személyi feltételek adottak, és tudom, hogy
   igény is van egy effajta könyvre.
 
-  A könyv címe lehetne \Pbibref-es bevezet® az Újszövetséghez\Q, amivel egy
-  korábbi könyv címére utalnék. Ez a könyv a \PA Singular Introduction to
-  Commutative Algebra\Q <cite|PfisterGreuel2007>, amiben a szerz®k a
-  matematikai témát egy általuk írt szoftverrel támasztották alá. Néz®pont
-  kérdése persze, hogy <with|font-shape|italic|az> a könyv inkább a szoftver
-  használati útmutatója, mintsem a matematikai eredmények kézzelfogható
-  illusztrációja a szoftver segítségével. Az én célom
-  <with|font-shape|italic|ezzel> a könyvvel semmiképpen sem az, hogy egy
-  szoftvernek csináljak reklámot, ezért a címben nem is írom le a szoftver
-  nevét. Sokkal inkább a <with|font-shape|italic|módszer> a lényeg: az, hogy
-  reprodukálható módon, tudományosan is ellen®rizhet® kijelentéseket tegyünk.
-  Erre az említett könyv szoftvere is jó példa: nem az az
+  A könyv címe lehetne \Rbibref-es bevezet® az Újszövetséghez\Q, amivel egy
+  korábbi könyv címére utalnék. Ez a könyv az <with|font-shape|italic|A
+  Singular Introduction to Commutative Algebra> <cite|PfisterGreuel2007>,
+  amiben a szerz®k a matematikai témát egy általuk írt szoftverrel
+  támasztották alá. Néz®pont kérdése persze, hogy <with|font-shape|italic|az>
+  a könyv inkább a szoftver használati útmutatója, mintsem a matematikai
+  eredmények kézzelfogható illusztrációja a szoftver segítségével. Az én
+  célom <with|font-shape|italic|ezzel> a könyvvel semmiképpen sem az, hogy
+  egy szoftvernek csináljak reklámot, ezért a címben nem is írom le a
+  szoftver nevét. Sokkal inkább a <with|font-shape|italic|módszer> a lényeg:
+  az, hogy reprodukálható módon, tudományosan is ellen®rizhet® kijelentéseket
+  tegyünk. Erre az említett könyv szoftvere is jó példa: nem az az
   <with|font-shape|italic|egy> szoftver létezik, az a konkrét szoftver csak
   <with|font-shape|italic|példa>; számos további szoftver van, ami hasonló
   eredményekre vezet. A lényeg az eredményeken van, amelyek egymásnak \U
@@ -69,7 +69,7 @@
   nem ezek a napi szint¶ kérdések. Pitagorász tétele vagy Newton gravitációs
   elmélete olyan biztos pontok, amelyek megkérd®jelezhetetlenek. Teljes
   bizonyossággal bízunk bennük és építünk rájuk új elméleteket, s mindebben
-  örömünket leljük. \PNem a láthatókra nézünk, hanem a láthatatlanokra, mert
+  örömünket leljük. \RNem a láthatókra nézünk, hanem a láthatatlanokra, mert
   a láthatók ideig valók, a láthatatlanok pedig örökkévalók.\Q (2Kor 4:18)
 
   De lehet-e teológiai m¶ ugyanígy örökkévaló? Már maga az Újszövetség
@@ -88,10 +88,10 @@
   dokumentumában teljesedik ki, ami kétezer éven át az emberiesség
   zászlóshajója lett. Nehéz itt pontosan fogalmazni, mert az
   <with|font-shape|italic|emberiesség> nem a jó szó, ahogyan talán Pilátus is
-  keresi a szavakat, amikor azt mondja: \PÍme, az ember!\Q (Jn 19:5) Még az
+  keresi a szavakat, amikor azt mondja: \RÍme, az ember!\Q (Jn 19:5) Még az
   sem világos, hogy Pilátus pozitív vagy negatív értelemben fogalmaz itt,
   amikor Jézust a cs®cselék töviskoronával gyalázza meg. Pilátus azonban
-  nyíltan kijelenti, hogy ® nem talál b¶nt ebben az emberben: \Psemmiféle
+  nyíltan kijelenti, hogy ® nem talál b¶nt ebben az emberben: \Rsemmiféle
   b¶nt\Q (Jn 19:4). Ebben a kaotikus szituációban, ahol a cs®cselék akarata
   érvényesül, láthatatlan marad az a személy, aki hagyja az eseményeket a
   maguk medrében sodródni. Ezen a ponton nem világos, miért kapja az
@@ -211,7 +211,7 @@
   azt. Az Ószövetség szövege a zsidóságot határozottan kiemeli a népek közül,
   azt állítva, hogy a zsidóság kiválasztott nép, törvénye fölötte áll a többi
   nép törvényeinek. Másrészt ki is tekint ebb®l a zárt viszonyból, mivel a
-  zsidóság nem töltötte be az Isten által adott törvényt: \PA pogány népek
+  zsidóság nem töltötte be az Isten által adott törvényt: \RA pogány népek
   pedig megtudják, hogy b¶ne miatt kellett fogságba mennie Izráel házának,
   mert h¶tlenné váltak hozzám, és én elrejtettem arcomat el®lük; ellenségeik
   kezébe adtam ®ket, és sokan elestek fegyver által.\Q (Ez 39:23)
@@ -238,7 +238,7 @@
   vezet® pozíciókba, ahol a következ® évszázadok gondolkodásának f®
   csapásvonalai alakultak.
 
-  Óvakodnék attól, hogy \Pkeresztény filozófiának\Q nevezzem ezt az új
+  Óvakodnék attól, hogy \Rkeresztény filozófiának\Q nevezzem ezt az új
   csapást, mert vélekedésem szerint a kereszténység valódi tartalma mindig
   csak egy parányi közösséget vonzott. De valahogy mégiscsak meg kell
   neveznem, hogy mi az, ami más lett a görög nyelv¶ Újszövetség
@@ -251,8 +251,8 @@
   és nagyon alapos ószövetségi teológiát tanult, mégis újszer¶en látja az
   isteni tervet: ® az egyike azoknak a szellemeknek, akik az Istenben való
   hit nemzetközi alapokra helyezését tanítják. Talán lehet azt is mondani,
-  hogy Pál az utolsó zsidó filozófus, aki meghatározó szereppel bírt az
-  elmúlt kétezer év nemzetközi szellemi irányvonalára, mert ® volt az, aki az
+  hogy Pál az utolsó zsidó filozófus, aki meghatározó hatással volt az elmúlt
+  kétezer év nemzetközi szellemi irányvonalára, mert ® volt az, aki az
   Ószövetséget a megfelel® kontextusba tudta helyezni. Hányattatott sorsa és
   mártírhalála, akárcsak számos ószövetségi prófétáé, egyszerre mutatja, hogy
   sem a zsidók, sem a pogányok nem fogadták ®t be a mainstream-be: élete és
@@ -326,7 +326,7 @@
   képviselt. Megérte érte hónapokon a nyelvi fordítással küszködni (egy
   idegen nyelvr®l vagy egy idegen nyelvre), megérte érte hónapokon keresztül
   fáradságos kézi másolással bajlódni (mi csak megnyitjuk a
-  mobilalkalmazásunkat és \Plátjuk\Q a szöveget), és megérte érte akár a
+  mobilalkalmazásunkat és \Rlátjuk\Q a szöveget), és megérte érte akár a
   halált is vállalni azokban az id®kben, amikor a Biblia olvasása hatóságilag
   tilos volt. Az Olvasó bizonyára tudja, hogy bizonyos országokban a Biblia
   <with|font-shape|italic|ma is> tiltólistán van: szabad olvasása nem
@@ -448,7 +448,7 @@
     </session>
 
     Ennek az opciónak a nyilvánvaló hozadéka, hogy itt helyben kipróbálhatjuk
-    a szóba kerül® parancsokat, kicsit módosítva esetleg azokat, \Pjátszva\Q
+    a szóba kerül® parancsokat, kicsit módosítva esetleg azokat, \Rjátszva\Q
     a változtatás lehet®ségével.<\footnote>
       Ez a könyv a <TeXmacs> szoftverrel készült, ami számos önkéntes
       programozó munkája. A projektet Joris van der Hoeven holland
@@ -468,7 +468,7 @@
   látjuk. A legrégebbi kéziratokat nagybet¶vel, ékezetek és központozás
   nélkül írták, de az általunk jelenleg használt elektronikus szövegeket már
   viszonylag modern módon, tagoltan, ékezetekkel gépelték be. Ez azt a furcsa
-  helyzetet eredményezi, hogy a modern adatbázisokban tárolt szövegeket \Ple
+  helyzetet eredményezi, hogy a modern adatbázisokban tárolt szövegeket \Rle
   kell butítsuk\Q, hogy a legrégebbi kéziratokhoz hasonló kimenetet kapjunk.
   Mivel nincs biztos információnk arról, hogy volt-e a koiné görög nyelvnek
   helyesírási szabályzata (valószín¶leg nem), így bizonyos esetekben apró
@@ -1399,7 +1399,7 @@
     </unfolded-io>
   </session>
 
-  Ha most ebb®l a \Pnyers\Q szövegb®l töröljük az els® 51 bet¶t illetve az
+  Ha most ebb®l a \Rnyers\Q szövegb®l töröljük az els® 51 bet¶t illetve az
   utolsó 29 bet¶t, akkor pontosan Ábrahám nevének latin változatát
   kapjuk:<subindex|bibref-parancs|lookupN>
 
@@ -4899,7 +4899,7 @@
   de más esetekben kicsit különböz® a görög forma: lehet
   \<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\>\<varsigma\> vagy
   \<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\> is. Így a fenti keresésben
-  ezek \Pmetszetét\Q, a <verbatim|\<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\>>
+  ezek \Rmetszetét\Q, a <verbatim|\<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\>>
   alakot adtuk meg. Természetesen el®fordulhat, hogy az 1275 találat között
   <with|font-shape|italic|hamis pozitívak> is szerepelnek, mégpedig olyan
   esetben, amikor \U és most latin bet¶ket használunk az érthet®ség kedvéért
@@ -5142,7 +5142,7 @@
   Legkönnyebben az Immánuél (\<Epsilon\>\<mu\>\<mu\>\<alpha\>\<nu\>\<omicron\>\<upsilon\>\<eta\>\<lambda\><assign|color|black>)
   szót azonosíthatjuk be, és visszafelé egyesével összehasonlítgatva a két
   szöveget jól látszik, hogy az \<iota\>\<delta\>\<omicron\>\<upsilon\>
-  (\Píme\Q) szóig szinte bet¶ szerinti az egyezés.
+  (\Ríme\Q) szóig szinte bet¶ szerinti az egyezés.
 
   Miel®tt továbblépnénk, hadd hívjuk fel a figyelmet egy nagyon hasznos
   online eszközre, amelyet a <verbatim|StatResGNT> kiadója tart karban. A
@@ -5170,7 +5170,7 @@
   A <reference|greekcntr-Mt1:23>.<strong| >ábra sok más izgalmas információt
   mutat. Most megelégszünk annyit elmondani még róla, hogy az egyes sorokban
   az egyes bibliakiadásokhoz tartozó tartalom szerepel. Talán túlzás az els®
-  sorokban megjelen® szövegrészek eredetiit, a \Ptanúkat\Q hivatalos
+  sorokban megjelen® szövegrészek eredetiit, a \Rtanúkat\Q hivatalos
   kiadásoknak nevezni, de valójában pont ezek a dokumentumok azok, amelyekre
   a modern bibliakiadások épülnek. Így pl.<strong| >az els® sorban
   \<frak-P\>1 az 1-es papiruszt (<slink|https://en.wikipedia.org/wiki/Papyrus_1>)
@@ -5186,7 +5186,7 @@
   Cantabrigiensis>t<subindex|Codex|Bezae Canatbrigiensis> és a
   <with|font-shape|italic|Codex Washingtonianus>t<subindex|Codex|Washingtonianus>)
   nagyon is, és azonnal látszik, hogy alig térnek el egymástól. Az SR sorban
-  látjuk a <verbatim|StatResGNT>-ben is olvasható \Pfeltételezett eredeti\Q
+  látjuk a <verbatim|StatResGNT>-ben is olvasható \Rfeltételezett eredeti\Q
   tartalmat, amit a fenti leletek alapján állított össze egy számítógépes
   algoritmus <cite|Bunning2022>. Az ez alatt olvasható változatok további
   bibliakiadások variációi elenyész® különbségekkel: néhol egy vessz® vagy
@@ -5299,9 +5299,9 @@
   hogy az eltérést teológiailag is értelmezzük, egy kicsit utána kell járni a
   görög jelentésnek. Az <verbatim|LXX>-ben olvasható
   \<kappa\>\<alpha\>\<lambda\>\<varepsilon\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>
-  jelentése: \Pte fogod nevezni\Q, az Újszövetségben viszont
+  jelentése: \Rte fogod nevezni\Q, az Újszövetségben viszont
   \<kappa\>\<alpha\>\<lambda\>\<varepsilon\>\<sigma\>\<omicron\>\<upsilon\>\<sigma\>\<iota\>\<nu\>:
-  \P®k fogják nevezni\Q. Valóban, ez utóbbi a magyar fordításból is átjön:
+  \R®k fogják nevezni\Q. Valóban, ez utóbbi a magyar fordításból is átjön:
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -5316,7 +5316,7 @@
 
   A helyzet az, hogy az Ószövetség magyar nyelv¶ fordításában ez a finomság
   nem látszik, mert \U hasonlóan számos más fordításhoz \U a héber szöveget
-  veszi forrásul, ahol az \P® fogja nevezni\Q értelmezés is szóba jön, és ez
+  veszi forrásul, ahol az \R® fogja nevezni\Q értelmezés is szóba jön, és ez
   talán kézzelfoghatóbb.
 
   Az ószövetségi és újszövetségi igeszakaszt grafikusan is szemléltethetjük.
@@ -5385,7 +5385,7 @@
   összefoglalásként, címként. Utána látjuk a két igeszakasz pontos
   helymeghatározását, külön kitérve a megfelel® karakterpozíciókra a kérdéses
   két bibliai könyvben. A 4.<strong| >sor a Mt 1:22-t is kiemeli, mivel ott
-  olvassuk, hogy \Paz Úr\Q <with|font-shape|italic|mondta> mindezt \Pa
+  olvassuk, hogy \Raz Úr\Q <with|font-shape|italic|mondta> mindezt \Ra
   próféta által\Q. Vagyis nemcsak a mi saját elméletünk, hogy itt egyezés van
   két igeszakasz között, hanem az újszövetségi szerz® maga is felhívja erre a
   figyelmet.
@@ -5422,7 +5422,7 @@
   A tartalmi kapcsolatot azonban csak részben tártuk fel. Valójában az
   Immánuel-jövendölés \U kés®bbi fajsúlyához képest \U egy apró megjegyzésnek
   t¶nik Ézsaiás könyvében, amit Isten Áház király idejében üzen. A júdai Áház
-  királyról nem ír pozitívan az Ószövetség, a 2Krón 28:1 szerint \Pnem azt
+  királyról nem ír pozitívan az Ószövetség, a 2Krón 28:1 szerint \Rnem azt
   tette, amit ®satyja, Dávid, amit helyesnek lát az Úr\Q. Az Ézsaiás
   7.<strong| >részében egy, a Kr.<strong| >e.<strong| >8.<strong| >században
   megtörtént drámai eseményr®l olvasunk, amikoris Júda királyát a szomszédos
@@ -5452,7 +5452,7 @@
   kés®bb még jobban kifejt, ti.<strong| >hogy a körülmények miatt alig lesz
   más ennivaló az országban (7:21-25). Az akkori Immánuél \U akit egyébként
   nehéz beazonosítani \U egy konkrét történelmi személy lehetett,
-  mindenesetre a névválasztás a törékenységnek er®s ellenpontja: \Pvelünk az
+  mindenesetre a névválasztás a törékenységnek er®s ellenpontja: \Rvelünk az
   Isten\Q. El®fordulhat, hogy az isteni üzenet Áház fiáról, Ezékiásról
   szólhatott, aki azután tényleg szabadítóként lépett fel apja zavaros
   politikai tevékenysége után.
@@ -5467,18 +5467,18 @@
   cselekedni.
 
   Az Olvasó bizonyára felfigyelt arra a még nem említett, de rendkívül fontos
-  különbségre, hogy a magyar nyelv¶ ószövetségi szövegben a \Pfiatal n®\Q, az
-  Újszövetségben pedig a \Psz¶z\Q kifejezés szerepel. A görögben mindkét
+  különbségre, hogy a magyar nyelv¶ ószövetségi szövegben a \Rfiatal n®\Q, az
+  Újszövetségben pedig a \Rsz¶z\Q kifejezés szerepel. A görögben mindkét
   helyen a \<pi\>\<alpha\>\<rho\>\<theta\>\<#3AD\>\<nu\>\<omicron\>\<varsigma\>
   szót olvassuk, ami vitán felül <with|font-shape|italic|sz¶z>et jelent.
   Hogyan lehet akkor, hogy a héber eredetiben nem ez a szó áll? Egy
   lehetséges rövid választ adunk itt: a héber szó,
-  \<#5E2\>\<#5DC\>\<#5DE\>\<#5D4\> (almah), csupán a \Pfiatal n®\Q jelentést
+  \<#5E2\>\<#5DC\>\<#5DE\>\<#5D4\> (almah), csupán a \Rfiatal n®\Q jelentést
   hordozza (a sz¶z szóra van más kifejezés a héberben), viszont a görög
   fordítás úgymond pontatlan, mert ott egy er®sebb kifejezést használtak.
   Hibás volna tehát a görög fordítás? A görögben volna más szó is, ami a
-  \Pfiatal n®\Q fordítására választható lett volna. Valamiért azonban a
-  Szeptuaginta<index|Szeptuaginta> fordítói a \Psz¶z\Q szót választották,
+  \Rfiatal n®\Q fordítására választható lett volna. Valamiért azonban a
+  Szeptuaginta<index|Szeptuaginta> fordítói a \Rsz¶z\Q szót választották,
   általunk ismeretlen okokból. Ezzel aztán a zsidó-keresztény teológia egyik
   legrejtélyesebb kérdését készítették el®.
 
@@ -5496,7 +5496,7 @@
   isteni személy. De akkor az egész történetre mint csodálatos, egyedi
   eseményre kell tekintsünk!
 
-  Akár törékeny \Pfiatal n®\Q-ként, akár törékeny \Psz¶z\Q-ként gondolunk
+  Akár törékeny \Rfiatal n®\Q-ként, akár törékeny \Rsz¶z\Q-ként gondolunk
   Máriára, talán furcsának tartjuk, hogy Máté az Áház-történet távoli
   asszociációjával kapcsolja össze Jézus fogantatását. A Máté-szöveg
   rendkívül er®s kapcsolatot kommunikál: azt állítja, hogy az
@@ -5755,7 +5755,7 @@
   </session>
 
   A Máté-Mikeás egyezések keresésénél felt¶nik, hogy ugyanazzal a költ®i
-  felütéssel kezd®dnek: \Pte pedig, Betlehem\Q (a görög szöveget szó szerint
+  felütéssel kezd®dnek: \Rte pedig, Betlehem\Q (a görög szöveget szó szerint
   követve). Ezután a két szöveg szétválik, de a
   \P\<Iota\>\<omicron\>\<upsilon\>\<delta\>\<alpha\>\<centerdot\>
   \<varepsilon\>\<xi\> \<sigma\>\<omicron\>\<upsilon\>
@@ -5765,25 +5765,25 @@
   \<mu\>\<omicron\>\<iota\> \<varepsilon\>\<xi\>\<varepsilon\>\<lambda\>\<varepsilon\>\<upsilon\>\<sigma\>\<varepsilon\>\<tau\>\<alpha\>\<iota\>\Q
   szövegek szinte bet¶re egyeznek, csak egy apró formai különbséget látunk az
   \<varepsilon\>\<xi\> és \<varepsilon\>\<kappa\> szavak között, valamint a
-  \<gamma\>\<alpha\>\<rho\> (\Píme\Q) szó lett betoldva az újszövetségi
+  \<gamma\>\<alpha\>\<rho\> (\Ríme\Q) szó lett betoldva az újszövetségi
   szakaszba. Az ezeket megel®z® kétféle kifejezés (\P\<varepsilon\>\<nu\>
   \<tau\>\<omicron\>\<iota\>\<varsigma\> \<eta\>\<gamma\>\<varepsilon\>\<mu\>\<omicron\>\<sigma\>\<iota\>\<nu\>\Q
-  a Mátéban, \Pnemzetségei között\Q, ill.<strong| >\P\<varepsilon\>\<nu\>
+  a Mátéban, \Rnemzetségei között\Q, ill.<strong| >\P\<varepsilon\>\<nu\>
   \<chi\>\<iota\>\<lambda\>\<iota\>\<alpha\>\<sigma\>\<iota\>\<nu\>\Q,
-  \Pezreiben\Q) rokon értelm¶, tehát tartalmában nagyon hasonló, még ha nyers
+  \Rezreiben\Q) rokon értelm¶, tehát tartalmában nagyon hasonló, még ha nyers
   szövegként történ® összehasonlításkor komoly eltérést látunk közöttük.
 
   A Máté-vers záró gondolata, \P\<pi\>\<omicron\>\<iota\>\<mu\>\<alpha\>\<nu\>\<varepsilon\>\<iota\>
   \<tau\>\<omicron\>\<nu\> \<lambda\>\<alpha\>\<omicron\>\<nu\>
   \<mu\>\<omicron\>\<upsilon\> \<tau\>\<omicron\>\<nu\>
-  \<Iota\>\<sigma\>\<rho\>\<alpha\>\<eta\>\<lambda\>\Q (\Plegeltetni fogja
+  \<Iota\>\<sigma\>\<rho\>\<alpha\>\<eta\>\<lambda\>\Q (\Rlegeltetni fogja
   népemet, Izráelt\Q), ebben a formában nem jelenik meg a Mikeás-szövegben,
   csupán Izrael neve (nével®vel). A 2Sám-ben (és az 1Krón-ban) olvasható
   kifejezés komoly egyezést mutat a Máté-vers lezárásával, ezért jogos, hogy
-  az olvasónak \Pbeugrik\Q a Dávidra utaló történeti szöveg. Látni fogjuk
+  az olvasónak \Rbeugrik\Q a Dávidra utaló történeti szöveg. Látni fogjuk
   kés®bb, hogy a történeti könyvek idézése nem számít gyakorinak, így ha
   választanunk kéne, hogy a Máté-szöveg inkább Mikeást vagy a 2Sám-t idézi,
-  akkor egyértelm¶en Mikeást hoznánk ki \Pgy®ztes\Q-nek, és a 2Sám-szöveg
+  akkor egyértelm¶en Mikeást hoznánk ki \Rgy®ztes\Q-nek, és a 2Sám-szöveg
   inkább áthallás, allúzió volna.
 
   Ha valakinek a rokon értelm¶ kifejezések nyers szövegként való
@@ -5936,7 +5936,7 @@
   Izráel földjére, egészen pontosan Galilea vidékére. Máté beteljesedett
   ószövetségi próféciákat lát itt, menjünk rajtuk sorra!
 
-  Az els® a 2:15-ben van: \PEgyiptomból hívtam el a fiamat.\Q
+  Az els® a 2:15-ben van: \REgyiptomból hívtam el a fiamat.\Q
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -6013,7 +6013,7 @@
   <subsection|Heródes vérengzése>
 
   Emberi ésszel felfoghatatlan, micsoda vérengzés történt Rámában, vagyis
-  Betlehem környékén, amikor Heródes megöletett \Pminden kétesztend®s és
+  Betlehem környékén, amikor Heródes megöletett \Rminden kétesztend®s és
   ennél fiatalabb fiúgyermeket\Q (2:16). Az is teljesen érthetetlen, Isten
   miért engedte szabadjára, hogy a Gonosz gyilkoljon, ártatlan kisgyerekeket
   mészárolva le.
@@ -6255,11 +6255,11 @@
   írásának ihlet®je, a Szentlélek, l.<strong| ><cite|Perry2013>) inkább
   asszociációs játékot ¶z velünk, mint tételesen bizonyítaná, hogy csakugyan
   minden el®re meg volt írva. Ami most jön, az még rátesz egy lapáttal az
-  eddigiekre, ugyanis a \Pnázáretinek fogják ®t nevezni\Q (2:23) konklúziót
+  eddigiekre, ugyanis a \Rnázáretinek fogják ®t nevezni\Q (2:23) konklúziót
   az ad-hoc rejtvényfejtés briliáns huszárvágásaként lehet inkább jellemezni,
   mintsem bizonyító erej¶, cáfolhatatlan érvként.
 
-  \PNázáretinek fogják ®t nevezni.\Q Jézust, aki ott kezdi pályafutását,
+  \RNázáretinek fogják ®t nevezni.\Q Jézust, aki ott kezdi pályafutását,
   miután Egyiptomból, félve ugyan, de visszatér családja Kánaánba. Itt Máté
   nem fogalmaz olyan precízen, mint a korábbi Jeremiás-idézetnél. A helyzet
   az, hogy a görög szöveget tanulmányozva nem is találnánk megfelel®
@@ -6302,16 +6302,16 @@
   <with|font-shape|italic|sarj>, a <with|font-shape|italic|Sarjadék>. A
   héberben (itt az Aleppo-kódex<index|Aleppo-kódex> elektronikus változatát
   használjuk), ett®l némileg eltér®en, csak az Ézsaiás-szakaszban megjelen®
-  hajtás szó az, \P\<#5E8\>\<#5E6\>\<#5E0\>\<#5D5\>\Q
-  (w\<#259\>-nê-\<#1E63\>er, \Pés egy hajtás\Q), ami hangzásában a
-  Máté-vershez kapcsolódik. Miért is? Mert a \Pnê-\<#1E63\>er\Q úgy cseng,
-  mint a \Pnázáreti\Q szó eleje.
+  hajtás szó az, \R\<#5E8\>\<#5E6\>\<#5E0\>\<#5D5\>\Q
+  (w\<#259\>-nê-\<#1E63\>er, \Rés egy hajtás\Q), ami hangzásában a
+  Máté-vershez kapcsolódik. Miért is? Mert a \Rnê-\<#1E63\>er\Q úgy cseng,
+  mint a \Rnázáreti\Q szó eleje.
 
   Mit mondjunk erre? Ez egy vicc? Nos, sokkal több annál. Isten, úgy t¶nik,
   fenntartja magának a jogot, hogy a legmeglep®bb összefüggéseket hozza el®,
   amire ember nem gondol, és még a legmerészebb álmaiban sem szerepel még
   csak hasonló asszociáció sem. Pál, amikor Krisztus megfeszítésér®l beszél
-  az 1Kor 1:25-ben, bátorkodik Isten bolondságával el®hozakodni: \PMert az
+  az 1Kor 1:25-ben, bátorkodik Isten bolondságával el®hozakodni: \RMert az
   Isten \Tbolondsága\S bölcsebb az emberek bölcsességénél, és az Isten
   \Ter®tlensége\S er®sebb az emberek erejénél.\Q
 
@@ -6442,8 +6442,8 @@
 
   Jól látható, hogy szinte tökéletes az egyezés. Csak az utolsó szavak
   (\P\<tau\>\<omicron\>\<upsilon\> \<theta\>\<varepsilon\>\<omicron\>\<upsilon\>
-  \<eta\>\<mu\>\<omega\>\<nu\>\Q, \Pa mi Istenünké\Q, ill.<strong|
-  >\P\<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>\Q, \PÖvé\Q: ez egy
+  \<eta\>\<mu\>\<omega\>\<nu\>\Q, \Ra mi Istenünké\Q, ill.<strong|
+  >\P\<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>\Q, \RÖvé\Q: ez egy
   visszautalás az ösvény tulajdonosára) különböznek, ezek is csupán amiatt,
   hogy a görög szöveg gördülékenyebb legyen. Máté tehát els®rangú munkát
   végzett: a helyzethez ill®en a legpontosabban idézte az ószövetségi
@@ -6454,12 +6454,12 @@
   tartalmaz. Bemerít® János harcias, egyenes kiállásáról szól, majd a már
   feln®tt Jézus jelenik meg, aki maga is bemerítkezik. A fejezet a Szentlélek
   és az Atya megjelenésével zárul, mintegy a teljesség harmóniájával, mert a
-  mennyei hang is meger®síti: \PEz az én szeretett Fiam, akiben
+  mennyei hang is meger®síti: \REz az én szeretett Fiam, akiben
   gyönyörködöm.\Q (3:17)
 
   <subsection|Szájkarate?>
 
-  A \Pszájkarate\Q szót általában negatív értelemben szoktuk használni: két
+  A \Rszájkarate\Q szót általában negatív értelemben szoktuk használni: két
   személy úgy dönt el egy vitát, hogy a szavak szintjén mérik össze erejüket,
   de ezek a szavak többnyire súlytalanok, és csak a hanger® vagy a fogalmazás
   durvasága a mértékadó. A 4.<strong| >fejezet elején a Sátán revansot próbál
@@ -6471,7 +6471,7 @@
   A kísért® 3 próbálkozást tesz, az els® Jézus fizikai szükségleteire
   összpontosít. Mivel Jézus már 40 napja nem eszik semmit, csak az Atyára
   figyel, könny¶nek t¶nik az Atya társaságából az evés gondolatán keresztül
-  elvonni a Fiút. Jézus azonban egyb®l az Írásra mutat: \PNemcsak kenyérrel
+  elvonni a Fiút. Jézus azonban egyb®l az Írásra mutat: \RNemcsak kenyérrel
   él az ember, hanem minden igével, amely Isten szájából származik.\Q (4:4)
 
   <\session|bibref|default>
@@ -6623,8 +6623,8 @@
   valójában kiforgatja az Írást: olyan élethelyzetre alkalmaz egy konkrét
   szakaszt, ahol pont nem kellene. Vajon velünk nem fordul el® ilyesmi?
 
-  Jézus egy nagyon egyszer¶ válasszal reagál: \PNe kísértsd az Urat, a te
-  Istenedet!\Q (4:7) Ez is \Pmeg van írva\Q, mégpedig az 5Móz 6:16-ban:
+  Jézus egy nagyon egyszer¶ válasszal reagál: \RNe kísértsd az Urat, a te
+  Istenedet!\Q (4:7) Ez is \Rmeg van írva\Q, mégpedig az 5Móz 6:16-ban:
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -6671,7 +6671,7 @@
   figyelmeztetést. Masszában (a 2Móz 17:1-7 szerint) a nép szomjazott, nem
   volt ivóvizük. De ahelyett, hogy Istenhez fordultak volna, kis híján
   megkövezték Mózest. Istennek itt is van megoldása: Mózesnek sziklára kell
-  ütnie botjával, víz fakad a sziklából, és \Pihat a nép\Q (6.<strong|
+  ütnie botjával, víz fakad a sziklából, és \Rihat a nép\Q (6.<strong|
   >vers).
 
   Jézus tehát jól megfelelt a Sátán teológiai fondorlatára, 2\U1-re állunk.
@@ -6793,8 +6793,8 @@
 
   A részleges, ám abban bet¶re pontos egyezés jól látszik. Ami másképpen szól
   Jézus megfogalmazásában: a \<varphi\>\<omicron\>\<beta\>\<eta\>\<theta\>\<eta\>\<sigma\>\<eta\>
-  (\Pfélni\Q) szó helyett a \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<upsilon\>\<nu\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>-t
-  (\Pimádni\Q) használja. Mi ennek az oka? Talán az, hogy Jézus ebben is az
+  (\Rfélni\Q) szó helyett a \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<upsilon\>\<nu\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>-t
+  (\Rimádni\Q) használja. Mi ennek az oka? Talán az, hogy Jézus ebben is az
   igazi apa-gyermek kapcsolatot akarja bemutatni: ® nemcsak féli, de imádja
   is az Atyát. A zsidók számára az Atya, úgy t¶nik, csak azt írta el®, hogy
   <with|font-shape|italic|ne> imádják a bálványisteneket \U arra nekik
@@ -6837,7 +6837,7 @@
   pozícióban.
 
   Ugyanis Jánost id®közben elfogják (4:12). Lehet, hogy az is szerepet
-  játszott ebben, hogy még az akkori \Pnegyedes fejedelem\Q-re, Heródesre is
+  játszott ebben, hogy még az akkori \Rnegyedes fejedelem\Q-re, Heródesre is
   éles kritikát mért (l.<strong| >14:4). (Ez egy másik Heródes, nem a
   gyerekgyilkos, ® már meghalt, de ez a másik se makulátlan.) Ebben a
   helyzetben hirtelen csend lesz egész Júdeában; úgy t¶nik, Isten hangja
@@ -6946,7 +6946,7 @@
   Ha fellapozzuk Ézsaiás 8.<strong| >fejezetének végét, látjuk, hogy újra
   kihívás el®tt vagyunk a kontextust illet®en. Az el®z® versek is sötétségr®l
   és csüggedésr®l szólnak, de az Istent®l várt szabadítás helyett a nép
-  \Pgyalázza királyát és Istenét\Q. Isten ennek ellenére világosságot küld,
+  \Rgyalázza királyát és Istenét\Q. Isten ennek ellenére világosságot küld,
   az emberek ujjongani fognak. S itt olvassuk azt is, hogy:
 
   <\session|bibref|default>
@@ -6973,9 +6973,9 @@
   </session>
 
   A gyermek id®közben feln®tt és tanítani kezd. Azt olvassuk, hogy 12 közeli
-  tanítványa követi, meg egy nagy sokaság \PGalileából, a Tízvárosból,
-  Jeruzsálemb®l, Júdeából és a Jordánon túlról\Q (4:25). \PTanított\Q és
-  \Pgyógyított mindenféle betegséget és er®tlenséget a nép körében\Q (4:23).
+  tanítványa követi, meg egy nagy sokaság \RGalileából, a Tízvárosból,
+  Jeruzsálemb®l, Júdeából és a Jordánon túlról\Q (4:25). \RTanított\Q és
+  \Rgyógyított mindenféle betegséget és er®tlenséget a nép körében\Q (4:23).
 
   <subsection|A hegyi beszéd><label|hegyi-beszed>
 
@@ -6983,7 +6983,7 @@
   kifejti tanítását.
 
   A helyzet az, hogy Jézus tanítása nem új. Ahogyan Ž fogalmaz: nem azért
-  jött, hogy érvénytelenné tegye \Pa törvényt vagy a próféták tanítását\Q,
+  jött, hogy érvénytelenné tegye \Ra törvényt vagy a próféták tanítását\Q,
   hanem hogy betöltse azokat (5:17). Jézus (néhány bevezet® gondolat után)
   \ drámaian kifejti, hogy mit is jelent \U nagy vonalakban \U a
   Tízparancsolat szerint vezetett élet: hogy megölni valakit már ott
@@ -7030,11 +7030,12 @@
     </unfolded-io>
   </session>
 
-  Itt a \Pne ölj\Q parancsolatot idézi Jézus; a magyar fordításban az
+  Itt a \Rne ölj\Q parancsolatot idézi Jézus; a magyar fordításban az
   idéz®jel bezárása csak kés®bb történik, ami azt sugallja (tévesen), hogy az
   idézet hosszabb. Valójában a 2Móz 20:15-ben (ami a magyar fordításban a
-  2Móz 20:13-ban van, mivel a Szeptuagintában a Tízparancsolat néhány
-  parancsolata kissé fel van cserélve egymással) csak ennyi áll:
+  2Móz 20:13-ban van, mivel a Szeptuagintában<index|Szeptuaginta> a
+  Tízparancsolat néhány parancsolata kissé fel van cserélve egymással) csak
+  ennyi áll:
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -7046,7 +7047,7 @@
     </unfolded-io>
   </session>
 
-  A következ® említett parancsolat: \PNe paráználkodj!\Q (5:27-30) Diagramunk
+  A következ® említett parancsolat: \RNe paráználkodj!\Q (5:27-30) Diagramunk
   így szemlélteti az Ó- és Újszövetség közötti összefüggést:
 
   <\session|bibref|default>
@@ -7083,7 +7084,7 @@
   parancsolat nem számít egyedinek (a bibref program szerint), mert az 5Móz
   5,17-18-ban megismétl®dnek.
 
-  A következ® két \Pmegmondatott\Q bevezetés¶ igeverset nehezen találjuk meg
+  A következ® két \Rmegmondatott\Q bevezetés¶ igeverset nehezen találjuk meg
   az Ószövetségben. Az els® itt található:
 
   <\session|bibref|default>
@@ -7196,9 +7197,9 @@
   </exercise>
 
   <\solution*>
-    A következ® Python-kód mind a három hátralév® mózesi könyvben rákeres,
-    hogy mely rész-szövegek a hasonlóak leginkább a Jézus által említett
-    szöveghez:
+    A következ® Python-kód<index|Python> mind a három hátralév® mózesi
+    könyvben rákeres, hogy mely rész-szövegek a hasonlóak leginkább a Jézus
+    által említett szöveghez:
 
     <\session|python|default>
       <\input>
@@ -7305,7 +7306,7 @@
   azért, hogy a bet¶ szerinti értelmezést®l elkanyarodva rátérjen arra az
   útra, amit az Atya is helyesnek gondol: a törvény
   <with|font-shape|italic|lényegére>. Jól látszik a magyar fordításban is,
-  hogy Jézus a régi törvényeket el®véve azokat újszer¶en interpretálja: \Pén
+  hogy Jézus a régi törvényeket el®véve azokat újszer¶en interpretálja: \Rén
   pedig azt mondom nektek<text-dots>\Q (22., 28., 32., 34., 39., 44.<strong|
   >vers). Az új-szer¶ség helyett talán helyesebb úgy fogalmazni, hogy az Atya
   eredeti tervét igyekszik Jézus kibontani, illusztrálni, elmagyarázni,
@@ -7332,7 +7333,7 @@
     </unfolded-io>
   </session>
 
-  Még egy további \Phallottátok, hogy megmondatott\Q bevezetés¶ gondolatot
+  Még egy további \Rhallottátok, hogy megmondatott\Q bevezetés¶ gondolatot
   olvasunk, amihez nehéz ószövetségi szakaszt társítani:
 
   <\session|bibref|default>
@@ -7396,13 +7397,14 @@
   </session>
 
   Jézus itt a felsorolás els® elemére utal csak, de a hallgatóság gondolatait
-  az Atya kegyelmes hozzáállása felé tereli: \Paki arcul üt téged jobb fel®l,
+  az Atya kegyelmes hozzáállása felé tereli: \Raki arcul üt téged jobb fel®l,
   tartsd oda annak arcod másik felét is!\Q (5:38)
 
-  A fejezet záró ószövetségi gondolata: \Pszeresd felebarátodat, és gy¶löld
-  ellenségedet\Q, hasonlóan csak az els® felében realizálódik. Ez azért is
-  hangsúlyos, mert a \Pszeresd felebarátodat\Q csakugyan olvasható a 3Móz
-  19-ben, de a \Pgy¶löld ellenségedet\Q-re keresve már nehézségekbe ütközünk.
+  A fejezet záró ószövetségi gondolata: \Rszeresd felebarátodat, és gy¶löld
+  ellenségedet\Q. Ez a fentihez hasonlóan csak az els® felében realizálódik.
+  Azért is hangsúlyos ez, mert a \Rszeresd felebarátodat\Q csakugyan
+  olvasható a 3Móz 19-ben, de a \Rgy¶löld ellenségedet\Q-re keresve már
+  nehézségekbe ütközünk.
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -7437,7 +7439,7 @@
   </session>
 
   A felebarát szeretetének parancsa tehát jól dokumentált, ellenben, hogy
-  \Pgy¶löld ellenségedet\Q, talán csak népköltés, mindenesetre a 3Móz 19-ben
+  \Rgy¶löld ellenségedet\Q, talán csak népköltés, mindenesetre a 3Móz 19-ben
   ilyesmir®l szó sincs.
 
   Jézus tanítását az ószövetségi parancsok fényében olvasva az is felmerülhet
@@ -7446,13 +7448,13 @@
   már láttuk, hogy Jézus (Isten Fiaként) hibátlanul idézi az Ószövetséget,
   teljes és pontos ismerete van mindenr®l. Így csak a szándékosság jöhet
   szóba. Ez arra utal, hogy Jézus esetleg teszteli hallgatóságát, olvasóit:
-  vajon tényleg ismeritek az Írást, vagy csak a \Pvárosi pletyka\Q-szint¶
+  vajon tényleg ismeritek az Írást, vagy csak a \Rvárosi pletyka\Q-szint¶
   verziójára emlékeztek?
 
   Pál kés®bb azt is hozzáteszi, hogy a törvény nevel®nk Krisztusig (Gal
   3:24), vagyis Krisztusban valami jobbat, teljesebbet, az Atya gondolataihoz
-  közelebbi bölcsességet ismerünk meg. Azt az Ószövetségr®l sokak által
-  terjesztett \Pvárosi pletykát\Q azonban meg kell cáfolnunk, hogy az
+  közelebbi bölcsességet ismerünk meg. Azt az Ószövetségr®l sokak által ma is
+  terjesztett \Rvárosi pletykát\Q azonban meg kell cáfolnunk, hogy az
   Ószövetség durvább, kegyetlenebb, személytelenebb képet mutatna Istenr®l. A
   valóság az, hogy a színfalak mögött ugyanaz a kegyelmes, hosszút¶r®,
   nagyvonalú Isten áll, aki azután Krisztusban egészen pontosan kijelenti
@@ -7471,7 +7473,7 @@
   Lapozzunk tovább: a 8.<strong| >fejezetben \U miután Jézus befejezi a hegyi
   beszédet \U Máté több történetet is elmesél, ahol Jézus gyógyítói
   küldetésén van a hangsúly. Jézus meggyógyít egy leprást, a kapernaumi
-  százados szolgáját, Péter anyósát és még \Psok megszállottat\Q (8:16). Ezek
+  százados szolgáját, Péter anyósát és még \Rsok megszállottat\Q (8:16). Ezek
   után hívja fel Máté a figyelmet, hogy Jézus tanítói küldetése után a
   gyógyítói küldetés meger®sítése nem egy véletlen jelenség. Nem, ez már ott
   áll az Írásokban régt®l fogva:
@@ -7580,7 +7582,7 @@
   </session>
 
   Itt tehát Jézus újra el®veszi az Írást, s habár nem egészen explicit módon
-  utal rá, az utalás világos: \Pmit jelent ez\Q (\P\<tau\>\<iota\>
+  utal rá, az utalás világos: \Rmit jelent ez\Q (\P\<tau\>\<iota\>
   \<varepsilon\>\<sigma\>\<tau\>\<iota\>\<nu\>\Q). Abból is nyilvánvaló, hogy
   itt egy idézet következik, hogy újra bet¶ szerint olvassuk Hóseás szövegét:
 
@@ -7657,7 +7659,7 @@
   és bebörtönzik. Egy másik evangéliumban (a Jn 3:26-30-ban) azt olvassuk,
   hogy BJ leszálló ágba kerülése már korábban is érezhet® volt, de akkor
   János ezt a kudarcot még pozitívan élte meg, mert látta, hogy
-  <with|font-shape|italic|Jézus> az igazi küldött. Neki, BJ-nek \Pcsak\Q az
+  <with|font-shape|italic|Jézus> az igazi küldött. Neki, BJ-nek \Rcsak\Q az
   el®futár-szerep lett szánva, s most az ® karrierje \U nagyon is
   realisztikusan \U a végéhez közeledik.
 
@@ -7786,7 +7788,7 @@
   </session>
 
   Az egyez® görög szöveg szó szerinti fordítása így hangzik (Csia Lajos
-  szövegét használva): \PLám angyalomat küldöm el orcád el®tt\Q, ahol az
+  szövegét használva): \RLám angyalomat küldöm el orcád el®tt\Q, ahol az
   <with|font-shape|italic|angyal> szó még pontosabb jelentése:
   <with|font-shape|italic|hírviv®>. Az analógia így jobban érthet®: BJ mint
   egy hírviv® érkezett Jézus el®tt, hasonlóan ahhoz a történelmi
@@ -7843,8 +7845,8 @@
   (l.<strong| >Ézs 23).
 
   A 12.<strong| >fejezet elején is van ószövetségi utalás, mégpedig a
-  3.<strong| >és az 5.<strong| >versben: \PNem olvastátok, hogy mit tett
-  Dávid, amikor kísér®ivel együtt megéhezett?\Q \PVagy nem olvastátok a
+  3.<strong| >és az 5.<strong| >versben: \RNem olvastátok, hogy mit tett
+  Dávid, amikor kísér®ivel együtt megéhezett?\Q \RVagy nem olvastátok a
   törvényben, hogy szombaton a papok a templomban megszegik a szombatot,
   mégsem vétkeznek?\Q Ezeket az utalásokat nehéz szó szerint megtalálni az
   Ószövetségben, s ennek valószín¶leg az az oka, hogy Jézus itt egy
@@ -7920,7 +7922,7 @@
   Nem is Jézus, hanem Máté hívja fel a figyelmünket erre a lényeges tényre.
   Jézusról egy olyan képet látunk, ami nem az ® hatalmát, hanem a b¶nös
   iránti szánalmát, az er®tlen meggyógyítását helyezi el®térbe. Felt¶nik
-  ugyan, hogy az \Pítélet\Q szó kétszer is szerepel abban a szakaszban, ami
+  ugyan, hogy az \Rítélet\Q szó kétszer is szerepel abban a szakaszban, ami
   Ézsaiás prófétát idézi:
 
   <\session|bibref|default>
@@ -8076,8 +8078,8 @@
     </unfolded-io>
   </session>
 
-  Felt¶n®, hogy az Ézsaiás-szövegben nem az \Pítélet\Q szó szerepel, helyette
-  \Ptörvény\Q-t olvasunk. A görögben (és egy angol fordításban):
+  Felt¶n®, hogy az Ézsaiás-szövegben nem az \Rítélet\Q szó szerepel, helyette
+  \Rtörvény\Q-t olvasunk. A görögben (és egy angol fordításban):
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -8150,7 +8152,7 @@
 
   A \<kappa\>\<rho\>\<iota\>\<sigma\>\<iota\>\<nu\> görög szó lett tehát a
   magyarban kétféleképpen fordítva, ami kicsit zavaró, de tény, hogy a görög
-  szó \Ptörvény\Q-t is jelenthet. Az is zavaró természetesen, hogy a két
+  szó \Rtörvény\Q-t is jelenthet. Az is zavaró természetesen, hogy a két
   hosszú görög szöveg sem teljesen egyezik. Az nem kérdés, hogy Máténál
   egyértelm¶en egy jól beazonosítható Ézsaiás-szakaszról van szó (és a
   17.<strong| >versben Máté konkrétan említi Ézsaiás nevét is). Feltehetjük a
@@ -8163,7 +8165,7 @@
   aktualitására.
 
   A figyelmes Olvasó azt is észreveheti, hogy az <verbatim|LXX>-ben nem az
-  \Píme\Q szóval, hanem a \PJákób\Q névvel kezd®dik az Ézs 42, tehát egészen
+  \Ríme\Q szóval, hanem a \RJákób\Q névvel kezd®dik az Ézs 42, tehát egészen
   biztos, hogy Máté új jelentéstartalmat is visz a szövegbe. Szabad ilyet
   csinálni? Nos, az ókori szerz®knél, köztük az Újszövetség íróinál is bevett
   gyakorlat volt ez. Máté bizonyára tudatában volt, hogy az ®
@@ -8175,7 +8177,7 @@
   Jézus kapja meg tehát mint az új Jákób a bírói szerepet. Mint bíró azonban
   kíméletes, a történelemnek legalábbis abban az id®szeletében, ahol Máté
   éppen méltatja. Hatalma ezen a ponton még nem nyilvánvaló, és ez a
-  késleltetés szándékos: \Pmegparancsolta nekik, hogy ne fedjék fel, kicsoda
+  késleltetés szándékos: \Rmegparancsolta nekik, hogy ne fedjék fel, kicsoda
   ®\Q (12:16).
 
   <\exercise>
@@ -8316,7 +8318,7 @@
 
     Ez azt jelenti, hogy a gép belevágott a
     \<pi\>\<rho\>\<omicron\>\<sigma\>\<varepsilon\>\<delta\>\<varepsilon\>\<xi\>\<alpha\>\<tau\>\<omicron\>
-    (\Psegédtiszt\Q) szóba az Ézs 42:1 közepén (az utolsó 3 bet¶t meghagyva),
+    (\Rsegédtiszt\Q) szóba az Ézs 42:1 közepén (az utolsó 3 bet¶t meghagyva),
     valamint az Ézs 42:5-b®l még bevette az els® két bet¶t az
     \<omicron\>\<upsilon\>\<tau\>\<omega\>\<varsigma\> szóból.
 
@@ -8427,7 +8429,7 @@
       </unfolded-io>
     </session>
 
-    A kapott diagram \Pcsak\Q 26 %-os egyezést mutat a két hosszú szövegrész
+    A kapott diagram \Rcsak\Q 26 %-os egyezést mutat a két hosszú szövegrész
     között, ami esetleg kételkedésre adhat okot, hogy tényleg összefügg-e a
     két szakasz. Valójában a 26 %-os egyezés ilyen hosszú szövegek között
     egyáltalán nem gyakori, tehát már ez az érték is komolyan arra utal, hogy
@@ -8500,7 +8502,7 @@
   Itt Jézust már komoly támadások érik a vallási vezet®k fel®l. Jézus
   keményen beleáll a kritikákba. Pontosabban: határozottan, kímélet nélkül
   beszél az ellene ármánykodó, sötét és korrupt vezet®k ellen. Ugyanazt a
-  kifejezést is használja, amit Bemerít® János a 3:7-ben: \Pviperák
+  kifejezést is használja, amit Bemerít® János a 3:7-ben: \Rviperák
   fajzata\Q, \P\<gamma\>\<varepsilon\>\<nu\>\<nu\>\<eta\>\<mu\>\<alpha\>\<tau\>\<alpha\>
   \<varepsilon\>\<chi\>\<iota\>\<delta\>\<nu\>\<omega\>\<nu\>\Q, és ugyanezt
   fogja a 23:33-ban is használni a vezet®k ellen az egyik utolsó tanításában.
@@ -8522,7 +8524,7 @@
   szerinti h¶ség miatt, hanem azért is, mert a prófétával történt rettenetes
   kaland önmagában nem prognosztizálja, hogy valami hasonló újra megtörténhet
   a jöv®ben. Jézus egy látszólag oda nem ill® történetet f¶z be válaszként:
-  \Phogy jön ide Jónás?!\Q, kérdezheti a hallgatóság, és valljuk be: jogosan.
+  \Rhogy jön ide Jónás?!\Q, kérdezheti a hallgatóság, és valljuk be: jogosan.
   Csak utólag fogjuk fel, hogy Isten ebben a szituációban is a meglepetés, a
   kiszámíthatatlan tervek Ura, egyszersmind a történelem nagy irányítója,
   kézbentartója. Nem vándorcirkuszi sztár, hanem annál sokkal ámulatbaejt®bb
@@ -8602,7 +8604,7 @@
 
   Jézus a 12.<strong| >fejezetben, majd a 13.-ban is nagyon kemény szavakkal
   korhollja hallgatóságának egy részét. Még közeli rokonait sem kíméli, akik
-  (a 12.<strong| >fejezet végén) le akarnák ®t állítani (\Pbeszélni akartak
+  (a 12.<strong| >fejezet végén) le akarnák ®t állítani (\Rbeszélni akartak
   vele\Q).
 
   Miért fogalmaz ilyen drámaian Jézus? Az ok egyszer¶: hiába küldte el az
@@ -8793,7 +8795,7 @@
   A szövegek összehasonlítása után annyi különbséget találunk, hogy Máténál
   az \P\<omega\>\<sigma\>\<iota\>\<nu\> \<alpha\>\<upsilon\>\<tau\>\<omega\>\<nu\>
   \<beta\>\<alpha\>\<rho\>\<varepsilon\>\<omega\>\<varsigma\>\Q
-  (\P<with|font-shape|italic|önmaguk> nehezen hallanak\Q) kifejezés középs®
+  (\R<with|font-shape|italic|önmaguk> nehezen hallanak\Q) kifejezés középs®
   görög szava (\<alpha\>\<upsilon\>\<tau\>\<omega\>\<nu\>, önmaguk) hiányzik,
   legalábbis a <verbatim|StatResGNT> kiadásban. (A Codex Sinaiticusban és a
   Codex Ephraemi Rescriptusban ott van ez a szó is, de a többi ismert
@@ -8808,10 +8810,10 @@
   </big-figure>
 
   Azt is érdemes megnéznünk, hogy Ézsaiás milyen kontextusban beszél err®l a
-  süket és vak népr®l, akiknek a szíve \Pmegkövéredik\Q és nem tér meg. Hogy
+  süket és vak népr®l, akiknek a szíve \Rmegkövéredik\Q és nem tér meg. Hogy
   mikor kezd®dik ez a süketség és vakság, azt nem olvassuk, csak azt, hogy
-  Ézsaiást az érdekli: \Pmeddig tart ez, Uram?\Q (Ézs 6:11). Isten pedig így
-  válaszol: \PMíg el nem pusztulnak és lakatlanok nem lesznek a városok, a
+  Ézsaiást az érdekli: \Rmeddig tart ez, Uram?\Q (Ézs 6:11). Isten pedig így
+  válaszol: \RMíg el nem pusztulnak és lakatlanok nem lesznek a városok, a
   házak elhagyatottá nem lesznek, a föld pedig pusztává nem válik.
   Eltávolítja az Úr az embert, és nagyon elhagyott lesz az ország. Ha
   megmarad bel®le egy tized, azt is újból pusztulás éri, ahogy a csernek vagy
@@ -8821,7 +8823,7 @@
   bevezet®jében is említettük, mindez realitás lett Kr.<strong| >u.<strong|
   >70-ben. Viszont ennek ellenére a Megváltóját akkor fel nem ismer® zsidóság
   leszármazottjainak is van remény, hiszen a 13.<strong| >vers így
-  folytatódik, a 6.<strong| >fejezet ezekkel a szavakkal zárul: \PDe egy
+  folytatódik, a 6.<strong| >fejezet ezekkel a szavakkal zárul: \RDe egy
   ilyen hajtás végül szent maggá válik!\Q
 
   <subsection|Példázatok>
@@ -8850,7 +8852,7 @@
 
   \ A jézusi példázatokból felt¶n®en sok lett leírva az evangéliumokban. Nem
   biztos, hogy mindet ismerjük, vagyis hogy mindet lejegyezték, hiszen János
-  is azzal zárja az evangéliumát, hogy \Pvan sok egyéb is, amit Jézus tett,
+  is azzal zárja az evangéliumát, hogy \Rvan sok egyéb is, amit Jézus tett,
   és ha azt mind megírnák egyt®l egyig, úgy vélem, maga a világ sem tudná
   befogadni a megírt könyveket.\Q (Jn 21:25) Mindenesetre az Írás maga is
   fontosnak látta megjegyezni, hogy Jézus nem magától találta ki ezeket a
@@ -8956,7 +8958,7 @@
   különböz®, hátterében és tartalmában ugyanarról van szó. Jézus nem mond
   mást, lényegesen újat, hanem ugyanoda vezet, ahová minden nemzedéknek el
   kellene jutnia. <with|font-shape|italic|Ahogyan> mondja, az viszont más, és
-  pontosan azért, hogy megtalálja a hangot az eltévedt hallgatósággal: \Pmert
+  pontosan azért, hogy megtalálja a hangot az eltévedt hallgatósággal: \Rmert
   az Emberfia nem azért jött, hogy az emberek életét elveszítse, hanem hogy
   megmentse.\Q (Lk 9:56)
 
@@ -9219,7 +9221,7 @@
   Sokszor a döntés egyértelm¶, mert maga Máté úgy vezeti be a szöveget, mint
   egy ószövetségi szövegre való utalást, és sokszor azt is megmondja, hogy
   honnan idéz. A görög \P\<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>\Q
-  (\Pmeg van írva\Q) vezet be számos idézetet. Nemcsak Máté evangéliumában,
+  (\Rmeg van írva\Q) vezet be számos idézetet. Nemcsak Máté evangéliumában,
   de az Újszövetség további könyveiben is megtaláljuk ezt a szófordulatot:
 
   <\session|bibref|default>
@@ -9385,13 +9387,13 @@
   A \<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>
   kifejezés azonban nem az egyetlen, ami idézetet vezethet be. Bizonyos
   esetekben egyértelm¶, hogy egy másik szó, a \<gamma\>\<alpha\>\<rho\>
-  (\Pamint\Q) utal arra, hogy idézet következik (néha mindkét szó, a
+  (\Ramint\Q) utal arra, hogy idézet következik (néha mindkét szó, a
   \<gamma\>\<alpha\>\<rho\> és a \<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>
   is jelen van), néha valami egészen más szó \U itt tehát az értelmünket is
   használnunk kell, nem csak a számítógépünket.
 
   A következ® példánkban, a Máté 18:16-ban az \<iota\>\<nu\>\<alpha\> szóval
-  (magyarra fordítva, az \Pabból a célból, hogy\Q kifejezéssel) vezeti be
+  (magyarra fordítva, az \Rabból a célból, hogy\Q kifejezéssel) vezeti be
   Jézus azt a gondolatot, ami az 5Mózes 19:15-tel cseng egybe:
 
   <\session|bibref|default>
@@ -9601,12 +9603,12 @@
   amelyek a mindennapokban fontosak lehetnek.
 
   A 18:16-ot is egy ilyen tanításba beékelve találjuk. Jézus egyrészt a helyi
-  zsidó közösségnek beszél, másrészt már a jöv® \Pzsinagógájára\Q, a
+  zsidó közösségnek beszél, másrészt már a jöv® \Rzsinagógájára\Q, a
   keresztények közösségére is el®retekint. Az általa felvázolt szabályok az
   új szövetségre is ugyanúgy vonatkoznak. Lehet, hogy Jézus szándékosan nem
   akar törvényeskedésbe, konkrét ószövetségi igeversekbe belemenni, nehogy a
   fától ne lássuk az erd®t. Az 5Móz 19:15, ha lehet így fogalmazni, egy
-  \Pfa\Q az \Perd®b®l\Q. Fontos, de nem annyira fontos, hogy egzakt módon
+  \Rfa\Q az \Rerd®b®l\Q. Fontos, de nem annyira fontos, hogy egzakt módon
   kiemeljük, hogy ez egy törvény. De a törvénynek része, és akár az ó, akár
   az új szövetségnek a résztvev®iként figyelembe kell vennünk.
 
@@ -9694,11 +9696,11 @@
   </session>
 
   A kekecked®ket ez azonban nem hozza lázba. Azt a törvényt emlegetik fel,
-  amelyben Mózes igenis megengedi a házassági elválást: \PHa valaki feleségül
+  amelyben Mózes igenis megengedi a házassági elválást: \RHa valaki feleségül
   vesz egy lányt, és a férje lesz, de kés®bb nem találja kedvére valónak,
   mert valami ellenszenveset talál benne, akkor írjon válólevelet, adja azt
   az asszony kezébe, és úgy bocsássa el a házától.\Q (5Móz 24:1) A helyzet
-  az, hogy a mózesi parancs itt tovább is folytatódik: \PHa az elmegy a
+  az, hogy a mózesi parancs itt tovább is folytatódik: \RHa az elmegy a
   házától, majd hozzámegy feleségül valaki máshoz, de a második férje is
   meggy¶löli, válólevelet ír neki, a kezébe adja, és elbocsátja a házától,
   vagy ha meghal a második férj, aki feleségül vette, akkor az els® férje,
@@ -9772,16 +9774,16 @@
 
   A \P\<beta\>\<iota\>\<beta\>\<lambda\>\<iota\>\<omicron\>\<nu\>
   \<alpha\>\<pi\>\<omicron\>\<sigma\>\<tau\>\<alpha\>\<sigma\>\<iota\>\<omicron\>\<upsilon\>\Q
-  (\Pválólevél\Q) természetesen egyezik a két szakaszban. (Ismét látjuk a
+  (\Rválólevél\Q) természetesen egyezik a két szakaszban. (Ismét látjuk a
   technikai mal®rt, hogy a záró aposztróf a <verbatim|StatResGNT>-nél
   lemaradt, de itt a nyitó aposztróf léte is vita tárgya lehet.) A farizeusok
   által adott rövid folytatás, \P\<kappa\>\<alpha\>\<iota\>
   \<alpha\>\<pi\>\<omicron\>\<lambda\>\<upsilon\>\<sigma\>\<alpha\>\<iota\>
-  \<alpha\>\<upsilon\>\<tau\>\<eta\>\<nu\>\Q (\Pés küldje el ®t\Q), valamint
+  \<alpha\>\<upsilon\>\<tau\>\<eta\>\<nu\>\Q (\Rés küldje el ®t\Q), valamint
   a bevezet®, \P\<delta\>\<omicron\>\<upsilon\>\<nu\>\<alpha\>\<iota\>\Q
-  (\Padjon\Q), azonban összességében annyit jelent: \Padjon válólevelet és
+  (\Radjon\Q), azonban összességében annyit jelent: \Radjon válólevelet és
   küldje el ®t\Q. Vagyis helyesebb lenne, ha a magyar fordítás így szólna:
-  \PErre azt mondták neki: Akkor miért rendelte el Mózes, hogy adjon
+  \RErre azt mondták neki: Akkor miért rendelte el Mózes, hogy adjon
   válólevelet és küldje el ®t?\Q (19:7)
 
   De apropó, Mózes nem egészen ezt mondta! Mózest®l a farizeusok inkább csak
@@ -9800,14 +9802,14 @@
   szükséges, se nem elégséges feltétele annak, hogy valaki a jó úton járjon.
 
   A 19.<strong| >fejezetben, pont egy perfekcionista történet el®tt látjuk,
-  hogy Jézus a kisgyermekekr®l mondja: \Pilyeneké a mennyek országa\Q
+  hogy Jézus a kisgyermekekr®l mondja: \Rilyeneké a mennyek országa\Q
   (19:14). A kisgyermekek esetében pedig nyilván szó sem lehet
   perfekcionizmusról, legfeljebb feltétlen h¶ségr®l és nyílt ®szinteségr®l.
 
   A gazdag ifjú, aki ebben a történetben megjelenik, valószín¶leg maga is
   perfekcionista. Ha feltételezzük, hogy ugyanaz a történet van itt leírva,
   mint a Mk 10:17-t®l ill.<strong| >a Lk 18:18-tól kezd®d®en, akkor az
-  ifjúról elmondható, hogy Jézust \Pjó mester\Q-ként szólítja meg (ám itt, a
+  ifjúról elmondható, hogy Jézust \Rjó mester\Q-ként szólítja meg (ám itt, a
   Mátéban a kéziratok többségében ez a megszólítás nem szerepel), és válaszul
   Jézus az egyedüli jóságra, az Atyára mutat (ezt itt, a Mátében szintén nem
   olvassuk). Az örök élethez vezet® utat pedig a törvény betöltésében adja
@@ -9949,22 +9951,22 @@
   A 19-20.<strong| >fejezetben megjelen® egyik fontos téma Jézus követése,
   melyet több néz®pontból is illusztrál a Mester. Megemlíti azt is, hogy az
   Isten útjára lépésnek komoly ára van, és ezt Ž maga is a saját életén
-  keresztül fogja megmutatni: \Paki naggyá akar lenni közöttetek, az legyen a
+  keresztül fogja megmutatni: \Raki naggyá akar lenni közöttetek, az legyen a
   szolgátok, és aki közöttetek els® akar lenni, az legyen a rabszolgátok.
   Mert az Emberfia sem azért jött, hogy neki szolgáljanak, hanem hogy ®
   szolgáljon, és életét adja váltságul sokakért.\Q (20:26-28)
 
   Ezután lép rá arra az útra, ami Jeruzsálembe, kés®bbi veszt®helyére vezet.
   Valójában már a 17.<strong| >versben készül®dik az indulásra, de a
-  tényleges utazás a 29.<strong| >verst®l olvasható, \Pamikor elindultak
-  Jerikóból\Q, majd Jézus rögtön meggyógyít két vak embert. \PDávid Fia\Q,
+  tényleges utazás a 29.<strong| >verst®l olvasható, \Ramikor elindultak
+  Jerikóból\Q, majd Jézus rögtön meggyógyít két vak embert. \RDávid Fia\Q,
   így szólítják (30-31.<strong| >vers) \U de vajon miért? Ez a megszólítás
   bizonyára arra utalt, hogy Jézus királyi sarj. A vakok ugyan nem látnak
   testileg, itt valamit mégis meglátnak, ami a testi dimenziónál följebbvaló.
 
-  A 21.<strong| >fejezetben azután a \Pkirályi sarj\Q kép még inkább
+  A 21.<strong| >fejezetben azután a \Rkirályi sarj\Q kép még inkább
   feltárul. Király vonul be Jeruzsálembe, de miféle király? Nem lovon, mint
-  egy elnyomó, hanem szamáron, mint aki szolgál. A szamár \Pelkötése\Q
+  egy elnyomó, hanem szamáron, mint aki szolgál. A szamár \Relkötése\Q
   önmagában is egy csodával teli esemény, amelyet Jézus szó szerint el®re
   megmond, hogyan is <with|font-shape|italic|lesz>. De a tervezettség tényét
   Máté még azzal is kiemeli, hogy egy Ézsaiás-Zakariás-próféciát azonosít be
@@ -10068,9 +10070,9 @@
 
   Itt tehát valójában két prófécia van mozaikszer¶en összeállítva. A
   Zakariásban úgy t¶nik, egy másik történelmi eseményre is illik a prófécia,
-  hiszen a 9:13-ban ezt olvassuk: \Pfelbuzdítom fiaidat, Sion, a görögök
+  hiszen a 9:13-ban ezt olvassuk: \Rfelbuzdítom fiaidat, Sion, a görögök
   ellen\Q, de ett®l eltekintve a jézusi szabadítást több ismérv is jellemzi:
-  \PMert kiirtom a harci kocsit Efraimból és a lovat Jeruzsálemb®l \U mondja
+  \RMert kiirtom a harci kocsit Efraimból és a lovat Jeruzsálemb®l \U mondja
   az Úr. Kivész majd a harci íj, mert békét hirdet a népeknek; uralma
   tengert®l tengerig ér, az Eufráteszt®l a föld határáig. A veled kötött
   szövetség véréért szabadon bocsátom foglyaidat a kiszáradt kútból. Térjetek
@@ -10081,11 +10083,11 @@
   bevonulásával is azonosítja.
 
   Az Ézsaiás-prófécia nem ennyire konkrét, és egy jöv®beli harmonikus
-  helyzetr®l szól, amelyben a Szabadító a \Pszerzeményével\Q együtt érkezik,
-  ezzel válik világhír¶vé. \PSzent népnek nevezik ®ket, az Úr
+  helyzetr®l szól, amelyben a Szabadító a \Rszerzeményével\Q együtt érkezik,
+  ezzel válik világhír¶vé. \RSzent népnek nevezik ®ket, az Úr
   megváltottainak, téged pedig sokat látogatott városnak hívnak, nem pedig
   elhagyatottnak!\Q \U írja az Ézs 62:12. Kik ezek, akiket Ézsaiás
-  \Pszerzeménynek\Q, \Pszent népnek\Q, az \PÚr megváltottainak\Q nevez? Nem
+  \Rszerzeménynek\Q, \Rszent népnek\Q, az \RÚr megváltottainak\Q nevez? Nem
   valószín¶, hogy a zsidók, vagy legalábbis nem a szokásos értelemben vett
   zsidók, mert ®k azt a királyt, aki annak idején Jeruzsálembe bevonult,
   végül is elvetették. A válasz nem bonyolult, hiszen a történet
@@ -10146,7 +10148,7 @@
   következik. Valószín¶, hogy Máté olvasóközönsége tudta ezt amúgy is. A
   zsidó kultúrában ez az egyik leggyakrabban felhangzó zsoltár. A közelg®
   páskaünnep idején is aktuális volt, tehát teljesen természetes, hogy a
-  népnek \Peszébe jutott\Q.
+  népnek \Reszébe jutott\Q.
 
   Ez tehát egy olyan idézet az Újszövetségben, amit nem vezet be kommentár,
   nincs hozzá közelebbi megjelölés sem. Ett®l függetlenül az olvasó
@@ -10162,7 +10164,7 @@
   t¶nik, ez nem volt szándékában Jézusnak. S®t, kés®bb, a 23.<strong|
   >fejezetben, amikor a következ® napokban a jeruzsálemi templomban tanít, Ž
   maga korhollja azokat, akik nem hisznek benne, s konkrétan kimondja:
-  bizony, a fent elhangoztt szavakkal kéne Žt éltetni: \PMert mondom nektek,
+  bizony, a fent elhangoztt szavakkal kéne Žt éltetni: \RMert mondom nektek,
   nem láttok engem mostantól fogva mindaddig, amíg azt nem mondjátok: Áldott,
   aki az Úr nevében jön!\Q Ez ismét a 118.<strong| >zsoltár 26.<strong|
   >verse, ugyanúgy bevezet® nélkül:
@@ -10340,7 +10342,7 @@
   Miel®tt harmadszor is szóba jön, hogy Jézus Dávid Fia (l.<strong| >a
   15.<strong| >verset), Jézust épp a templomba érni látjuk. Igen, id®közben
   beért Jeruzsálembe az ujjongó tömeg kíséretében. A templomban azonban ismét
-  a szigorú oldalát ismerjük meg: \Pki¶zte mindazokat, akik a templomban
+  a szigorú oldalát ismerjük meg: \Rki¶zte mindazokat, akik a templomban
   árusítottak és vásároltak, a pénzváltók asztalait és a galambárusok székeit
   pedig felborította\Q (12.<strong| >vers).\ 
 
@@ -10457,17 +10459,17 @@
   júdaiaknak (Jer 7:2), akik általánosságban romlottak: elnyomják a
   jövevényt, az árvát és az özvegyet, ártatlan vért ontanak, bálványimádók
   (Jer 7:6), lopnak, ölnek, paráználkodnak, hamisan esküsznek, bálványimádók
-  (Jer 7:9). Mintegy humorosan summázza a helyzetet Isten: \PHát rablók
+  (Jer 7:9). Mintegy humorosan summázza a helyzetet Isten: \RHát rablók
   barlangjának nézitek ezt a házat, amelyet rólam neveztek el? Majd én is
   annak nézem! \U így szól az Úr.\Q (Jer 7:11, ebb®l idézi azután Máté a
-  \Prablók barlangja\Q szófordulatot.) Ha humor, akkor ez fekete humor, és
+  \Rrablók barlangja\Q szófordulatot.) Ha humor, akkor ez fekete humor, és
   Isten kés®bb valóban be is váltja ezt az ígéretét
   <with|font-shape|italic|is>, ahogyan a történelemb®l tudjuk.
 
   Mi a nép reakciója Jézus szavaira? A gyengék éljenzik, az er®sek
   irigykednek rá. A gyermekek, valószín¶leg maguk is jól ismerve a
   118.<strong| >zsoltárt, és talán a népünnepélyt®l felbátorodva maguk is
-  rázendítenek: \PHozsánna Dávid Fiának!\Q Ez már sok a f®papoknak és az
+  rázendítenek: \RHozsánna Dávid Fiának!\Q Ez már sok a f®papoknak és az
   írástudóknak, s hiába látják a csodákat, haragra lobbannak:
 
   <\session|bibref|default>
@@ -10570,7 +10572,7 @@
   korábban már megfogalmaztuk, hogy a Krisztust követ® keresztényeké lesz,
   legalábbis a Jézust közvetlenül követ® évszázadokban.
 
-  A sarokk® képe azonban még határozottabb kijelentés: \Paki erre a k®re
+  A sarokk® képe azonban még határozottabb kijelentés: \Raki erre a k®re
   esik, összezúzza magát, akire pedig ez a k® ráesik, azt szétmorzsolja\Q
   (21:44). Ez arra utal, hogy esélytelen bármilyen harc, ellenállás Isten
   Fiával szemben. Jézus itt még nincs abban a helyzetben, hogy ezt fizikailag
@@ -11241,7 +11243,7 @@
   </session>
 
   A harmadik kvízkérdést újra a farizeusok dobják be, egy egyszer¶nek t¶n®
-  feladatot megfogalmazva, de Jézus itt is tökéletes választ ad. \PMelyik a
+  feladatot megfogalmazva, de Jézus itt is tökéletes választ ad. \RMelyik a
   nagy parancsolat a törvényben?\Q
 
   <\session|bibref|default>
@@ -11363,7 +11365,7 @@
   </session>
 
   Az els® parancsolatnál Jézus a Józsué 22:5-re is utal röviden, mivel az
-  utolsó kifejezés (\Pteljes elmédb®l\Q) Józsuénál szerepel; az 5Móz-ben más
+  utolsó kifejezés (\Rteljes elmédb®l\Q) Józsuénál szerepel; az 5Móz-ben más
   kifejezés áll:
 
   <\session|bibref|default>
@@ -11474,11 +11476,11 @@
   Egészen pontosan: az 5Móz-ben \P\<varepsilon\>\<xi\>
   \<omicron\>\<lambda\>\<eta\>\<varsigma\> \<tau\>\<eta\>\<varsigma\>
   \<delta\>\<upsilon\>\<nu\>\<alpha\>\<mu\>\<varepsilon\>\<omega\>\<varsigma\>
-  \<sigma\>\<omicron\>\<upsilon\>\Q (\Pteljes er®db®l\Q), Józsuénál
+  \<sigma\>\<omicron\>\<upsilon\>\Q (\Rteljes er®db®l\Q), Józsuénál
   \P\<varepsilon\>\<xi\> \<omicron\>\<lambda\>\<eta\>\<varsigma\>
   \<tau\>\<eta\>\<varsigma\> \<delta\>\<iota\>\<alpha\>\<nu\>\<omicron\>\<iota\>\<alpha\>\<varsigma\>
-  \<upsilon\>\<mu\>\<omega\>\<nu\>\Q (\Pteljes elmétekb®l\Q, itt a magyar
-  fordítás \Pteljes szívetekb®l\Q-t ír).
+  \<upsilon\>\<mu\>\<omega\>\<nu\>\Q (\Rteljes elmétekb®l\Q, itt a magyar
+  fordítás \Rteljes szívetekb®l\Q-t ír).
 
   Az els® diagram egészen bonyolultnak t¶nik els®re, de valójában csak azt
   fejezi ki, hogy egy 8 bet¶s szó helyett egy 7 bet¶s áll, valamint részleges
@@ -11493,7 +11495,7 @@
   38.<strong| >verset és a 39.<strong| >vers elejét (46 bet¶).
 
   Jézus tehát mindhárom kvízkérdésre kiválóan megfelelt: válaszain
-  \Pelcsodálkoztak\Q (22.<strong| >vers), a sokaság \Pálmélkodott tanításán\Q
+  \Relcsodálkoztak\Q (22.<strong| >vers), a sokaság \Rálmélkodott tanításán\Q
   (33.<strong| >vers). A fejezet zárásaképpen viszont Ž maga tesz fel egy
   kérdést: Krisztus Dávid fia nemdebár, de hogyan nevezheti akkor Dávid
   Krisztust Urának?
@@ -11552,8 +11554,8 @@
   </session>
 
   Látszik, hogy a Jézus által feltett kérdés realisztikus, mivel tényleg
-  Dáviddal kapcsolatos és Isten mellett (\Paz Úr\Q) valóban egy másik úr
-  (\Paz én uram\Q) is szerepel a 110.<strong| >zsoltár indító versében.
+  Dáviddal kapcsolatos és Isten mellett (\Raz Úr\Q) valóban egy másik úr
+  (\Raz én uram\Q) is szerepel a 110.<strong| >zsoltár indító versében.
 
   Jézus nem adja meg a választ a saját kvízkérdésére. Az viszont sokat
   elmond, hogy ®t többé nem merik megkérdezni többé (46.<strong| >vers): mind
@@ -11636,9 +11638,9 @@
   beszél az írástudók és a farizeusok b¶neir®l, és a közelg® ítéletr®l,
   amelyet megel®z®en nagy nyomorúság vár az emberiségre. Ž maga is vissza fog
   jönni, de el®bb \U megtéveszt® módon \U mások jönnek, akik a világosság
-  szószólóinak adják ki magukat, holott \Phamis krisztusok és hamis
+  szószólóinak adják ki magukat, holott \Rhamis krisztusok és hamis
   próféták\Q (24:24). Jézus itt keveset beszél az Ószövetségr®l, hiszen a
-  jöv®be tekint, de Dániel könyvére utalva megemlíti \Pa pusztító
+  jöv®be tekint, de Dániel könyvére utalva megemlíti \Ra pusztító
   utálatosság\Q-ot a 24:15-ben:
 
   <\session|bibref|default>
@@ -11718,7 +11720,7 @@
 
   Amit biztosan látunk, hogy a \P\<beta\>\<delta\>\<#3AD\>\<lambda\>\<upsilon\>\<gamma\>\<mu\>\<alpha\>
   \<tau\>\<#1FC6\>\<varsigma\> \<#1F10\>\<rho\>\<eta\>\<mu\>\<#3CE\>\<sigma\>\<varepsilon\>\<omega\>\<varsigma\>\Q,
-  a \Ppusztító utálatosság\Q valóban megjelenik Dániel könyvében is,
+  a \Rpusztító utálatosság\Q valóban megjelenik Dániel könyvében is,
   lényegében bet¶ szerint:
 
   <\session|bibref|default>
@@ -11828,7 +11830,7 @@
   pontján az emberiség <with|font-shape|italic|hasznává> válik a közöny, a be
   nem avatkozás. Mert Istennek az a terve, hogy Jézus helyettes áldozatán
   keresztül mentse meg az emberiséget. Ki látta el®re ezt az abszurd
-  helyzetet? \PMegverem a pásztort, és elszélednek a nyáj juhai.\Q (26:31)
+  helyzetet? \RMegverem a pásztort, és elszélednek a nyáj juhai.\Q (26:31)
   Nos, Zakariás látta el®re ezt, mert az Atya el®re megmondta neki:
 
   <\session|bibref|default>
@@ -11917,7 +11919,7 @@
   a gyilkosok cinkosa lesz: ® fedi fel Jézus kilétét és személyét az utolsó
   éjszakán. Júdás 30 ezüstért vállalja az áruló küldetését, de ez az összeg,
   ami valószín¶leg üzleti titoknak számított, mégis napvilágra került és
-  megíratott: \PAmikor pedig Júdás, aki elárulta ®t, látta, hogy elítélték,
+  megíratott: \RAmikor pedig Júdás, aki elárulta ®t, látta, hogy elítélték,
   megbánta tettét, visszavitte a harminc ezüstöt a f®papoknak és a véneknek,
   és ezt mondta: Vétkeztem, mert ártatlan vért árultam el. De azok ezt
   mondták: Mi közünk hozzá? A te dolgod. Ekkor ® behajította az ezüstöket a
@@ -12009,40 +12011,40 @@
   A 27:9-10 az utolsó néven nevezett prófécia, idézet a Máté-evangéliumban.
   Nincs további közvetlen kapcsolat az Ószövetséggel. Ahogyan Jézus élete is
   kioltódik, nincs többé, Akinek csapdát állítsanak \U az Írás nem szól
-  többé. Ž maga sem kérdez többé. \PTizenkét órától kezdve három óráig\Q
+  többé. Ž maga sem kérdez többé. \RTizenkét órától kezdve három óráig\Q
   sötétség támad az egész földön. (27:45)
 
   <subsection|A 22.<strong| >zsoltár>
 
-  Közvetlenül ezután a 27:46-ban olvassuk: \PHárom óra tájban Jézus hangosan
+  Közvetlenül ezután a 27:46-ban olvassuk: \RHárom óra tájban Jézus hangosan
   felkiáltott: Éli, éli, lámá sabaktáni, azaz: Én Istenem, én Istenem, miért
   hagytál el engem?\Q Nincs megjelölve, de a 22.<strong| >zsoltár 2.<strong|
   >versét kiáltja haláltusájában a megfeszített Mester.
 
   Van-e erre reakciója az ott bámészkodóknak? Felismerik vajon a zsoltárt?
-  Ugyan, azt hiszik, \PIllést hívja\Q! (47.<strong| >vers) Valaki ecetet adna
+  Ugyan, azt hiszik, \RIllést hívja\Q! (47.<strong| >vers) Valaki ecetet adna
   neki (48.<strong| >vers). Ha valaki mélyebben ismeri a Zsoltárokat, eszébe
-  juthat a 69.<strong| >zsoltár 22.<strong| >verse: \Pszomjúságomban ecettel
+  juthat a 69.<strong| >zsoltár 22.<strong| >verse: \Rszomjúságomban ecettel
   itattak\Q.
 
   Jézus elfogadja az ecetet (ezt a János 19:30-ból tudjuk), majd a Máté 27:49
-  szerint a bámészkodók tovább gúnyolják: \Plássuk, eljön-e Illés, hogy
+  szerint a bámészkodók tovább gúnyolják: \Rlássuk, eljön-e Illés, hogy
   megmentse ®t\Q. Mintha a 22.<strong| >zsoltár elevenedne meg, hiszen ott is
-  ezt olvassuk: \PAz Úrra bízta magát, mentse hát meg ®t, szabadítsa meg,
+  ezt olvassuk: \RAz Úrra bízta magát, mentse hát meg ®t, szabadítsa meg,
   hiszen kedvelte!\Q (9.<strong| >vers) Már a Máté 27:43-ban is ugyanígy
-  gyalázták egyesek: \PBízott az Istenben, szabadítsa meg most, ha kedveli
-  ®t\Q \U mondták. Továbbá, a 39.<strong| >versben is: \PAkik elmentek
+  gyalázták egyesek: \RBízott az Istenben, szabadítsa meg most, ha kedveli
+  ®t\Q \U mondták. Továbbá, a 39.<strong| >versben is: \RAkik elmentek
   mellette, a fejüket csóválva káromolták\Q \U ez pedig a Zsolt 22:8-cal
-  egyezik: \PGúnyolódnak rajtam mind, akik látnak, ajkukat biggyesztik,
+  egyezik: \RGúnyolódnak rajtam mind, akik látnak, ajkukat biggyesztik,
   fejüket csóválják\Q.
 
   Vajon véletlen egyezés, hogy ugyanezen zsoltár 17.<strong| >verse ezt írja:
-  \Pátlyukasztották kezemet, lábamat\Q? Máté ugyan nem ír arról, mit is
+  \Rátlyukasztották kezemet, lábamat\Q? Máté ugyan nem ír arról, mit is
   jelentett a rómaiak kivégzési gyakorlata, a keresztrefeszítés, de máshol
   vannak erre utalások (pl.<strong| >a Jn 19:37-ben és a 20:25-ben, ez utóbbi
   a Zak 12:10-et idézi). A zsoltár 19.<strong| >verse ezt mondja:
-  \PMegosztoznak ruháimon, köntösömre sorsot vetnek.\Q A Mt 27:35 szerint:
-  \Psorsvetéssel megosztoztak ruháin\Q. Véletlen egybeesés?
+  \RMegosztoznak ruháimon, köntösömre sorsot vetnek.\Q A Mt 27:35 szerint:
+  \Rsorsvetéssel megosztoztak ruháin\Q. Véletlen egybeesés?
 
   Tüzetesen végigolvasva a 22.<strong| >zsoltárt, mást is találunk benne, ami
   közvetlenül nem kapcsolható Jézus szenvedéséhez (vagy legalábbis els®
@@ -12050,7 +12052,7 @@
   vonjunk le bármilyen következtetést. Nincs arra szabály, hogy egy
   ószövetségi igeszakaszt az Újszövetségnek szó szerint kellene idéznie, vagy
   egy idézetnek pontosan ill® kontextusban kell lennie ahhoz, hogy
-  \Pérvényes\Q idézetnek számítson. Látjuk, hogy Máté olykor egészen pontosan
+  \Rérvényes\Q idézetnek számítson. Látjuk, hogy Máté olykor egészen pontosan
   idézte az ószövetségi szerz®ket, máskor csak felelevenített néhány
   gondolatot. Máté szándéka azonban, hogy az olvasó számára er®s bizonyosság
   legyen: Jézus Isten Fia, a megígért küldött, talán jól érzékelhet®.
@@ -12066,24 +12068,24 @@
   akkori események között. Nyitott szemmel, lelkesedéssel és nyitott szívvel
   olvasva még inkább feltárul el®ttünk Isten terve, amelynek talán mi is
   részesei, szerepl®i lehetünk. Akár úgy, hogy a zsidóság hagyományából
-  jövünk, akár úgy, hogy azon kívül, a \Pnépek\Q közül.
+  jövünk, akár úgy, hogy azon kívül, a \Rnépek\Q közül.
 
   <subsection|Összefoglalás>
 
   A Máté-evangélium nem ér véget Jézus halálával. Az utolsó, 28.<strong|
   >fejezet arról szól, hogy Jézust az ®t bebalzsamozni akaró asszonyok nem
   találják a sírboltban. Egy villámló tekintet¶, fehér ruhás angyal igazítja
-  el ®ket, aki elhengeríti a követ a sírbolt el®l, s leül rá. \PNincsen itt,
+  el ®ket, aki elhengeríti a követ a sírbolt el®l, s leül rá. \RNincsen itt,
   mert feltámadt, amint megmondta.\Q (28:6)
 
-  \PAmint megmondta.\Q Korábban az Írás szólt, mostantól pedig a Fiú beszél.
+  \RAmint megmondta.\Q Korábban az Írás szólt, mostantól pedig a Fiú beszél.
   Várja a tanítványokat Galileában, a szül®földjükön, otthon: ezt üzeni.
   Aztán személyesen is megjelenik, és személyesen is meger®síti az üzenetet
-  az asszonyokon keresztül: \PNe féljetek! Menjetek el, adjátok hírül
+  az asszonyokon keresztül: \RNe féljetek! Menjetek el, adjátok hírül
   testvéreimnek, hogy menjenek Galileába, és ott meglátnak engem.\Q (28:10)
 
   Tényleg így is lesz, Galileában valóban létrejön a találkozó, ahol új
-  feladatokat bíz a tanítványokra, majd ígéri: \Píme, én veletek vagyok
+  feladatokat bíz a tanítványokra, majd ígéri: \Ríme, én veletek vagyok
   minden napon a világ végezetéig.\Q (28:20)
 
   A Máté-evangélium gyorsabban véget ér, mint a másik három evangélium;
@@ -12269,7 +12271,7 @@
   <verbatim|\<#5D0\>> (alef), ami azután <verbatim|\<#5D1\>> (beth) bet¶be,
   majd <verbatim|\<#5D2\>> (gimel) bet¶be, és így tovább, megy át, egészen a
   176.<strong| >versig (a héber ábécé utolsó bet¶je a <verbatim|\<#5EA\>>,
-  \Ptaf\Q):
+  \Rtaf\Q):
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -12287,20 +12289,20 @@
   </session>
 
   Mit tehet ilyenkor egy fordító? A <index|Szeptuaginta>Szeptuaginta fordítói
-  elégedettek voltak munkájukkal, és úgy t¶nik, Máté is \Pelég jónak\Q
+  elégedettek voltak munkájukkal, és úgy t¶nik, Máté is \Relég jónak\Q
   találja a görög szövegeket, amikor hivatkozik rájuk. Kés®bb látni fogjuk,
   hogy más szerz®k (pl.<strong| >János evangélista) olykor héber szövegeket
   is közölnek, ha közelebbi képet akarnak adni a történtekr®l.
 
-  A szöveg tehát \Pelég jó\Q, és habár vannak hibái, a magyar fordítás is
-  \Pelég jó\Q. Elegend®en jó ahhoz, hogy akár kívülállóként, akár a zsidó
+  A szöveg tehát \Relég jó\Q, és habár vannak hibái, a magyar fordítás is
+  \Relég jó\Q. Elegend®en jó ahhoz, hogy akár kívülállóként, akár a zsidó
   hagyományokat jól ismer® beavatottként megismerkedjünk azzal a történettel,
   ami 2000 évvel ezel®tt Júdea vidékén játszódott. Dönthetünk úgy, hogy a
   40-nél is több idézettel alátámasztott történetnek hitelt adunk. De úgy is
   dönthetünk, hogy a sírbolt el®tt ®rt álló katonáknak hiszünk, akik azt
-  állították, hogy Jézus \Ptanítványai éjjel odajöttek, és ellopták ®t, amíg
+  állították, hogy Jézus \Rtanítványai éjjel odajöttek, és ellopták ®t, amíg
   mi aludtunk.\Q (28:13) Máté szerint ez a verzió terjedt el inkább a zsidók
-  között \Pmind a mai napig\Q (28:15).
+  között \Rmind a mai napig\Q (28:15).
 
   Ha egy személyes érvet felhozhatok: mint matematikusnak, nekem igazán
   leny¶göz® azt látni, hogy Máté tudományos szempontból is egzakt, pontos
@@ -12315,7 +12317,7 @@
 
   A döntés \U ha még bizonytalan lenne ezek után is \U az Olvasó kezében van.
   Elegend® bizonyíték mindez arra, hogy valóban Jézus a megígért Messiás, a
-  Szabadító? Egyben tényleg Ž lenne az, aki kimondhatja: \Pnekem adatott
+  Szabadító? Egyben tényleg Ž lenne az, aki kimondhatja: \Rnekem adatott
   minden hatalom mennyen és földön\Q?
 
   Ne hamarkodjuk el a kérdés megválaszolását, mert ezzel akár a saját életünk
@@ -12392,92 +12394,92 @@
 
     <with|par-left|1tab|2.1.11.<space|2spc>Jézus megtisztít és meggyógyít
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-50>>
+    <no-break><pageref|auto-51>>
 
     <with|par-left|1tab|2.1.12.<space|2spc>Megismerni Istent
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-51>>
+    <no-break><pageref|auto-52>>
 
     <with|par-left|1tab|2.1.13.<space|2spc>BJ börtönben
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-52>>
+    <no-break><pageref|auto-53>>
 
     <with|par-left|1tab|2.1.14.<space|2spc>Mélyebb rendez® elv
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-53>>
+    <no-break><pageref|auto-54>>
 
     <with|par-left|1tab|2.1.15.<space|2spc>Nem lármáz
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-54>>
+    <no-break><pageref|auto-55>>
 
     <with|par-left|1tab|2.1.16.<space|2spc>Jónás jele
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-56>>
+    <no-break><pageref|auto-57>>
 
     <with|par-left|1tab|2.1.17.<space|2spc>Nagyobb Jónásnál és Salamonnál
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-57>>
+    <no-break><pageref|auto-58>>
 
     <with|par-left|1tab|2.1.18.<space|2spc>Süketek és vakok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-58>>
+    <no-break><pageref|auto-59>>
 
     <with|par-left|1tab|2.1.19.<space|2spc>Példázatok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-60>>
+    <no-break><pageref|auto-61>>
 
     <with|par-left|1tab|2.1.20.<space|2spc>A képmutatók leleplezése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-61>>
+    <no-break><pageref|auto-62>>
 
     <with|par-left|1tab|2.1.21.<space|2spc>Intermezzo: Idézet vagy nem?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-62>>
+    <no-break><pageref|auto-63>>
 
     <with|par-left|1tab|2.1.22.<space|2spc>Újabb kekecked®k
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-65>>
+    <no-break><pageref|auto-66>>
 
     <with|par-left|1tab|2.1.23.<space|2spc>Kövess engem!
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-66>>
+    <no-break><pageref|auto-67>>
 
     <with|par-left|1tab|2.1.24.<space|2spc>Virágvasárnap
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-67>>
+    <no-break><pageref|auto-68>>
 
     <with|par-left|1tab|2.1.25.<space|2spc>A sarokk®
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-69>>
+    <no-break><pageref|auto-70>>
 
     <with|par-left|1tab|2.1.26.<space|2spc>Kvízkérdések
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-71>>
+    <no-break><pageref|auto-72>>
 
     <with|par-left|1tab|2.1.27.<space|2spc>Dániel próféciája
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-72>>
+    <no-break><pageref|auto-73>>
 
     <with|par-left|1tab|2.1.28.<space|2spc>Gyilkosság
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-73>>
+    <no-break><pageref|auto-74>>
 
     <with|par-left|1tab|2.1.29.<space|2spc>A
     22.<with|font-series|bold|math-font-series|bold| >zsoltár
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-74>>
+    <no-break><pageref|auto-75>>
 
     <with|par-left|1tab|2.1.30.<space|2spc>Összefoglalás
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-75>>
+    <no-break><pageref|auto-76>>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-78><vspace|0.5fn>
+    <pageref|auto-79><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-79><vspace|0.5fn>
+    <pageref|auto-80><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -12491,7 +12493,7 @@
 
     <index+2|bibref-parancs|findN|<pageref|auto-17>>
 
-    <index+2|bibref-parancs|getrefs|<pageref|auto-68>, <pageref|auto-70>>
+    <index+2|bibref-parancs|getrefs|<pageref|auto-69>, <pageref|auto-71>>
 
     <index+2|bibref-parancs|help|<pageref|auto-39>>
 
@@ -12511,8 +12513,8 @@
 
     <index+2|bibref-parancs|rawN|<pageref|auto-41>>
 
-    <index+2|bibref-parancs|statement|<pageref|auto-34>, <pageref|auto-55>,
-    <pageref|auto-63>>
+    <index+2|bibref-parancs|statement|<pageref|auto-34>, <pageref|auto-56>,
+    <pageref|auto-64>>
 
     <index+2|bibref-parancs|textN|<pageref|auto-15>>
 
@@ -12537,7 +12539,7 @@
     <index+1|SWORD|<pageref|auto-8>>
 
     <index+1|Szeptuaginta|<pageref|auto-4>, <pageref|auto-16>,
-    <pageref|auto-35>, <pageref|auto-77>>
+    <pageref|auto-35>, <pageref|auto-50>, <pageref|auto-78>>
   </the-index>
 
   \;
@@ -12651,39 +12653,41 @@
     <associate|auto-48|<tuple|2.1.9|38>>
     <associate|auto-49|<tuple|2.1.10|40>>
     <associate|auto-5|<tuple|1.1|8>>
-    <associate|auto-50|<tuple|2.1.11|44>>
-    <associate|auto-51|<tuple|2.1.12|45>>
-    <associate|auto-52|<tuple|2.1.13|46>>
-    <associate|auto-53|<tuple|2.1.14|48>>
-    <associate|auto-54|<tuple|2.1.15|49>>
-    <associate|auto-55|<tuple|bibref-parancs|52>>
-    <associate|auto-56|<tuple|2.1.16|54>>
-    <associate|auto-57|<tuple|2.1.17|55>>
-    <associate|auto-58|<tuple|2.1.18|56>>
-    <associate|auto-59|<tuple|2.2|58>>
+    <associate|auto-50|<tuple|Szeptuaginta|41>>
+    <associate|auto-51|<tuple|Python|44>>
+    <associate|auto-52|<tuple|2.1.11|45>>
+    <associate|auto-53|<tuple|2.1.12|46>>
+    <associate|auto-54|<tuple|2.1.13|48>>
+    <associate|auto-55|<tuple|2.1.14|49>>
+    <associate|auto-56|<tuple|2.1.15|52>>
+    <associate|auto-57|<tuple|bibref-parancs|54>>
+    <associate|auto-58|<tuple|2.1.16|55>>
+    <associate|auto-59|<tuple|2.1.17|56>>
     <associate|auto-6|<tuple|1.1|8>>
-    <associate|auto-60|<tuple|2.1.19|58>>
-    <associate|auto-61|<tuple|2.1.20|60>>
-    <associate|auto-62|<tuple|2.1.21|62>>
-    <associate|auto-63|<tuple|bibref-parancs|64>>
-    <associate|auto-64|<tuple|2.3|65>>
-    <associate|auto-65|<tuple|2.1.22|66>>
-    <associate|auto-66|<tuple|2.1.23|68>>
-    <associate|auto-67|<tuple|2.1.24|69>>
-    <associate|auto-68|<tuple|bibref-parancs|72>>
-    <associate|auto-69|<tuple|2.1.25|75>>
+    <associate|auto-60|<tuple|2.1.18|58>>
+    <associate|auto-61|<tuple|2.2|58>>
+    <associate|auto-62|<tuple|2.1.19|60>>
+    <associate|auto-63|<tuple|2.1.20|62>>
+    <associate|auto-64|<tuple|2.1.21|64>>
+    <associate|auto-65|<tuple|bibref-parancs|65>>
+    <associate|auto-66|<tuple|2.3|66>>
+    <associate|auto-67|<tuple|2.1.22|68>>
+    <associate|auto-68|<tuple|2.1.23|69>>
+    <associate|auto-69|<tuple|2.1.24|72>>
     <associate|auto-7|<tuple|1.2|9>>
-    <associate|auto-70|<tuple|bibref-parancs|76>>
-    <associate|auto-71|<tuple|2.1.26|80>>
-    <associate|auto-72|<tuple|2.1.27|84>>
-    <associate|auto-73|<tuple|2.1.28|85>>
-    <associate|auto-74|<tuple|2.1.29|88>>
-    <associate|auto-75|<tuple|2.1.30|88>>
-    <associate|auto-76|<tuple|2.1|89>>
-    <associate|auto-77|<tuple|Szeptuaginta|90>>
-    <associate|auto-78|<tuple|Szeptuaginta|95>>
-    <associate|auto-79|<tuple|Szeptuaginta|97>>
+    <associate|auto-70|<tuple|bibref-parancs|75>>
+    <associate|auto-71|<tuple|2.1.25|76>>
+    <associate|auto-72|<tuple|bibref-parancs|80>>
+    <associate|auto-73|<tuple|2.1.26|84>>
+    <associate|auto-74|<tuple|2.1.27|85>>
+    <associate|auto-75|<tuple|2.1.28|88>>
+    <associate|auto-76|<tuple|2.1.29|88>>
+    <associate|auto-77|<tuple|2.1.30|89>>
+    <associate|auto-78|<tuple|2.1|90>>
+    <associate|auto-79|<tuple|Szeptuaginta|95>>
     <associate|auto-8|<tuple|SWORD|9>>
+    <associate|auto-80|<tuple|Szeptuaginta|97>>
+    <associate|auto-81|<tuple|Szeptuaginta|?>>
     <associate|auto-9|<tuple|1.1|10>>
     <associate|bib-Benyik1996|<tuple|1|97>>
     <associate|bib-Bunning2022|<tuple|2|97>>
@@ -12768,15 +12772,15 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-15A9F1758--159E65570>|<link|hyperlink|<id|%-15A9F1758--159E65570>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%-6B5435E08--6B393D330>|<link|hyperlink|<id|%-6B5435E08--6B393D330>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
-      </surround>|<pageref|auto-59>>
+      </surround>|<pageref|auto-60>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.3><with|font-series|<quote|bold>|ábra.>
       |>
         A greekcntr.org oldalon látható összehasonlító táblázat a Máté 18:16
         els® néhány szaváról.\ 
-      </surround>|<pageref|auto-64>>
+      </surround>|<pageref|auto-65>>
     </associate>
     <\associate|idx>
       <tuple|<tuple|Szeptuaginta>|<pageref|auto-4>>
@@ -12833,15 +12837,17 @@
 
       <tuple|<tuple|Aleppo-kódex>|<pageref|auto-45>>
 
-      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-55>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-50>>
 
-      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-63>>
+      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-56>>
 
-      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-68>>
+      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-64>>
 
-      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-70>>
+      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-69>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-77>>
+      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-71>>
+
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-78>>
     </associate>
     <\associate|table>
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
@@ -12852,7 +12858,7 @@
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.1>|>
         Összefoglaló táblázat a Máté-evangéliumban szerepl® idézetekr®l.
-      </surround>|<pageref|auto-76>>
+      </surround>|<pageref|auto-77>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|El®szó>
@@ -12923,92 +12929,92 @@
 
       <with|par-left|<quote|1tab>|2.1.11.<space|2spc>Jézus megtisztít és
       meggyógyít <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-50>>
+      <no-break><pageref|auto-51>>
 
       <with|par-left|<quote|1tab>|2.1.12.<space|2spc>Megismerni Istent
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-51>>
+      <no-break><pageref|auto-52>>
 
       <with|par-left|<quote|1tab>|2.1.13.<space|2spc>BJ börtönben
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-52>>
+      <no-break><pageref|auto-53>>
 
       <with|par-left|<quote|1tab>|2.1.14.<space|2spc>Mélyebb rendez® elv
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-53>>
+      <no-break><pageref|auto-54>>
 
       <with|par-left|<quote|1tab>|2.1.15.<space|2spc>Nem lármáz
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-54>>
+      <no-break><pageref|auto-55>>
 
       <with|par-left|<quote|1tab>|2.1.16.<space|2spc>Jónás jele
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-56>>
+      <no-break><pageref|auto-57>>
 
       <with|par-left|<quote|1tab>|2.1.17.<space|2spc>Nagyobb Jónásnál és
       Salamonnál <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-57>>
+      <no-break><pageref|auto-58>>
 
       <with|par-left|<quote|1tab>|2.1.18.<space|2spc>Süketek és vakok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-58>>
+      <no-break><pageref|auto-59>>
 
       <with|par-left|<quote|1tab>|2.1.19.<space|2spc>Példázatok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-60>>
+      <no-break><pageref|auto-61>>
 
       <with|par-left|<quote|1tab>|2.1.20.<space|2spc>A képmutatók leleplezése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-61>>
+      <no-break><pageref|auto-62>>
 
       <with|par-left|<quote|1tab>|2.1.21.<space|2spc>Intermezzo: Idézet vagy
       nem? <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-62>>
+      <no-break><pageref|auto-63>>
 
       <with|par-left|<quote|1tab>|2.1.22.<space|2spc>Újabb kekecked®k
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-65>>
+      <no-break><pageref|auto-66>>
 
       <with|par-left|<quote|1tab>|2.1.23.<space|2spc>Kövess engem!
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-66>>
+      <no-break><pageref|auto-67>>
 
       <with|par-left|<quote|1tab>|2.1.24.<space|2spc>Virágvasárnap
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-67>>
+      <no-break><pageref|auto-68>>
 
       <with|par-left|<quote|1tab>|2.1.25.<space|2spc>A sarokk®
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-69>>
+      <no-break><pageref|auto-70>>
 
       <with|par-left|<quote|1tab>|2.1.26.<space|2spc>Kvízkérdések
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-71>>
+      <no-break><pageref|auto-72>>
 
       <with|par-left|<quote|1tab>|2.1.27.<space|2spc>Dániel próféciája
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-72>>
+      <no-break><pageref|auto-73>>
 
       <with|par-left|<quote|1tab>|2.1.28.<space|2spc>Gyilkosság
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-73>>
+      <no-break><pageref|auto-74>>
 
       <with|par-left|<quote|1tab>|2.1.29.<space|2spc>A
       22.<with|font-series|<quote|bold>|math-font-series|<quote|bold>|
       >zsoltár <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-74>>
+      <no-break><pageref|auto-75>>
 
       <with|par-left|<quote|1tab>|2.1.30.<space|2spc>Összefoglalás
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-75>>
+      <no-break><pageref|auto-76>>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-78><vspace|0.5fn>
+      <pageref|auto-79><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-79><vspace|0.5fn>
+      <pageref|auto-80><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
