@@ -7553,8 +7553,8 @@
   csatlakozik a Mesterhez, és ennek történetét eleveníti fel a 9.<strong|
   >fejezetben (9:9-13). Máté, a vámszed®, a Mester utasítására egy
   szempillantás alatt otthagyja jövedelmez® praxisát, és követi Jézust. A
-  valószín¶leg ezt a döntést követ® közös étkezésnél, talán egy másik
-  vámszed®nél, talán éppen magánál Máténál (vö.<strong| >Mk 2:15), a
+  valószín¶leg ezt a döntést követ® közös étkezésnél \U talán egy másik
+  vámszed®nél, talán éppen magánál Máténál (vö.<strong| >Mk 2:15) \U a
   bámészkodó farizeusok szóvá teszik, hogy mi köze Jézusnak a b¶nösökhez, így
   ehhez a megátalkodott vámszed®höz is.
 
@@ -7788,8 +7788,8 @@
   </session>
 
   Az egyez® görög szöveg szó szerinti fordítása így hangzik (Csia Lajos
-  szövegét használva): \RLám angyalomat küldöm el orcád el®tt\Q, ahol az
-  <with|font-shape|italic|angyal> szó még pontosabb jelentése:
+  <cite|Csia> szövegét használva): \RLám angyalomat küldöm el orcád el®tt\Q,
+  ahol az <with|font-shape|italic|angyal> szó még pontosabb jelentése:
   <with|font-shape|italic|hírviv®>. Az analógia így jobban érthet®: BJ mint
   egy hírviv® érkezett Jézus el®tt, hasonlóan ahhoz a történelmi
   szituációhoz, amikor Isten a zsidókat a honfoglalásuk idején támogatta.
@@ -7809,13 +7809,15 @@
 
   Ez az analógia távolról sem kézenfekv®. Ha hihetünk Jézus szavainak, akkor
   tovább is gondolhatjuk ezt: Jézus is hasonlóan fog cselekedni, ahogy Isten
-  tette a zsidókkal \U azaz azokat a területeket, melyeket el kell foglalni,
-  Ž fogja kiirtani az életünkb®l. Itt egy fajta szellemi háborúra
-  gondolhatunk, amelyet az út-készít® BJ indít és az igazi hatalommal
-  felruházott Jézus teljesít be. Hogy egész pontosan mit jelent ez, itt még
-  nem látszik, mindenesetre nagy reményekkel kecsegtet és új távlatokat ígér.
-  Jézussal valami egészen új fog kezd®dni, amit itt még nem látunk; csak egy
-  kicsi reménysugár sejteti, hogy valami egészen nagy dolog készül.
+  tette a zsidókkal \U azaz azokat a \Rterületeket\Q, melyeket \Rel kell
+  foglalni\Q, az Ž segítségével nyerjük meg, s az ott pöffeszked®
+  \Rellenséget\Q Ž fogja \Rkiirtani\Q az életünkb®l. Itt egy fajta szellemi
+  háborúra gondolhatunk, amelyet az út-készít® BJ indít és az igazi
+  hatalommal felruházott Jézus teljesít be. Hogy egész pontosan mit jelent
+  ez, itt még nem látszik, mindenesetre nagy reményekkel kecsegtet és új
+  távlatokat ígér. Jézussal valami egészen új fog kezd®dni, amit itt még nem
+  látunk; csak egy kicsi reménysugár sejteti, hogy valami egészen nagy dolog
+  készül.
 
   <subsection|Mélyebb rendez® elv>
 
@@ -8079,7 +8081,8 @@
   </session>
 
   Felt¶n®, hogy az Ézsaiás-szövegben nem az \Rítélet\Q szó szerepel, helyette
-  \Rtörvény\Q-t olvasunk. A görögben (és egy angol fordításban):
+  \Rtörvény\Q-t olvasunk. A görögben (és az angol <verbatim|KJV>
+  fordításban):
 
   <\session|bibref|default>
     <\unfolded-io>
@@ -8389,8 +8392,8 @@
       </unfolded-io>
     </session>
 
-    Ezek alapján a statement-parancs a következ® alakba írható, és az alábbi
-    diagramhoz jutunk:
+    Ezek alapján a <verbatim|statement>-parancs a következ® alakba írható, és
+    az alábbi diagramhoz jutunk:
 
     <\session|bibref|default>
       <\unfolded-io>
@@ -12394,92 +12397,92 @@
 
     <with|par-left|1tab|2.1.11.<space|2spc>Jézus megtisztít és meggyógyít
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-51>>
+    <no-break><pageref|auto-52>>
 
     <with|par-left|1tab|2.1.12.<space|2spc>Megismerni Istent
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-52>>
+    <no-break><pageref|auto-53>>
 
     <with|par-left|1tab|2.1.13.<space|2spc>BJ börtönben
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-53>>
+    <no-break><pageref|auto-54>>
 
     <with|par-left|1tab|2.1.14.<space|2spc>Mélyebb rendez® elv
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-54>>
+    <no-break><pageref|auto-55>>
 
     <with|par-left|1tab|2.1.15.<space|2spc>Nem lármáz
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-55>>
+    <no-break><pageref|auto-56>>
 
     <with|par-left|1tab|2.1.16.<space|2spc>Jónás jele
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-57>>
+    <no-break><pageref|auto-58>>
 
     <with|par-left|1tab|2.1.17.<space|2spc>Nagyobb Jónásnál és Salamonnál
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-58>>
+    <no-break><pageref|auto-59>>
 
     <with|par-left|1tab|2.1.18.<space|2spc>Süketek és vakok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-59>>
+    <no-break><pageref|auto-60>>
 
     <with|par-left|1tab|2.1.19.<space|2spc>Példázatok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-61>>
+    <no-break><pageref|auto-62>>
 
     <with|par-left|1tab|2.1.20.<space|2spc>A képmutatók leleplezése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-62>>
+    <no-break><pageref|auto-63>>
 
     <with|par-left|1tab|2.1.21.<space|2spc>Intermezzo: Idézet vagy nem?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-63>>
+    <no-break><pageref|auto-64>>
 
     <with|par-left|1tab|2.1.22.<space|2spc>Újabb kekecked®k
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-66>>
+    <no-break><pageref|auto-67>>
 
     <with|par-left|1tab|2.1.23.<space|2spc>Kövess engem!
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-67>>
+    <no-break><pageref|auto-68>>
 
     <with|par-left|1tab|2.1.24.<space|2spc>Virágvasárnap
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-68>>
+    <no-break><pageref|auto-69>>
 
     <with|par-left|1tab|2.1.25.<space|2spc>A sarokk®
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-70>>
+    <no-break><pageref|auto-71>>
 
     <with|par-left|1tab|2.1.26.<space|2spc>Kvízkérdések
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-72>>
+    <no-break><pageref|auto-73>>
 
     <with|par-left|1tab|2.1.27.<space|2spc>Dániel próféciája
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-73>>
+    <no-break><pageref|auto-74>>
 
     <with|par-left|1tab|2.1.28.<space|2spc>Gyilkosság
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-74>>
+    <no-break><pageref|auto-75>>
 
     <with|par-left|1tab|2.1.29.<space|2spc>A
     22.<with|font-series|bold|math-font-series|bold| >zsoltár
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-75>>
+    <no-break><pageref|auto-76>>
 
     <with|par-left|1tab|2.1.30.<space|2spc>Összefoglalás
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-76>>
+    <no-break><pageref|auto-77>>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-79><vspace|0.5fn>
+    <pageref|auto-80><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-80><vspace|0.5fn>
+    <pageref|auto-81><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -12493,7 +12496,7 @@
 
     <index+2|bibref-parancs|findN|<pageref|auto-17>>
 
-    <index+2|bibref-parancs|getrefs|<pageref|auto-69>, <pageref|auto-71>>
+    <index+2|bibref-parancs|getrefs|<pageref|auto-70>, <pageref|auto-72>>
 
     <index+2|bibref-parancs|help|<pageref|auto-39>>
 
@@ -12513,8 +12516,8 @@
 
     <index+2|bibref-parancs|rawN|<pageref|auto-41>>
 
-    <index+2|bibref-parancs|statement|<pageref|auto-34>, <pageref|auto-56>,
-    <pageref|auto-64>>
+    <index+2|bibref-parancs|statement|<pageref|auto-34>, <pageref|auto-57>,
+    <pageref|auto-65>>
 
     <index+2|bibref-parancs|textN|<pageref|auto-15>>
 
@@ -12532,20 +12535,20 @@
 
     <index+1|GreekCNTR|<pageref|auto-25>>
 
-    <index+1|Python|<pageref|auto-21>>
+    <index+1|Python|<pageref|auto-21>, <pageref|auto-51>>
 
     <index+1|Strong-szám|<pageref|auto-26>>
 
     <index+1|SWORD|<pageref|auto-8>>
 
     <index+1|Szeptuaginta|<pageref|auto-4>, <pageref|auto-16>,
-    <pageref|auto-35>, <pageref|auto-50>, <pageref|auto-78>>
+    <pageref|auto-35>, <pageref|auto-50>, <pageref|auto-79>>
   </the-index>
 
   \;
 
   <\bibliography|bib|tm-plain|bibref-hu>
-    <\bib-list|10>
+    <\bib-list|11>
       <bibitem*|1><label|bib-Benyik1996>Benyik György.
       <newblock><with|font-shape|italic|Az újszövetségi Szentírás keletkezés-
       és kutatástörténete, második kötet>. <newblock>JATEPress,
@@ -12561,36 +12564,40 @@
       <newblock><with|font-shape|italic|Journal of Septuagint and Cognate
       Studies>, 2025.<newblock>
 
-      <bibitem*|4><label|bib-LeskovecRajamaranUllman2014>Jure Leskovec, Anand
+      <bibitem*|4><label|bib-Csia>Csia Lajos.
+      <newblock><with|font-shape|italic|Újszövetség>. <newblock>Százszorszép,
+      2005.<newblock>
+
+      <bibitem*|5><label|bib-LeskovecRajamaranUllman2014>Jure Leskovec, Anand
       Rajamaran<localize|, and >Jeff Ullman.
       <newblock><with|font-shape|italic|Mining of massive datasets>.
       <newblock>Cambridge University Press, 2014.<newblock>
 
-      <bibitem*|5><label|bib-RUF>Magyar Bibliatársulat.
+      <bibitem*|6><label|bib-RUF>Magyar Bibliatársulat.
       <newblock><with|font-shape|italic|Biblia. Revideált új fordítás>.
       <newblock>A Magyarországi Református Egyház Kálvin János Kiadója,
       2014.<newblock>
 
-      <bibitem*|6><label|bib-Deut>Magyar Bibliatársulat.
+      <bibitem*|7><label|bib-Deut>Magyar Bibliatársulat.
       <newblock><with|font-shape|italic|Deuterokanonikus bibliai könyvek,
       magyarázó jegyzetekkel>. <newblock>A Magyarországi Református Egyház
       Kálvin János Kiadója, 2023.<newblock>
 
-      <bibitem*|7><label|bib-Perry2013>Andrew Perry. <newblock>Did the NT
+      <bibitem*|8><label|bib-Perry2013>Andrew Perry. <newblock>Did the NT
       writers \Pquote\Q the Septuagint? <newblock><with|font-shape|italic|Christadelphian
       EJournal of Biblical Interpretation>, 7(2):59\U78, 2013.
       <newblock>Updated online at <slink|https://www.academia.edu/5763813/Did_the_NT_Writers_Quote_the_LXX>.<newblock>
 
-      <bibitem*|8><label|bib-PfisterGreuel2007>Gerhard Pfister<localize| and
+      <bibitem*|9><label|bib-PfisterGreuel2007>Gerhard Pfister<localize| and
       >Gert-Martin Greuel. <newblock><with|font-shape|italic|A Singular
       Introduction to Commutative Algebra>. <newblock>Springer, 2.<localize|
       edition>, 2007.<newblock>
 
-      <bibitem*|9><label|bib-Strong1890>James Strong.
+      <bibitem*|10><label|bib-Strong1890>James Strong.
       <newblock><with|font-shape|italic|The Exhaustive Concordance of the
       Bible>. <newblock>Jennings & Graham, 1890.<newblock>
 
-      <bibitem*|10><label|bib-SWORD>The CrossWire Bible Society.
+      <bibitem*|11><label|bib-SWORD>The CrossWire Bible Society.
       <newblock>The SWORD project, version 1.9.0.
       <newblock><slink|http://crosswire.org/>, 2020.<newblock>
     </bib-list>
@@ -12654,50 +12661,51 @@
     <associate|auto-49|<tuple|2.1.10|40>>
     <associate|auto-5|<tuple|1.1|8>>
     <associate|auto-50|<tuple|Szeptuaginta|41>>
-    <associate|auto-51|<tuple|Python|44>>
-    <associate|auto-52|<tuple|2.1.11|45>>
-    <associate|auto-53|<tuple|2.1.12|46>>
-    <associate|auto-54|<tuple|2.1.13|48>>
-    <associate|auto-55|<tuple|2.1.14|49>>
-    <associate|auto-56|<tuple|2.1.15|52>>
-    <associate|auto-57|<tuple|bibref-parancs|54>>
-    <associate|auto-58|<tuple|2.1.16|55>>
-    <associate|auto-59|<tuple|2.1.17|56>>
+    <associate|auto-51|<tuple|Python|42>>
+    <associate|auto-52|<tuple|2.1.11|44>>
+    <associate|auto-53|<tuple|2.1.12|45>>
+    <associate|auto-54|<tuple|2.1.13|46>>
+    <associate|auto-55|<tuple|2.1.14|48>>
+    <associate|auto-56|<tuple|2.1.15|49>>
+    <associate|auto-57|<tuple|bibref-parancs|52>>
+    <associate|auto-58|<tuple|2.1.16|54>>
+    <associate|auto-59|<tuple|2.1.17|55>>
     <associate|auto-6|<tuple|1.1|8>>
-    <associate|auto-60|<tuple|2.1.18|58>>
+    <associate|auto-60|<tuple|2.1.18|56>>
     <associate|auto-61|<tuple|2.2|58>>
-    <associate|auto-62|<tuple|2.1.19|60>>
-    <associate|auto-63|<tuple|2.1.20|62>>
-    <associate|auto-64|<tuple|2.1.21|64>>
-    <associate|auto-65|<tuple|bibref-parancs|65>>
-    <associate|auto-66|<tuple|2.3|66>>
-    <associate|auto-67|<tuple|2.1.22|68>>
-    <associate|auto-68|<tuple|2.1.23|69>>
-    <associate|auto-69|<tuple|2.1.24|72>>
+    <associate|auto-62|<tuple|2.1.19|58>>
+    <associate|auto-63|<tuple|2.1.20|60>>
+    <associate|auto-64|<tuple|2.1.21|62>>
+    <associate|auto-65|<tuple|bibref-parancs|64>>
+    <associate|auto-66|<tuple|2.3|65>>
+    <associate|auto-67|<tuple|2.1.22|66>>
+    <associate|auto-68|<tuple|2.1.23|68>>
+    <associate|auto-69|<tuple|2.1.24|69>>
     <associate|auto-7|<tuple|1.2|9>>
-    <associate|auto-70|<tuple|bibref-parancs|75>>
-    <associate|auto-71|<tuple|2.1.25|76>>
-    <associate|auto-72|<tuple|bibref-parancs|80>>
-    <associate|auto-73|<tuple|2.1.26|84>>
-    <associate|auto-74|<tuple|2.1.27|85>>
-    <associate|auto-75|<tuple|2.1.28|88>>
+    <associate|auto-70|<tuple|bibref-parancs|72>>
+    <associate|auto-71|<tuple|2.1.25|75>>
+    <associate|auto-72|<tuple|bibref-parancs|76>>
+    <associate|auto-73|<tuple|2.1.26|80>>
+    <associate|auto-74|<tuple|2.1.27|84>>
+    <associate|auto-75|<tuple|2.1.28|85>>
     <associate|auto-76|<tuple|2.1.29|88>>
-    <associate|auto-77|<tuple|2.1.30|89>>
-    <associate|auto-78|<tuple|2.1|90>>
-    <associate|auto-79|<tuple|Szeptuaginta|95>>
+    <associate|auto-77|<tuple|2.1.30|88>>
+    <associate|auto-78|<tuple|2.1|89>>
+    <associate|auto-79|<tuple|Szeptuaginta|90>>
     <associate|auto-8|<tuple|SWORD|9>>
-    <associate|auto-80|<tuple|Szeptuaginta|97>>
-    <associate|auto-81|<tuple|Szeptuaginta|?>>
+    <associate|auto-80|<tuple|Szeptuaginta|95>>
+    <associate|auto-81|<tuple|Szeptuaginta|97>>
     <associate|auto-9|<tuple|1.1|10>>
     <associate|bib-Benyik1996|<tuple|1|97>>
     <associate|bib-Bunning2022|<tuple|2|97>>
-    <associate|bib-Deut|<tuple|6|97>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|4|97>>
-    <associate|bib-Perry2013|<tuple|7|97>>
-    <associate|bib-PfisterGreuel2007|<tuple|8|97>>
-    <associate|bib-RUF|<tuple|5|97>>
-    <associate|bib-SWORD|<tuple|10|97>>
-    <associate|bib-Strong1890|<tuple|9|97>>
+    <associate|bib-Csia|<tuple|4|97>>
+    <associate|bib-Deut|<tuple|7|97>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|5|97>>
+    <associate|bib-Perry2013|<tuple|8|97>>
+    <associate|bib-PfisterGreuel2007|<tuple|9|97>>
+    <associate|bib-RUF|<tuple|6|97>>
+    <associate|bib-SWORD|<tuple|11|97>>
+    <associate|bib-Strong1890|<tuple|10|97>>
     <associate|bib-bibref-jscs|<tuple|3|97>>
     <associate|bj-bortonben|<tuple|2.1.13|46>>
     <associate|cli-web-lookup|<tuple|1.2|10>>
@@ -12748,6 +12756,8 @@
       LeskovecRajamaranUllman2014
 
       Perry2013
+
+      Csia
     </associate>
     <\associate|figure>
       <tuple|normal|<\surround|<hidden-binding|<tuple>|1.1><with|font-series|<quote|bold>|ábra.>
@@ -12772,15 +12782,15 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-6B5435E08--6B393D330>|<link|hyperlink|<id|%-6B5435E08--6B393D330>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%-98E48F38--98149C58>|<link|hyperlink|<id|%-98E48F38--98149C58>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
-      </surround>|<pageref|auto-60>>
+      </surround>|<pageref|auto-61>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.3><with|font-series|<quote|bold>|ábra.>
       |>
         A greekcntr.org oldalon látható összehasonlító táblázat a Máté 18:16
         els® néhány szaváról.\ 
-      </surround>|<pageref|auto-65>>
+      </surround>|<pageref|auto-66>>
     </associate>
     <\associate|idx>
       <tuple|<tuple|Szeptuaginta>|<pageref|auto-4>>
@@ -12839,15 +12849,17 @@
 
       <tuple|<tuple|Szeptuaginta>|<pageref|auto-50>>
 
-      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-56>>
+      <tuple|<tuple|Python>|<pageref|auto-51>>
 
-      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-64>>
+      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-57>>
 
-      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-69>>
+      <tuple|<tuple|bibref-parancs|statement>|<pageref|auto-65>>
 
-      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-71>>
+      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-70>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-78>>
+      <tuple|<tuple|bibref-parancs|getrefs>|<pageref|auto-72>>
+
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-79>>
     </associate>
     <\associate|table>
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
@@ -12858,7 +12870,7 @@
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.1>|>
         Összefoglaló táblázat a Máté-evangéliumban szerepl® idézetekr®l.
-      </surround>|<pageref|auto-77>>
+      </surround>|<pageref|auto-78>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|El®szó>
@@ -12929,92 +12941,92 @@
 
       <with|par-left|<quote|1tab>|2.1.11.<space|2spc>Jézus megtisztít és
       meggyógyít <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-51>>
+      <no-break><pageref|auto-52>>
 
       <with|par-left|<quote|1tab>|2.1.12.<space|2spc>Megismerni Istent
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-52>>
+      <no-break><pageref|auto-53>>
 
       <with|par-left|<quote|1tab>|2.1.13.<space|2spc>BJ börtönben
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-53>>
+      <no-break><pageref|auto-54>>
 
       <with|par-left|<quote|1tab>|2.1.14.<space|2spc>Mélyebb rendez® elv
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-54>>
+      <no-break><pageref|auto-55>>
 
       <with|par-left|<quote|1tab>|2.1.15.<space|2spc>Nem lármáz
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-55>>
+      <no-break><pageref|auto-56>>
 
       <with|par-left|<quote|1tab>|2.1.16.<space|2spc>Jónás jele
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-57>>
+      <no-break><pageref|auto-58>>
 
       <with|par-left|<quote|1tab>|2.1.17.<space|2spc>Nagyobb Jónásnál és
       Salamonnál <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-58>>
+      <no-break><pageref|auto-59>>
 
       <with|par-left|<quote|1tab>|2.1.18.<space|2spc>Süketek és vakok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-59>>
+      <no-break><pageref|auto-60>>
 
       <with|par-left|<quote|1tab>|2.1.19.<space|2spc>Példázatok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-61>>
+      <no-break><pageref|auto-62>>
 
       <with|par-left|<quote|1tab>|2.1.20.<space|2spc>A képmutatók leleplezése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-62>>
+      <no-break><pageref|auto-63>>
 
       <with|par-left|<quote|1tab>|2.1.21.<space|2spc>Intermezzo: Idézet vagy
       nem? <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-63>>
+      <no-break><pageref|auto-64>>
 
       <with|par-left|<quote|1tab>|2.1.22.<space|2spc>Újabb kekecked®k
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-66>>
+      <no-break><pageref|auto-67>>
 
       <with|par-left|<quote|1tab>|2.1.23.<space|2spc>Kövess engem!
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-67>>
+      <no-break><pageref|auto-68>>
 
       <with|par-left|<quote|1tab>|2.1.24.<space|2spc>Virágvasárnap
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-68>>
+      <no-break><pageref|auto-69>>
 
       <with|par-left|<quote|1tab>|2.1.25.<space|2spc>A sarokk®
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-70>>
+      <no-break><pageref|auto-71>>
 
       <with|par-left|<quote|1tab>|2.1.26.<space|2spc>Kvízkérdések
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-72>>
+      <no-break><pageref|auto-73>>
 
       <with|par-left|<quote|1tab>|2.1.27.<space|2spc>Dániel próféciája
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-73>>
+      <no-break><pageref|auto-74>>
 
       <with|par-left|<quote|1tab>|2.1.28.<space|2spc>Gyilkosság
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-74>>
+      <no-break><pageref|auto-75>>
 
       <with|par-left|<quote|1tab>|2.1.29.<space|2spc>A
       22.<with|font-series|<quote|bold>|math-font-series|<quote|bold>|
       >zsoltár <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-75>>
+      <no-break><pageref|auto-76>>
 
       <with|par-left|<quote|1tab>|2.1.30.<space|2spc>Összefoglalás
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-76>>
+      <no-break><pageref|auto-77>>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-79><vspace|0.5fn>
+      <pageref|auto-80><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-80><vspace|0.5fn>
+      <pageref|auto-81><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>
