@@ -1,4 +1,4 @@
-<TeXmacs|2.1.5>
+<TeXmacs|2.1.4>
 
 <style|<tuple|tmbook-kovzol|hungarian|python|bibref>>
 
@@ -6842,12 +6842,180 @@
     szó!
   </exercise>
 
+  <\solution*>
+    Ebben a formában 5 helyen:
+
+    <\session|bibref|default>
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        text1 \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<upsilon\>\<nu\>\<eta\>\<sigma\>\<varepsilon\>\<iota\>\<varsigma\>
+      <|unfolded-io>
+        Stored internally as proskynhseis.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        find1 LXX
+      <|unfolded-io>
+        Found in Exodus 20:5+2 20:5-134 (book position 56471-56482)
+
+        Found in Exodus 23:24+2 23:24-118 (book position 66934-66945)
+
+        Found in Deuteronomy 5:9+2 5:9-134 (book position 18904-18915)
+
+        Found in Deuteronomy 26:10+123 26:10-26 (book position 78060-78071)
+
+        Found in Psalms 80:10+30 80:10-11 (book position 95356-95367)
+
+        5 occurrences.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Exodus 20:5
+      <|unfolded-io>
+        Ne imádd és ne tiszteld azokat, mert én, az Úr, a te Istened, félt®n
+        szeret® Isten vagyok! Megbüntetem az atyák b¶néért a fiakat is három,
+        s®t négy nemzedéken át, ha gy¶lölnek engem.\ 
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Exodus 23:24
+      <|unfolded-io>
+        Ne imádd isteneiket, és ne tiszteld azokat: ne cselekedj úgy, ahogyan
+        ®k cselekszenek! S®t rontsd le azokat, és törd össze szent
+        oszlopaikat!
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Deuteronomy 5:9
+      <|unfolded-io>
+        Ne imádd és ne tiszteld azokat, mert én, az Úr, a te Istened, félt®n
+        szeret® Isten vagyok! Megbüntetem az atyák b¶néért a fiakat is három,
+        s®t négy nemzedéken át, ha gy¶lölnek engem.\ 
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Deuteronomy 26:10
+      <|unfolded-io>
+        Azért hoztam most ide a termés legjavát arról a földr®l, amelyet te
+        adtál nekem, Uram! Így tedd azt oda Istenednek, az Úrnak színe elé,
+        és borulj le Istenednek, az Úrnak színe el®tt!
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup HunRUF Psalms 81:10
+      <|unfolded-io>
+        Ne legyen más istened, idegen istent ne imádj!\ 
+      </unfolded-io>
+    </session>
+
+    Az utolsó találatnál a magyar kiadásnak megfelel® zsoltárt vettük.
+  </solution*>
+
   <\exercise>
     Feltéve, hogy nem tudjuk, hogy a 91.<strong| >zsoltárból idéz az ördög,
     keressük meg ezt az idézetet!
   </exercise>
 
-  \;
+  <\solution*>
+    El®ször a Máté-szöveget lapozzuk fel, majd a két idézett szakaszt
+    külön-külön vizsgáljuk:
+
+    <\session|bibref|default>
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        lookup StatResGNT Matthew 4:6
+      <|unfolded-io>
+        <assign|color|blue>\<kappa\>\<alpha\>\<iota\>
+        \<lambda\>\<varepsilon\>\<gamma\>\<varepsilon\>\<iota\>
+        \<alpha\>\<upsilon\>\<tau\>\<omega\>, \S\<Epsilon\>\<iota\>
+        \<Upsilon\>\<iota\>\<omicron\>\<varsigma\> \<varepsilon\>\<iota\>
+        \<tau\>\<omicron\>\<upsilon\> \<Theta\>\<Epsilon\>\<Omicron\>\<Upsilon\>,
+        \<beta\>\<alpha\>\<lambda\>\<varepsilon\>
+        \<sigma\>\<varepsilon\>\<alpha\>\<upsilon\>\<tau\>\<omicron\>\<nu\>
+        \<kappa\>\<alpha\>\<tau\>\<omega\>\<centerdot\>
+        \<gamma\>\<varepsilon\>\<gamma\>\<rho\>\<alpha\>\<pi\>\<tau\>\<alpha\>\<iota\>
+        \<gamma\>\<alpha\>\<rho\>, \<omicron\>\<tau\>\<iota\>
+        \P\<Tau\>\<omicron\>\<iota\>\<varsigma\>
+        \<alpha\>\<gamma\>\<gamma\>\<varepsilon\>\<lambda\>\<omicron\>\<iota\>\<varsigma\>
+        \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>
+        \<varepsilon\>\<nu\>\<tau\>\<varepsilon\>\<lambda\>\<varepsilon\>\<iota\>\<tau\>\<alpha\>\<iota\>
+        \<pi\>\<varepsilon\>\<rho\>\<iota\>
+        \<sigma\>\<omicron\>\<upsilon\>\Q, \<kappa\>\<alpha\>\<iota\>,
+        \P\<Epsilon\>\<pi\>\<iota\> \<chi\>\<varepsilon\>\<iota\>\<rho\>\<omega\>\<nu\>
+        \<alpha\>\<rho\>\<omicron\>\<upsilon\>\<sigma\>\<iota\>\<nu\>
+        \<sigma\>\<varepsilon\>, \<mu\>\<eta\>\<pi\>\<omicron\>\<tau\>\<varepsilon\>
+        \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<omicron\>\<psi\>\<eta\>\<varsigma\>
+        \<pi\>\<rho\>\<omicron\>\<varsigma\>
+        \<lambda\>\<iota\>\<theta\>\<omicron\>\<nu\> \<tau\>\<omicron\>\<nu\>
+        \<pi\>\<omicron\>\<delta\>\<alpha\>
+        \<sigma\>\<omicron\>\<upsilon\>.\Q\T<assign|color|black>
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        text1 \<Tau\>\<omicron\>\<iota\>\<varsigma\>
+        \<alpha\>\<gamma\>\<gamma\>\<varepsilon\>\<lambda\>\<omicron\>\<iota\>\<varsigma\>
+        \<alpha\>\<upsilon\>\<tau\>\<omicron\>\<upsilon\>
+        \<varepsilon\>\<nu\>\<tau\>\<varepsilon\>\<lambda\>\<varepsilon\>\<iota\>\<tau\>\<alpha\>\<iota\>
+        \<pi\>\<varepsilon\>\<rho\>\<iota\> \<sigma\>\<omicron\>\<upsilon\>
+      <|unfolded-io>
+        Stored internally as toisaggeloisaytoyenteleitaiperisoy.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        find1 LXX
+      <|unfolded-io>
+        Found in Psalms 90:11+3 90:11-35 (book position 107359-107392)
+
+        1 occurrences.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        text1 \<Epsilon\>\<pi\>\<iota\> \<chi\>\<varepsilon\>\<iota\>\<rho\>\<omega\>\<nu\>
+        \<alpha\>\<rho\>\<omicron\>\<upsilon\>\<sigma\>\<iota\>\<nu\>
+        \<sigma\>\<varepsilon\>, \<mu\>\<eta\>\<pi\>\<omicron\>\<tau\>\<varepsilon\>
+        \<pi\>\<rho\>\<omicron\>\<sigma\>\<kappa\>\<omicron\>\<psi\>\<eta\>\<varsigma\>
+        \<pi\>\<rho\>\<omicron\>\<varsigma\>
+        \<lambda\>\<iota\>\<theta\>\<omicron\>\<nu\> \<tau\>\<omicron\>\<nu\>
+        \<pi\>\<omicron\>\<delta\>\<alpha\> \<sigma\>\<omicron\>\<upsilon\>.
+      <|unfolded-io>
+        Stored internally as epixeirvnaroysinsemhpoteproskochsprosliuontonpodas-oy.
+      </unfolded-io>
+
+      <\unfolded-io>
+        \<gtr\>\ 
+      <|unfolded-io>
+        find1 LXX
+      <|unfolded-io>
+        Found in Psalms 90:12 90:12 (book position 107428-107479)
+
+        1 occurrences.
+      </unfolded-io>
+    </session>
+
+    Szerencsések vagyunk, mert bet¶ szerinti egyezés van. Amúgy a
+    <verbatim|nearest12> parancs célravezet®bb lenne, de az csak egy-egy
+    könyvön alkalmazható, az egész Ószövetségen nem.
+  </solution*>
 
   <subsection|A sötétségben él® nép nagy világosságot lát>
 
@@ -13304,7 +13472,7 @@
 
 <\references>
   <\collection>
-    <associate|Mt-12-18-alg|<tuple|2.5|54>>
+    <associate|Mt-12-18-alg|<tuple|2.5|55>>
     <associate|auto-1|<tuple|?|5>>
     <associate|auto-10|<tuple|1.2|12>>
     <associate|auto-11|<tuple|bibref-parancs|12>>
@@ -13347,33 +13515,33 @@
     <associate|auto-46|<tuple|Aleppo-kódex|35>>
     <associate|auto-47|<tuple|2.1.7|35>>
     <associate|auto-48|<tuple|2.1.8|37>>
-    <associate|auto-49|<tuple|2.1.9|40>>
+    <associate|auto-49|<tuple|2.1.9|41>>
     <associate|auto-5|<tuple|1.1|10>>
-    <associate|auto-50|<tuple|2.1.10|42>>
-    <associate|auto-51|<tuple|Szeptuaginta|43>>
-    <associate|auto-52|<tuple|Python|44>>
-    <associate|auto-53|<tuple|2.1.11|46>>
-    <associate|auto-54|<tuple|2.1.12|47>>
-    <associate|auto-55|<tuple|2.1.13|48>>
-    <associate|auto-56|<tuple|2.1.14|50>>
-    <associate|auto-57|<tuple|2.1.15|51>>
-    <associate|auto-58|<tuple|bibref-parancs|54>>
-    <associate|auto-59|<tuple|2.1.16|56>>
+    <associate|auto-50|<tuple|2.1.10|43>>
+    <associate|auto-51|<tuple|Szeptuaginta|44>>
+    <associate|auto-52|<tuple|Python|45>>
+    <associate|auto-53|<tuple|2.1.11|47>>
+    <associate|auto-54|<tuple|2.1.12|48>>
+    <associate|auto-55|<tuple|2.1.13|49>>
+    <associate|auto-56|<tuple|2.1.14|51>>
+    <associate|auto-57|<tuple|2.1.15|52>>
+    <associate|auto-58|<tuple|bibref-parancs|55>>
+    <associate|auto-59|<tuple|2.1.16|57>>
     <associate|auto-6|<tuple|1.1|10>>
-    <associate|auto-60|<tuple|2.1.17|57>>
-    <associate|auto-61|<tuple|2.1.18|58>>
-    <associate|auto-62|<tuple|Codex|60>>
-    <associate|auto-63|<tuple|Codex|60>>
-    <associate|auto-64|<tuple|2.2|60>>
+    <associate|auto-60|<tuple|2.1.17|58>>
+    <associate|auto-61|<tuple|2.1.18|59>>
+    <associate|auto-62|<tuple|Codex|61>>
+    <associate|auto-63|<tuple|Codex|61>>
+    <associate|auto-64|<tuple|2.2|61>>
     <associate|auto-65|<tuple|2.1.19|61>>
-    <associate|auto-66|<tuple|2.1.20|62>>
+    <associate|auto-66|<tuple|2.1.20|63>>
     <associate|auto-67|<tuple|2.1.21|65>>
     <associate|auto-68|<tuple|bibref-parancs|67>>
     <associate|auto-69|<tuple|2.3|68>>
     <associate|auto-7|<tuple|1.2|11>>
     <associate|auto-71|<tuple|GreekCNTR|68>>
-    <associate|auto-72|<tuple|2.1.22|68>>
-    <associate|auto-73|<tuple|2.1.23|70>>
+    <associate|auto-72|<tuple|2.1.22|69>>
+    <associate|auto-73|<tuple|2.1.23|71>>
     <associate|auto-74|<tuple|2.1.24|72>>
     <associate|auto-75|<tuple|bibref-parancs|75>>
     <associate|auto-76|<tuple|2.1.25|78>>
@@ -13405,7 +13573,7 @@
     <associate|bib-SWORD|<tuple|11|111>>
     <associate|bib-Strong1890|<tuple|10|111>>
     <associate|bib-bibref-jscs|<tuple|3|111>>
-    <associate|bj-bortonben|<tuple|2.1.13|48>>
+    <associate|bj-bortonben|<tuple|2.1.13|49>>
     <associate|cli-web-lookup|<tuple|1.2|12>>
     <associate|footnote-1.1|<tuple|1.1|9>>
     <associate|footnote-1.2|<tuple|1.2|13>>
@@ -13421,14 +13589,14 @@
     <associate|footnr-2.4|<tuple|2.4|35>>
     <associate|gorog-angol|<tuple|1.1|10>>
     <associate|greekcntr-Mt1:23|<tuple|2.1|24>>
-    <associate|hegyi-beszed|<tuple|2.1.10|42>>
-    <associate|megismerni-istent|<tuple|2.1.12|47>>
+    <associate|hegyi-beszed|<tuple|2.1.10|43>>
+    <associate|megismerni-istent|<tuple|2.1.12|48>>
     <associate|mt-18-16|<tuple|2.3|68>>
     <associate|mt-idezetek|<tuple|2.1|92>>
     <associate|mt-mk-idezetek|<tuple|2.2|94>>
     <associate|qt-web-lookup|<tuple|1.1|12>>
-    <associate|sinaiticus-mt-13-15|<tuple|2.2|60>>
-    <associate|suketek-vakok|<tuple|2.1.18|58>>
+    <associate|sinaiticus-mt-13-15|<tuple|2.2|61>>
+    <associate|suketek-vakok|<tuple|2.1.18|59>>
   </collection>
 </references>
 
@@ -13482,7 +13650,7 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-726493188--725736D48>|<link|hyperlink|<id|%-726493188--725736D48>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%5FAF532C8-5FBBBF140>|<link|hyperlink|<id|%5FAF532C8-5FBBBF140>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
       </surround>|<pageref|auto-64>>
 
