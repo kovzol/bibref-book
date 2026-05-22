@@ -13982,6 +13982,18 @@
   5-ben olvassuk ezeket a történeteket. Vagyis az újszövetségi Írás ezeket is
   szavahihet® leírásoknak fogadja el.
 
+  <subsection|További idézetek>
+
+  Lukács a történet továbbmesélésében hasonló elvet követ, mint Márk: olykor
+  ószövetségi idézeteket hoz, de nem akkora számban, mint Máté. Lényegesen új
+  információhoz nem jutunk ebben az irányban, legalábbis a Máté-evangéliumhoz
+  képest, amely igyekezett minden részletre kiterjed®en utánajárni az
+  Írásokban szerepl® kijelentéseknek.
+
+  Habár a Lukács-evangélium még sok fejezeten keresztül meséli tovább a
+  történetet, mi itt csupán egy összegz® táblázatot mutatunk, ami az
+  evangélium idézeteit summázza.
+
   \;
 
   \;
@@ -14169,15 +14181,15 @@
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Függelék
     A.<space|2spc>Algoritmikus leírás> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-96><vspace|0.5fn>
+    <pageref|auto-95><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-97><vspace|0.5fn>
+    <pageref|auto-96><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-98><vspace|0.5fn>
+    <pageref|auto-97><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -14208,7 +14220,7 @@
 
     <index+2|bibref-parancs|maxresults|<pageref|auto-18>>
 
-    <index+2|bibref-parancs|nearest12|<pageref|auto-41>, <pageref|auto-95>>
+    <index+2|bibref-parancs|nearest12|<pageref|auto-41>>
 
     <index+2|bibref-parancs|rawN|<pageref|auto-42>>
 
@@ -14407,9 +14419,10 @@
     <associate|auto-92|<tuple|bibref-parancs|108>>
     <associate|auto-93|<tuple|2.3.3|108>>
     <associate|auto-94|<tuple|2.3.4|111>>
-    <associate|auto-95|<tuple|A|115>>
+    <associate|auto-95|<tuple|2.3.5|115>>
     <associate|auto-96|<tuple|A|119>>
     <associate|auto-97|<tuple|A|121>>
+    <associate|auto-98|<tuple|A|?>>
     <associate|bib-Benyik1996|<tuple|1|121>>
     <associate|bib-Bunning2022|<tuple|2|121>>
     <associate|bib-Csia|<tuple|4|121>>
@@ -14498,7 +14511,7 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%-1BB3C8518--1BA70B570>|<link|hyperlink|<id|%-1BB3C8518--1BA70B570>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%22BA3C118-22C6EA458>|<link|hyperlink|<id|%22BA3C118-22C6EA458>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen.
       </surround>|<pageref|auto-64>>
 
