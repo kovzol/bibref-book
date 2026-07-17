@@ -1,0 +1,107 @@
+# This file makes it easier to run TeXmacs in a Docker virtualization while showing the bibref book interactively.
+# TeXmacs is built from source and patched to enhance number based indexing.
+
+# How to use this file:
+# 1. On Ubuntu Linux, install the package **docker.io**.
+# 2. Build the image by entering `sudo docker build .`.
+#    You will get an image ID at the end of the process.
+# 3. Allow connection to the host's X11 server by issuing `xhost +local:docker`.
+# 4. Run texmacs by entering
+#    `sudo docker run -it -e DISPLAY=$DISPLAY -e LANG=$LANG -v /tmp/.X11-unix:/tmp/.X11-unix ID`.
+#    where ID stands for the obtained image ID in step 2.
+# 5. If you want to restart the program later, use `sudo docker start -ai CID`
+#    where CID stands for the obtained container identifier. You can find it by running `sudo docker ps`.
+# 6. When finished, stop the web server by using the command `sudo docker kill CID`
+# 7. If no longer used, you can remove the Docker container and image by entering
+#    `sudo docker rm CID` and `sudo docker rmi ID`.
+
+# Install prerequisites:
+FROM debian:trixie
+RUN DEBIAN_FRONTEND=noninteractive apt-get update && \
+    DEBIAN_FRONTEND=noninteractive apt-get -y install wget x11-apps xdg-utils firefox-esr \
+        libsword-common libsword-dev git cmake build-essential \
+        libreadline-dev libboost-dev libboost-filesystem-dev bison flex pkgconf unzip libgraphviz-dev libfribidi-dev \
+        libltdl7 libqt6core6t64 libqt6gui6 libqt6network6 libqt6printsupport6 \
+        libqt6svg6 libqt6widgets6 ghostscript locate fonts-stix fonts-texgyre locales \
+        python3 python3-pip python3-venv \
+        gcc-12 libltdl-dev qmake6 texinfo libgmp-dev rsync libfreetype-dev \
+        libxcb-cursor0 libxkbcommon-x11-0 libxcb-icccm4 libxcb-keysyms1 libxcb-randr0 libxcb-shape0 libxcb-shm0 \
+        libxcb-sync1 libxcb-xfixes0 libxcb-xinerama0 libxcb-render-util0 \
+        qt6-base-dev qt6-base-dev-tools qt6-tools-dev qt6-tools-dev-tools qt6-svg-dev
+
+# Clone, build and install guile-texmacs:
+ARG GIT_COMMIT_GUILE=
+RUN git clone https://github.com/texmacs/guile-texmacs && \
+    if [ -n "$GIT_COMMIT_GUILE" ]; then cd guile-texmacs; git checkout $GIT_COMMIT_GUILE; fi
+WORKDIR guile-texmacs
+RUN CC=gcc-12 ./configure
+RUN make -j$(nproc)
+RUN make install
+RUN ldconfig
+
+# Clone TeXmacs:
+ARG GIT_COMMIT_TEXMACS=
+RUN git clone https://github.com/texmacs/texmacs && \
+    if [ -n "$GIT_COMMIT_TEXMACS" ]; then cd texmacs; git checkout $GIT_COMMIT_TEXMACS; fi
+WORKDIR texmacs
+
+# Patch TeXmacs:
+COPY edit_process.cpp.diff src/Edit/Process
+RUN git apply src/Edit/Process/edit_process.cpp.diff
+
+# Build and install TeXmacs:
+RUN ./configure --with-guile=/usr/local/bin/guile-config
+RUN make -j$(nproc)
+RUN make install
+
+# Without this, TeXmacs will not start because of no available locales:
+RUN localedef -i hu_HU -f UTF-8 hu_HU.UTF-8
+
+# Clone and build bibref (cli):
+ARG GIT_COMMIT=
+RUN git clone https://github.com/kovzol/bibref && \
+    if [ -n "$GIT_COMMIT" ]; then cd bibref; git checkout $GIT_COMMIT; fi
+WORKDIR bibref
+RUN mkdir build
+WORKDIR build
+RUN cmake .. && make -j$(nproc) && make install || true
+
+# Create the addbooks-cache and copy it and the installed Bibles in /tmp:
+RUN bibref -a
+RUN cp -a bibref-addbooks-cache /tmp
+RUN cp -a ~/.sword /tmp
+
+# Create normal user:
+RUN useradd -ms /bin/bash user
+RUN chown -R user:user /tmp/bibref-addbooks-cache /tmp/.sword
+
+# Run bibref (cli) when running the container and use the addbooks-cache and the Bibles:
+USER user
+WORKDIR /home/user
+RUN mv /tmp/bibref-addbooks-cache .
+RUN mv /tmp/.sword .
+
+# Install bibref-python:
+RUN python3 -m venv .venv
+RUN . .venv/bin/activate && pip install bibref-python
+
+# Install a Hungarian Bible edition (HunRUF) and the Aleppo Codex (Aleppo):
+RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/HunRUF.zip
+RUN wget https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/Aleppo.zip
+RUN cd .sword && unzip ../HunRUF.zip && unzip ../Aleppo.zip
+
+# Create bibref session plugin for TeXmacs:
+RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
+COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
+
+# Update Hungarian translation:
+RUN mkdir -p /home/user/.TeXmacs/langs/natural/dic
+COPY english-hungarian.scm /home/user/.TeXmacs/langs/natural/dic/english-hungarian.scm
+
+# Copy book, template and bibliography:
+COPY bibref-hu.tm /home/user/bibref-hu.tm
+COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
+COPY bibref-hu.bib /home/user/bibref-hu.bib
+
+# Run TeXmacs in venv to access bibref-python too (restart prevents showing welcome message):
+CMD . .venv/bin/activate && texmacs -q && texmacs /home/user/bibref-hu.tm

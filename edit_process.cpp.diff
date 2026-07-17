@@ -1,0 +1,70 @@
+diff --git a/src/Edit/Process/edit_process.cpp b/src/Edit/Process/edit_process.cpp
+index 125c4738d..47d5caebe 100644
+--- a/src/Edit/Process/edit_process.cpp
++++ b/src/Edit/Process/edit_process.cpp
+@@ -285,21 +285,54 @@ struct locale_less_eq_operator {
+ string locale_less_eq_operator::locale_name = "en-US";
+ #endif
+ 
++/* This code is a slight modification of the original version which does not
++ * sort the entries numerically. This variant is designed for numerical indices
++ * in the form XXXX:YYYY-ZZZZ where XXXX, YYYY and ZZZZ are numbers,
++ * XXXX is a kind of chapter number and YYYY is a section, and ZZZZ must be ignored.
++ * For example, indexing Biblical verses can be an application of this, where
++ * the numbering part of Genesis 12:34-45 is encoded into 12034  */
++
++#define MAX_ZERO_PREFIX_DIGITS 3
++#define MAX_NUMERIC_LENGTH 6
++
+ static string
+ index_name_sub (tree t, bool all) {
+   if (is_atomic (t)) {
+     string s= t->label, r;
+-    int i, n= N(s);
+-    for (i=0; i<n; i++)
+-      if (is_iso_alpha (s[i]) || is_digit (s[i]) || (s[i] == ' ') ||
+-          (all && (s[i] >= ' '))) r << s[i];
+-    return r;
+-  }
+-  else if (is_concat (t)) {
+-    string r;
+-    int i, n= N(t);
+-    for (i=0; i<n; i++)
+-      r << index_name_sub (t[i], all);
++    int    i, n= N (s), rnum= 0, rpart= 0;
++    bool   only_digits= true, ignore= false;
++    for (i= 0; i < n; i++) {
++      if (is_iso_alpha (s[i]) || is_digit (s[i]) || (s[i] == ' ') || s[i] == ':' || s[i] == '-' ||
++          (all && (s[i] >= ' '))) {
++          if (!is_digit (s[i]) && !s[i] == ':' && !s[i] == '-')
++            only_digits = false; // for number-behaving indices only digits, ':' and '-' are allowed
++          r << s[i];
++          }
++      if (only_digits) {
++        if (is_digit (s[i]) && !ignore)
++          rpart= rpart*10 + (s[i] - '0'); // collect the digits in rpart
++        if (s[i] == ':') {
++          rnum+= rpart;
++          for (int j=0; j<MAX_ZERO_PREFIX_DIGITS; j++)
++            rnum*= 10; // shift the number by 10^MAX_ZERO_PREFIX_DIGITS
++          rpart= 0;
++        }
++        if (s[i] == '-')
++          ignore= true;
++      }
++    }
++    if (only_digits && rnum != 0) {
++      rnum+= rpart;
++      // printf("only digits\n");
++      std::string rs = std::to_string(rnum);
++      // std::cout << "rs=" << rs << " r=";
++      // cout << r << "\n";
++      rs.insert(0, MAX_NUMERIC_LENGTH - rs.length(), '0');
++      string r2;
++      for (int j=0; j < MAX_NUMERIC_LENGTH; j++)
++        r2 << rs[j];
++      r = r2; // override the original index name by the number
++    }
+     return r;
+   }
+   else if (is_tuple (t)) {
