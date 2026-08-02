@@ -3,3 +3,5 @@
   (:launch "bibref -t -a -c")
   (:tab-completion #t)
   (:session "bibref"))
+
+(lazy-format (bibref-format) bibref)
