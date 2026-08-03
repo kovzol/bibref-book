@@ -22,7 +22,7 @@
       "Psalms_of_Solomon" "Hosea" "Amos" "Micah" "Joel" "Obadiah" "Jonah"
       "Nahum" "Habakkuk" "Zephaniah" "Haggai" "Zechariah" "Malachi" "Isaiah"
       "Jeremiah" "Baruch" "Lamentations" "Epistle_of_Jeremiah" "Ezekiel"
-      "Susanna" "Daniel" "Bel_and_the_Dragon" "Odes")
+      "Susanna" "Daniel" "Bel_and_the_Dragon" "Odes" "Psalms")
     (variable_identifier "Matthew" "Mark" "Luke" "John" "Romans" "Acts"
       "I_Corinthians" "II_Corinthians" "Galatians" "Ephesians" "Philippians" "Colossians"
       "I_Thessalonians" "II_Thessalonians" "I_Timothy" "II_Timothy" "Titus"
@@ -44,4 +44,5 @@
   ("syntax:bibref:variable_module" "#202020" notify-bibref-syntax)
   ("syntax:bibref:constant_identifier" "#3f2800" notify-bibref-syntax)
   ("syntax:bibref:variable_identifier" "#000542" notify-bibref-syntax)
+  ("syntax:bibref:constant_string" "#073100" notify-bibref-syntax)
 )
