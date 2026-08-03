@@ -1,0 +1,13 @@
+diff --git a/src/Data/String/analyze.cpp b/src/Data/String/analyze.cpp
+index 3c4ebf742..9d1845bdd 100644
+--- a/src/Data/String/analyze.cpp
++++ b/src/Data/String/analyze.cpp
+@@ -1053,7 +1053,7 @@ read_double (string s, int& i, double& result) {
+ bool
+ read_word (string s, int& i, string& result) {
+   int opos= i;
+-  while (i<N(s) && is_alpha (s[i])) {
++  while (i<N(s) && (is_alpha (s[i]) || s[i]=='_')) {
+     i++;
+   }
+   result= s(opos, i);

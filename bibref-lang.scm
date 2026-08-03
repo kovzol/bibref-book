@@ -29,8 +29,6 @@
       "Philemon" "Hebrews" "Jude" "I_Peter" "II_Peter"
       "I_John" "II_John" "III_John" "Revelation_of_John")
 ))
-;; TODO: vocabulary items containing _ (underscore) do not work yet
-
 
 (define (notify-bibref-syntax var val)
   (syntax-read-preferences "bibref"))

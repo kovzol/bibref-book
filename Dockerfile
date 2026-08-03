@@ -69,20 +69,20 @@ RUN cd .sword && unzip ../HunRUF.zip && unzip ../Aleppo.zip
 
 # Create bibref session plugin for TeXmacs:
 RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
-COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
-COPY bibref-lang.scm /home/user/.TeXmacs/plugins/bibref/progs/bibref-lang.scm
-COPY bibref-format.scm /home/user/.TeXmacs/plugins/bibref/progs/bibref-format.scm
+COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/
+COPY bibref-lang.scm /home/user/.TeXmacs/plugins/bibref/progs/
+COPY bibref-format.scm /home/user/.TeXmacs/plugins/bibref/progs/
 RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/packages/session/
 COPY bibref.ts /home/user/.TeXmacs/plugins/bibref/packages/session/
 
 # Update Hungarian translation:
 RUN mkdir -p /home/user/.TeXmacs/langs/natural/dic
-COPY english-hungarian.scm /home/user/.TeXmacs/langs/natural/dic/english-hungarian.scm
+COPY english-hungarian.scm /home/user/.TeXmacs/langs/natural/dic/
 
 # Copy book, template and bibliography:
-COPY bibref-hu.tm /home/user/bibref-hu.tm
-COPY tmbook-kovzol.ts /home/user/tmbook-kovzol.ts
-COPY bibref-hu.bib /home/user/bibref-hu.bib
+COPY bibref-hu.tm /home/user/
+COPY tmbook-kovzol.ts /home/user/
+COPY bibref-hu.bib /home/user/
 
 # Reconfigure TeXmacs in headless mode, this prevents showing welcome message and initializes syntax highlighting:
 RUN texmacs -H -S
