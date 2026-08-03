@@ -72,6 +72,8 @@ RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/progs/
 COPY init-bibref.scm /home/user/.TeXmacs/plugins/bibref/progs/init-bibref.scm
 COPY bibref-lang.scm /home/user/.TeXmacs/plugins/bibref/progs/bibref-lang.scm
 COPY bibref-format.scm /home/user/.TeXmacs/plugins/bibref/progs/bibref-format.scm
+RUN mkdir -p /home/user/.TeXmacs/plugins/bibref/packages/session/
+COPY bibref.ts /home/user/.TeXmacs/plugins/bibref/packages/session/
 
 # Update Hungarian translation:
 RUN mkdir -p /home/user/.TeXmacs/langs/natural/dic
