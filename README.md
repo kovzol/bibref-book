@@ -1,3 +1,3 @@
 # bibref-book
 
-A work-in-progress book on an algorithmic, text-critical introduction to the New Testament.
+An introduction to the New Testament via computer-based analysis on the Greek texts.
