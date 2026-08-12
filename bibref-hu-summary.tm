@@ -101,13 +101,13 @@
 
   Telefon: +36 70 622 6977
 
-  Email: kovzol@gmail.com
+  Email: <verbatim|kovzol@gmail.com>
 
   \;
 
   ISBN 978-615-02-7636-6
 
-  Nyomdai munkálatok: Lulu.com
+  Nyomdai munkálatok: <verbatim|lulu.com>
 
   Kiadási év: 2026
 
