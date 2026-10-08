@@ -8,7 +8,7 @@
        "length" "lookup" "maxresults" "minunique" "nearest" "raw"
        "search" "statement" "Statement" "text" "tokens")
     (keyword_control "connects" "with" "based" "on" "introduction" "form" "that"
-       "moreover" "fragment" "matches" "differing" "by" "and" "unique" "verbatim"
+       "moreover" "also" "fragment" "matches" "differing" "by" "and" "unique" "verbatim"
        "providing" "an" "overall" "cover" "of")
     (constant_module
       "LXX" "StatResGNT" "SBLGNT")
