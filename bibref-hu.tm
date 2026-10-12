@@ -20458,271 +20458,275 @@
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
     <no-break><pageref|auto-2>>
 
+    <with|par-left|3tab|Korrekciók, b®vítések.
+    <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+    <no-break><pageref|auto-3>>
+
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|1.<space|2spc>Elméleti
     és technikai háttér> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-3><vspace|0.5fn>
+    <pageref|auto-4><vspace|0.5fn>
 
     1.1.<space|2spc>Görög bet¶k helyett angol ábécé
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-5>
+    <no-break><pageref|auto-6>
 
     1.2.<space|2spc>Indulás! <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-7>
+    <no-break><pageref|auto-8>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|2.<space|2spc>Az
     evangéliumok> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-12><vspace|0.5fn>
+    <pageref|auto-13><vspace|0.5fn>
 
     2.1.<space|2spc>Máté evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-13>
+    <no-break><pageref|auto-14>
 
     <with|par-left|1tab|2.1.1.<space|2spc>A családfa többi tagja
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-21>>
+    <no-break><pageref|auto-22>>
 
     <with|par-left|1tab|2.1.2.<space|2spc>Az Immánuél-jövendölés
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-23>>
+    <no-break><pageref|auto-24>>
 
     <with|par-left|1tab|2.1.3.<space|2spc>Jézus születése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-41>>
+    <no-break><pageref|auto-42>>
 
     <with|par-left|1tab|2.1.4.<space|2spc>Menekülés Egyiptomba
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-46>>
+    <no-break><pageref|auto-47>>
 
     <with|par-left|1tab|2.1.5.<space|2spc>Heródes vérengzése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-49>>
+    <no-break><pageref|auto-50>>
 
     <with|par-left|1tab|2.1.6.<space|2spc>A názáreti
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-57>>
+    <no-break><pageref|auto-58>>
 
     <with|par-left|1tab|2.1.7.<space|2spc>Bemerít® János
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-61>>
+    <no-break><pageref|auto-62>>
 
     <with|par-left|1tab|2.1.8.<space|2spc>Szájkarate?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-64>>
+    <no-break><pageref|auto-65>>
 
     <with|par-left|1tab|2.1.9.<space|2spc>A sötétségben él® nép nagy
     világosságot lát <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-73>>
+    <no-break><pageref|auto-74>>
 
     <with|par-left|1tab|2.1.10.<space|2spc>A hegyi beszéd
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-76>>
+    <no-break><pageref|auto-77>>
 
     <with|par-left|1tab|2.1.11.<space|2spc>Jézus megtisztít és meggyógyít
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-86>>
+    <no-break><pageref|auto-87>>
 
     <with|par-left|1tab|2.1.12.<space|2spc>Megismerni Istent
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-89>>
+    <no-break><pageref|auto-90>>
 
     <with|par-left|1tab|2.1.13.<space|2spc>Ellenszél, BJ börtönben
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-92>>
+    <no-break><pageref|auto-93>>
 
     <with|par-left|1tab|2.1.14.<space|2spc>Mélyebb rendez® elv
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-97>>
+    <no-break><pageref|auto-98>>
 
     <with|par-left|1tab|2.1.15.<space|2spc>Nem lármáz
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-100>>
+    <no-break><pageref|auto-101>>
 
     <with|par-left|1tab|2.1.16.<space|2spc>Jónás jele
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-104>>
+    <no-break><pageref|auto-105>>
 
     <with|par-left|1tab|2.1.17.<space|2spc>Nagyobb Jónásnál és Salamonnál
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-107>>
+    <no-break><pageref|auto-108>>
 
     <with|par-left|1tab|2.1.18.<space|2spc>Süketek és vakok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-108>>
+    <no-break><pageref|auto-109>>
 
     <with|par-left|1tab|2.1.19.<space|2spc>Példázatok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-114>>
+    <no-break><pageref|auto-115>>
 
     <with|par-left|1tab|2.1.20.<space|2spc>A képmutatók leleplezése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-117>>
+    <no-break><pageref|auto-118>>
 
     <with|par-left|1tab|2.1.21.<space|2spc>Intermezzo: Idézet vagy nem?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-123>>
+    <no-break><pageref|auto-124>>
 
     <with|par-left|1tab|2.1.22.<space|2spc>Újabb kekecked®k
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-130>>
+    <no-break><pageref|auto-131>>
 
     <with|par-left|1tab|2.1.23.<space|2spc>Kövess engem!
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-135>>
+    <no-break><pageref|auto-136>>
 
     <with|par-left|1tab|2.1.24.<space|2spc>Virágvasárnap
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-140>>
+    <no-break><pageref|auto-141>>
 
     <with|par-left|1tab|2.1.25.<space|2spc>A sarokk®
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-155>>
+    <no-break><pageref|auto-156>>
 
     <with|par-left|1tab|2.1.26.<space|2spc>Kvízkérdések
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-159>>
+    <no-break><pageref|auto-160>>
 
     <with|par-left|1tab|2.1.27.<space|2spc>Dániel próféciája
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-169>>
+    <no-break><pageref|auto-170>>
 
     <with|par-left|1tab|2.1.28.<space|2spc>Gyilkosság
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-172>>
+    <no-break><pageref|auto-173>>
 
     <with|par-left|1tab|2.1.29.<space|2spc>A
     22.<with|font-series|bold|math-font-series|bold| >zsoltár
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-177>>
+    <no-break><pageref|auto-178>>
 
     <with|par-left|1tab|2.1.30.<space|2spc>Összefoglalás
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-178>>
+    <no-break><pageref|auto-179>>
 
     2.2.<space|2spc>Márk evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-181>
+    <no-break><pageref|auto-182>
 
     2.3.<space|2spc>Lukács evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-219>
+    <no-break><pageref|auto-220>
 
     <with|par-left|1tab|2.3.1.<space|2spc>Az Úr törvénye
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-220>>
+    <no-break><pageref|auto-221>>
 
     <with|par-left|1tab|2.3.2.<space|2spc>Legyen a görbe út egyenessé
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-225>>
+    <no-break><pageref|auto-226>>
 
     <with|par-left|1tab|2.3.3.<space|2spc>Jézus megkísértése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-229>>
+    <no-break><pageref|auto-230>>
 
     <with|par-left|1tab|2.3.4.<space|2spc>Gyilkossági kísérlet
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-238>>
+    <no-break><pageref|auto-239>>
 
     <with|par-left|1tab|2.3.5.<space|2spc>További idézetek
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-242>>
+    <no-break><pageref|auto-243>>
 
     <with|par-left|1tab|2.3.6.<space|2spc>Ézsaiás 53
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-263>>
+    <no-break><pageref|auto-264>>
 
     2.4.<space|2spc>János evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-267>
+    <no-break><pageref|auto-268>
 
     <with|par-left|1tab|2.4.1.<space|2spc>Ahogyan Ézsaiás megmondta
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-269>>
+    <no-break><pageref|auto-270>>
 
     <with|par-left|1tab|2.4.2.<space|2spc>Félt® szeretet
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-272>>
+    <no-break><pageref|auto-273>>
 
     <with|par-left|1tab|2.4.3.<space|2spc>Mózes Jézusról írt
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-275>>
+    <no-break><pageref|auto-276>>
 
     <with|par-left|1tab|2.4.4.<space|2spc>Mennyei kenyér
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-276>>
+    <no-break><pageref|auto-277>>
 
     <with|par-left|1tab|2.4.5.<space|2spc>Mit mond az Írás?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-281>>
+    <no-break><pageref|auto-282>>
 
     <with|par-left|1tab|2.4.6.<space|2spc>Istenek vagytok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-289>>
+    <no-break><pageref|auto-290>>
 
     <with|par-left|1tab|2.4.7.<space|2spc>Kajafás próféciája
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-292>>
+    <no-break><pageref|auto-293>>
 
     <with|par-left|1tab|2.4.8.<space|2spc>El®ször nem értették
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-297>>
+    <no-break><pageref|auto-298>>
 
     <with|par-left|1tab|2.4.9.<space|2spc>Két Ézsaiás-idézet
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-300>>
+    <no-break><pageref|auto-301>>
 
     <with|par-left|1tab|2.4.10.<space|2spc>Be kell teljesednie az Írásnak
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-306>>
+    <no-break><pageref|auto-307>>
 
     <with|par-left|1tab|2.4.11.<space|2spc>Akit átszúrtak
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-311>>
+    <no-break><pageref|auto-312>>
 
     <with|par-left|1tab|2.4.12.<space|2spc>Örök élet
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-320>>
+    <no-break><pageref|auto-321>>
 
     2.5.<space|2spc>Mire következtethetünk?
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-321>
+    <no-break><pageref|auto-322>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Függelék
     A.<space|2spc>Algoritmikus leírás> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-325><vspace|0.5fn>
+    <pageref|auto-326><vspace|0.5fn>
 
     A.1.<space|2spc>Az alapprobléma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-326>
+    <no-break><pageref|auto-327>
 
     A.2.<space|2spc>Az egyezések mérése <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-331>
+    <no-break><pageref|auto-332>
 
     A.3.<space|2spc>Minimálisan egyedi szakaszok
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-334>
+    <no-break><pageref|auto-335>
 
     <with|par-left|1tab|A.3.1.<space|2spc>A
     <with|font-family|tt|language|verbatim|minunique> algoritmus
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-336>>
+    <no-break><pageref|auto-337>>
 
     A.4.<space|2spc>Maximális bet¶helyes egyezések
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-340>
+    <no-break><pageref|auto-341>
 
     A.5.<space|2spc>Bet¶helyes egyezések keresése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-342>
+    <no-break><pageref|auto-343>
 
     A.6.<space|2spc>A leghasonlóbb részszöveg keresése
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-348>
+    <no-break><pageref|auto-349>
 
     A.7.<space|2spc>Zárszó <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <no-break><pageref|auto-350>
+    <no-break><pageref|auto-351>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Tárgymutató>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-351><vspace|0.5fn>
+    <pageref|auto-352><vspace|0.5fn>
 
     <vspace*|1fn><with|font-series|bold|math-font-series|bold|font-shape|small-caps|Irodalomjegyzék>
     <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-    <pageref|auto-352><vspace|0.5fn>
+    <pageref|auto-353><vspace|0.5fn>
   </table-of-contents>
 
   \;
@@ -20730,444 +20734,444 @@
   <\the-index|idx>
     <index+1*|1Krónikák>
 
-    <index+2|1Krónikák|11:2|<pageref|auto-45>>
+    <index+2|1Krónikák|11:2|<pageref|auto-46>>
 
     <index+1*|1Mózes>
 
-    <index+2|1Mózes|1:27|<pageref|auto-131>, <pageref|auto-193>>
+    <index+2|1Mózes|1:27|<pageref|auto-132>, <pageref|auto-194>>
 
-    <index+2|1Mózes|2:24|<pageref|auto-132>, <pageref|auto-195>>
+    <index+2|1Mózes|2:24|<pageref|auto-133>, <pageref|auto-196>>
 
     <index+1*|2Mózes>
 
-    <index+2|2Mózes|3:6|<pageref|auto-161>, <pageref|auto-202>,
-    <pageref|auto-259>>
+    <index+2|2Mózes|3:6|<pageref|auto-162>, <pageref|auto-203>,
+    <pageref|auto-260>>
 
-    <index+2|2Mózes|12:10|<pageref|auto-317>>
+    <index+2|2Mózes|12:10|<pageref|auto-318>>
 
-    <index+2|2Mózes|13:12|<pageref|auto-223>>
+    <index+2|2Mózes|13:12|<pageref|auto-224>>
 
-    <index+2|2Mózes|20:12|<pageref|auto-118>, <pageref|auto-138>,
-    <pageref|auto-190>, <pageref|auto-252>>
+    <index+2|2Mózes|20:12|<pageref|auto-119>, <pageref|auto-139>,
+    <pageref|auto-191>, <pageref|auto-253>>
 
-    <index+2|2Mózes|20:13|<pageref|auto-78>>
+    <index+2|2Mózes|20:13|<pageref|auto-79>>
 
-    <index+2|2Mózes|20:14|<pageref|auto-81>>
+    <index+2|2Mózes|20:14|<pageref|auto-82>>
 
-    <index+2|2Mózes|21:17|<pageref|auto-119>, <pageref|auto-191>>
+    <index+2|2Mózes|21:17|<pageref|auto-120>, <pageref|auto-192>>
 
-    <index+2|2Mózes|21:24|<pageref|auto-84>>
+    <index+2|2Mózes|21:24|<pageref|auto-85>>
 
-    <index+2|2Mózes|23:20|<pageref|auto-96>, <pageref|auto-183>,
-    <pageref|auto-244>>
+    <index+2|2Mózes|23:20|<pageref|auto-97>, <pageref|auto-184>,
+    <pageref|auto-245>>
 
     <index+1*|2Sámuel>
 
-    <index+2|2Sámuel|5:2|<pageref|auto-44>>
+    <index+2|2Sámuel|5:2|<pageref|auto-45>>
 
     <index+1*|3Mózes>
 
-    <index+2|3Mózes|12:8|<pageref|auto-224>>
+    <index+2|3Mózes|12:8|<pageref|auto-225>>
 
-    <index+2|3Mózes|19:18|<pageref|auto-85>, <pageref|auto-139>,
-    <pageref|auto-166>, <pageref|auto-207>, <pageref|auto-250>>
+    <index+2|3Mózes|19:18|<pageref|auto-86>, <pageref|auto-140>,
+    <pageref|auto-167>, <pageref|auto-208>, <pageref|auto-251>>
 
     <index+1*|5Mózes>
 
-    <index+2|5Mózes|4:35|<pageref|auto-209>>
+    <index+2|5Mózes|4:35|<pageref|auto-210>>
 
-    <index+2|5Mózes|6:4|<pageref|auto-204>>
+    <index+2|5Mózes|6:4|<pageref|auto-205>>
 
-    <index+2|5Mózes|6:5|<pageref|auto-163>, <pageref|auto-248>>
+    <index+2|5Mózes|6:5|<pageref|auto-164>, <pageref|auto-249>>
 
-    <index+2|5Mózes|6:13|<pageref|auto-72>, <pageref|auto-233>>
+    <index+2|5Mózes|6:13|<pageref|auto-73>, <pageref|auto-234>>
 
-    <index+2|5Mózes|6:16|<pageref|auto-70>, <pageref|auto-237>>
+    <index+2|5Mózes|6:16|<pageref|auto-71>, <pageref|auto-238>>
 
-    <index+2|5Mózes|8:3|<pageref|auto-66>, <pageref|auto-231>>
+    <index+2|5Mózes|8:3|<pageref|auto-67>, <pageref|auto-232>>
 
-    <index+2|5Mózes|19:15|<pageref|auto-125>>
+    <index+2|5Mózes|19:15|<pageref|auto-126>>
 
-    <index+1|Aleppo-kódex|<pageref|auto-60>>
+    <index+1|Aleppo-kódex|<pageref|auto-61>>
 
     <index+1*|bibref-parancs>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|diagram>|<pageref|auto-37>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|diagram>|<pageref|auto-38>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|extend>|<pageref|auto-329>,
-    <pageref|auto-341>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|extend>|<pageref|auto-330>,
+    <pageref|auto-342>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|findN>|<pageref|auto-17>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|findN>|<pageref|auto-18>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|getrefs>|<pageref|auto-149>,
-    <pageref|auto-158>, <pageref|auto-228>, <pageref|auto-266>,
-    <pageref|auto-305>, <pageref|auto-343>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|getrefs>|<pageref|auto-150>,
+    <pageref|auto-159>, <pageref|auto-229>, <pageref|auto-267>,
+    <pageref|auto-306>, <pageref|auto-344>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|help>|<pageref|auto-52>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|help>|<pageref|auto-53>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|jaccard12>|<pageref|auto-36>,
-    <pageref|auto-333>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|jaccard12>|<pageref|auto-37>,
+    <pageref|auto-334>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|latintextN>|<pageref|auto-55>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|latintextN>|<pageref|auto-56>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lengthN>|<pageref|auto-56>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lengthN>|<pageref|auto-57>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lookup>|<pageref|auto-11>,
-    <pageref|auto-14>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lookup>|<pageref|auto-12>,
+    <pageref|auto-15>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lookupN>|<pageref|auto-20>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|lookupN>|<pageref|auto-21>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|maxresults>|<pageref|auto-18>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|maxresults>|<pageref|auto-19>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|minunique1>|<pageref|auto-328>,
-    <pageref|auto-335>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|minunique1>|<pageref|auto-329>,
+    <pageref|auto-336>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|nearest12>|<pageref|auto-53>,
-    <pageref|auto-330>, <pageref|auto-349>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|nearest12>|<pageref|auto-54>,
+    <pageref|auto-331>, <pageref|auto-350>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|rawN>|<pageref|auto-54>>
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|rawN>|<pageref|auto-55>>
 
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|search>|<pageref|auto-288>,
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|search>|<pageref|auto-289>,
+    <pageref|auto-296>>
+
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|statement>|<pageref|auto-39>,
+    <pageref|auto-104>, <pageref|auto-127>>
+
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|textN>|<pageref|auto-16>>
+
+    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|tokens>|<pageref|auto-285>,
     <pageref|auto-295>>
-
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|statement>|<pageref|auto-38>,
-    <pageref|auto-103>, <pageref|auto-126>>
-
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|textN>|<pageref|auto-15>>
-
-    <index+2|bibref-parancs|<with|font-family|tt|language|verbatim|tokens>|<pageref|auto-284>,
-    <pageref|auto-294>>
 
     <index+1*|Codex>
 
-    <index+2|Codex|Bezae Cantabrigiensis|<pageref|auto-34>>
+    <index+2|Codex|Bezae Cantabrigiensis|<pageref|auto-35>>
 
-    <index+2|Codex|Ephraemi Rescriptus|<pageref|auto-33>, <pageref|auto-112>>
+    <index+2|Codex|Ephraemi Rescriptus|<pageref|auto-34>, <pageref|auto-113>>
 
-    <index+2|Codex|Sinaiticus|<pageref|auto-31>, <pageref|auto-111>,
-    <pageref|auto-217>>
+    <index+2|Codex|Sinaiticus|<pageref|auto-32>, <pageref|auto-112>,
+    <pageref|auto-218>>
 
-    <index+2|Codex|Vaticanus|<pageref|auto-32>, <pageref|auto-218>>
+    <index+2|Codex|Vaticanus|<pageref|auto-33>, <pageref|auto-219>>
 
-    <index+2|Codex|Washingtonianus|<pageref|auto-35>>
+    <index+2|Codex|Washingtonianus|<pageref|auto-36>>
 
     <index+1*|Dániel>
 
-    <index+2|Dániel|9:27|<pageref|auto-170>, <pageref|auto-213>>
+    <index+2|Dániel|9:27|<pageref|auto-171>, <pageref|auto-214>>
 
-    <index+1|deuterokanonikus könyvek|<pageref|auto-19>, <pageref|auto-324>>
+    <index+1|deuterokanonikus könyvek|<pageref|auto-20>, <pageref|auto-325>>
 
     <index+1*|Ézsaiás>
 
-    <index+2|Ézsaiás|6:9|<pageref|auto-110>, <pageref|auto-186>,
-    <pageref|auto-246>>
+    <index+2|Ézsaiás|6:9|<pageref|auto-111>, <pageref|auto-187>,
+    <pageref|auto-247>>
 
-    <index+2|Ézsaiás|6:10|<pageref|auto-303>>
+    <index+2|Ézsaiás|6:10|<pageref|auto-304>>
 
-    <index+2|Ézsaiás|7:14|<pageref|auto-24>>
+    <index+2|Ézsaiás|7:14|<pageref|auto-25>>
 
-    <index+2|Ézsaiás|8:23|<pageref|auto-75>>
+    <index+2|Ézsaiás|8:23|<pageref|auto-76>>
 
-    <index+2|Ézsaiás|11:1|<pageref|auto-59>>
+    <index+2|Ézsaiás|11:1|<pageref|auto-60>>
 
-    <index+2|Ézsaiás|29:13|<pageref|auto-121>, <pageref|auto-188>>
+    <index+2|Ézsaiás|29:13|<pageref|auto-122>, <pageref|auto-189>>
 
-    <index+2|Ézsaiás|40:3|<pageref|auto-63>, <pageref|auto-184>,
-    <pageref|auto-227>, <pageref|auto-271>>
+    <index+2|Ézsaiás|40:3|<pageref|auto-64>, <pageref|auto-185>,
+    <pageref|auto-228>, <pageref|auto-272>>
 
-    <index+2|Ézsaiás|42:1|<pageref|auto-102>>
+    <index+2|Ézsaiás|42:1|<pageref|auto-103>>
 
-    <index+2|Ézsaiás|53:1|<pageref|auto-301>>
+    <index+2|Ézsaiás|53:1|<pageref|auto-302>>
 
-    <index+2|Ézsaiás|53:4|<pageref|auto-88>>
+    <index+2|Ézsaiás|53:4|<pageref|auto-89>>
 
-    <index+2|Ézsaiás|53:12|<pageref|auto-265>>
+    <index+2|Ézsaiás|53:12|<pageref|auto-266>>
 
-    <index+2|Ézsaiás|54:13|<pageref|auto-280>>
+    <index+2|Ézsaiás|54:13|<pageref|auto-281>>
 
-    <index+2|Ézsaiás|56:7|<pageref|auto-152>, <pageref|auto-197>,
-    <pageref|auto-254>>
+    <index+2|Ézsaiás|56:7|<pageref|auto-153>, <pageref|auto-198>,
+    <pageref|auto-255>>
 
-    <index+2|Ézsaiás|58:6|<pageref|auto-240>>
+    <index+2|Ézsaiás|58:6|<pageref|auto-241>>
 
-    <index+2|Ézsaiás|61:1|<pageref|auto-241>>
+    <index+2|Ézsaiás|61:1|<pageref|auto-242>>
 
-    <index+2|Ézsaiás|62:11|<pageref|auto-142>>
+    <index+2|Ézsaiás|62:11|<pageref|auto-143>>
 
-    <index+1|GreekCNTR|<pageref|auto-28>, <pageref|auto-129>,
-    <pageref|auto-287>>
+    <index+1|GreekCNTR|<pageref|auto-29>, <pageref|auto-130>,
+    <pageref|auto-288>>
 
     <index+1*|Hóseás>
 
-    <index+2|Hóseás|6:6|<pageref|auto-91>, <pageref|auto-99>>
+    <index+2|Hóseás|6:6|<pageref|auto-92>, <pageref|auto-100>>
 
-    <index+2|Hóseás|11:1|<pageref|auto-48>>
+    <index+2|Hóseás|11:1|<pageref|auto-49>>
 
     <index+1*|János>
 
-    <index+2|János|1:23|<pageref|auto-270>>
+    <index+2|János|1:23|<pageref|auto-271>>
 
-    <index+2|János|2:17|<pageref|auto-273>>
+    <index+2|János|2:17|<pageref|auto-274>>
 
-    <index+2|János|6:31|<pageref|auto-277>>
+    <index+2|János|6:31|<pageref|auto-278>>
 
-    <index+2|János|6:45|<pageref|auto-279>>
+    <index+2|János|6:45|<pageref|auto-280>>
 
-    <index+2|János|10:34|<pageref|auto-290>>
+    <index+2|János|10:34|<pageref|auto-291>>
 
-    <index+2|János|12:15|<pageref|auto-298>>
+    <index+2|János|12:15|<pageref|auto-299>>
 
-    <index+2|János|12:38|<pageref|auto-302>>
+    <index+2|János|12:38|<pageref|auto-303>>
 
-    <index+2|János|12:40|<pageref|auto-304>>
+    <index+2|János|12:40|<pageref|auto-305>>
 
-    <index+2|János|13:18|<pageref|auto-307>>
+    <index+2|János|13:18|<pageref|auto-308>>
 
-    <index+2|János|15:25|<pageref|auto-309>>
+    <index+2|János|15:25|<pageref|auto-310>>
 
-    <index+2|János|19:24|<pageref|auto-312>>
+    <index+2|János|19:24|<pageref|auto-313>>
 
-    <index+2|János|19:28|<pageref|auto-314>>
+    <index+2|János|19:28|<pageref|auto-315>>
 
-    <index+2|János|19:36|<pageref|auto-316>>
+    <index+2|János|19:36|<pageref|auto-317>>
 
-    <index+2|János|19:37|<pageref|auto-318>>
+    <index+2|János|19:37|<pageref|auto-319>>
 
     <index+1*|Jeremiás>
 
-    <index+2|Jeremiás|7:11|<pageref|auto-151>, <pageref|auto-198>,
-    <pageref|auto-255>>
+    <index+2|Jeremiás|7:11|<pageref|auto-152>, <pageref|auto-199>,
+    <pageref|auto-256>>
 
-    <index+2|Jeremiás|31:15|<pageref|auto-50>>
+    <index+2|Jeremiás|31:15|<pageref|auto-51>>
 
     <index+1*|Jónás>
 
-    <index+2|Jónás|2:1|<pageref|auto-106>>
+    <index+2|Jónás|2:1|<pageref|auto-107>>
 
     <index+1*|Józsué>
 
-    <index+2|Józsué|22:5|<pageref|auto-164>, <pageref|auto-205>,
-    <pageref|auto-249>>
+    <index+2|Józsué|22:5|<pageref|auto-165>, <pageref|auto-206>,
+    <pageref|auto-250>>
 
-    <index+1|JSCS|<pageref|auto-322>>
+    <index+1|JSCS|<pageref|auto-323>>
 
     <index+1*|Lukács>
 
-    <index+2|Lukács|2:23|<pageref|auto-221>>
+    <index+2|Lukács|2:23|<pageref|auto-222>>
 
-    <index+2|Lukács|2:24|<pageref|auto-222>>
+    <index+2|Lukács|2:24|<pageref|auto-223>>
 
-    <index+2|Lukács|3:4-6|<pageref|auto-226>>
+    <index+2|Lukács|3:4-6|<pageref|auto-227>>
 
-    <index+2|Lukács|4:4|<pageref|auto-230>>
+    <index+2|Lukács|4:4|<pageref|auto-231>>
 
-    <index+2|Lukács|4:8|<pageref|auto-232>>
+    <index+2|Lukács|4:8|<pageref|auto-233>>
 
-    <index+2|Lukács|4:10-11|<pageref|auto-235>>
+    <index+2|Lukács|4:10-11|<pageref|auto-236>>
 
-    <index+2|Lukács|4:12|<pageref|auto-236>>
+    <index+2|Lukács|4:12|<pageref|auto-237>>
 
-    <index+2|Lukács|4:18-19|<pageref|auto-239>>
+    <index+2|Lukács|4:18-19|<pageref|auto-240>>
 
-    <index+2|Lukács|7:27|<pageref|auto-243>>
+    <index+2|Lukács|7:27|<pageref|auto-244>>
 
-    <index+2|Lukács|8:10|<pageref|auto-245>>
+    <index+2|Lukács|8:10|<pageref|auto-246>>
 
-    <index+2|Lukács|10:27|<pageref|auto-247>>
+    <index+2|Lukács|10:27|<pageref|auto-248>>
 
-    <index+2|Lukács|18:20|<pageref|auto-251>>
+    <index+2|Lukács|18:20|<pageref|auto-252>>
 
-    <index+2|Lukács|19:46|<pageref|auto-253>>
+    <index+2|Lukács|19:46|<pageref|auto-254>>
 
-    <index+2|Lukács|20:17|<pageref|auto-256>>
+    <index+2|Lukács|20:17|<pageref|auto-257>>
 
-    <index+2|Lukács|20:37|<pageref|auto-258>>
+    <index+2|Lukács|20:37|<pageref|auto-259>>
 
-    <index+2|Lukács|20:42|<pageref|auto-260>>
+    <index+2|Lukács|20:42|<pageref|auto-261>>
 
-    <index+2|Lukács|22:37|<pageref|auto-264>>
+    <index+2|Lukács|22:37|<pageref|auto-265>>
 
-    <index+1|Makkabeus-felkelés|<pageref|auto-144>, <pageref|auto-293>>
+    <index+1|Makkabeus-felkelés|<pageref|auto-145>, <pageref|auto-294>>
 
     <index+1*|Márk>
 
-    <index+2|Márk|1:2-3|<pageref|auto-182>>
+    <index+2|Márk|1:2-3|<pageref|auto-183>>
 
-    <index+2|Márk|4:12|<pageref|auto-185>>
+    <index+2|Márk|4:12|<pageref|auto-186>>
 
-    <index+2|Márk|7:6|<pageref|auto-187>>
+    <index+2|Márk|7:6|<pageref|auto-188>>
 
-    <index+2|Márk|7:10|<pageref|auto-189>>
+    <index+2|Márk|7:10|<pageref|auto-190>>
 
-    <index+2|Márk|10:6|<pageref|auto-192>>
+    <index+2|Márk|10:6|<pageref|auto-193>>
 
-    <index+2|Márk|10:7-8|<pageref|auto-194>>
+    <index+2|Márk|10:7-8|<pageref|auto-195>>
 
-    <index+2|Márk|11:17|<pageref|auto-196>>
+    <index+2|Márk|11:17|<pageref|auto-197>>
 
-    <index+2|Márk|12:10|<pageref|auto-199>>
+    <index+2|Márk|12:10|<pageref|auto-200>>
 
-    <index+2|Márk|12:26|<pageref|auto-201>>
+    <index+2|Márk|12:26|<pageref|auto-202>>
 
-    <index+2|Márk|12:29|<pageref|auto-203>>
+    <index+2|Márk|12:29|<pageref|auto-204>>
 
-    <index+2|Márk|12:31|<pageref|auto-206>>
+    <index+2|Márk|12:31|<pageref|auto-207>>
 
-    <index+2|Márk|12:32|<pageref|auto-208>>
+    <index+2|Márk|12:32|<pageref|auto-209>>
 
-    <index+2|Márk|12:36|<pageref|auto-210>>
+    <index+2|Márk|12:36|<pageref|auto-211>>
 
-    <index+2|Márk|13:14|<pageref|auto-212>>
+    <index+2|Márk|13:14|<pageref|auto-213>>
 
-    <index+2|Márk|14:27|<pageref|auto-214>>
+    <index+2|Márk|14:27|<pageref|auto-215>>
 
     <index+1*|Máté>
 
-    <index+2|Máté|1:23|<pageref|auto-25>>
+    <index+2|Máté|1:23|<pageref|auto-26>>
 
-    <index+2|Máté|2:6|<pageref|auto-43>>
+    <index+2|Máté|2:6|<pageref|auto-44>>
 
-    <index+2|Máté|2:15|<pageref|auto-47>>
+    <index+2|Máté|2:15|<pageref|auto-48>>
 
-    <index+2|Máté|2:18|<pageref|auto-51>>
+    <index+2|Máté|2:18|<pageref|auto-52>>
 
-    <index+2|Máté|2:23|<pageref|auto-58>>
+    <index+2|Máté|2:23|<pageref|auto-59>>
 
-    <index+2|Máté|3:3|<pageref|auto-62>>
+    <index+2|Máté|3:3|<pageref|auto-63>>
 
-    <index+2|Máté|4:4|<pageref|auto-65>>
+    <index+2|Máté|4:4|<pageref|auto-66>>
 
-    <index+2|Máté|4:6|<pageref|auto-68>>
+    <index+2|Máté|4:6|<pageref|auto-69>>
 
-    <index+2|Máté|4:7|<pageref|auto-69>>
+    <index+2|Máté|4:7|<pageref|auto-70>>
 
-    <index+2|Máté|4:10|<pageref|auto-71>>
+    <index+2|Máté|4:10|<pageref|auto-72>>
 
-    <index+2|Máté|4:15-16|<pageref|auto-74>>
+    <index+2|Máté|4:15-16|<pageref|auto-75>>
 
-    <index+2|Máté|5:21|<pageref|auto-77>>
+    <index+2|Máté|5:21|<pageref|auto-78>>
 
-    <index+2|Máté|5:27|<pageref|auto-80>>
+    <index+2|Máté|5:27|<pageref|auto-81>>
 
-    <index+2|Máté|5:38|<pageref|auto-83>>
+    <index+2|Máté|5:38|<pageref|auto-84>>
 
-    <index+2|Máté|8:17|<pageref|auto-87>>
+    <index+2|Máté|8:17|<pageref|auto-88>>
 
-    <index+2|Máté|9:13|<pageref|auto-90>>
+    <index+2|Máté|9:13|<pageref|auto-91>>
 
-    <index+2|Máté|10:35-36|<pageref|auto-93>>
+    <index+2|Máté|10:35-36|<pageref|auto-94>>
 
-    <index+2|Máté|11:10|<pageref|auto-95>>
+    <index+2|Máté|11:10|<pageref|auto-96>>
 
-    <index+2|Máté|12:7|<pageref|auto-98>>
+    <index+2|Máté|12:7|<pageref|auto-99>>
 
-    <index+2|Máté|12:18-21|<pageref|auto-101>>
+    <index+2|Máté|12:18-21|<pageref|auto-102>>
 
-    <index+2|Máté|12:40|<pageref|auto-105>>
+    <index+2|Máté|12:40|<pageref|auto-106>>
 
-    <index+2|Máté|13:14-15|<pageref|auto-109>>
+    <index+2|Máté|13:14-15|<pageref|auto-110>>
 
-    <index+2|Máté|13:35|<pageref|auto-115>>
+    <index+2|Máté|13:35|<pageref|auto-116>>
 
-    <index+2|Máté|15:4|<pageref|auto-120>>
+    <index+2|Máté|15:4|<pageref|auto-121>>
 
-    <index+2|Máté|15:8-9|<pageref|auto-122>>
+    <index+2|Máté|15:8-9|<pageref|auto-123>>
 
-    <index+2|Máté|18:16|<pageref|auto-124>>
+    <index+2|Máté|18:16|<pageref|auto-125>>
 
-    <index+2|Máté|19:4|<pageref|auto-133>>
+    <index+2|Máté|19:4|<pageref|auto-134>>
 
-    <index+2|Máté|19:5|<pageref|auto-134>>
+    <index+2|Máté|19:5|<pageref|auto-135>>
 
-    <index+2|Máté|19:18|<pageref|auto-136>>
+    <index+2|Máté|19:18|<pageref|auto-137>>
 
-    <index+2|Máté|19:19|<pageref|auto-137>>
+    <index+2|Máté|19:19|<pageref|auto-138>>
 
-    <index+2|Máté|21:5|<pageref|auto-141>>
+    <index+2|Máté|21:5|<pageref|auto-142>>
 
-    <index+2|Máté|21:9|<pageref|auto-145>>
+    <index+2|Máté|21:9|<pageref|auto-146>>
 
-    <index+2|Máté|21:13|<pageref|auto-150>>
+    <index+2|Máté|21:13|<pageref|auto-151>>
 
-    <index+2|Máté|21:16|<pageref|auto-153>>
+    <index+2|Máté|21:16|<pageref|auto-154>>
 
-    <index+2|Máté|21:42|<pageref|auto-156>>
+    <index+2|Máté|21:42|<pageref|auto-157>>
 
-    <index+2|Máté|22:32|<pageref|auto-160>>
+    <index+2|Máté|22:32|<pageref|auto-161>>
 
-    <index+2|Máté|22:37|<pageref|auto-162>>
+    <index+2|Máté|22:37|<pageref|auto-163>>
 
-    <index+2|Máté|22:39|<pageref|auto-165>>
+    <index+2|Máté|22:39|<pageref|auto-166>>
 
-    <index+2|Máté|22:44|<pageref|auto-167>>
+    <index+2|Máté|22:44|<pageref|auto-168>>
 
-    <index+2|Máté|23:39|<pageref|auto-147>>
+    <index+2|Máté|23:39|<pageref|auto-148>>
 
-    <index+2|Máté|24:15|<pageref|auto-171>>
+    <index+2|Máté|24:15|<pageref|auto-172>>
 
-    <index+2|Máté|26:31|<pageref|auto-173>>
+    <index+2|Máté|26:31|<pageref|auto-174>>
 
-    <index+2|Máté|27:9-10|<pageref|auto-175>>
+    <index+2|Máté|27:9-10|<pageref|auto-176>>
 
     <index+1*|Mikeás>
 
-    <index+2|Mikeás|5:1|<pageref|auto-42>>
+    <index+2|Mikeás|5:1|<pageref|auto-43>>
 
-    <index+2|Mikeás|7:6|<pageref|auto-94>>
+    <index+2|Mikeás|7:6|<pageref|auto-95>>
 
     <index+1*|papirusz>
 
-    <index+2|papirusz|\<frak-P\>1 \U|<pageref|auto-30>>
+    <index+2|papirusz|\<frak-P\>1 \U|<pageref|auto-31>>
 
-    <index+1|Python|<pageref|auto-22>, <pageref|auto-82>>
+    <index+1|Python|<pageref|auto-23>, <pageref|auto-83>>
 
-    <index+1|Strong-szám|<pageref|auto-29>, <pageref|auto-282>,
-    <pageref|auto-327>>
+    <index+1|Strong-szám|<pageref|auto-30>, <pageref|auto-283>,
+    <pageref|auto-328>>
 
-    <index+1|SWORD|<pageref|auto-8>, <pageref|auto-283>, <pageref|auto-296>>
+    <index+1|SWORD|<pageref|auto-9>, <pageref|auto-284>, <pageref|auto-297>>
 
-    <index+1|Szeptuaginta|<pageref|auto-4>, <pageref|auto-16>,
-    <pageref|auto-39>, <pageref|auto-79>, <pageref|auto-180>>
+    <index+1|Szeptuaginta|<pageref|auto-5>, <pageref|auto-17>,
+    <pageref|auto-40>, <pageref|auto-80>, <pageref|auto-181>>
 
     <index+1*|Zakariás>
 
-    <index+2|Zakariás|9:9|<pageref|auto-143>, <pageref|auto-299>>
+    <index+2|Zakariás|9:9|<pageref|auto-144>, <pageref|auto-300>>
 
-    <index+2|Zakariás|11:13|<pageref|auto-176>>
+    <index+2|Zakariás|11:13|<pageref|auto-177>>
 
-    <index+2|Zakariás|12:10|<pageref|auto-319>>
+    <index+2|Zakariás|12:10|<pageref|auto-320>>
 
-    <index+2|Zakariás|13:7|<pageref|auto-174>, <pageref|auto-215>>
+    <index+2|Zakariás|13:7|<pageref|auto-175>, <pageref|auto-216>>
 
     <index+1*|Zsoltárok>
 
-    <index+2|Zsoltárok|8:3|<pageref|auto-154>>
+    <index+2|Zsoltárok|8:3|<pageref|auto-155>>
 
-    <index+2|Zsoltárok|22:19|<pageref|auto-313>>
+    <index+2|Zsoltárok|22:19|<pageref|auto-314>>
 
-    <index+2|Zsoltárok|41:10|<pageref|auto-308>>
+    <index+2|Zsoltárok|41:10|<pageref|auto-309>>
 
-    <index+2|Zsoltárok|69:10|<pageref|auto-274>>
+    <index+2|Zsoltárok|69:10|<pageref|auto-275>>
 
-    <index+2|Zsoltárok|78:2|<pageref|auto-116>>
+    <index+2|Zsoltárok|78:2|<pageref|auto-117>>
 
-    <index+2|Zsoltárok|78:24|<pageref|auto-278>>
+    <index+2|Zsoltárok|78:24|<pageref|auto-279>>
 
-    <index+2|Zsoltárok|82:6|<pageref|auto-291>>
+    <index+2|Zsoltárok|82:6|<pageref|auto-292>>
 
-    <index+2|Zsoltárok|91:11|<pageref|auto-67>, <pageref|auto-234>>
+    <index+2|Zsoltárok|91:11|<pageref|auto-68>, <pageref|auto-235>>
 
-    <index+2|Zsoltárok|107:5|<pageref|auto-315>>
+    <index+2|Zsoltárok|107:5|<pageref|auto-316>>
 
-    <index+2|Zsoltárok|109:3|<pageref|auto-310>>
+    <index+2|Zsoltárok|109:3|<pageref|auto-311>>
 
-    <index+2|Zsoltárok|110:1|<pageref|auto-168>, <pageref|auto-211>,
-    <pageref|auto-261>>
+    <index+2|Zsoltárok|110:1|<pageref|auto-169>, <pageref|auto-212>,
+    <pageref|auto-262>>
 
-    <index+2|Zsoltárok|118:22|<pageref|auto-157>, <pageref|auto-200>,
-    <pageref|auto-257>>
+    <index+2|Zsoltárok|118:22|<pageref|auto-158>, <pageref|auto-201>,
+    <pageref|auto-258>>
 
-    <index+2|Zsoltárok|118:26|<pageref|auto-146>\U<pageref|auto-148>>
+    <index+2|Zsoltárok|118:26|<pageref|auto-147>\U<pageref|auto-149>>
   </the-index>
 
   \;
@@ -21257,447 +21261,444 @@
 
 <\references>
   <\collection>
-    <associate|Herodes-verengzese|<tuple|2.1.5|32>>
-    <associate|Immanuel-jovendoles|<tuple|2.1.2|23>>
-    <associate|Janos-7-38|<tuple|2.5|137>>
-    <associate|Jezus-szuletese|<tuple|2.1.3|28>>
-    <associate|Kajafas-profeciaja|<tuple|2.4.7|140>>
-    <associate|Mt-12-18-alg|<tuple|2.6|55>>
-    <associate|akit-atszurtak|<tuple|2.4.11|148>>
+    <associate|Herodes-verengzese|<tuple|2.1.5|34>>
+    <associate|Immanuel-jovendoles|<tuple|2.1.2|24>>
+    <associate|Janos-7-38|<tuple|2.5|139>>
+    <associate|Jezus-szuletese|<tuple|2.1.3|30>>
+    <associate|Kajafas-profeciaja|<tuple|2.4.7|142>>
+    <associate|Mt-12-18-alg|<tuple|2.6|57>>
+    <associate|akit-atszurtak|<tuple|2.4.11|150>>
     <associate|auto-1|<tuple|?|5>>
-    <associate|auto-10|<tuple|1.1|10>>
-    <associate|auto-100|<tuple|Hóseás|53>>
-    <associate|auto-101|<tuple|2.1.15|53>>
+    <associate|auto-10|<tuple|1.1|12>>
+    <associate|auto-100|<tuple|Hóseás|55>>
+    <associate|auto-101|<tuple|2.1.15|55>>
     <associate|auto-102|<tuple|Máté|55>>
-    <associate|auto-103|<tuple|Ézsaiás|56>>
+    <associate|auto-103|<tuple|Ézsaiás|57>>
     <associate|auto-104|<tuple|bibref-parancs|58>>
-    <associate|auto-105|<tuple|2.1.16|58>>
-    <associate|auto-106|<tuple|Máté|58>>
-    <associate|auto-107|<tuple|Jónás|59>>
-    <associate|auto-108|<tuple|2.1.17|60>>
-    <associate|auto-109|<tuple|2.1.18|61>>
-    <associate|auto-11|<tuple|1.2|10>>
-    <associate|auto-110|<tuple|Máté|61>>
-    <associate|auto-111|<tuple|Ézsaiás|62>>
-    <associate|auto-112|<tuple|Codex|62>>
-    <associate|auto-113|<tuple|Codex|62>>
-    <associate|auto-114|<tuple|2.3|63>>
-    <associate|auto-115|<tuple|2.1.19|63>>
-    <associate|auto-116|<tuple|Máté|64>>
-    <associate|auto-117|<tuple|Zsoltárok|64>>
-    <associate|auto-118|<tuple|2.1.20|64>>
-    <associate|auto-119|<tuple|2Mózes|64>>
-    <associate|auto-12|<tuple|bibref-parancs|13>>
-    <associate|auto-120|<tuple|2Mózes|64>>
+    <associate|auto-105|<tuple|2.1.16|60>>
+    <associate|auto-106|<tuple|Máté|60>>
+    <associate|auto-107|<tuple|Jónás|60>>
+    <associate|auto-108|<tuple|2.1.17|61>>
+    <associate|auto-109|<tuple|2.1.18|62>>
+    <associate|auto-11|<tuple|1.2|12>>
+    <associate|auto-110|<tuple|Máté|63>>
+    <associate|auto-111|<tuple|Ézsaiás|63>>
+    <associate|auto-112|<tuple|Codex|64>>
+    <associate|auto-113|<tuple|Codex|64>>
+    <associate|auto-114|<tuple|2.3|64>>
+    <associate|auto-115|<tuple|2.1.19|65>>
+    <associate|auto-116|<tuple|Máté|65>>
+    <associate|auto-117|<tuple|Zsoltárok|66>>
+    <associate|auto-118|<tuple|2.1.20|66>>
+    <associate|auto-119|<tuple|2Mózes|66>>
+    <associate|auto-12|<tuple|bibref-parancs|12>>
+    <associate|auto-120|<tuple|2Mózes|66>>
     <associate|auto-121|<tuple|Máté|66>>
-    <associate|auto-122|<tuple|Ézsaiás|66>>
-    <associate|auto-123|<tuple|Máté|67>>
-    <associate|auto-124|<tuple|2.1.21|68>>
-    <associate|auto-125|<tuple|Máté|68>>
-    <associate|auto-126|<tuple|5Mózes|69>>
-    <associate|auto-127|<tuple|bibref-parancs|70>>
-    <associate|auto-128|<tuple|2.4|?>>
-    <associate|auto-129|<tuple|GreekCNTR|70>>
-    <associate|auto-13|<tuple|2|13>>
-    <associate|auto-130|<tuple|GreekCNTR|70>>
-    <associate|auto-131|<tuple|2.1.22|70>>
-    <associate|auto-132|<tuple|1Mózes|71>>
-    <associate|auto-133|<tuple|1Mózes|71>>
-    <associate|auto-134|<tuple|Máté|71>>
-    <associate|auto-135|<tuple|Máté|72>>
-    <associate|auto-136|<tuple|2.1.23|72>>
-    <associate|auto-137|<tuple|Máté|72>>
-    <associate|auto-138|<tuple|Máté|72>>
-    <associate|auto-139|<tuple|2Mózes|72>>
-    <associate|auto-14|<tuple|2.1|13>>
+    <associate|auto-122|<tuple|Ézsaiás|68>>
+    <associate|auto-123|<tuple|Máté|68>>
+    <associate|auto-124|<tuple|2.1.21|69>>
+    <associate|auto-125|<tuple|Máté|70>>
+    <associate|auto-126|<tuple|5Mózes|70>>
+    <associate|auto-127|<tuple|bibref-parancs|71>>
+    <associate|auto-128|<tuple|2.4|72>>
+    <associate|auto-13|<tuple|2|15>>
+    <associate|auto-130|<tuple|GreekCNTR|72>>
+    <associate|auto-131|<tuple|2.1.22|72>>
+    <associate|auto-132|<tuple|1Mózes|72>>
+    <associate|auto-133|<tuple|1Mózes|73>>
+    <associate|auto-134|<tuple|Máté|73>>
+    <associate|auto-135|<tuple|Máté|73>>
+    <associate|auto-136|<tuple|2.1.23|74>>
+    <associate|auto-137|<tuple|Máté|74>>
+    <associate|auto-138|<tuple|Máté|74>>
+    <associate|auto-139|<tuple|2Mózes|74>>
+    <associate|auto-14|<tuple|2.1|15>>
     <associate|auto-140|<tuple|3Mózes|74>>
-    <associate|auto-141|<tuple|2.1.24|74>>
-    <associate|auto-142|<tuple|Máté|74>>
-    <associate|auto-143|<tuple|Ézsaiás|74>>
+    <associate|auto-141|<tuple|2.1.24|76>>
+    <associate|auto-142|<tuple|Máté|76>>
+    <associate|auto-143|<tuple|Ézsaiás|76>>
     <associate|auto-144|<tuple|Zakariás|76>>
-    <associate|auto-145|<tuple|Makkabeus-felkelés|76>>
-    <associate|auto-146|<tuple|Máté|76>>
-    <associate|auto-147|<tuple|Zsoltárok|77>>
-    <associate|auto-148|<tuple|Máté|77>>
-    <associate|auto-149|<tuple|Zsoltárok|77>>
-    <associate|auto-15|<tuple|bibref-parancs|13>>
-    <associate|auto-150|<tuple|bibref-parancs|78>>
-    <associate|auto-151|<tuple|Máté|78>>
-    <associate|auto-152|<tuple|Jeremiás|78>>
+    <associate|auto-145|<tuple|Makkabeus-felkelés|78>>
+    <associate|auto-146|<tuple|Máté|78>>
+    <associate|auto-147|<tuple|Zsoltárok|78>>
+    <associate|auto-148|<tuple|Máté|79>>
+    <associate|auto-149|<tuple|Zsoltárok|79>>
+    <associate|auto-15|<tuple|bibref-parancs|15>>
+    <associate|auto-150|<tuple|bibref-parancs|79>>
+    <associate|auto-151|<tuple|Máté|80>>
+    <associate|auto-152|<tuple|Jeremiás|80>>
     <associate|auto-153|<tuple|Ézsaiás|80>>
-    <associate|auto-154|<tuple|Máté|80>>
-    <associate|auto-155|<tuple|Zsoltárok|80>>
-    <associate|auto-156|<tuple|2.1.25|81>>
-    <associate|auto-157|<tuple|Máté|81>>
-    <associate|auto-158|<tuple|Zsoltárok|81>>
-    <associate|auto-159|<tuple|bibref-parancs|85>>
-    <associate|auto-16|<tuple|bibref-parancs|14>>
-    <associate|auto-160|<tuple|2.1.26|85>>
-    <associate|auto-161|<tuple|Máté|85>>
-    <associate|auto-162|<tuple|2Mózes|86>>
-    <associate|auto-163|<tuple|Máté|86>>
-    <associate|auto-164|<tuple|5Mózes|86>>
-    <associate|auto-165|<tuple|Józsué|86>>
-    <associate|auto-166|<tuple|Máté|86>>
+    <associate|auto-154|<tuple|Máté|82>>
+    <associate|auto-155|<tuple|Zsoltárok|82>>
+    <associate|auto-156|<tuple|2.1.25|82>>
+    <associate|auto-157|<tuple|Máté|83>>
+    <associate|auto-158|<tuple|Zsoltárok|83>>
+    <associate|auto-159|<tuple|bibref-parancs|83>>
+    <associate|auto-16|<tuple|bibref-parancs|15>>
+    <associate|auto-160|<tuple|2.1.26|87>>
+    <associate|auto-161|<tuple|Máté|87>>
+    <associate|auto-162|<tuple|2Mózes|87>>
+    <associate|auto-163|<tuple|Máté|88>>
+    <associate|auto-164|<tuple|5Mózes|88>>
+    <associate|auto-165|<tuple|Józsué|88>>
+    <associate|auto-166|<tuple|Máté|88>>
     <associate|auto-167|<tuple|3Mózes|88>>
-    <associate|auto-168|<tuple|Máté|88>>
-    <associate|auto-169|<tuple|Zsoltárok|89>>
-    <associate|auto-17|<tuple|Szeptuaginta|14>>
-    <associate|auto-170|<tuple|2.1.27|89>>
-    <associate|auto-171|<tuple|Dániel|89>>
-    <associate|auto-172|<tuple|Máté|90>>
-    <associate|auto-173|<tuple|2.1.28|90>>
-    <associate|auto-174|<tuple|Máté|90>>
+    <associate|auto-168|<tuple|Máté|90>>
+    <associate|auto-169|<tuple|Zsoltárok|90>>
+    <associate|auto-17|<tuple|Szeptuaginta|15>>
+    <associate|auto-170|<tuple|2.1.27|91>>
+    <associate|auto-171|<tuple|Dániel|91>>
+    <associate|auto-172|<tuple|Máté|91>>
+    <associate|auto-173|<tuple|2.1.28|92>>
+    <associate|auto-174|<tuple|Máté|92>>
     <associate|auto-175|<tuple|Zakariás|92>>
-    <associate|auto-176|<tuple|Máté|92>>
-    <associate|auto-177|<tuple|Zakariás|93>>
-    <associate|auto-178|<tuple|2.1.29|93>>
-    <associate|auto-179|<tuple|2.1.30|94>>
+    <associate|auto-176|<tuple|Máté|94>>
+    <associate|auto-177|<tuple|Zakariás|94>>
+    <associate|auto-178|<tuple|2.1.29|95>>
+    <associate|auto-179|<tuple|2.1.30|95>>
     <associate|auto-18|<tuple|bibref-parancs|15>>
-    <associate|auto-180|<tuple|2.1|95>>
-    <associate|auto-181|<tuple|Szeptuaginta|96>>
-    <associate|auto-182|<tuple|2.2|96>>
-    <associate|auto-183|<tuple|Márk|96>>
-    <associate|auto-184|<tuple|2Mózes|96>>
-    <associate|auto-185|<tuple|Ézsaiás|96>>
-    <associate|auto-186|<tuple|Márk|96>>
-    <associate|auto-187|<tuple|Ézsaiás|96>>
-    <associate|auto-188|<tuple|Márk|96>>
-    <associate|auto-189|<tuple|Ézsaiás|96>>
-    <associate|auto-19|<tuple|bibref-parancs|18>>
-    <associate|auto-190|<tuple|Márk|96>>
-    <associate|auto-191|<tuple|2Mózes|96>>
-    <associate|auto-192|<tuple|2Mózes|96>>
-    <associate|auto-193|<tuple|Márk|96>>
-    <associate|auto-194|<tuple|1Mózes|96>>
-    <associate|auto-195|<tuple|Márk|96>>
-    <associate|auto-196|<tuple|1Mózes|96>>
-    <associate|auto-197|<tuple|Márk|96>>
-    <associate|auto-198|<tuple|Ézsaiás|96>>
-    <associate|auto-199|<tuple|Jeremiás|96>>
+    <associate|auto-180|<tuple|2.1|96>>
+    <associate|auto-181|<tuple|Szeptuaginta|97>>
+    <associate|auto-182|<tuple|2.2|99>>
+    <associate|auto-183|<tuple|Márk|99>>
+    <associate|auto-184|<tuple|2Mózes|99>>
+    <associate|auto-185|<tuple|Ézsaiás|99>>
+    <associate|auto-186|<tuple|Márk|99>>
+    <associate|auto-187|<tuple|Ézsaiás|99>>
+    <associate|auto-188|<tuple|Márk|99>>
+    <associate|auto-189|<tuple|Ézsaiás|99>>
+    <associate|auto-19|<tuple|bibref-parancs|17>>
+    <associate|auto-190|<tuple|Márk|99>>
+    <associate|auto-191|<tuple|2Mózes|99>>
+    <associate|auto-192|<tuple|2Mózes|99>>
+    <associate|auto-193|<tuple|Márk|99>>
+    <associate|auto-194|<tuple|1Mózes|99>>
+    <associate|auto-195|<tuple|Márk|99>>
+    <associate|auto-196|<tuple|1Mózes|99>>
+    <associate|auto-197|<tuple|Márk|99>>
+    <associate|auto-198|<tuple|Ézsaiás|99>>
+    <associate|auto-199|<tuple|Jeremiás|99>>
     <associate|auto-2|<tuple|1|6>>
-    <associate|auto-20|<tuple|deuterokanonikus könyvek|18>>
-    <associate|auto-200|<tuple|Márk|96>>
-    <associate|auto-201|<tuple|Zsoltárok|96>>
-    <associate|auto-202|<tuple|Márk|96>>
-    <associate|auto-203|<tuple|2Mózes|96>>
-    <associate|auto-204|<tuple|Márk|96>>
-    <associate|auto-205|<tuple|5Mózes|96>>
-    <associate|auto-206|<tuple|Józsué|96>>
-    <associate|auto-207|<tuple|Márk|96>>
-    <associate|auto-208|<tuple|3Mózes|96>>
-    <associate|auto-209|<tuple|Márk|96>>
-    <associate|auto-21|<tuple|bibref-parancs|19>>
-    <associate|auto-210|<tuple|5Mózes|96>>
-    <associate|auto-211|<tuple|Márk|96>>
-    <associate|auto-212|<tuple|Zsoltárok|96>>
-    <associate|auto-213|<tuple|Márk|96>>
-    <associate|auto-214|<tuple|Dániel|96>>
-    <associate|auto-215|<tuple|Márk|96>>
-    <associate|auto-216|<tuple|Zakariás|96>>
-    <associate|auto-217|<tuple|Zakariás|106>>
-    <associate|auto-218|<tuple|Codex|106>>
-    <associate|auto-219|<tuple|Codex|106>>
-    <associate|auto-22|<tuple|2.1.1|22>>
-    <associate|auto-220|<tuple|2.3|107>>
-    <associate|auto-221|<tuple|2.3.1|107>>
-    <associate|auto-222|<tuple|Lukács|107>>
-    <associate|auto-223|<tuple|Lukács|107>>
-    <associate|auto-224|<tuple|2Mózes|107>>
+    <associate|auto-20|<tuple|deuterokanonikus könyvek|20>>
+    <associate|auto-200|<tuple|Márk|99>>
+    <associate|auto-201|<tuple|Zsoltárok|99>>
+    <associate|auto-202|<tuple|Márk|99>>
+    <associate|auto-203|<tuple|2Mózes|99>>
+    <associate|auto-204|<tuple|Márk|99>>
+    <associate|auto-205|<tuple|5Mózes|99>>
+    <associate|auto-206|<tuple|Józsué|99>>
+    <associate|auto-207|<tuple|Márk|99>>
+    <associate|auto-208|<tuple|3Mózes|99>>
+    <associate|auto-209|<tuple|Márk|99>>
+    <associate|auto-21|<tuple|bibref-parancs|20>>
+    <associate|auto-210|<tuple|5Mózes|99>>
+    <associate|auto-211|<tuple|Márk|99>>
+    <associate|auto-212|<tuple|Zsoltárok|99>>
+    <associate|auto-213|<tuple|Márk|99>>
+    <associate|auto-214|<tuple|Dániel|99>>
+    <associate|auto-215|<tuple|Márk|99>>
+    <associate|auto-216|<tuple|Zakariás|99>>
+    <associate|auto-217|<tuple|Zakariás|99>>
+    <associate|auto-218|<tuple|Codex|108>>
+    <associate|auto-219|<tuple|Codex|108>>
+    <associate|auto-22|<tuple|2.1.1|21>>
+    <associate|auto-220|<tuple|2.3|108>>
+    <associate|auto-221|<tuple|2.3.1|109>>
+    <associate|auto-222|<tuple|Lukács|109>>
+    <associate|auto-223|<tuple|Lukács|109>>
+    <associate|auto-224|<tuple|2Mózes|109>>
     <associate|auto-225|<tuple|3Mózes|109>>
-    <associate|auto-226|<tuple|2.3.2|109>>
-    <associate|auto-227|<tuple|Lukács|110>>
-    <associate|auto-228|<tuple|Ézsaiás|110>>
-    <associate|auto-229|<tuple|bibref-parancs|110>>
-    <associate|auto-23|<tuple|Python|23>>
-    <associate|auto-230|<tuple|2.3.3|110>>
-    <associate|auto-231|<tuple|Lukács|111>>
-    <associate|auto-232|<tuple|5Mózes|111>>
-    <associate|auto-233|<tuple|Lukács|111>>
-    <associate|auto-234|<tuple|5Mózes|112>>
-    <associate|auto-235|<tuple|Zsoltárok|112>>
+    <associate|auto-226|<tuple|2.3.2|111>>
+    <associate|auto-227|<tuple|Lukács|111>>
+    <associate|auto-228|<tuple|Ézsaiás|112>>
+    <associate|auto-229|<tuple|bibref-parancs|112>>
+    <associate|auto-23|<tuple|Python|24>>
+    <associate|auto-230|<tuple|2.3.3|112>>
+    <associate|auto-231|<tuple|Lukács|112>>
+    <associate|auto-232|<tuple|5Mózes|113>>
+    <associate|auto-233|<tuple|Lukács|113>>
+    <associate|auto-234|<tuple|5Mózes|113>>
+    <associate|auto-235|<tuple|Zsoltárok|113>>
     <associate|auto-236|<tuple|Lukács|113>>
-    <associate|auto-237|<tuple|Lukács|113>>
-    <associate|auto-238|<tuple|5Mózes|113>>
-    <associate|auto-239|<tuple|2.3.4|113>>
-    <associate|auto-24|<tuple|2.1.2|23>>
-    <associate|auto-240|<tuple|Lukács|113>>
-    <associate|auto-241|<tuple|Ézsaiás|113>>
-    <associate|auto-242|<tuple|Ézsaiás|116>>
-    <associate|auto-243|<tuple|2.3.5|116>>
-    <associate|auto-244|<tuple|Lukács|116>>
-    <associate|auto-245|<tuple|2Mózes|116>>
-    <associate|auto-246|<tuple|Lukács|116>>
-    <associate|auto-247|<tuple|Ézsaiás|116>>
-    <associate|auto-248|<tuple|Lukács|116>>
-    <associate|auto-249|<tuple|5Mózes|116>>
-    <associate|auto-25|<tuple|Ézsaiás|23>>
-    <associate|auto-250|<tuple|Józsué|116>>
-    <associate|auto-251|<tuple|3Mózes|116>>
-    <associate|auto-252|<tuple|Lukács|116>>
-    <associate|auto-253|<tuple|2Mózes|116>>
-    <associate|auto-254|<tuple|Lukács|116>>
-    <associate|auto-255|<tuple|Ézsaiás|116>>
-    <associate|auto-256|<tuple|Jeremiás|116>>
-    <associate|auto-257|<tuple|Lukács|116>>
-    <associate|auto-258|<tuple|Zsoltárok|116>>
-    <associate|auto-259|<tuple|Lukács|116>>
-    <associate|auto-26|<tuple|Máté|23>>
-    <associate|auto-260|<tuple|2Mózes|116>>
-    <associate|auto-261|<tuple|Lukács|116>>
-    <associate|auto-262|<tuple|Zsoltárok|116>>
-    <associate|auto-263|<tuple|Zsoltárok|124>>
-    <associate|auto-264|<tuple|2.3.6|124>>
-    <associate|auto-265|<tuple|Lukács|124>>
-    <associate|auto-266|<tuple|Ézsaiás|125>>
-    <associate|auto-267|<tuple|bibref-parancs|126>>
-    <associate|auto-268|<tuple|2.4|127>>
-    <associate|auto-269|<tuple|2.4|128>>
-    <associate|auto-27|<tuple|2.1|?>>
-    <associate|auto-270|<tuple|2.4.1|128>>
-    <associate|auto-271|<tuple|János|128>>
+    <associate|auto-237|<tuple|Lukács|115>>
+    <associate|auto-238|<tuple|5Mózes|115>>
+    <associate|auto-239|<tuple|2.3.4|115>>
+    <associate|auto-24|<tuple|2.1.2|24>>
+    <associate|auto-240|<tuple|Lukács|115>>
+    <associate|auto-241|<tuple|Ézsaiás|115>>
+    <associate|auto-242|<tuple|Ézsaiás|115>>
+    <associate|auto-243|<tuple|2.3.5|118>>
+    <associate|auto-244|<tuple|Lukács|118>>
+    <associate|auto-245|<tuple|2Mózes|118>>
+    <associate|auto-246|<tuple|Lukács|118>>
+    <associate|auto-247|<tuple|Ézsaiás|118>>
+    <associate|auto-248|<tuple|Lukács|118>>
+    <associate|auto-249|<tuple|5Mózes|118>>
+    <associate|auto-25|<tuple|Ézsaiás|24>>
+    <associate|auto-250|<tuple|Józsué|118>>
+    <associate|auto-251|<tuple|3Mózes|118>>
+    <associate|auto-252|<tuple|Lukács|118>>
+    <associate|auto-253|<tuple|2Mózes|118>>
+    <associate|auto-254|<tuple|Lukács|118>>
+    <associate|auto-255|<tuple|Ézsaiás|118>>
+    <associate|auto-256|<tuple|Jeremiás|118>>
+    <associate|auto-257|<tuple|Lukács|118>>
+    <associate|auto-258|<tuple|Zsoltárok|118>>
+    <associate|auto-259|<tuple|Lukács|118>>
+    <associate|auto-26|<tuple|Máté|24>>
+    <associate|auto-260|<tuple|2Mózes|118>>
+    <associate|auto-261|<tuple|Lukács|118>>
+    <associate|auto-262|<tuple|Zsoltárok|118>>
+    <associate|auto-263|<tuple|Zsoltárok|118>>
+    <associate|auto-264|<tuple|2.3.6|126>>
+    <associate|auto-265|<tuple|Lukács|126>>
+    <associate|auto-266|<tuple|Ézsaiás|126>>
+    <associate|auto-267|<tuple|bibref-parancs|127>>
+    <associate|auto-268|<tuple|2.4|128>>
+    <associate|auto-269|<tuple|2.4|129>>
+    <associate|auto-27|<tuple|2.1|25>>
+    <associate|auto-270|<tuple|2.4.1|130>>
+    <associate|auto-271|<tuple|János|130>>
     <associate|auto-272|<tuple|Ézsaiás|130>>
-    <associate|auto-273|<tuple|2.4.2|130>>
-    <associate|auto-274|<tuple|János|130>>
-    <associate|auto-275|<tuple|Zsoltárok|131>>
+    <associate|auto-273|<tuple|2.4.2|132>>
+    <associate|auto-274|<tuple|János|132>>
+    <associate|auto-275|<tuple|Zsoltárok|132>>
     <associate|auto-276|<tuple|2.4.3|133>>
-    <associate|auto-277|<tuple|2.4.4|133>>
-    <associate|auto-278|<tuple|János|133>>
-    <associate|auto-279|<tuple|Zsoltárok|133>>
-    <associate|auto-28|<tuple|GreekCNTR|23>>
-    <associate|auto-280|<tuple|János|133>>
-    <associate|auto-281|<tuple|Ézsaiás|134>>
+    <associate|auto-277|<tuple|2.4.4|135>>
+    <associate|auto-278|<tuple|János|135>>
+    <associate|auto-279|<tuple|Zsoltárok|135>>
+    <associate|auto-280|<tuple|János|135>>
+    <associate|auto-281|<tuple|Ézsaiás|135>>
     <associate|auto-282|<tuple|2.4.5|136>>
-    <associate|auto-283|<tuple|Strong-szám|136>>
-    <associate|auto-284|<tuple|SWORD|136>>
-    <associate|auto-285|<tuple|bibref-parancs|137>>
-    <associate|auto-286|<tuple|2.5|?>>
-    <associate|auto-287|<tuple|GreekCNTR|137>>
-    <associate|auto-288|<tuple|GreekCNTR|137>>
-    <associate|auto-289|<tuple|bibref-parancs|138>>
-    <associate|auto-29|<tuple|GreekCNTR|23>>
+    <associate|auto-283|<tuple|Strong-szám|138>>
+    <associate|auto-284|<tuple|SWORD|138>>
+    <associate|auto-285|<tuple|bibref-parancs|138>>
+    <associate|auto-286|<tuple|2.5|139>>
+    <associate|auto-288|<tuple|GreekCNTR|139>>
+    <associate|auto-289|<tuple|bibref-parancs|139>>
+    <associate|auto-29|<tuple|GreekCNTR|25>>
     <associate|auto-290|<tuple|2.4.6|140>>
-    <associate|auto-291|<tuple|János|140>>
-    <associate|auto-292|<tuple|Zsoltárok|140>>
-    <associate|auto-293|<tuple|2.4.7|141>>
-    <associate|auto-294|<tuple|Makkabeus-felkelés|141>>
-    <associate|auto-295|<tuple|bibref-parancs|141>>
-    <associate|auto-296|<tuple|bibref-parancs|141>>
+    <associate|auto-291|<tuple|János|142>>
+    <associate|auto-292|<tuple|Zsoltárok|142>>
+    <associate|auto-293|<tuple|2.4.7|142>>
+    <associate|auto-294|<tuple|Makkabeus-felkelés|143>>
+    <associate|auto-295|<tuple|bibref-parancs|143>>
+    <associate|auto-296|<tuple|bibref-parancs|143>>
     <associate|auto-297|<tuple|SWORD|143>>
-    <associate|auto-298|<tuple|2.4.8|143>>
-    <associate|auto-299|<tuple|János|143>>
+    <associate|auto-298|<tuple|2.4.8|145>>
+    <associate|auto-299|<tuple|János|145>>
     <associate|auto-3|<tuple|2|7>>
-    <associate|auto-30|<tuple|Strong-szám|24>>
-    <associate|auto-300|<tuple|Zakariás|144>>
-    <associate|auto-301|<tuple|2.4.9|144>>
-    <associate|auto-302|<tuple|Ézsaiás|144>>
-    <associate|auto-303|<tuple|János|145>>
-    <associate|auto-304|<tuple|Ézsaiás|145>>
-    <associate|auto-305|<tuple|János|146>>
-    <associate|auto-306|<tuple|bibref-parancs|147>>
-    <associate|auto-307|<tuple|2.4.10|147>>
-    <associate|auto-308|<tuple|János|147>>
-    <associate|auto-309|<tuple|Zsoltárok|147>>
-    <associate|auto-31|<tuple|papirusz|24>>
-    <associate|auto-310|<tuple|János|147>>
-    <associate|auto-311|<tuple|Zsoltárok|148>>
-    <associate|auto-312|<tuple|2.4.11|149>>
-    <associate|auto-313|<tuple|János|149>>
-    <associate|auto-314|<tuple|Zsoltárok|149>>
-    <associate|auto-315|<tuple|János|150>>
-    <associate|auto-316|<tuple|Zsoltárok|150>>
+    <associate|auto-30|<tuple|Strong-szám|25>>
+    <associate|auto-300|<tuple|Zakariás|145>>
+    <associate|auto-301|<tuple|2.4.9|146>>
+    <associate|auto-302|<tuple|Ézsaiás|146>>
+    <associate|auto-303|<tuple|János|146>>
+    <associate|auto-304|<tuple|Ézsaiás|147>>
+    <associate|auto-305|<tuple|János|147>>
+    <associate|auto-306|<tuple|bibref-parancs|148>>
+    <associate|auto-307|<tuple|2.4.10|149>>
+    <associate|auto-308|<tuple|János|149>>
+    <associate|auto-309|<tuple|Zsoltárok|149>>
+    <associate|auto-31|<tuple|papirusz|25>>
+    <associate|auto-310|<tuple|János|149>>
+    <associate|auto-311|<tuple|Zsoltárok|149>>
+    <associate|auto-312|<tuple|2.4.11|150>>
+    <associate|auto-313|<tuple|János|151>>
+    <associate|auto-314|<tuple|Zsoltárok|151>>
+    <associate|auto-315|<tuple|János|151>>
+    <associate|auto-316|<tuple|Zsoltárok|152>>
     <associate|auto-317|<tuple|János|152>>
-    <associate|auto-318|<tuple|2Mózes|152>>
-    <associate|auto-319|<tuple|János|152>>
-    <associate|auto-32|<tuple|Codex|24>>
-    <associate|auto-320|<tuple|Zakariás|153>>
-    <associate|auto-321|<tuple|2.4.12|154>>
-    <associate|auto-322|<tuple|2.5|155>>
-    <associate|auto-323|<tuple|JSCS|155>>
-    <associate|auto-324|<tuple|2.5|155>>
+    <associate|auto-318|<tuple|2Mózes|153>>
+    <associate|auto-319|<tuple|János|154>>
+    <associate|auto-32|<tuple|Codex|26>>
+    <associate|auto-320|<tuple|Zakariás|154>>
+    <associate|auto-321|<tuple|2.4.12|155>>
+    <associate|auto-322|<tuple|2.5|156>>
+    <associate|auto-323|<tuple|JSCS|156>>
+    <associate|auto-324|<tuple|2.5|157>>
     <associate|auto-325|<tuple|deuterokanonikus könyvek|157>>
-    <associate|auto-326|<tuple|A|157>>
-    <associate|auto-327|<tuple|A.1|157>>
-    <associate|auto-328|<tuple|Strong-szám|158>>
-    <associate|auto-329|<tuple|bibref-parancs|158>>
-    <associate|auto-33|<tuple|Codex|24>>
-    <associate|auto-330|<tuple|bibref-parancs|158>>
+    <associate|auto-326|<tuple|A|159>>
+    <associate|auto-327|<tuple|A.1|159>>
+    <associate|auto-328|<tuple|Strong-szám|159>>
+    <associate|auto-329|<tuple|bibref-parancs|160>>
+    <associate|auto-33|<tuple|Codex|26>>
+    <associate|auto-330|<tuple|bibref-parancs|160>>
     <associate|auto-331|<tuple|bibref-parancs|160>>
-    <associate|auto-332|<tuple|A.2|161>>
-    <associate|auto-333|<tuple|A.1|161>>
-    <associate|auto-334|<tuple|bibref-parancs|161>>
-    <associate|auto-335|<tuple|A.3|161>>
+    <associate|auto-332|<tuple|A.2|162>>
+    <associate|auto-333|<tuple|A.1|162>>
+    <associate|auto-334|<tuple|bibref-parancs|163>>
+    <associate|auto-335|<tuple|A.3|163>>
     <associate|auto-336|<tuple|bibref-parancs|163>>
-    <associate|auto-337|<tuple|A.3.1|163>>
-    <associate|auto-338|<tuple|A.2|164>>
-    <associate|auto-339|<tuple|A.3|164>>
-    <associate|auto-34|<tuple|Codex|24>>
-    <associate|auto-340|<tuple|A.4|165>>
-    <associate|auto-341|<tuple|A.4|166>>
-    <associate|auto-342|<tuple|bibref-parancs|167>>
-    <associate|auto-343|<tuple|A.5|167>>
-    <associate|auto-344|<tuple|bibref-parancs|169>>
-    <associate|auto-345|<tuple|A.5|170>>
-    <associate|auto-346|<tuple|A.6|171>>
-    <associate|auto-347|<tuple|A.7|171>>
+    <associate|auto-337|<tuple|A.3.1|165>>
+    <associate|auto-338|<tuple|A.2|165>>
+    <associate|auto-339|<tuple|A.3|166>>
+    <associate|auto-34|<tuple|Codex|26>>
+    <associate|auto-340|<tuple|A.4|166>>
+    <associate|auto-341|<tuple|A.4|167>>
+    <associate|auto-342|<tuple|bibref-parancs|168>>
+    <associate|auto-343|<tuple|A.5|168>>
+    <associate|auto-344|<tuple|bibref-parancs|168>>
+    <associate|auto-345|<tuple|A.5|171>>
+    <associate|auto-346|<tuple|A.6|172>>
+    <associate|auto-347|<tuple|A.7|173>>
     <associate|auto-348|<tuple|A.8|173>>
-    <associate|auto-349|<tuple|A.6|173>>
-    <associate|auto-35|<tuple|Codex|24>>
-    <associate|auto-350|<tuple|bibref-parancs|174>>
-    <associate|auto-351|<tuple|A.7|177>>
+    <associate|auto-349|<tuple|A.6|175>>
+    <associate|auto-35|<tuple|Codex|26>>
+    <associate|auto-350|<tuple|bibref-parancs|175>>
+    <associate|auto-351|<tuple|A.7|176>>
     <associate|auto-352|<tuple|A.7|179>>
-    <associate|auto-353|<tuple|A.7|?>>
-    <associate|auto-36|<tuple|Codex|24>>
-    <associate|auto-37|<tuple|bibref-parancs|25>>
-    <associate|auto-38|<tuple|bibref-parancs|26>>
+    <associate|auto-353|<tuple|A.7|181>>
+    <associate|auto-36|<tuple|Codex|26>>
+    <associate|auto-37|<tuple|bibref-parancs|26>>
+    <associate|auto-38|<tuple|bibref-parancs|27>>
     <associate|auto-39|<tuple|bibref-parancs|27>>
-    <associate|auto-4|<tuple|1|7>>
-    <associate|auto-40|<tuple|Szeptuaginta|27>>
-    <associate|auto-41|<tuple|2.2|28>>
-    <associate|auto-42|<tuple|2.1.3|28>>
-    <associate|auto-43|<tuple|Mikeás|28>>
-    <associate|auto-44|<tuple|Máté|29>>
-    <associate|auto-45|<tuple|2Sámuel|29>>
+    <associate|auto-4|<tuple|1|9>>
+    <associate|auto-40|<tuple|Szeptuaginta|29>>
+    <associate|auto-41|<tuple|2.2|29>>
+    <associate|auto-42|<tuple|2.1.3|30>>
+    <associate|auto-43|<tuple|Mikeás|30>>
+    <associate|auto-44|<tuple|Máté|30>>
+    <associate|auto-45|<tuple|2Sámuel|31>>
     <associate|auto-46|<tuple|1Krónikák|31>>
-    <associate|auto-47|<tuple|2.1.4|31>>
-    <associate|auto-48|<tuple|Máté|32>>
-    <associate|auto-49|<tuple|Hóseás|32>>
-    <associate|auto-5|<tuple|Szeptuaginta|8>>
-    <associate|auto-50|<tuple|2.1.5|32>>
-    <associate|auto-51|<tuple|Jeremiás|33>>
-    <associate|auto-52|<tuple|Máté|34>>
-    <associate|auto-53|<tuple|bibref-parancs|34>>
-    <associate|auto-54|<tuple|bibref-parancs|34>>
-    <associate|auto-55|<tuple|bibref-parancs|34>>
-    <associate|auto-56|<tuple|bibref-parancs|34>>
-    <associate|auto-57|<tuple|bibref-parancs|35>>
-    <associate|auto-58|<tuple|2.1.6|35>>
-    <associate|auto-59|<tuple|Máté|35>>
-    <associate|auto-6|<tuple|1.1|8>>
-    <associate|auto-60|<tuple|Ézsaiás|35>>
-    <associate|auto-61|<tuple|Aleppo-kódex|35>>
-    <associate|auto-62|<tuple|2.1.7|36>>
-    <associate|auto-63|<tuple|Máté|36>>
-    <associate|auto-64|<tuple|Ézsaiás|37>>
-    <associate|auto-65|<tuple|2.1.8|37>>
-    <associate|auto-66|<tuple|Máté|37>>
-    <associate|auto-67|<tuple|5Mózes|38>>
-    <associate|auto-68|<tuple|Zsoltárok|38>>
-    <associate|auto-69|<tuple|Máté|39>>
-    <associate|auto-7|<tuple|1.1|9>>
-    <associate|auto-70|<tuple|Máté|39>>
-    <associate|auto-71|<tuple|5Mózes|39>>
-    <associate|auto-72|<tuple|Máté|40>>
-    <associate|auto-73|<tuple|5Mózes|41>>
-    <associate|auto-74|<tuple|2.1.9|42>>
-    <associate|auto-75|<tuple|Máté|43>>
-    <associate|auto-76|<tuple|Ézsaiás|43>>
-    <associate|auto-77|<tuple|2.1.10|43>>
-    <associate|auto-78|<tuple|Máté|43>>
-    <associate|auto-79|<tuple|2Mózes|44>>
-    <associate|auto-8|<tuple|1.2|9>>
-    <associate|auto-80|<tuple|Szeptuaginta|44>>
-    <associate|auto-81|<tuple|Máté|44>>
-    <associate|auto-82|<tuple|2Mózes|45>>
-    <associate|auto-83|<tuple|Python|46>>
-    <associate|auto-84|<tuple|Máté|46>>
-    <associate|auto-85|<tuple|2Mózes|46>>
-    <associate|auto-86|<tuple|3Mózes|47>>
-    <associate|auto-87|<tuple|2.1.11|47>>
-    <associate|auto-88|<tuple|Máté|48>>
-    <associate|auto-89|<tuple|Ézsaiás|48>>
-    <associate|auto-9|<tuple|SWORD|10>>
-    <associate|auto-90|<tuple|2.1.12|48>>
-    <associate|auto-91|<tuple|Máté|49>>
-    <associate|auto-92|<tuple|Hóseás|49>>
-    <associate|auto-93|<tuple|2.1.13|49>>
-    <associate|auto-94|<tuple|Máté|49>>
+    <associate|auto-47|<tuple|2.1.4|33>>
+    <associate|auto-48|<tuple|Máté|33>>
+    <associate|auto-49|<tuple|Hóseás|34>>
+    <associate|auto-5|<tuple|Szeptuaginta|9>>
+    <associate|auto-50|<tuple|2.1.5|34>>
+    <associate|auto-51|<tuple|Jeremiás|34>>
+    <associate|auto-52|<tuple|Máté|35>>
+    <associate|auto-53|<tuple|bibref-parancs|36>>
+    <associate|auto-54|<tuple|bibref-parancs|36>>
+    <associate|auto-55|<tuple|bibref-parancs|36>>
+    <associate|auto-56|<tuple|bibref-parancs|36>>
+    <associate|auto-57|<tuple|bibref-parancs|36>>
+    <associate|auto-58|<tuple|2.1.6|37>>
+    <associate|auto-59|<tuple|Máté|37>>
+    <associate|auto-6|<tuple|1.1|10>>
+    <associate|auto-60|<tuple|Ézsaiás|37>>
+    <associate|auto-61|<tuple|Aleppo-kódex|37>>
+    <associate|auto-62|<tuple|2.1.7|37>>
+    <associate|auto-63|<tuple|Máté|38>>
+    <associate|auto-64|<tuple|Ézsaiás|38>>
+    <associate|auto-65|<tuple|2.1.8|39>>
+    <associate|auto-66|<tuple|Máté|39>>
+    <associate|auto-67|<tuple|5Mózes|39>>
+    <associate|auto-68|<tuple|Zsoltárok|40>>
+    <associate|auto-69|<tuple|Máté|40>>
+    <associate|auto-7|<tuple|1.1|10>>
+    <associate|auto-70|<tuple|Máté|41>>
+    <associate|auto-71|<tuple|5Mózes|41>>
+    <associate|auto-72|<tuple|Máté|41>>
+    <associate|auto-73|<tuple|5Mózes|42>>
+    <associate|auto-74|<tuple|2.1.9|43>>
+    <associate|auto-75|<tuple|Máté|44>>
+    <associate|auto-76|<tuple|Ézsaiás|45>>
+    <associate|auto-77|<tuple|2.1.10|45>>
+    <associate|auto-78|<tuple|Máté|45>>
+    <associate|auto-79|<tuple|2Mózes|45>>
+    <associate|auto-8|<tuple|1.2|11>>
+    <associate|auto-80|<tuple|Szeptuaginta|46>>
+    <associate|auto-81|<tuple|Máté|46>>
+    <associate|auto-82|<tuple|2Mózes|46>>
+    <associate|auto-83|<tuple|Python|47>>
+    <associate|auto-84|<tuple|Máté|48>>
+    <associate|auto-85|<tuple|2Mózes|48>>
+    <associate|auto-86|<tuple|3Mózes|48>>
+    <associate|auto-87|<tuple|2.1.11|49>>
+    <associate|auto-88|<tuple|Máté|49>>
+    <associate|auto-89|<tuple|Ézsaiás|50>>
+    <associate|auto-9|<tuple|SWORD|11>>
+    <associate|auto-90|<tuple|2.1.12|50>>
+    <associate|auto-91|<tuple|Máté|50>>
+    <associate|auto-92|<tuple|Hóseás|51>>
+    <associate|auto-93|<tuple|2.1.13|51>>
+    <associate|auto-94|<tuple|Máté|51>>
     <associate|auto-95|<tuple|Mikeás|51>>
-    <associate|auto-96|<tuple|Máté|52>>
-    <associate|auto-97|<tuple|2Mózes|52>>
-    <associate|auto-98|<tuple|2.1.14|52>>
-    <associate|auto-99|<tuple|Máté|53>>
-    <associate|betuhelyes|<tuple|A.5|167>>
-    <associate|bib-Benyik1996|<tuple|1|179>>
-    <associate|bib-Bunning2022|<tuple|2|179>>
-    <associate|bib-Csia|<tuple|3|179>>
-    <associate|bib-Deut|<tuple|8|179>>
-    <associate|bib-LeskovecRajamaranUllman2014|<tuple|6|179>>
-    <associate|bib-MTA1993|<tuple|9|179>>
-    <associate|bib-Menken1996|<tuple|10|179>>
-    <associate|bib-Perry2013|<tuple|11|179>>
-    <associate|bib-PfisterGreuel2007|<tuple|12|179>>
-    <associate|bib-RUF|<tuple|7|179>>
-    <associate|bib-SWORD|<tuple|14|179>>
-    <associate|bib-Strong1890|<tuple|13|179>>
-    <associate|bib-VriesKarrer2013|<tuple|4|179>>
-    <associate|bib-bibref-jscs|<tuple|5|179>>
-    <associate|bibref-diagram-desktop|<tuple|2.2|27>>
-    <associate|bj-bortonben|<tuple|2.1.13|49>>
-    <associate|cli-web-lookup|<tuple|1.2|10>>
-    <associate|csaladfa|<tuple|2.1.1|19>>
-    <associate|feladat-mt-1-16|<tuple|2.1|22>>
-    <associate|footnote-1.1|<tuple|1.1|7>>
-    <associate|footnote-1.2|<tuple|1.2|8>>
-    <associate|footnote-1.3|<tuple|1.3|9>>
-    <associate|footnote-1.4|<tuple|1.4|11>>
-    <associate|footnote-2.1|<tuple|2.1|18>>
-    <associate|footnote-2.10|<tuple|2.10|154>>
-    <associate|footnote-2.11|<tuple|2.11|155>>
-    <associate|footnote-2.2|<tuple|2.2|22>>
-    <associate|footnote-2.3|<tuple|2.3|22>>
-    <associate|footnote-2.4|<tuple|2.4|25>>
-    <associate|footnote-2.5|<tuple|2.5|26>>
-    <associate|footnote-2.6|<tuple|2.6|35>>
-    <associate|footnote-2.7|<tuple|2.7|36>>
-    <associate|footnote-2.8|<tuple|2.8|95>>
-    <associate|footnote-2.9|<tuple|2.9|136>>
-    <associate|footnote-A.1|<tuple|A.1|168>>
-    <associate|footnr-1.1|<tuple|1.1|7>>
-    <associate|footnr-1.2|<tuple|1.2|8>>
-    <associate|footnr-1.3|<tuple|1.3|9>>
-    <associate|footnr-1.4|<tuple|1.4|11>>
-    <associate|footnr-2.1|<tuple|2.1|18>>
-    <associate|footnr-2.10|<tuple|2.10|154>>
-    <associate|footnr-2.11|<tuple|JSCS|155>>
-    <associate|footnr-2.2|<tuple|2.2|22>>
-    <associate|footnr-2.3|<tuple|2.3|22>>
-    <associate|footnr-2.4|<tuple|2.4|25>>
-    <associate|footnr-2.5|<tuple|2.5|26>>
-    <associate|footnr-2.6|<tuple|2.6|35>>
-    <associate|footnr-2.7|<tuple|2.7|36>>
-    <associate|footnr-2.8|<tuple|2.8|95>>
-    <associate|footnr-2.9|<tuple|2.9|136>>
-    <associate|footnr-A.1|<tuple|A.1|168>>
-    <associate|getrefs-100+|<tuple|A.8|171>>
-    <associate|getrefs-34+|<tuple|A.7|171>>
-    <associate|getrefs-40+|<tuple|A.6|170>>
-    <associate|getrefs-60+|<tuple|A.5|169>>
-    <associate|gorog-angol|<tuple|1.1|8>>
-    <associate|greekcntr-Mt1:23|<tuple|2.1|23>>
-    <associate|hegyi-beszed|<tuple|2.1.10|43>>
-    <associate|jaccard-pelda|<tuple|A.1|161>>
-    <associate|jn-idezetek|<tuple|2.4|127>>
-    <associate|megismerni-istent|<tuple|2.1.12|48>>
-    <associate|mennyei-kenyer|<tuple|2.4.4|133>>
-    <associate|minunique-Zsolt-82-5-6|<tuple|A.4|164>>
-    <associate|minunique-abcdef|<tuple|A.2|163>>
-    <associate|minunique-abcdef-rovid|<tuple|A.3|164>>
-    <associate|mit-mond-az-iras|<tuple|2.4.5|134>>
-    <associate|mozes-jezusrol-irt|<tuple|2.4.3|131>>
-    <associate|mt-18-16|<tuple|2.4|70>>
-    <associate|mt-idezetek|<tuple|2.1|94>>
-    <associate|mt-lk-idezetek|<tuple|2.3|116>>
-    <associate|mt-mk-idezetek|<tuple|2.2|96>>
-    <associate|nazareti|<tuple|2.1.6|35>>
-    <associate|osz-evangeliumokban|<tuple|2.5|155>>
-    <associate|peldazatok|<tuple|2.1.19|63>>
-    <associate|qt-web-lookup|<tuple|1.1|10>>
-    <associate|sinaiticus-mt-13-15|<tuple|2.3|62>>
-    <associate|sotetsegben-elo-nep|<tuple|2.1.9|41>>
-    <associate|suketek-vakok|<tuple|2.1.18|60>>
-    <associate|szajkarate|<tuple|2.1.8|37>>
-    <associate|viragvasarnap|<tuple|2.1.24|74>>
+    <associate|auto-96|<tuple|Máté|53>>
+    <associate|auto-97|<tuple|2Mózes|54>>
+    <associate|auto-98|<tuple|2.1.14|54>>
+    <associate|auto-99|<tuple|Máté|54>>
+    <associate|betuhelyes|<tuple|A.5|168>>
+    <associate|bib-Benyik1996|<tuple|1|181>>
+    <associate|bib-Bunning2022|<tuple|2|181>>
+    <associate|bib-Csia|<tuple|3|181>>
+    <associate|bib-Deut|<tuple|8|181>>
+    <associate|bib-LeskovecRajamaranUllman2014|<tuple|6|181>>
+    <associate|bib-MTA1993|<tuple|9|181>>
+    <associate|bib-Menken1996|<tuple|10|181>>
+    <associate|bib-Perry2013|<tuple|11|181>>
+    <associate|bib-PfisterGreuel2007|<tuple|12|181>>
+    <associate|bib-RUF|<tuple|7|181>>
+    <associate|bib-SWORD|<tuple|14|181>>
+    <associate|bib-Strong1890|<tuple|13|181>>
+    <associate|bib-VriesKarrer2013|<tuple|4|181>>
+    <associate|bib-bibref-jscs|<tuple|5|181>>
+    <associate|bibref-diagram-desktop|<tuple|2.2|29>>
+    <associate|bj-bortonben|<tuple|2.1.13|51>>
+    <associate|cli-web-lookup|<tuple|1.2|12>>
+    <associate|csaladfa|<tuple|2.1.1|21>>
+    <associate|feladat-mt-1-16|<tuple|2.1|24>>
+    <associate|footnote-1.1|<tuple|1.1|9>>
+    <associate|footnote-1.2|<tuple|1.2|10>>
+    <associate|footnote-1.3|<tuple|1.3|11>>
+    <associate|footnote-1.4|<tuple|1.4|13>>
+    <associate|footnote-2.1|<tuple|2.1|20>>
+    <associate|footnote-2.10|<tuple|2.10|156>>
+    <associate|footnote-2.11|<tuple|2.11|156>>
+    <associate|footnote-2.2|<tuple|2.2|24>>
+    <associate|footnote-2.3|<tuple|2.3|24>>
+    <associate|footnote-2.4|<tuple|2.4|27>>
+    <associate|footnote-2.5|<tuple|2.5|28>>
+    <associate|footnote-2.6|<tuple|2.6|37>>
+    <associate|footnote-2.7|<tuple|2.7|38>>
+    <associate|footnote-2.8|<tuple|2.8|97>>
+    <associate|footnote-2.9|<tuple|2.9|138>>
+    <associate|footnote-A.1|<tuple|A.1|170>>
+    <associate|footnr-1.1|<tuple|1.1|9>>
+    <associate|footnr-1.2|<tuple|1.2|10>>
+    <associate|footnr-1.3|<tuple|1.3|11>>
+    <associate|footnr-1.4|<tuple|1.4|13>>
+    <associate|footnr-2.1|<tuple|2.1|20>>
+    <associate|footnr-2.10|<tuple|2.10|156>>
+    <associate|footnr-2.11|<tuple|JSCS|156>>
+    <associate|footnr-2.2|<tuple|2.2|24>>
+    <associate|footnr-2.3|<tuple|2.3|24>>
+    <associate|footnr-2.4|<tuple|2.4|27>>
+    <associate|footnr-2.5|<tuple|2.5|28>>
+    <associate|footnr-2.6|<tuple|2.6|37>>
+    <associate|footnr-2.7|<tuple|2.7|38>>
+    <associate|footnr-2.8|<tuple|2.8|97>>
+    <associate|footnr-2.9|<tuple|2.9|138>>
+    <associate|footnr-A.1|<tuple|A.1|170>>
+    <associate|getrefs-100+|<tuple|A.8|173>>
+    <associate|getrefs-34+|<tuple|A.7|173>>
+    <associate|getrefs-40+|<tuple|A.6|172>>
+    <associate|getrefs-60+|<tuple|A.5|171>>
+    <associate|gorog-angol|<tuple|1.1|10>>
+    <associate|greekcntr-Mt1:23|<tuple|2.1|25>>
+    <associate|hegyi-beszed|<tuple|2.1.10|45>>
+    <associate|jaccard-pelda|<tuple|A.1|162>>
+    <associate|jn-idezetek|<tuple|2.4|129>>
+    <associate|megismerni-istent|<tuple|2.1.12|50>>
+    <associate|mennyei-kenyer|<tuple|2.4.4|135>>
+    <associate|minunique-Zsolt-82-5-6|<tuple|A.4|166>>
+    <associate|minunique-abcdef|<tuple|A.2|165>>
+    <associate|minunique-abcdef-rovid|<tuple|A.3|166>>
+    <associate|mit-mond-az-iras|<tuple|2.4.5|136>>
+    <associate|mozes-jezusrol-irt|<tuple|2.4.3|133>>
+    <associate|mt-18-16|<tuple|2.4|72>>
+    <associate|mt-idezetek|<tuple|2.1|96>>
+    <associate|mt-lk-idezetek|<tuple|2.3|118>>
+    <associate|mt-mk-idezetek|<tuple|2.2|99>>
+    <associate|nazareti|<tuple|2.1.6|37>>
+    <associate|osz-evangeliumokban|<tuple|2.5|157>>
+    <associate|peldazatok|<tuple|2.1.19|65>>
+    <associate|qt-web-lookup|<tuple|1.1|12>>
+    <associate|sinaiticus-mt-13-15|<tuple|2.3|64>>
+    <associate|sotetsegben-elo-nep|<tuple|2.1.9|43>>
+    <associate|suketek-vakok|<tuple|2.1.18|62>>
+    <associate|szajkarate|<tuple|2.1.8|39>>
+    <associate|viragvasarnap|<tuple|2.1.24|76>>
   </collection>
 </references>
 
@@ -21741,30 +21742,30 @@
       |>
         Igevers keresése könyv, fejezet és versszám alapján a bibref program
         grafikus, web alapú verziójában.
-      </surround>|<pageref|auto-9>>
+      </surround>|<pageref|auto-10>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|1.2><with|font-series|<quote|bold>|ábra.>
       |>
         Igevers keresése könyv, fejezet és versszám alapján a bibref program
         parancssori, web alapú verziójában.
-      </surround>|<pageref|auto-10>>
+      </surround>|<pageref|auto-11>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.1><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 1:23 els® néhány szavának elemzése a GreekCNTR
         weboldalán.<assign|the-label|GreekCNTR><flag|tárgymutató|dark
-        green|key><assign|auto-nr|27><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-27>>>
-      </surround>|<pageref|auto-27>>
+        green|key><assign|auto-nr|28><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-28>>>
+      </surround>|<pageref|auto-28>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.2><with|font-series|<quote|bold>|ábra.>
       |>
         Diagramok elemzése a bibref program grafikus asztali változatában.
-      </surround>|<pageref|auto-40>>
+      </surround>|<pageref|auto-41>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.3><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%519158FE8-515B23D28>|<link|hyperlink|<id|%519158FE8-515B23D28>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%-273C5B7B8--274E15638>|<link|hyperlink|<id|%-273C5B7B8--274E15638>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen. A <with|font-shape|<quote|italic>|Transcription> részben (jobb
         oldalon) egy konkrét szóra duplán kattintva az
         <with|font-shape|<quote|italic>|Image> részben (bal oldalon) a kódex
@@ -21786,616 +21787,616 @@
         jelenik meg. Mindez azonban egy kivételes kiejtésbeli finomságot
         jelez csak, amúgy kiejtést segít® ékezeteket is alig találunk ezen
         kéziratokban.)
-      </surround>|<pageref|auto-113>>
+      </surround>|<pageref|auto-114>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.4><with|font-series|<quote|bold>|ábra.>
       |>
         A <with|font-family|<quote|tt>|language|<quote|verbatim>|greekcntr.org>
         oldalon látható összehasonlító táblázat a Máté 18:16 els® néhány
         szaváról.<assign|the-label|GreekCNTR><flag|tárgymutató|dark
-        green|key><assign|auto-nr|128><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-128>>>
-      </surround>|<pageref|auto-128>>
+        green|key><assign|auto-nr|129><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-129>>>
+      </surround>|<pageref|auto-129>>
 
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.5><with|font-series|<quote|bold>|ábra.>
       |>
         Strong-számok a János 7:38-hoz a <with|font-family|<quote|tt>|language|<quote|verbatim>|greekcntr.org>-on.<assign|the-label|GreekCNTR><flag|tárgymutató|dark
-        green|key><assign|auto-nr|286><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-286>>>
-      </surround>|<pageref|auto-286>>
+        green|key><assign|auto-nr|287><write|idx|<tuple|<tuple|GreekCNTR>|<pageref|auto-287>>>
+      </surround>|<pageref|auto-287>>
     </associate>
     <\associate|idx>
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-4>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-5>>
 
-      <tuple|<tuple|SWORD>|<pageref|auto-8>>
+      <tuple|<tuple|SWORD>|<pageref|auto-9>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookup>>|<pageref|auto-11>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookup>>|<pageref|auto-12>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookup>>|<pageref|auto-14>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookup>>|<pageref|auto-15>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|textN>>|<pageref|auto-15>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|textN>>|<pageref|auto-16>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-16>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-17>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|findN>>|<pageref|auto-17>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|findN>>|<pageref|auto-18>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|maxresults>>|<pageref|auto-18>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|maxresults>>|<pageref|auto-19>>
 
-      <tuple|<tuple|deuterokanonikus könyvek>|<pageref|auto-19>>
+      <tuple|<tuple|deuterokanonikus könyvek>|<pageref|auto-20>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookupN>>|<pageref|auto-20>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lookupN>>|<pageref|auto-21>>
 
-      <tuple|<tuple|Python>|<pageref|auto-22>>
+      <tuple|<tuple|Python>|<pageref|auto-23>>
 
-      <tuple|<tuple|Ézsaiás|7:14>|<pageref|auto-24>>
+      <tuple|<tuple|Ézsaiás|7:14>|<pageref|auto-25>>
 
-      <tuple|<tuple|Máté|1:23>|<pageref|auto-25>>
+      <tuple|<tuple|Máté|1:23>|<pageref|auto-26>>
 
-      <tuple|<tuple|GreekCNTR>|<pageref|auto-28>>
+      <tuple|<tuple|GreekCNTR>|<pageref|auto-29>>
 
-      <tuple|<tuple|Strong-szám>|<pageref|auto-29>>
+      <tuple|<tuple|Strong-szám>|<pageref|auto-30>>
 
-      <tuple|<tuple|papirusz|\<frak-P\>1 \U>|<pageref|auto-30>>
+      <tuple|<tuple|papirusz|\<frak-P\>1 \U>|<pageref|auto-31>>
 
-      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-31>>
+      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-32>>
 
-      <tuple|<tuple|Codex|Vaticanus>|<pageref|auto-32>>
+      <tuple|<tuple|Codex|Vaticanus>|<pageref|auto-33>>
 
-      <tuple|<tuple|Codex|Ephraemi Rescriptus>|<pageref|auto-33>>
+      <tuple|<tuple|Codex|Ephraemi Rescriptus>|<pageref|auto-34>>
 
-      <tuple|<tuple|Codex|Bezae Cantabrigiensis>|<pageref|auto-34>>
+      <tuple|<tuple|Codex|Bezae Cantabrigiensis>|<pageref|auto-35>>
 
-      <tuple|<tuple|Codex|Washingtonianus>|<pageref|auto-35>>
+      <tuple|<tuple|Codex|Washingtonianus>|<pageref|auto-36>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|jaccard12>>|<pageref|auto-36>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|jaccard12>>|<pageref|auto-37>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|diagram>>|<pageref|auto-37>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|diagram>>|<pageref|auto-38>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-38>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-39>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-39>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-40>>
 
-      <tuple|<tuple|Mikeás|5:1>|<pageref|auto-42>>
+      <tuple|<tuple|Mikeás|5:1>|<pageref|auto-43>>
 
-      <tuple|<tuple|Máté|2:6>|<pageref|auto-43>>
+      <tuple|<tuple|Máté|2:6>|<pageref|auto-44>>
 
-      <tuple|<tuple|2Sámuel|5:2>|<pageref|auto-44>>
+      <tuple|<tuple|2Sámuel|5:2>|<pageref|auto-45>>
 
-      <tuple|<tuple|1Krónikák|11:2>|<pageref|auto-45>>
+      <tuple|<tuple|1Krónikák|11:2>|<pageref|auto-46>>
 
-      <tuple|<tuple|Máté|2:15>|<pageref|auto-47>>
+      <tuple|<tuple|Máté|2:15>|<pageref|auto-48>>
 
-      <tuple|<tuple|Hóseás|11:1>|<pageref|auto-48>>
+      <tuple|<tuple|Hóseás|11:1>|<pageref|auto-49>>
 
-      <tuple|<tuple|Jeremiás|31:15>|<pageref|auto-50>>
+      <tuple|<tuple|Jeremiás|31:15>|<pageref|auto-51>>
 
-      <tuple|<tuple|Máté|2:18>|<pageref|auto-51>>
+      <tuple|<tuple|Máté|2:18>|<pageref|auto-52>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|help>>|<pageref|auto-52>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|help>>|<pageref|auto-53>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-53>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-54>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|rawN>>|<pageref|auto-54>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|rawN>>|<pageref|auto-55>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|latintextN>>|<pageref|auto-55>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|latintextN>>|<pageref|auto-56>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lengthN>>|<pageref|auto-56>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|lengthN>>|<pageref|auto-57>>
 
-      <tuple|<tuple|Máté|2:23>|<pageref|auto-58>>
+      <tuple|<tuple|Máté|2:23>|<pageref|auto-59>>
 
-      <tuple|<tuple|Ézsaiás|11:1>|<pageref|auto-59>>
+      <tuple|<tuple|Ézsaiás|11:1>|<pageref|auto-60>>
 
-      <tuple|<tuple|Aleppo-kódex>|<pageref|auto-60>>
+      <tuple|<tuple|Aleppo-kódex>|<pageref|auto-61>>
 
-      <tuple|<tuple|Máté|3:3>|<pageref|auto-62>>
+      <tuple|<tuple|Máté|3:3>|<pageref|auto-63>>
 
-      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-63>>
+      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-64>>
 
-      <tuple|<tuple|Máté|4:4>|<pageref|auto-65>>
+      <tuple|<tuple|Máté|4:4>|<pageref|auto-66>>
 
-      <tuple|<tuple|5Mózes|8:3>|<pageref|auto-66>>
+      <tuple|<tuple|5Mózes|8:3>|<pageref|auto-67>>
 
-      <tuple|<tuple|Zsoltárok|91:11>|<pageref|auto-67>>
+      <tuple|<tuple|Zsoltárok|91:11>|<pageref|auto-68>>
 
-      <tuple|<tuple|Máté|4:6>|<pageref|auto-68>>
+      <tuple|<tuple|Máté|4:6>|<pageref|auto-69>>
 
-      <tuple|<tuple|Máté|4:7>|<pageref|auto-69>>
+      <tuple|<tuple|Máté|4:7>|<pageref|auto-70>>
 
-      <tuple|<tuple|5Mózes|6:16>|<pageref|auto-70>>
+      <tuple|<tuple|5Mózes|6:16>|<pageref|auto-71>>
 
-      <tuple|<tuple|Máté|4:10>|<pageref|auto-71>>
+      <tuple|<tuple|Máté|4:10>|<pageref|auto-72>>
 
-      <tuple|<tuple|5Mózes|6:13>|<pageref|auto-72>>
+      <tuple|<tuple|5Mózes|6:13>|<pageref|auto-73>>
 
-      <tuple|<tuple|Máté|4:15-16>|<pageref|auto-74>>
+      <tuple|<tuple|Máté|4:15-16>|<pageref|auto-75>>
 
-      <tuple|<tuple|Ézsaiás|8:23>|<pageref|auto-75>>
+      <tuple|<tuple|Ézsaiás|8:23>|<pageref|auto-76>>
 
-      <tuple|<tuple|Máté|5:21>|<pageref|auto-77>>
+      <tuple|<tuple|Máté|5:21>|<pageref|auto-78>>
 
-      <tuple|<tuple|2Mózes|20:13>|<pageref|auto-78>>
+      <tuple|<tuple|2Mózes|20:13>|<pageref|auto-79>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-79>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-80>>
 
-      <tuple|<tuple|Máté|5:27>|<pageref|auto-80>>
+      <tuple|<tuple|Máté|5:27>|<pageref|auto-81>>
 
-      <tuple|<tuple|2Mózes|20:14>|<pageref|auto-81>>
+      <tuple|<tuple|2Mózes|20:14>|<pageref|auto-82>>
 
-      <tuple|<tuple|Python>|<pageref|auto-82>>
+      <tuple|<tuple|Python>|<pageref|auto-83>>
 
-      <tuple|<tuple|Máté|5:38>|<pageref|auto-83>>
+      <tuple|<tuple|Máté|5:38>|<pageref|auto-84>>
 
-      <tuple|<tuple|2Mózes|21:24>|<pageref|auto-84>>
+      <tuple|<tuple|2Mózes|21:24>|<pageref|auto-85>>
 
-      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-85>>
+      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-86>>
 
-      <tuple|<tuple|Máté|8:17>|<pageref|auto-87>>
+      <tuple|<tuple|Máté|8:17>|<pageref|auto-88>>
 
-      <tuple|<tuple|Ézsaiás|53:4>|<pageref|auto-88>>
+      <tuple|<tuple|Ézsaiás|53:4>|<pageref|auto-89>>
 
-      <tuple|<tuple|Máté|9:13>|<pageref|auto-90>>
+      <tuple|<tuple|Máté|9:13>|<pageref|auto-91>>
 
-      <tuple|<tuple|Hóseás|6:6>|<pageref|auto-91>>
+      <tuple|<tuple|Hóseás|6:6>|<pageref|auto-92>>
 
-      <tuple|<tuple|Máté|10:35-36>|<pageref|auto-93>>
+      <tuple|<tuple|Máté|10:35-36>|<pageref|auto-94>>
 
-      <tuple|<tuple|Mikeás|7:6>|<pageref|auto-94>>
+      <tuple|<tuple|Mikeás|7:6>|<pageref|auto-95>>
 
-      <tuple|<tuple|Máté|11:10>|<pageref|auto-95>>
+      <tuple|<tuple|Máté|11:10>|<pageref|auto-96>>
 
-      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-96>>
+      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-97>>
 
-      <tuple|<tuple|Máté|12:7>|<pageref|auto-98>>
+      <tuple|<tuple|Máté|12:7>|<pageref|auto-99>>
 
-      <tuple|<tuple|Hóseás|6:6>|<pageref|auto-99>>
+      <tuple|<tuple|Hóseás|6:6>|<pageref|auto-100>>
 
-      <tuple|<tuple|Máté|12:18-21>|<pageref|auto-101>>
+      <tuple|<tuple|Máté|12:18-21>|<pageref|auto-102>>
 
-      <tuple|<tuple|Ézsaiás|42:1>|<pageref|auto-102>>
+      <tuple|<tuple|Ézsaiás|42:1>|<pageref|auto-103>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-103>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-104>>
 
-      <tuple|<tuple|Máté|12:40>|<pageref|auto-105>>
+      <tuple|<tuple|Máté|12:40>|<pageref|auto-106>>
 
-      <tuple|<tuple|Jónás|2:1>|<pageref|auto-106>>
+      <tuple|<tuple|Jónás|2:1>|<pageref|auto-107>>
 
-      <tuple|<tuple|Máté|13:14-15>|<pageref|auto-109>>
+      <tuple|<tuple|Máté|13:14-15>|<pageref|auto-110>>
 
-      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-110>>
+      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-111>>
 
-      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-111>>
+      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-112>>
 
-      <tuple|<tuple|Codex|Ephraemi Rescriptus>|<pageref|auto-112>>
+      <tuple|<tuple|Codex|Ephraemi Rescriptus>|<pageref|auto-113>>
 
-      <tuple|<tuple|Máté|13:35>|<pageref|auto-115>>
+      <tuple|<tuple|Máté|13:35>|<pageref|auto-116>>
 
-      <tuple|<tuple|Zsoltárok|78:2>|<pageref|auto-116>>
+      <tuple|<tuple|Zsoltárok|78:2>|<pageref|auto-117>>
 
-      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-118>>
+      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-119>>
 
-      <tuple|<tuple|2Mózes|21:17>|<pageref|auto-119>>
+      <tuple|<tuple|2Mózes|21:17>|<pageref|auto-120>>
 
-      <tuple|<tuple|Máté|15:4>|<pageref|auto-120>>
+      <tuple|<tuple|Máté|15:4>|<pageref|auto-121>>
 
-      <tuple|<tuple|Ézsaiás|29:13>|<pageref|auto-121>>
+      <tuple|<tuple|Ézsaiás|29:13>|<pageref|auto-122>>
 
-      <tuple|<tuple|Máté|15:8-9>|<pageref|auto-122>>
+      <tuple|<tuple|Máté|15:8-9>|<pageref|auto-123>>
 
-      <tuple|<tuple|Máté|18:16>|<pageref|auto-124>>
+      <tuple|<tuple|Máté|18:16>|<pageref|auto-125>>
 
-      <tuple|<tuple|5Mózes|19:15>|<pageref|auto-125>>
+      <tuple|<tuple|5Mózes|19:15>|<pageref|auto-126>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-126>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|statement>>|<pageref|auto-127>>
 
-      <tuple|<tuple|GreekCNTR>|<pageref|auto-129>>
+      <tuple|<tuple|GreekCNTR>|<pageref|auto-130>>
 
-      <tuple|<tuple|1Mózes|1:27>|<pageref|auto-131>>
+      <tuple|<tuple|1Mózes|1:27>|<pageref|auto-132>>
 
-      <tuple|<tuple|1Mózes|2:24>|<pageref|auto-132>>
+      <tuple|<tuple|1Mózes|2:24>|<pageref|auto-133>>
 
-      <tuple|<tuple|Máté|19:4>|<pageref|auto-133>>
+      <tuple|<tuple|Máté|19:4>|<pageref|auto-134>>
 
-      <tuple|<tuple|Máté|19:5>|<pageref|auto-134>>
+      <tuple|<tuple|Máté|19:5>|<pageref|auto-135>>
 
-      <tuple|<tuple|Máté|19:18>|<pageref|auto-136>>
+      <tuple|<tuple|Máté|19:18>|<pageref|auto-137>>
 
-      <tuple|<tuple|Máté|19:19>|<pageref|auto-137>>
+      <tuple|<tuple|Máté|19:19>|<pageref|auto-138>>
 
-      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-138>>
+      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-139>>
 
-      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-139>>
+      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-140>>
 
-      <tuple|<tuple|Máté|21:5>|<pageref|auto-141>>
+      <tuple|<tuple|Máté|21:5>|<pageref|auto-142>>
 
-      <tuple|<tuple|Ézsaiás|62:11>|<pageref|auto-142>>
+      <tuple|<tuple|Ézsaiás|62:11>|<pageref|auto-143>>
 
-      <tuple|<tuple|Zakariás|9:9>|<pageref|auto-143>>
+      <tuple|<tuple|Zakariás|9:9>|<pageref|auto-144>>
 
-      <tuple|<tuple|Makkabeus-felkelés>|<pageref|auto-144>>
+      <tuple|<tuple|Makkabeus-felkelés>|<pageref|auto-145>>
 
-      <tuple|<tuple|Máté|21:9>|<pageref|auto-145>>
+      <tuple|<tuple|Máté|21:9>|<pageref|auto-146>>
 
-      <tuple|<tuple|Zsoltárok|118:26>|<pageref|auto-146>>
+      <tuple|<tuple|Zsoltárok|118:26>|<pageref|auto-147>>
 
-      <tuple|<tuple|Máté|23:39>|<pageref|auto-147>>
+      <tuple|<tuple|Máté|23:39>|<pageref|auto-148>>
 
-      <tuple|<tuple|Zsoltárok|118:26>|<pageref|auto-148>>
+      <tuple|<tuple|Zsoltárok|118:26>|<pageref|auto-149>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-149>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-150>>
 
-      <tuple|<tuple|Máté|21:13>|<pageref|auto-150>>
+      <tuple|<tuple|Máté|21:13>|<pageref|auto-151>>
 
-      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-151>>
+      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-152>>
 
-      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-152>>
+      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-153>>
 
-      <tuple|<tuple|Máté|21:16>|<pageref|auto-153>>
+      <tuple|<tuple|Máté|21:16>|<pageref|auto-154>>
 
-      <tuple|<tuple|Zsoltárok|8:3>|<pageref|auto-154>>
+      <tuple|<tuple|Zsoltárok|8:3>|<pageref|auto-155>>
 
-      <tuple|<tuple|Máté|21:42>|<pageref|auto-156>>
+      <tuple|<tuple|Máté|21:42>|<pageref|auto-157>>
 
-      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-157>>
+      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-158>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-158>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-159>>
 
-      <tuple|<tuple|Máté|22:32>|<pageref|auto-160>>
+      <tuple|<tuple|Máté|22:32>|<pageref|auto-161>>
 
-      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-161>>
+      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-162>>
 
-      <tuple|<tuple|Máté|22:37>|<pageref|auto-162>>
+      <tuple|<tuple|Máté|22:37>|<pageref|auto-163>>
 
-      <tuple|<tuple|5Mózes|6:5>|<pageref|auto-163>>
+      <tuple|<tuple|5Mózes|6:5>|<pageref|auto-164>>
 
-      <tuple|<tuple|Józsué|22:5>|<pageref|auto-164>>
+      <tuple|<tuple|Józsué|22:5>|<pageref|auto-165>>
 
-      <tuple|<tuple|Máté|22:39>|<pageref|auto-165>>
+      <tuple|<tuple|Máté|22:39>|<pageref|auto-166>>
 
-      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-166>>
+      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-167>>
 
-      <tuple|<tuple|Máté|22:44>|<pageref|auto-167>>
+      <tuple|<tuple|Máté|22:44>|<pageref|auto-168>>
 
-      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-168>>
+      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-169>>
 
-      <tuple|<tuple|Dániel|9:27>|<pageref|auto-170>>
+      <tuple|<tuple|Dániel|9:27>|<pageref|auto-171>>
 
-      <tuple|<tuple|Máté|24:15>|<pageref|auto-171>>
+      <tuple|<tuple|Máté|24:15>|<pageref|auto-172>>
 
-      <tuple|<tuple|Máté|26:31>|<pageref|auto-173>>
+      <tuple|<tuple|Máté|26:31>|<pageref|auto-174>>
 
-      <tuple|<tuple|Zakariás|13:7>|<pageref|auto-174>>
+      <tuple|<tuple|Zakariás|13:7>|<pageref|auto-175>>
 
-      <tuple|<tuple|Máté|27:9-10>|<pageref|auto-175>>
+      <tuple|<tuple|Máté|27:9-10>|<pageref|auto-176>>
 
-      <tuple|<tuple|Zakariás|11:13>|<pageref|auto-176>>
+      <tuple|<tuple|Zakariás|11:13>|<pageref|auto-177>>
 
-      <tuple|<tuple|Szeptuaginta>|<pageref|auto-180>>
+      <tuple|<tuple|Szeptuaginta>|<pageref|auto-181>>
 
-      <tuple|<tuple|Márk|1:2-3>|<pageref|auto-182>>
+      <tuple|<tuple|Márk|1:2-3>|<pageref|auto-183>>
 
-      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-183>>
+      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-184>>
 
-      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-184>>
+      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-185>>
 
-      <tuple|<tuple|Márk|4:12>|<pageref|auto-185>>
+      <tuple|<tuple|Márk|4:12>|<pageref|auto-186>>
 
-      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-186>>
+      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-187>>
 
-      <tuple|<tuple|Márk|7:6>|<pageref|auto-187>>
+      <tuple|<tuple|Márk|7:6>|<pageref|auto-188>>
 
-      <tuple|<tuple|Ézsaiás|29:13>|<pageref|auto-188>>
+      <tuple|<tuple|Ézsaiás|29:13>|<pageref|auto-189>>
 
-      <tuple|<tuple|Márk|7:10>|<pageref|auto-189>>
+      <tuple|<tuple|Márk|7:10>|<pageref|auto-190>>
 
-      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-190>>
+      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-191>>
 
-      <tuple|<tuple|2Mózes|21:17>|<pageref|auto-191>>
+      <tuple|<tuple|2Mózes|21:17>|<pageref|auto-192>>
 
-      <tuple|<tuple|Márk|10:6>|<pageref|auto-192>>
+      <tuple|<tuple|Márk|10:6>|<pageref|auto-193>>
 
-      <tuple|<tuple|1Mózes|1:27>|<pageref|auto-193>>
+      <tuple|<tuple|1Mózes|1:27>|<pageref|auto-194>>
 
-      <tuple|<tuple|Márk|10:7-8>|<pageref|auto-194>>
+      <tuple|<tuple|Márk|10:7-8>|<pageref|auto-195>>
 
-      <tuple|<tuple|1Mózes|2:24>|<pageref|auto-195>>
+      <tuple|<tuple|1Mózes|2:24>|<pageref|auto-196>>
 
-      <tuple|<tuple|Márk|11:17>|<pageref|auto-196>>
+      <tuple|<tuple|Márk|11:17>|<pageref|auto-197>>
 
-      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-197>>
+      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-198>>
 
-      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-198>>
+      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-199>>
 
-      <tuple|<tuple|Márk|12:10>|<pageref|auto-199>>
+      <tuple|<tuple|Márk|12:10>|<pageref|auto-200>>
 
-      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-200>>
+      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-201>>
 
-      <tuple|<tuple|Márk|12:26>|<pageref|auto-201>>
+      <tuple|<tuple|Márk|12:26>|<pageref|auto-202>>
 
-      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-202>>
+      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-203>>
 
-      <tuple|<tuple|Márk|12:29>|<pageref|auto-203>>
+      <tuple|<tuple|Márk|12:29>|<pageref|auto-204>>
 
-      <tuple|<tuple|5Mózes|6:4>|<pageref|auto-204>>
+      <tuple|<tuple|5Mózes|6:4>|<pageref|auto-205>>
 
-      <tuple|<tuple|Józsué|22:5>|<pageref|auto-205>>
+      <tuple|<tuple|Józsué|22:5>|<pageref|auto-206>>
 
-      <tuple|<tuple|Márk|12:31>|<pageref|auto-206>>
+      <tuple|<tuple|Márk|12:31>|<pageref|auto-207>>
 
-      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-207>>
+      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-208>>
 
-      <tuple|<tuple|Márk|12:32>|<pageref|auto-208>>
+      <tuple|<tuple|Márk|12:32>|<pageref|auto-209>>
 
-      <tuple|<tuple|5Mózes|4:35>|<pageref|auto-209>>
+      <tuple|<tuple|5Mózes|4:35>|<pageref|auto-210>>
 
-      <tuple|<tuple|Márk|12:36>|<pageref|auto-210>>
+      <tuple|<tuple|Márk|12:36>|<pageref|auto-211>>
 
-      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-211>>
+      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-212>>
 
-      <tuple|<tuple|Márk|13:14>|<pageref|auto-212>>
+      <tuple|<tuple|Márk|13:14>|<pageref|auto-213>>
 
-      <tuple|<tuple|Dániel|9:27>|<pageref|auto-213>>
+      <tuple|<tuple|Dániel|9:27>|<pageref|auto-214>>
 
-      <tuple|<tuple|Márk|14:27>|<pageref|auto-214>>
+      <tuple|<tuple|Márk|14:27>|<pageref|auto-215>>
 
-      <tuple|<tuple|Zakariás|13:7>|<pageref|auto-215>>
+      <tuple|<tuple|Zakariás|13:7>|<pageref|auto-216>>
 
-      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-217>>
+      <tuple|<tuple|Codex|Sinaiticus>|<pageref|auto-218>>
 
-      <tuple|<tuple|Codex|Vaticanus>|<pageref|auto-218>>
+      <tuple|<tuple|Codex|Vaticanus>|<pageref|auto-219>>
 
-      <tuple|<tuple|Lukács|2:23>|<pageref|auto-221>>
+      <tuple|<tuple|Lukács|2:23>|<pageref|auto-222>>
 
-      <tuple|<tuple|Lukács|2:24>|<pageref|auto-222>>
+      <tuple|<tuple|Lukács|2:24>|<pageref|auto-223>>
 
-      <tuple|<tuple|2Mózes|13:12>|<pageref|auto-223>>
+      <tuple|<tuple|2Mózes|13:12>|<pageref|auto-224>>
 
-      <tuple|<tuple|3Mózes|12:8>|<pageref|auto-224>>
+      <tuple|<tuple|3Mózes|12:8>|<pageref|auto-225>>
 
-      <tuple|<tuple|Lukács|3:4-6>|<pageref|auto-226>>
+      <tuple|<tuple|Lukács|3:4-6>|<pageref|auto-227>>
 
-      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-227>>
+      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-228>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-228>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-229>>
 
-      <tuple|<tuple|Lukács|4:4>|<pageref|auto-230>>
+      <tuple|<tuple|Lukács|4:4>|<pageref|auto-231>>
 
-      <tuple|<tuple|5Mózes|8:3>|<pageref|auto-231>>
+      <tuple|<tuple|5Mózes|8:3>|<pageref|auto-232>>
 
-      <tuple|<tuple|Lukács|4:8>|<pageref|auto-232>>
+      <tuple|<tuple|Lukács|4:8>|<pageref|auto-233>>
 
-      <tuple|<tuple|5Mózes|6:13>|<pageref|auto-233>>
+      <tuple|<tuple|5Mózes|6:13>|<pageref|auto-234>>
 
-      <tuple|<tuple|Zsoltárok|91:11>|<pageref|auto-234>>
+      <tuple|<tuple|Zsoltárok|91:11>|<pageref|auto-235>>
 
-      <tuple|<tuple|Lukács|4:10-11>|<pageref|auto-235>>
+      <tuple|<tuple|Lukács|4:10-11>|<pageref|auto-236>>
 
-      <tuple|<tuple|Lukács|4:12>|<pageref|auto-236>>
+      <tuple|<tuple|Lukács|4:12>|<pageref|auto-237>>
 
-      <tuple|<tuple|5Mózes|6:16>|<pageref|auto-237>>
+      <tuple|<tuple|5Mózes|6:16>|<pageref|auto-238>>
 
-      <tuple|<tuple|Lukács|4:18-19>|<pageref|auto-239>>
+      <tuple|<tuple|Lukács|4:18-19>|<pageref|auto-240>>
 
-      <tuple|<tuple|Ézsaiás|58:6>|<pageref|auto-240>>
+      <tuple|<tuple|Ézsaiás|58:6>|<pageref|auto-241>>
 
-      <tuple|<tuple|Ézsaiás|61:1>|<pageref|auto-241>>
+      <tuple|<tuple|Ézsaiás|61:1>|<pageref|auto-242>>
 
-      <tuple|<tuple|Lukács|7:27>|<pageref|auto-243>>
+      <tuple|<tuple|Lukács|7:27>|<pageref|auto-244>>
 
-      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-244>>
+      <tuple|<tuple|2Mózes|23:20>|<pageref|auto-245>>
 
-      <tuple|<tuple|Lukács|8:10>|<pageref|auto-245>>
+      <tuple|<tuple|Lukács|8:10>|<pageref|auto-246>>
 
-      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-246>>
+      <tuple|<tuple|Ézsaiás|6:9>|<pageref|auto-247>>
 
-      <tuple|<tuple|Lukács|10:27>|<pageref|auto-247>>
+      <tuple|<tuple|Lukács|10:27>|<pageref|auto-248>>
 
-      <tuple|<tuple|5Mózes|6:5>|<pageref|auto-248>>
+      <tuple|<tuple|5Mózes|6:5>|<pageref|auto-249>>
 
-      <tuple|<tuple|Józsué|22:5>|<pageref|auto-249>>
+      <tuple|<tuple|Józsué|22:5>|<pageref|auto-250>>
 
-      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-250>>
+      <tuple|<tuple|3Mózes|19:18>|<pageref|auto-251>>
 
-      <tuple|<tuple|Lukács|18:20>|<pageref|auto-251>>
+      <tuple|<tuple|Lukács|18:20>|<pageref|auto-252>>
 
-      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-252>>
+      <tuple|<tuple|2Mózes|20:12>|<pageref|auto-253>>
 
-      <tuple|<tuple|Lukács|19:46>|<pageref|auto-253>>
+      <tuple|<tuple|Lukács|19:46>|<pageref|auto-254>>
 
-      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-254>>
+      <tuple|<tuple|Ézsaiás|56:7>|<pageref|auto-255>>
 
-      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-255>>
+      <tuple|<tuple|Jeremiás|7:11>|<pageref|auto-256>>
 
-      <tuple|<tuple|Lukács|20:17>|<pageref|auto-256>>
+      <tuple|<tuple|Lukács|20:17>|<pageref|auto-257>>
 
-      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-257>>
+      <tuple|<tuple|Zsoltárok|118:22>|<pageref|auto-258>>
 
-      <tuple|<tuple|Lukács|20:37>|<pageref|auto-258>>
+      <tuple|<tuple|Lukács|20:37>|<pageref|auto-259>>
 
-      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-259>>
+      <tuple|<tuple|2Mózes|3:6>|<pageref|auto-260>>
 
-      <tuple|<tuple|Lukács|20:42>|<pageref|auto-260>>
+      <tuple|<tuple|Lukács|20:42>|<pageref|auto-261>>
 
-      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-261>>
+      <tuple|<tuple|Zsoltárok|110:1>|<pageref|auto-262>>
 
-      <tuple|<tuple|Lukács|22:37>|<pageref|auto-264>>
+      <tuple|<tuple|Lukács|22:37>|<pageref|auto-265>>
 
-      <tuple|<tuple|Ézsaiás|53:12>|<pageref|auto-265>>
+      <tuple|<tuple|Ézsaiás|53:12>|<pageref|auto-266>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-266>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-267>>
 
-      <tuple|<tuple|János|1:23>|<pageref|auto-270>>
+      <tuple|<tuple|János|1:23>|<pageref|auto-271>>
 
-      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-271>>
+      <tuple|<tuple|Ézsaiás|40:3>|<pageref|auto-272>>
 
-      <tuple|<tuple|János|2:17>|<pageref|auto-273>>
+      <tuple|<tuple|János|2:17>|<pageref|auto-274>>
 
-      <tuple|<tuple|Zsoltárok|69:10>|<pageref|auto-274>>
+      <tuple|<tuple|Zsoltárok|69:10>|<pageref|auto-275>>
 
-      <tuple|<tuple|János|6:31>|<pageref|auto-277>>
+      <tuple|<tuple|János|6:31>|<pageref|auto-278>>
 
-      <tuple|<tuple|Zsoltárok|78:24>|<pageref|auto-278>>
+      <tuple|<tuple|Zsoltárok|78:24>|<pageref|auto-279>>
 
-      <tuple|<tuple|János|6:45>|<pageref|auto-279>>
+      <tuple|<tuple|János|6:45>|<pageref|auto-280>>
 
-      <tuple|<tuple|Ézsaiás|54:13>|<pageref|auto-280>>
+      <tuple|<tuple|Ézsaiás|54:13>|<pageref|auto-281>>
 
-      <tuple|<tuple|Strong-szám>|<pageref|auto-282>>
+      <tuple|<tuple|Strong-szám>|<pageref|auto-283>>
 
-      <tuple|<tuple|SWORD>|<pageref|auto-283>>
+      <tuple|<tuple|SWORD>|<pageref|auto-284>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|tokens>>|<pageref|auto-284>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|tokens>>|<pageref|auto-285>>
 
-      <tuple|<tuple|GreekCNTR>|<pageref|auto-287>>
+      <tuple|<tuple|GreekCNTR>|<pageref|auto-288>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|search>>|<pageref|auto-288>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|search>>|<pageref|auto-289>>
 
-      <tuple|<tuple|János|10:34>|<pageref|auto-290>>
+      <tuple|<tuple|János|10:34>|<pageref|auto-291>>
 
-      <tuple|<tuple|Zsoltárok|82:6>|<pageref|auto-291>>
+      <tuple|<tuple|Zsoltárok|82:6>|<pageref|auto-292>>
 
-      <tuple|<tuple|Makkabeus-felkelés>|<pageref|auto-293>>
+      <tuple|<tuple|Makkabeus-felkelés>|<pageref|auto-294>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|tokens>>|<pageref|auto-294>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|tokens>>|<pageref|auto-295>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|search>>|<pageref|auto-295>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|search>>|<pageref|auto-296>>
 
-      <tuple|<tuple|SWORD>|<pageref|auto-296>>
+      <tuple|<tuple|SWORD>|<pageref|auto-297>>
 
-      <tuple|<tuple|János|12:15>|<pageref|auto-298>>
+      <tuple|<tuple|János|12:15>|<pageref|auto-299>>
 
-      <tuple|<tuple|Zakariás|9:9>|<pageref|auto-299>>
+      <tuple|<tuple|Zakariás|9:9>|<pageref|auto-300>>
 
-      <tuple|<tuple|Ézsaiás|53:1>|<pageref|auto-301>>
+      <tuple|<tuple|Ézsaiás|53:1>|<pageref|auto-302>>
 
-      <tuple|<tuple|János|12:38>|<pageref|auto-302>>
+      <tuple|<tuple|János|12:38>|<pageref|auto-303>>
 
-      <tuple|<tuple|Ézsaiás|6:10>|<pageref|auto-303>>
+      <tuple|<tuple|Ézsaiás|6:10>|<pageref|auto-304>>
 
-      <tuple|<tuple|János|12:40>|<pageref|auto-304>>
+      <tuple|<tuple|János|12:40>|<pageref|auto-305>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-305>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-306>>
 
-      <tuple|<tuple|János|13:18>|<pageref|auto-307>>
+      <tuple|<tuple|János|13:18>|<pageref|auto-308>>
 
-      <tuple|<tuple|Zsoltárok|41:10>|<pageref|auto-308>>
+      <tuple|<tuple|Zsoltárok|41:10>|<pageref|auto-309>>
 
-      <tuple|<tuple|János|15:25>|<pageref|auto-309>>
+      <tuple|<tuple|János|15:25>|<pageref|auto-310>>
 
-      <tuple|<tuple|Zsoltárok|109:3>|<pageref|auto-310>>
+      <tuple|<tuple|Zsoltárok|109:3>|<pageref|auto-311>>
 
-      <tuple|<tuple|János|19:24>|<pageref|auto-312>>
+      <tuple|<tuple|János|19:24>|<pageref|auto-313>>
 
-      <tuple|<tuple|Zsoltárok|22:19>|<pageref|auto-313>>
+      <tuple|<tuple|Zsoltárok|22:19>|<pageref|auto-314>>
 
-      <tuple|<tuple|János|19:28>|<pageref|auto-314>>
+      <tuple|<tuple|János|19:28>|<pageref|auto-315>>
 
-      <tuple|<tuple|Zsoltárok|107:5>|<pageref|auto-315>>
+      <tuple|<tuple|Zsoltárok|107:5>|<pageref|auto-316>>
 
-      <tuple|<tuple|János|19:36>|<pageref|auto-316>>
+      <tuple|<tuple|János|19:36>|<pageref|auto-317>>
 
-      <tuple|<tuple|2Mózes|12:10>|<pageref|auto-317>>
+      <tuple|<tuple|2Mózes|12:10>|<pageref|auto-318>>
 
-      <tuple|<tuple|János|19:37>|<pageref|auto-318>>
+      <tuple|<tuple|János|19:37>|<pageref|auto-319>>
 
-      <tuple|<tuple|Zakariás|12:10>|<pageref|auto-319>>
+      <tuple|<tuple|Zakariás|12:10>|<pageref|auto-320>>
 
-      <tuple|<tuple|JSCS>|<pageref|auto-322>>
+      <tuple|<tuple|JSCS>|<pageref|auto-323>>
 
-      <tuple|<tuple|deuterokanonikus könyvek>|<pageref|auto-324>>
+      <tuple|<tuple|deuterokanonikus könyvek>|<pageref|auto-325>>
 
-      <tuple|<tuple|Strong-szám>|<pageref|auto-327>>
+      <tuple|<tuple|Strong-szám>|<pageref|auto-328>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|minunique1>>|<pageref|auto-328>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|minunique1>>|<pageref|auto-329>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|extend>>|<pageref|auto-329>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|extend>>|<pageref|auto-330>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-330>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-331>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|jaccard12>>|<pageref|auto-333>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|jaccard12>>|<pageref|auto-334>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|minunique1>>|<pageref|auto-335>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|minunique1>>|<pageref|auto-336>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|extend>>|<pageref|auto-341>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|extend>>|<pageref|auto-342>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-343>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>>|<pageref|auto-344>>
 
-      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-349>>
+      <tuple|<tuple|bibref-parancs|<with|font-family|<quote|tt>|language|<quote|verbatim>|nearest12>>|<pageref|auto-350>>
     </associate>
     <\associate|table>
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|1.1>|>
         \;
-      </surround>|<pageref|auto-6>>
+      </surround>|<pageref|auto-7>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.1>|>
         Összefoglaló táblázat a Máté-evangéliumban szerepl® idézetekr®l.
-      </surround>|<pageref|auto-179>>
+      </surround>|<pageref|auto-180>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.2>|>
         Összefoglaló táblázat Máté és Márk evangéliumáról.
-      </surround>|<pageref|auto-216>>
+      </surround>|<pageref|auto-217>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.3>|>
         Összefoglaló táblázat Máté és Lukács evangéliumáról.
-      </surround>|<pageref|auto-262>>
+      </surround>|<pageref|auto-263>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.4>|>
         Összefoglaló táblázat János evangéliumáról.
-      </surround>|<pageref|auto-268>>
+      </surround>|<pageref|auto-269>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|2.5>|>
         Az ószövetségi Írás megjelenése az evangéliumokban.
-      </surround>|<pageref|auto-323>>
+      </surround>|<pageref|auto-324>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.1>|>
         Példa a Jaccard-távolság kiszámítására: el®ször statisztikát
         készítünk az egymást követ® bet¶párokról a két összehasonlítandó
         szövegszakaszban egyenként.
-      </surround>|<pageref|auto-332>>
+      </surround>|<pageref|auto-333>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.2>|>
         Segít® táblázat a <with|font-family|<quote|tt>|language|<quote|verbatim>|minunique>
         parancs algoritmusának bevezetéséhez.
-      </surround>|<pageref|auto-337>>
+      </surround>|<pageref|auto-338>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.3>|>
         Rövidített segédtáblázat a <with|font-family|<quote|tt>|language|<quote|verbatim>|minunique>
         parancs algoritmusához.
-      </surround>|<pageref|auto-338>>
+      </surround>|<pageref|auto-339>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.4>|>
         Rövidített segédtáblázat a <with|font-family|<quote|tt>|language|<quote|verbatim>|minunique>
         parancs algoritmusához egy, a Zsolt 82:5-6-ban olvasható
         szövegszakaszhoz.
-      </surround>|<pageref|auto-339>>
+      </surround>|<pageref|auto-340>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.5>|>
         A 60 karakternél hosszabb találatok a
         <with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>-algoritmus
         használatakor.
-      </surround>|<pageref|auto-344>>
+      </surround>|<pageref|auto-345>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.6>|>
         A legalább 41, legfeljebb 60 karakter hosszú találatok a
         <with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>-algoritmus
         használatakor.
-      </surround>|<pageref|auto-345>>
+      </surround>|<pageref|auto-346>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.7>|>
         A legalább 35, legfeljebb 40 karakter hosszú találatok a
         <with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>-algoritmus
         használatakor.
-      </surround>|<pageref|auto-346>>
+      </surround>|<pageref|auto-347>>
 
       <tuple|normal|<\surround|<with|font-series|<quote|bold>|táblázat.>
       <hidden-binding|<tuple>|A.8>|>
@@ -22403,7 +22404,7 @@
         <with|font-family|<quote|tt>|language|<quote|verbatim>|getrefs>-algoritmus
         használatakor a <with|font-family|<quote|tt>|language|<quote|verbatim>|StatResGNT>
         szövegét használva.
-      </surround>|<pageref|auto-347>>
+      </surround>|<pageref|auto-348>>
     </associate>
     <\associate|toc>
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|El®szó>
@@ -22414,272 +22415,276 @@
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
       <no-break><pageref|auto-2>>
 
+      <with|par-left|<quote|3tab>|Korrekciók, b®vítések.
+      <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
+      <no-break><pageref|auto-3>>
+
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|1.<space|2spc>Elméleti
       és technikai háttér> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-3><vspace|0.5fn>
+      <pageref|auto-4><vspace|0.5fn>
 
       1.1.<space|2spc>Görög bet¶k helyett angol ábécé
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-5>
+      <no-break><pageref|auto-6>
 
       1.2.<space|2spc>Indulás! <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-7>
+      <no-break><pageref|auto-8>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|2.<space|2spc>Az
       evangéliumok> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-12><vspace|0.5fn>
+      <pageref|auto-13><vspace|0.5fn>
 
       2.1.<space|2spc>Máté evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-13>
+      <no-break><pageref|auto-14>
 
       <with|par-left|<quote|1tab>|2.1.1.<space|2spc>A családfa többi tagja
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-21>>
+      <no-break><pageref|auto-22>>
 
       <with|par-left|<quote|1tab>|2.1.2.<space|2spc>Az Immánuél-jövendölés
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-23>>
+      <no-break><pageref|auto-24>>
 
       <with|par-left|<quote|1tab>|2.1.3.<space|2spc>Jézus születése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-41>>
+      <no-break><pageref|auto-42>>
 
       <with|par-left|<quote|1tab>|2.1.4.<space|2spc>Menekülés Egyiptomba
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-46>>
+      <no-break><pageref|auto-47>>
 
       <with|par-left|<quote|1tab>|2.1.5.<space|2spc>Heródes vérengzése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-49>>
+      <no-break><pageref|auto-50>>
 
       <with|par-left|<quote|1tab>|2.1.6.<space|2spc>A názáreti
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-57>>
+      <no-break><pageref|auto-58>>
 
       <with|par-left|<quote|1tab>|2.1.7.<space|2spc>Bemerít® János
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-61>>
+      <no-break><pageref|auto-62>>
 
       <with|par-left|<quote|1tab>|2.1.8.<space|2spc>Szájkarate?
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-64>>
+      <no-break><pageref|auto-65>>
 
       <with|par-left|<quote|1tab>|2.1.9.<space|2spc>A sötétségben él® nép
       nagy világosságot lát <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-73>>
+      <no-break><pageref|auto-74>>
 
       <with|par-left|<quote|1tab>|2.1.10.<space|2spc>A hegyi beszéd
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-76>>
+      <no-break><pageref|auto-77>>
 
       <with|par-left|<quote|1tab>|2.1.11.<space|2spc>Jézus megtisztít és
       meggyógyít <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-86>>
+      <no-break><pageref|auto-87>>
 
       <with|par-left|<quote|1tab>|2.1.12.<space|2spc>Megismerni Istent
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-89>>
+      <no-break><pageref|auto-90>>
 
       <with|par-left|<quote|1tab>|2.1.13.<space|2spc>Ellenszél, BJ börtönben
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-92>>
+      <no-break><pageref|auto-93>>
 
       <with|par-left|<quote|1tab>|2.1.14.<space|2spc>Mélyebb rendez® elv
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-97>>
+      <no-break><pageref|auto-98>>
 
       <with|par-left|<quote|1tab>|2.1.15.<space|2spc>Nem lármáz
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-100>>
+      <no-break><pageref|auto-101>>
 
       <with|par-left|<quote|1tab>|2.1.16.<space|2spc>Jónás jele
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-104>>
+      <no-break><pageref|auto-105>>
 
       <with|par-left|<quote|1tab>|2.1.17.<space|2spc>Nagyobb Jónásnál és
       Salamonnál <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-107>>
+      <no-break><pageref|auto-108>>
 
       <with|par-left|<quote|1tab>|2.1.18.<space|2spc>Süketek és vakok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-108>>
+      <no-break><pageref|auto-109>>
 
       <with|par-left|<quote|1tab>|2.1.19.<space|2spc>Példázatok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-114>>
+      <no-break><pageref|auto-115>>
 
       <with|par-left|<quote|1tab>|2.1.20.<space|2spc>A képmutatók leleplezése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-117>>
+      <no-break><pageref|auto-118>>
 
       <with|par-left|<quote|1tab>|2.1.21.<space|2spc>Intermezzo: Idézet vagy
       nem? <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-123>>
+      <no-break><pageref|auto-124>>
 
       <with|par-left|<quote|1tab>|2.1.22.<space|2spc>Újabb kekecked®k
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-130>>
+      <no-break><pageref|auto-131>>
 
       <with|par-left|<quote|1tab>|2.1.23.<space|2spc>Kövess engem!
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-135>>
+      <no-break><pageref|auto-136>>
 
       <with|par-left|<quote|1tab>|2.1.24.<space|2spc>Virágvasárnap
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-140>>
+      <no-break><pageref|auto-141>>
 
       <with|par-left|<quote|1tab>|2.1.25.<space|2spc>A sarokk®
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-155>>
+      <no-break><pageref|auto-156>>
 
       <with|par-left|<quote|1tab>|2.1.26.<space|2spc>Kvízkérdések
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-159>>
+      <no-break><pageref|auto-160>>
 
       <with|par-left|<quote|1tab>|2.1.27.<space|2spc>Dániel próféciája
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-169>>
+      <no-break><pageref|auto-170>>
 
       <with|par-left|<quote|1tab>|2.1.28.<space|2spc>Gyilkosság
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-172>>
+      <no-break><pageref|auto-173>>
 
       <with|par-left|<quote|1tab>|2.1.29.<space|2spc>A
       22.<with|font-series|<quote|bold>|math-font-series|<quote|bold>|
       >zsoltár <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-177>>
+      <no-break><pageref|auto-178>>
 
       <with|par-left|<quote|1tab>|2.1.30.<space|2spc>Összefoglalás
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-178>>
+      <no-break><pageref|auto-179>>
 
       2.2.<space|2spc>Márk evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-181>
+      <no-break><pageref|auto-182>
 
       2.3.<space|2spc>Lukács evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-219>
+      <no-break><pageref|auto-220>
 
       <with|par-left|<quote|1tab>|2.3.1.<space|2spc>Az Úr törvénye
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-220>>
+      <no-break><pageref|auto-221>>
 
       <with|par-left|<quote|1tab>|2.3.2.<space|2spc>Legyen a görbe út
       egyenessé <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-225>>
+      <no-break><pageref|auto-226>>
 
       <with|par-left|<quote|1tab>|2.3.3.<space|2spc>Jézus megkísértése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-229>>
+      <no-break><pageref|auto-230>>
 
       <with|par-left|<quote|1tab>|2.3.4.<space|2spc>Gyilkossági kísérlet
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-238>>
+      <no-break><pageref|auto-239>>
 
       <with|par-left|<quote|1tab>|2.3.5.<space|2spc>További idézetek
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-242>>
+      <no-break><pageref|auto-243>>
 
       <with|par-left|<quote|1tab>|2.3.6.<space|2spc>Ézsaiás 53
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-263>>
+      <no-break><pageref|auto-264>>
 
       2.4.<space|2spc>János evangéliuma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-267>
+      <no-break><pageref|auto-268>
 
       <with|par-left|<quote|1tab>|2.4.1.<space|2spc>Ahogyan Ézsaiás megmondta
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-269>>
+      <no-break><pageref|auto-270>>
 
       <with|par-left|<quote|1tab>|2.4.2.<space|2spc>Félt® szeretet
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-272>>
+      <no-break><pageref|auto-273>>
 
       <with|par-left|<quote|1tab>|2.4.3.<space|2spc>Mózes Jézusról írt
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-275>>
+      <no-break><pageref|auto-276>>
 
       <with|par-left|<quote|1tab>|2.4.4.<space|2spc>Mennyei kenyér
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-276>>
+      <no-break><pageref|auto-277>>
 
       <with|par-left|<quote|1tab>|2.4.5.<space|2spc>Mit mond az Írás?
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-281>>
+      <no-break><pageref|auto-282>>
 
       <with|par-left|<quote|1tab>|2.4.6.<space|2spc>Istenek vagytok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-289>>
+      <no-break><pageref|auto-290>>
 
       <with|par-left|<quote|1tab>|2.4.7.<space|2spc>Kajafás próféciája
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-292>>
+      <no-break><pageref|auto-293>>
 
       <with|par-left|<quote|1tab>|2.4.8.<space|2spc>El®ször nem értették
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-297>>
+      <no-break><pageref|auto-298>>
 
       <with|par-left|<quote|1tab>|2.4.9.<space|2spc>Két Ézsaiás-idézet
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-300>>
+      <no-break><pageref|auto-301>>
 
       <with|par-left|<quote|1tab>|2.4.10.<space|2spc>Be kell teljesednie az
       Írásnak <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-306>>
+      <no-break><pageref|auto-307>>
 
       <with|par-left|<quote|1tab>|2.4.11.<space|2spc>Akit átszúrtak
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-311>>
+      <no-break><pageref|auto-312>>
 
       <with|par-left|<quote|1tab>|2.4.12.<space|2spc>Örök élet
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-320>>
+      <no-break><pageref|auto-321>>
 
       2.5.<space|2spc>Mire következtethetünk?
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-321>
+      <no-break><pageref|auto-322>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Függelék
       A.<space|2spc>Algoritmikus leírás> <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-325><vspace|0.5fn>
+      <pageref|auto-326><vspace|0.5fn>
 
       A.1.<space|2spc>Az alapprobléma <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-326>
+      <no-break><pageref|auto-327>
 
       A.2.<space|2spc>Az egyezések mérése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-331>
+      <no-break><pageref|auto-332>
 
       A.3.<space|2spc>Minimálisan egyedi szakaszok
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-334>
+      <no-break><pageref|auto-335>
 
       <with|par-left|<quote|1tab>|A.3.1.<space|2spc>A
       <with|font-family|<quote|tt>|language|<quote|verbatim>|minunique>
       algoritmus <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-336>>
+      <no-break><pageref|auto-337>>
 
       A.4.<space|2spc>Maximális bet¶helyes egyezések
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-340>
+      <no-break><pageref|auto-341>
 
       A.5.<space|2spc>Bet¶helyes egyezések keresése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-342>
+      <no-break><pageref|auto-343>
 
       A.6.<space|2spc>A leghasonlóbb részszöveg keresése
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-348>
+      <no-break><pageref|auto-349>
 
       A.7.<space|2spc>Zárszó <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <no-break><pageref|auto-350>
+      <no-break><pageref|auto-351>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Tárgymutató>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-351><vspace|0.5fn>
+      <pageref|auto-352><vspace|0.5fn>
 
       <vspace*|1fn><with|font-series|<quote|bold>|math-font-series|<quote|bold>|font-shape|<quote|small-caps>|Irodalomjegyzék>
       <datoms|<macro|x|<repeat|<arg|x>|<with|font-series|medium|<with|font-size|1|<space|0.2fn>.<space|0.2fn>>>>>|<htab|5mm>>
-      <pageref|auto-352><vspace|0.5fn>
+      <pageref|auto-353><vspace|0.5fn>
     </associate>
   </collection>
 </auxiliary>

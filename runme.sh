@@ -43,7 +43,7 @@ fi
 
 echo "Building the image..."
 IMAGE_TAG=bibref-book
-$DOCKER build -t $IMAGE_TAG .
+$DOCKER build -t $IMAGE_TAG . -f Dockerfile.texmacs-src
 
 echo "Setting X11 permissions..."
 xhost +local:docker
