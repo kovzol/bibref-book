@@ -171,16 +171,17 @@
 
   <paragraph|Köszönetnyilvánítás.>Számos barátomnak köszönöm azt a segítséget
   és bátorítást, amelyet az elmúlt évek során ezen munkával összefüggésben
-  kaptam. Sok visszajelzést kaptam fiamtól, Benedekt®l. Nehéz lenne
-  felsorolni mindenkit, akikt®l alapvet® szemléletbeli útmutatást,
-  kiigazítást kaptam az elmúlt években, de mindenképpen kiemelem
-  <with|font-shape|italic|Gyöngyösi László>t, <with|font-shape|italic|Mark>
-  és <with|font-shape|italic|Matthew> <with|font-shape|italic|Walker>t,
-  <with|font-shape|italic|Heimo Schodterer>t,
-  <with|font-shape|italic|Herbert> és <with|font-shape|italic|Christian
-  Leonhartsberger>t, <with|font-shape|italic|Ernst Stummer>t,
-  <with|font-shape|italic|Ralf Roupec>et és <with|font-shape|italic|Johannes
-  Winklehner>t, valamint <with|font-shape|italic|Noah Dana-Picard>ot és
+  kaptam. Sok visszajelzést kaptam fiamtól,
+  <with|font-shape|italic|Benedek>t®l. Nehéz lenne felsorolni mindenkit,
+  akikt®l alapvet® szemléletbeli útmutatást, kiigazítást kaptam az elmúlt
+  években, de mindenképpen kiemelem <with|font-shape|italic|Gyöngyösi
+  László>t, <with|font-shape|italic|Mark> és <with|font-shape|italic|Matthew>
+  <with|font-shape|italic|Walker>t, <with|font-shape|italic|Heimo
+  Schodterer>t, <with|font-shape|italic|Herbert> és
+  <with|font-shape|italic|Christian Leonhartsberger>t,
+  <with|font-shape|italic|Ernst Stummer>t, <with|font-shape|italic|Ralf
+  Roupec>et és <with|font-shape|italic|Johannes Winklehner>t, valamint
+  <with|font-shape|italic|Noah Dana-Picard>ot és
   <with|font-shape|italic|Giricz László>t. Köszönöm
   <with|font-shape|italic|Faragó Csaba>, <with|font-shape|italic|Pet® Hunor>,
   <with|font-shape|italic|Paulik Tímea> és <with|font-shape|italic|Roland
@@ -196,6 +197,14 @@
   kiemelem egykori mentorom, <with|font-shape|italic|Sípos Ete Zoltán>
   munkásságát, amely az Ige iránti tisztelet alapjait elültette bennem, és
   akinek világos, lényegretör® bibliamagyarázatai elindítottak ezen az úton.
+
+  <paragraph|Korrekciók, b®vítések.>A kézirat els® változata 2026.<strong|
+  >augusztus 12-én jelent meg sz¶k nyilvánosság el®tt. Azóta több
+  visszajelzés érkezett, amelyek segítségével a könyv szövege és a hozzá
+  kapcsolódó adatbázis is pontosabb lett. Itt köszönöm meg
+  <with|font-shape|italic|Michael Dauscher>, <with|font-shape|italic|José
+  Luis Rodríguez Blancas> és <with|font-shape|italic|Ancsin Gábor> segít®
+  megjegyzéseit.
 
   <chapter|Elméleti és technikai háttér>
 
@@ -19691,10 +19700,10 @@
     beazonosítani, de ez pont elég arra, hogy a zsoltárokat önálló egységként
     kezeljük.
   </footnote>). Egy modern számítógépen a teljes ellen®rzés kb.<strong| >3
-  óráig tart, ami mintegy 122.000 lehetséges igehelyet tár fel. Ezek közül
+  óráig tart, ami mintegy 133.000 lehetséges igehelyet tár fel. Ezek közül
   kevesebb mint 1000 olyan párt találunk, amely legalább 20 karakter hosszú
-  szövegeket tartalmaz. A legalább 35 karakter hosszú találatokból 117 db
-  van, melyek 10-féle ószövetségi könyvet kötnek össze 12-féle újszövetségi
+  szövegeket tartalmaz. A legalább 35 karakter hosszú találatokból 123 db
+  van, melyek 11-féle ószövetségi könyvet kötnek össze 12-féle újszövetségi
   könyvvel, ha nem számoljuk azt az egyetlen fals pozitív találatot, amelyet
   az 1Makkabeusok 2:69-hez (\Raztán megáldotta ®ket, és megtért atyáihoz\Q)
   talál az algoritmus:
@@ -19793,13 +19802,17 @@
   egyezés, de az utolsó szó (\R\<kappa\>\<alpha\>\<iota\>\Q, \Rés\Q) nyilván
   csak gépi hozzávétel, kontextus szerint nincs kapcsolat.
 
-  Az érvényesként elkönyvelhet® találatok a következ® ószövetségi könyvekben
-  találhatók (zárójelben a darabszámmal): \ 1Mózes (8), 2Mózes (10), 5Mózes
-  (3), Zsoltárok (48), Példabeszédek (5), Ézsaiás (30), Hóseás (2), Jóel (7),
-  Ámosz (1) és Habakuk (1). A szövegeket a következ® újszövetségi könyvek
-  idézik: Máté (15), Márk (10), Lukács (12), János (3), ApCsel (23), Róma
-  (19), 1Korintus (3), 2Korintus (2), Galata (1), Zsidók (21), 1Péter (6) és
-  Jakab (2). Ez viszonylag sok találat, valójában azonban az általában
+  Fontos még, hogy a végs® listánkból eltávolítjuk az Ódák könyvével
+  található egyezéseket, mivel ez \U hiába az <verbatim|LXX> része \U
+  tartalmaz majdnem biztosan az Újszövetségb®l
+  <with|font-shape|italic|kés®bb> átvett szövegeket is. Az érvényesként
+  elkönyvelhet® találatok tehát a következ® ószövetségi könyvekben találhatók
+  (zárójelben a darabszámmal): \ 1Mózes (8), 2Mózes (10), 5Mózes (3),
+  Zsoltárok (48), Példabeszédek (5), Ézsaiás (30), Jeremiás (6), Hóseás (2),
+  Jóel (7), Ámosz (1) és Habakuk (1). A szövegeket a következ® újszövetségi
+  könyvek idézik: Máté (15), Márk (10), Lukács (12), János (3), ApCsel (23),
+  Róma (19), 1Korintus (3), 2Korintus (2), Galata (1), Zsidók (27), 1Péter
+  (6) és Jakab (2). Ez viszonylag sok találat, valójában azonban az általában
   beazonosítható egyezések számának csak kb.<strong| >a fele. Ez ismét azt
   mutatja, hogy az emberi ellen®rzés továbbra is indokolt, a
   <verbatim|getrefs>-módszer semmiképpen sem ad végleges és teljes eredményt.
@@ -19816,50 +19829,57 @@
       <tabular*|<tformat|<cwith|1|-1|2|2|cell-halign|c>|<cwith|1|-1|3|3|cell-halign|c>|<cwith|1|-1|3|3|cell-rborder|0ln>|<cwith|1|-1|1|-1|cell-valign|c>|<cwith|1|1|1|-1|cell-tborder|0ln>|<cwith|1|1|1|-1|cell-bborder|1ln>|<cwith|2|2|1|-1|cell-tborder|1ln>|<cwith|1|1|1|1|cell-lborder|0ln>|<cwith|1|1|3|3|cell-rborder|0ln>|<table|<row|<cell|<verbatim|LXX>>|<cell|<verbatim|SBLGNT>>|<cell|Hossz>>|<row|<cell|Psalms
       13:2+71 13:4-100>|<cell|Romans 3:11+24
       3:19-91>|<cell|318>>|<row|<cell|Psalms 15:8+4 15:11-31>|<cell|Acts
-      2:25+25 2:28>|<cell|282>>|<row|<cell|Isaiah 6:10+46 6:10>|<cell|Acts
-      28:27+41 28:27>|<cell|138>>|<row|<cell|Isaiah 6:10+46
-      6:10>|<cell|Matthew 13:15+41 13:15>|<cell|138>>|<row|<cell|Psalms
-      94:7+65 94:9-28>|<cell|Hebrews 3:7+28
-      3:9-27>|<cell|134>>|<row|<cell|Psalms 101:26+10
+      2:25+25 2:28>|<cell|282>>|<row|<cell|Jeremiah 38:33+126
+      38:34-86>|<cell|Hebrews 8:10+125 8:11-15>|<cell|170>>|<row|<cell|Isaiah
+      6:10+46 6:10>|<cell|Acts 28:27+41 28:27>|<cell|138>>|<row|<cell|Isaiah
+      6:10+46 6:10>|<cell|Matthew 13:15+41
+      13:15>|<cell|138>>|<row|<cell|Psalms 94:7+65 94:9-28>|<cell|Hebrews
+      3:7+28 3:9-27>|<cell|134>>|<row|<cell|Psalms 101:26+10
       101:27-29>|<cell|Hebrews 1:10+13 1:12-74>|<cell|133>>|<row|<cell|Psalms
       2:1 2:2-8>|<cell|Acts 4:25+58 4:26>|<cell|131>>|<row|<cell|Isaiah
       53:7+89 53:8-34>|<cell|Acts 8:32+87
       8:34-95>|<cell|130>>|<row|<cell|Psalms 44:7+51 44:8>|<cell|Hebrews
       1:8+70 1:9>|<cell|124>>|<row|<cell|Psalms 8:5 8:6>|<cell|Hebrews 2:6+25
       2:7>|<cell|120>>|<row|<cell|Deuteronomy 6:4+103 6:5-10>|<cell|Mark
-      12:29+28 12:30-31>|<cell|120>>|<row|<cell|Psalms 117:22
-      117:23>|<cell|Mark 12:10+27 12:11>|<cell|114>>|<row|<cell|Psalms 117:22
-      117:23>|<cell|Matthew 21:42+47 21:42>|<cell|114>>|<row|<cell|Proverbs
-      3:11+3 3:12>|<cell|Hebrews 12:5+57 12:6>|<cell|108>>|<row|<cell|Isaiah
-      54:1 54:1-14>|<cell|Galatians 4:27+12
-      4:27>|<cell|102>>|<row|<cell|Isaiah 6:9+35 6:10-142>|<cell|Acts
-      28:26+39 28:27-137>|<cell|98>>|<row|<cell|Isaiah 6:9+35
-      6:10-142>|<cell|Matthew 13:14+45 13:15-137>|<cell|98>>|<row|<cell|Psalms
-      31:1+15 31:2-29>|<cell|Romans 4:7 4:9-101>|<cell|97>>|<row|<cell|Exodus
-      2:14+7 2:14-53>|<cell|Acts 7:27+35 7:29-72>|<cell|93>>|<row|<cell|Joel
-      3:1+20 3:1-70>|<cell|Acts 2:17+39 2:17-72>|<cell|86>>|<row|<cell|Psalms
-      33:16 33:17-37>|<cell|I_Peter 3:12+3 3:12>|<cell|82>>|<row|<cell|Psalms
+      12:29+28 12:30-31>|<cell|120>>|<row|<cell|Jeremiah 38:32+27
+      38:32-27>|<cell|Hebrews 8:9+26 8:9-25>|<cell|117>>|<row|<cell|Psalms
+      117:22 117:23>|<cell|Mark 12:10+27 12:11>|<cell|114>>|<row|<cell|Psalms
+      117:22 117:23>|<cell|Matthew 21:42+47
+      21:42>|<cell|114>>|<row|<cell|Proverbs 3:11+3 3:12>|<cell|Hebrews
+      12:5+57 12:6>|<cell|108>>|<row|<cell|Isaiah 54:1
+      54:1-14>|<cell|Galatians 4:27+12 4:27>|<cell|102>>|<row|<cell|Isaiah
+      6:9+35 6:10-142>|<cell|Acts 28:26+39
+      28:27-137>|<cell|98>>|<row|<cell|Isaiah 6:9+35 6:10-142>|<cell|Matthew
+      13:14+45 13:15-137>|<cell|98>>|<row|<cell|Psalms 31:1+15
+      31:2-29>|<cell|Romans 4:7 4:9-101>|<cell|97>>|<row|<cell|Exodus 2:14+7
+      2:14-53>|<cell|Acts 7:27+35 7:29-72>|<cell|93>>|<row|<cell|Joel 3:1+20
+      3:1-70>|<cell|Acts 2:17+39 2:17-72>|<cell|86>>|<row|<cell|Psalms 33:16
+      33:17-37>|<cell|I_Peter 3:12+3 3:12>|<cell|82>>|<row|<cell|Psalms
       109:1+11 109:1>|<cell|Acts 2:34+40 2:35>|<cell|81>>|<row|<cell|Isaiah
-      1:9+3 1:9>|<cell|Romans 9:29+24 9:29>|<cell|81>>|<row|<cell|Proverbs
-      25:21+22 25:22-28>|<cell|Romans 12:20+27
-      12:20>|<cell|77>>|<row|<cell|Joel 3:3+35 3:4-38>|<cell|Acts 2:19+48
-      2:20-39>|<cell|76>>|<row|<cell|Psalms 94:7+65 94:8-34>|<cell|Hebrews
-      3:15+12 3:15>|<cell|75>>|<row|<cell|Psalms 18:5 18:5-27>|<cell|Romans
-      10:18+28 10:18>|<cell|74>>|<row|<cell|Psalms 68:24 68:24>|<cell|Romans
-      11:10 11:10>|<cell|74>>|<row|<cell|Psalms 94:10+73 94:11>|<cell|Hebrews
-      3:10+75 3:11>|<cell|73>>|<row|<cell|Psalms 109:1+19 109:1>|<cell|Luke
-      20:42+36 20:43>|<cell|73>>|<row|<cell|Hosea 2:1+82 2:1>|<cell|Romans
-      9:26 9:26>|<cell|73>>|<row|<cell|Isaiah 61:1 61:1-78>|<cell|Luke 4:18
+      1:9+3 1:9>|<cell|Romans 9:29+24 9:29>|<cell|81>>|<row|<cell|Jeremiah
+      38:34+120 38:35-134>|<cell|Hebrews 8:11+112
+      8:13-76>|<cell|79>>|<row|<cell|Proverbs 25:21+22 25:22-28>|<cell|Romans
+      12:20+27 12:20>|<cell|77>>|<row|<cell|Joel 3:3+35 3:4-38>|<cell|Acts
+      2:19+48 2:20-39>|<cell|76>>|<row|<cell|Psalms 94:7+65
+      94:8-34>|<cell|Hebrews 3:15+12 3:15>|<cell|75>>|<row|<cell|Psalms 18:5
+      18:5-27>|<cell|Romans 10:18+28 10:18>|<cell|74>>|<row|<cell|Psalms
+      68:24 68:24>|<cell|Romans 11:10 11:10>|<cell|74>>|<row|<cell|Psalms
+      94:10+73 94:11>|<cell|Hebrews 3:10+75
+      3:11>|<cell|73>>|<row|<cell|Psalms 109:1+19 109:1>|<cell|Luke 20:42+36
+      20:43>|<cell|73>>|<row|<cell|Hosea 2:1+82 2:1>|<cell|Romans 9:26
+      9:26>|<cell|73>>|<row|<cell|Isaiah 61:1 61:1-78>|<cell|Luke 4:18
       4:18-74>|<cell|68>>|<row|<cell|Isaiah 40:2+145 40:3-11>|<cell|Matthew
       3:3+47 3:3-5>|<cell|68>>|<row|<cell|Isaiah 66:1+16 66:1-28>|<cell|Acts
       7:49 7:49-37>|<cell|67>>|<row|<cell|Isaiah 40:3 40:3-11>|<cell|Luke
       3:4+40 3:4-5>|<cell|67>>|<row|<cell|Isaiah 40:3 40:3-11>|<cell|Mark 1:3
       1:3-5>|<cell|67>>|<row|<cell|Genesis 2:24+61 2:24>|<cell|Mark 10:7+56
-      10:8-29>|<cell|65>>|<row|<cell|Psalms 39:7+77 39:9-61>|<cell|Hebrews
-      10:6+35 10:7-16>|<cell|64>>|<row|<cell|Psalms 117:22
-      117:23-50>|<cell|Luke 20:17+50 20:18-62>|<cell|64>>|<row|<cell|Psalms
-      21:19 21:19>|<cell|John 19:24+89 19:24-31>|<cell|63>>|<row|<cell|Isaiah
-      40:4 40:4-42>|<cell|Luke 3:5 3:5-44>|<cell|63>>>>>
+      10:8-29>|<cell|65>>|<row|<cell|Jeremiah 38:32+165
+      38:33-125>|<cell|Hebrews 8:9+162 8:10-124>|<cell|65>>|<row|<cell|Psalms
+      39:7+77 39:9-61>|<cell|Hebrews 10:6+35
+      10:7-16>|<cell|64>>|<row|<cell|Psalms 117:22 117:23-50>|<cell|Luke
+      20:17+50 20:18-62>|<cell|64>>|<row|<cell|Psalms 21:19 21:19>|<cell|John
+      19:24+89 19:24-31>|<cell|63>>|<row|<cell|Isaiah 40:4
+      40:4-42>|<cell|Luke 3:5 3:5-44>|<cell|63>>>>>
     </padded-center>
   <|big-table>
     <label|getrefs-60+>A 60 karakternél hosszabb találatok a
@@ -19918,8 +19938,9 @@
       8:3+91 8:3-45>|<cell|Matthew 4:4+26
       4:4-27>|<cell|47>>|<row|<cell|Isaiah 7:14+35 7:14-24>|<cell|Matthew
       1:23 1:23-60>|<cell|47>>|<row|<cell|Exodus 3:7+22 3:7-58>|<cell|Acts
-      7:33+72 7:34-80>|<cell|46>>|<row|<cell|Isaiah 29:14+69
-      29:14-5>|<cell|I_Corinthians 1:19+12
+      7:33+72 7:34-80>|<cell|46>>|<row|<cell|Jeremiah 38:33+80
+      38:33-58>|<cell|Hebrews 8:10+76 8:10-61>|<cell|46>>|<row|<cell|Isaiah
+      29:14+69 29:14-5>|<cell|I_Corinthians 1:19+12
       1:19-7>|<cell|45>>|<row|<cell|Isaiah 53:9+78 53:9>|<cell|I_Peter 2:22+7
       2:22>|<cell|45>>|<row|<cell|Exodus 23:20+1 23:20-54>|<cell|Matthew
       11:10+23 11:10-36>|<cell|45>>|<row|<cell|Psalms 68:10+32
@@ -19951,25 +19972,27 @@
       22:17-121>|<cell|Hebrews 6:14+7 6:14-2>|<cell|38>>|<row|<cell|Exodus
       33:19+86 33:19>|<cell|Romans 9:15+15 9:15>|<cell|38>>|<row|<cell|Joel
       3:5+11 3:5-103>|<cell|Romans 10:13+6
-      10:13>|<cell|38>>|<row|<cell|Psalms 50:6+43 50:6-17>|<cell|Romans
-      3:4+63 3:4-18>|<cell|38>>|<row|<cell|Isaiah 22:13+107
-      22:13>|<cell|I_Corinthians 15:32+67 15:32>|<cell|37>>|<row|<cell|Psalms
-      90:11 90:11-35>|<cell|Matthew 4:6+54
-      4:6-55>|<cell|37>>|<row|<cell|Isaiah 10:22+60 10:22-12>|<cell|Romans
-      9:27+82 9:28-22>|<cell|37>>|<row|<cell|Joel 3:5+13 3:5-103>|<cell|Acts
-      2:21+14 2:21>|<cell|36>>|<row|<cell|Genesis 15:6+16 15:6>|<cell|James
-      2:23+41 2:23-18>|<cell|36>>|<row|<cell|Psalms 117:26
-      117:26-28>|<cell|John 12:13+68 12:13-21>|<cell|36>>|<row|<cell|Exodus
-      23:20+10 23:20-54>|<cell|Luke 7:27+29
-      7:27-36>|<cell|36>>|<row|<cell|Psalms 117:26 117:26-28>|<cell|Luke
-      13:35+62 13:35>|<cell|36>>|<row|<cell|Exodus 23:20+10
-      23:20-54>|<cell|Mark 1:2+36 1:2-24>|<cell|36>>|<row|<cell|Psalms 117:26
-      117:26-28>|<cell|Matthew 21:9+75 21:9-20>|<cell|36>>|<row|<cell|Psalms
-      117:26 117:26-28>|<cell|Matthew 23:39+39
-      23:39>|<cell|36>>|<row|<cell|Genesis 15:6+16 15:6>|<cell|Romans 4:3+32
-      4:3>|<cell|36>>|<row|<cell|I_Maccabees 2:69+18 2:70-119>|<cell|Acts
-      13:36+52 13:36-14>|<cell|35>>|<row|<cell|Joel 3:1+144
-      3:2-73>|<cell|Acts 2:17+120 2:17-42>|<cell|35>>|<row|<cell|Psalms 44:7
+      10:13>|<cell|38>>|<row|<cell|Jeremiah 38:31+63 38:32-152>|<cell|Hebrews
+      8:8+96 8:9-149>|<cell|38>>|<row|<cell|Psalms 50:6+43
+      50:6-17>|<cell|Romans 3:4+63 3:4-18>|<cell|38>>|<row|<cell|Isaiah
+      22:13+107 22:13>|<cell|I_Corinthians 15:32+67
+      15:32>|<cell|37>>|<row|<cell|Psalms 90:11 90:11-35>|<cell|Matthew
+      4:6+54 4:6-55>|<cell|37>>|<row|<cell|Isaiah 10:22+60
+      10:22-12>|<cell|Romans 9:27+82 9:28-22>|<cell|37>>|<row|<cell|Joel
+      3:5+13 3:5-103>|<cell|Acts 2:21+14 2:21>|<cell|36>>|<row|<cell|Genesis
+      15:6+16 15:6>|<cell|James 2:23+41 2:23-18>|<cell|36>>|<row|<cell|Psalms
+      117:26 117:26-28>|<cell|John 12:13+68
+      12:13-21>|<cell|36>>|<row|<cell|Exodus 23:20+10 23:20-54>|<cell|Luke
+      7:27+29 7:27-36>|<cell|36>>|<row|<cell|Psalms 117:26
+      117:26-28>|<cell|Luke 13:35+62 13:35>|<cell|36>>|<row|<cell|Exodus
+      23:20+10 23:20-54>|<cell|Mark 1:2+36
+      1:2-24>|<cell|36>>|<row|<cell|Psalms 117:26 117:26-28>|<cell|Matthew
+      21:9+75 21:9-20>|<cell|36>>|<row|<cell|Psalms 117:26
+      117:26-28>|<cell|Matthew 23:39+39 23:39>|<cell|36>>|<row|<cell|Genesis
+      15:6+16 15:6>|<cell|Romans 4:3+32 4:3>|<cell|36>>|<row|<cell|I_Maccabees
+      2:69+18 2:70-119>|<cell|Acts 13:36+52
+      13:36-14>|<cell|35>>|<row|<cell|Joel 3:1+144 3:2-73>|<cell|Acts
+      2:17+120 2:17-42>|<cell|35>>|<row|<cell|Psalms 44:7
       44:7-37>|<cell|Hebrews 1:8+13 1:8-43>|<cell|35>>|<row|<cell|Psalms
       93:10+45 93:11-23>|<cell|I_Corinthians 3:20+6
       3:20-20>|<cell|35>>|<row|<cell|Genesis 16:11+45 16:11-38>|<cell|Luke
@@ -19991,23 +20014,27 @@
     >táblázat mutatja.
 
     <\big-table>
-      <tabular*|<tformat|<cwith|1|-1|2|2|cell-halign|c>|<cwith|1|-1|3|3|cell-halign|c>|<cwith|1|-1|3|3|cell-rborder|0ln>|<cwith|1|-1|1|-1|cell-valign|c>|<cwith|1|1|1|-1|cell-tborder|0ln>|<cwith|1|1|1|-1|cell-bborder|1ln>|<cwith|2|2|1|-1|cell-tborder|1ln>|<cwith|1|1|1|1|cell-lborder|0ln>|<cwith|1|1|3|3|cell-rborder|0ln>|<cwith|10|13|2|2|cell-halign|c>|<cwith|10|13|3|3|cell-halign|c>|<cwith|10|13|3|3|cell-rborder|0ln>|<cwith|10|13|1|3|cell-valign|c>|<table|<row|<cell|<verbatim|LXX>>|<cell|<verbatim|StatResGNT>>|<cell|Hossz>>|<row|<cell|Psalms
+      <tabular*|<tformat|<cwith|1|-1|2|2|cell-halign|c>|<cwith|1|-1|3|3|cell-halign|c>|<cwith|1|-1|3|3|cell-rborder|0ln>|<cwith|1|-1|1|-1|cell-valign|c>|<cwith|1|1|1|-1|cell-tborder|0ln>|<cwith|1|1|1|-1|cell-bborder|1ln>|<cwith|2|2|1|-1|cell-tborder|1ln>|<cwith|1|1|1|1|cell-lborder|0ln>|<cwith|1|1|3|3|cell-rborder|0ln>|<cwith|11|15|2|2|cell-halign|c>|<cwith|11|15|3|3|cell-halign|c>|<cwith|11|15|3|3|cell-rborder|0ln>|<cwith|11|15|1|3|cell-valign|c>|<table|<row|<cell|<verbatim|LXX>>|<cell|<verbatim|StatResGNT>>|<cell|Hossz>>|<row|<cell|Psalms
       13:2+71 13:4-100>|<cell|Romans 3:11+23
-      3:19-91>|<cell|318>>|<row|<cell|Joel 3:3+35 3:5-103>|<cell|Acts 2:19+48
-      2:21>|<cell|163>>|<row|<cell|Isaiah 6:10+46 6:10>|<cell|Acts 28:27+41
-      28:27>|<cell|138>>|<row|<cell|Isaiah 6:10+46 6:10>|<cell|Matthew
-      13:15+41 13:15>|<cell|138>>|<row|<cell|Psalms 94:7+65
-      94:9-28>|<cell|Hebrews 3:7+28 3:9-27>|<cell|134>>|<row|<cell|Psalms
-      101:26+10 101:27-29>|<cell|Hebrews 1:10+13
-      1:12-74>|<cell|133>>|<row|<cell|Psalms 2:1 2:2-8>|<cell|Acts 4:25+58
-      4:26>|<cell|131>>|<row|<cell|Isaiah 53:7+89 53:8-34>|<cell|Acts 8:32+87
+      3:19-91>|<cell|318>>|<row|<cell|Jeremiah 38:33+126
+      38:34-86>|<cell|Hebrews 8:10+125 8:11-15>|<cell|170>>|<row|<cell|Joel
+      3:3+35 3:5-103>|<cell|Acts 2:19+48 2:21>|<cell|163>>|<row|<cell|Isaiah
+      6:10+46 6:10>|<cell|Acts 28:27+41 28:27>|<cell|138>>|<row|<cell|Isaiah
+      6:10+46 6:10>|<cell|Matthew 13:15+41
+      13:15>|<cell|138>>|<row|<cell|Psalms 94:7+65 94:9-28>|<cell|Hebrews
+      3:7+28 3:9-27>|<cell|134>>|<row|<cell|Psalms 101:26+10
+      101:27-29>|<cell|Hebrews 1:10+13 1:12-74>|<cell|133>>|<row|<cell|Psalms
+      2:1 2:2-8>|<cell|Acts 4:25+58 4:26>|<cell|131>>|<row|<cell|Isaiah
+      53:7+89 53:8-34>|<cell|Acts 8:32+87
       8:34-95>|<cell|130>>|<row|<cell|Psalms 8:5 8:6>|<cell|Hebrews 2:6+25
       2:7>|<cell|120>>|<row|<cell|Deuteronomy 6:4+103 6:5-10>|<cell|Mark
-      12:29+28 12:30-31>|<cell|120>>|<row|<cell|Psalms 117:22
-      117:23>|<cell|Mark 12:10+27 12:11>|<cell|114>>|<row|<cell|Psalms 117:22
-      117:23>|<cell|Matthew 21:42+47 21:42>|<cell|114>>|<row|<cell|Proverbs
-      3:11+3 3:12>|<cell|Hebrews 1:8+91 1:9>|<cell|105>>|<row|<cell|Isaiah
-      54:1 54:1-14>|<cell|Galatians 4:27+12 4:27>|<cell|102>>>>>
+      12:29+28 12:30-31>|<cell|120>>|<row|<cell|Jeremiah 38:32+27
+      38:32-27>|<cell|Hebrews 8:9+26 8:9-25>|<cell|117>>|<row|<cell|Psalms
+      117:22 117:23>|<cell|Mark 12:10+27 12:11>|<cell|114>>|<row|<cell|Psalms
+      117:22 117:23>|<cell|Matthew 21:42+47
+      21:42>|<cell|114>>|<row|<cell|Proverbs 3:11+3 3:12>|<cell|Hebrews
+      1:8+91 1:9>|<cell|105>>|<row|<cell|Isaiah 54:1 54:1-14>|<cell|Galatians
+      4:27+12 4:27>|<cell|102>>>>>
     <|big-table>
       <label|getrefs-100+>A legalább 100 karakter hosszú találatok a
       <verbatim|getrefs>-algoritmus használatakor a <verbatim|StatResGNT>
@@ -21238,354 +21265,358 @@
     <associate|Mt-12-18-alg|<tuple|2.6|55>>
     <associate|akit-atszurtak|<tuple|2.4.11|148>>
     <associate|auto-1|<tuple|?|5>>
-    <associate|auto-10|<tuple|1.2|10>>
-    <associate|auto-100|<tuple|2.1.15|53>>
-    <associate|auto-101|<tuple|Máté|53>>
-    <associate|auto-102|<tuple|Ézsaiás|55>>
-    <associate|auto-103|<tuple|bibref-parancs|56>>
-    <associate|auto-104|<tuple|2.1.16|58>>
-    <associate|auto-105|<tuple|Máté|58>>
-    <associate|auto-106|<tuple|Jónás|58>>
-    <associate|auto-107|<tuple|2.1.17|59>>
-    <associate|auto-108|<tuple|2.1.18|60>>
-    <associate|auto-109|<tuple|Máté|61>>
-    <associate|auto-11|<tuple|bibref-parancs|10>>
-    <associate|auto-110|<tuple|Ézsaiás|61>>
-    <associate|auto-111|<tuple|Codex|62>>
+    <associate|auto-10|<tuple|1.1|10>>
+    <associate|auto-100|<tuple|Hóseás|53>>
+    <associate|auto-101|<tuple|2.1.15|53>>
+    <associate|auto-102|<tuple|Máté|55>>
+    <associate|auto-103|<tuple|Ézsaiás|56>>
+    <associate|auto-104|<tuple|bibref-parancs|58>>
+    <associate|auto-105|<tuple|2.1.16|58>>
+    <associate|auto-106|<tuple|Máté|58>>
+    <associate|auto-107|<tuple|Jónás|59>>
+    <associate|auto-108|<tuple|2.1.17|60>>
+    <associate|auto-109|<tuple|2.1.18|61>>
+    <associate|auto-11|<tuple|1.2|10>>
+    <associate|auto-110|<tuple|Máté|61>>
+    <associate|auto-111|<tuple|Ézsaiás|62>>
     <associate|auto-112|<tuple|Codex|62>>
-    <associate|auto-113|<tuple|2.3|62>>
-    <associate|auto-114|<tuple|2.1.19|63>>
-    <associate|auto-115|<tuple|Máté|63>>
-    <associate|auto-116|<tuple|Zsoltárok|64>>
-    <associate|auto-117|<tuple|2.1.20|64>>
-    <associate|auto-118|<tuple|2Mózes|64>>
+    <associate|auto-113|<tuple|Codex|62>>
+    <associate|auto-114|<tuple|2.3|63>>
+    <associate|auto-115|<tuple|2.1.19|63>>
+    <associate|auto-116|<tuple|Máté|64>>
+    <associate|auto-117|<tuple|Zsoltárok|64>>
+    <associate|auto-118|<tuple|2.1.20|64>>
     <associate|auto-119|<tuple|2Mózes|64>>
-    <associate|auto-12|<tuple|2|13>>
-    <associate|auto-120|<tuple|Máté|64>>
-    <associate|auto-121|<tuple|Ézsaiás|66>>
-    <associate|auto-122|<tuple|Máté|66>>
-    <associate|auto-123|<tuple|2.1.21|67>>
-    <associate|auto-124|<tuple|Máté|68>>
-    <associate|auto-125|<tuple|5Mózes|68>>
-    <associate|auto-126|<tuple|bibref-parancs|69>>
-    <associate|auto-127|<tuple|2.4|70>>
+    <associate|auto-12|<tuple|bibref-parancs|13>>
+    <associate|auto-120|<tuple|2Mózes|64>>
+    <associate|auto-121|<tuple|Máté|66>>
+    <associate|auto-122|<tuple|Ézsaiás|66>>
+    <associate|auto-123|<tuple|Máté|67>>
+    <associate|auto-124|<tuple|2.1.21|68>>
+    <associate|auto-125|<tuple|Máté|68>>
+    <associate|auto-126|<tuple|5Mózes|69>>
+    <associate|auto-127|<tuple|bibref-parancs|70>>
+    <associate|auto-128|<tuple|2.4|?>>
     <associate|auto-129|<tuple|GreekCNTR|70>>
-    <associate|auto-13|<tuple|2.1|13>>
-    <associate|auto-130|<tuple|2.1.22|70>>
-    <associate|auto-131|<tuple|1Mózes|70>>
+    <associate|auto-13|<tuple|2|13>>
+    <associate|auto-130|<tuple|GreekCNTR|70>>
+    <associate|auto-131|<tuple|2.1.22|70>>
     <associate|auto-132|<tuple|1Mózes|71>>
-    <associate|auto-133|<tuple|Máté|71>>
+    <associate|auto-133|<tuple|1Mózes|71>>
     <associate|auto-134|<tuple|Máté|71>>
-    <associate|auto-135|<tuple|2.1.23|72>>
-    <associate|auto-136|<tuple|Máté|72>>
+    <associate|auto-135|<tuple|Máté|72>>
+    <associate|auto-136|<tuple|2.1.23|72>>
     <associate|auto-137|<tuple|Máté|72>>
-    <associate|auto-138|<tuple|2Mózes|72>>
-    <associate|auto-139|<tuple|3Mózes|72>>
-    <associate|auto-14|<tuple|bibref-parancs|13>>
-    <associate|auto-140|<tuple|2.1.24|74>>
-    <associate|auto-141|<tuple|Máté|74>>
-    <associate|auto-142|<tuple|Ézsaiás|74>>
-    <associate|auto-143|<tuple|Zakariás|74>>
-    <associate|auto-144|<tuple|Makkabeus-felkelés|76>>
-    <associate|auto-145|<tuple|Máté|76>>
-    <associate|auto-146|<tuple|Zsoltárok|76>>
-    <associate|auto-147|<tuple|Máté|77>>
-    <associate|auto-148|<tuple|Zsoltárok|77>>
-    <associate|auto-149|<tuple|bibref-parancs|77>>
+    <associate|auto-138|<tuple|Máté|72>>
+    <associate|auto-139|<tuple|2Mózes|72>>
+    <associate|auto-14|<tuple|2.1|13>>
+    <associate|auto-140|<tuple|3Mózes|74>>
+    <associate|auto-141|<tuple|2.1.24|74>>
+    <associate|auto-142|<tuple|Máté|74>>
+    <associate|auto-143|<tuple|Ézsaiás|74>>
+    <associate|auto-144|<tuple|Zakariás|76>>
+    <associate|auto-145|<tuple|Makkabeus-felkelés|76>>
+    <associate|auto-146|<tuple|Máté|76>>
+    <associate|auto-147|<tuple|Zsoltárok|77>>
+    <associate|auto-148|<tuple|Máté|77>>
+    <associate|auto-149|<tuple|Zsoltárok|77>>
     <associate|auto-15|<tuple|bibref-parancs|13>>
-    <associate|auto-150|<tuple|Máté|78>>
-    <associate|auto-151|<tuple|Jeremiás|78>>
-    <associate|auto-152|<tuple|Ézsaiás|78>>
-    <associate|auto-153|<tuple|Máté|80>>
-    <associate|auto-154|<tuple|Zsoltárok|80>>
-    <associate|auto-155|<tuple|2.1.25|80>>
-    <associate|auto-156|<tuple|Máté|81>>
-    <associate|auto-157|<tuple|Zsoltárok|81>>
-    <associate|auto-158|<tuple|bibref-parancs|81>>
-    <associate|auto-159|<tuple|2.1.26|85>>
-    <associate|auto-16|<tuple|Szeptuaginta|14>>
-    <associate|auto-160|<tuple|Máté|85>>
-    <associate|auto-161|<tuple|2Mózes|85>>
-    <associate|auto-162|<tuple|Máté|86>>
-    <associate|auto-163|<tuple|5Mózes|86>>
-    <associate|auto-164|<tuple|Józsué|86>>
-    <associate|auto-165|<tuple|Máté|86>>
-    <associate|auto-166|<tuple|3Mózes|86>>
-    <associate|auto-167|<tuple|Máté|88>>
-    <associate|auto-168|<tuple|Zsoltárok|88>>
-    <associate|auto-169|<tuple|2.1.27|89>>
-    <associate|auto-17|<tuple|bibref-parancs|14>>
-    <associate|auto-170|<tuple|Dániel|89>>
-    <associate|auto-171|<tuple|Máté|89>>
-    <associate|auto-172|<tuple|2.1.28|90>>
-    <associate|auto-173|<tuple|Máté|90>>
-    <associate|auto-174|<tuple|Zakariás|90>>
-    <associate|auto-175|<tuple|Máté|92>>
-    <associate|auto-176|<tuple|Zakariás|92>>
-    <associate|auto-177|<tuple|2.1.29|93>>
-    <associate|auto-178|<tuple|2.1.30|93>>
-    <associate|auto-179|<tuple|2.1|94>>
+    <associate|auto-150|<tuple|bibref-parancs|78>>
+    <associate|auto-151|<tuple|Máté|78>>
+    <associate|auto-152|<tuple|Jeremiás|78>>
+    <associate|auto-153|<tuple|Ézsaiás|80>>
+    <associate|auto-154|<tuple|Máté|80>>
+    <associate|auto-155|<tuple|Zsoltárok|80>>
+    <associate|auto-156|<tuple|2.1.25|81>>
+    <associate|auto-157|<tuple|Máté|81>>
+    <associate|auto-158|<tuple|Zsoltárok|81>>
+    <associate|auto-159|<tuple|bibref-parancs|85>>
+    <associate|auto-16|<tuple|bibref-parancs|14>>
+    <associate|auto-160|<tuple|2.1.26|85>>
+    <associate|auto-161|<tuple|Máté|85>>
+    <associate|auto-162|<tuple|2Mózes|86>>
+    <associate|auto-163|<tuple|Máté|86>>
+    <associate|auto-164|<tuple|5Mózes|86>>
+    <associate|auto-165|<tuple|Józsué|86>>
+    <associate|auto-166|<tuple|Máté|86>>
+    <associate|auto-167|<tuple|3Mózes|88>>
+    <associate|auto-168|<tuple|Máté|88>>
+    <associate|auto-169|<tuple|Zsoltárok|89>>
+    <associate|auto-17|<tuple|Szeptuaginta|14>>
+    <associate|auto-170|<tuple|2.1.27|89>>
+    <associate|auto-171|<tuple|Dániel|89>>
+    <associate|auto-172|<tuple|Máté|90>>
+    <associate|auto-173|<tuple|2.1.28|90>>
+    <associate|auto-174|<tuple|Máté|90>>
+    <associate|auto-175|<tuple|Zakariás|92>>
+    <associate|auto-176|<tuple|Máté|92>>
+    <associate|auto-177|<tuple|Zakariás|93>>
+    <associate|auto-178|<tuple|2.1.29|93>>
+    <associate|auto-179|<tuple|2.1.30|94>>
     <associate|auto-18|<tuple|bibref-parancs|15>>
-    <associate|auto-180|<tuple|Szeptuaginta|95>>
-    <associate|auto-181|<tuple|2.2|96>>
-    <associate|auto-182|<tuple|Márk|96>>
-    <associate|auto-183|<tuple|2Mózes|96>>
-    <associate|auto-184|<tuple|Ézsaiás|96>>
-    <associate|auto-185|<tuple|Márk|96>>
-    <associate|auto-186|<tuple|Ézsaiás|96>>
-    <associate|auto-187|<tuple|Márk|96>>
-    <associate|auto-188|<tuple|Ézsaiás|96>>
-    <associate|auto-189|<tuple|Márk|96>>
-    <associate|auto-19|<tuple|deuterokanonikus könyvek|18>>
-    <associate|auto-190|<tuple|2Mózes|96>>
+    <associate|auto-180|<tuple|2.1|95>>
+    <associate|auto-181|<tuple|Szeptuaginta|96>>
+    <associate|auto-182|<tuple|2.2|96>>
+    <associate|auto-183|<tuple|Márk|96>>
+    <associate|auto-184|<tuple|2Mózes|96>>
+    <associate|auto-185|<tuple|Ézsaiás|96>>
+    <associate|auto-186|<tuple|Márk|96>>
+    <associate|auto-187|<tuple|Ézsaiás|96>>
+    <associate|auto-188|<tuple|Márk|96>>
+    <associate|auto-189|<tuple|Ézsaiás|96>>
+    <associate|auto-19|<tuple|bibref-parancs|18>>
+    <associate|auto-190|<tuple|Márk|96>>
     <associate|auto-191|<tuple|2Mózes|96>>
-    <associate|auto-192|<tuple|Márk|96>>
-    <associate|auto-193|<tuple|1Mózes|96>>
-    <associate|auto-194|<tuple|Márk|96>>
-    <associate|auto-195|<tuple|1Mózes|96>>
-    <associate|auto-196|<tuple|Márk|96>>
-    <associate|auto-197|<tuple|Ézsaiás|96>>
-    <associate|auto-198|<tuple|Jeremiás|96>>
-    <associate|auto-199|<tuple|Márk|96>>
+    <associate|auto-192|<tuple|2Mózes|96>>
+    <associate|auto-193|<tuple|Márk|96>>
+    <associate|auto-194|<tuple|1Mózes|96>>
+    <associate|auto-195|<tuple|Márk|96>>
+    <associate|auto-196|<tuple|1Mózes|96>>
+    <associate|auto-197|<tuple|Márk|96>>
+    <associate|auto-198|<tuple|Ézsaiás|96>>
+    <associate|auto-199|<tuple|Jeremiás|96>>
     <associate|auto-2|<tuple|1|6>>
-    <associate|auto-20|<tuple|bibref-parancs|18>>
-    <associate|auto-200|<tuple|Zsoltárok|96>>
-    <associate|auto-201|<tuple|Márk|96>>
-    <associate|auto-202|<tuple|2Mózes|96>>
-    <associate|auto-203|<tuple|Márk|96>>
-    <associate|auto-204|<tuple|5Mózes|96>>
-    <associate|auto-205|<tuple|Józsué|96>>
-    <associate|auto-206|<tuple|Márk|96>>
-    <associate|auto-207|<tuple|3Mózes|96>>
-    <associate|auto-208|<tuple|Márk|96>>
-    <associate|auto-209|<tuple|5Mózes|96>>
-    <associate|auto-21|<tuple|2.1.1|19>>
-    <associate|auto-210|<tuple|Márk|96>>
-    <associate|auto-211|<tuple|Zsoltárok|96>>
-    <associate|auto-212|<tuple|Márk|96>>
-    <associate|auto-213|<tuple|Dániel|96>>
-    <associate|auto-214|<tuple|Márk|96>>
-    <associate|auto-215|<tuple|Zakariás|96>>
+    <associate|auto-20|<tuple|deuterokanonikus könyvek|18>>
+    <associate|auto-200|<tuple|Márk|96>>
+    <associate|auto-201|<tuple|Zsoltárok|96>>
+    <associate|auto-202|<tuple|Márk|96>>
+    <associate|auto-203|<tuple|2Mózes|96>>
+    <associate|auto-204|<tuple|Márk|96>>
+    <associate|auto-205|<tuple|5Mózes|96>>
+    <associate|auto-206|<tuple|Józsué|96>>
+    <associate|auto-207|<tuple|Márk|96>>
+    <associate|auto-208|<tuple|3Mózes|96>>
+    <associate|auto-209|<tuple|Márk|96>>
+    <associate|auto-21|<tuple|bibref-parancs|19>>
+    <associate|auto-210|<tuple|5Mózes|96>>
+    <associate|auto-211|<tuple|Márk|96>>
+    <associate|auto-212|<tuple|Zsoltárok|96>>
+    <associate|auto-213|<tuple|Márk|96>>
+    <associate|auto-214|<tuple|Dániel|96>>
+    <associate|auto-215|<tuple|Márk|96>>
     <associate|auto-216|<tuple|Zakariás|96>>
-    <associate|auto-217|<tuple|Codex|106>>
+    <associate|auto-217|<tuple|Zakariás|106>>
     <associate|auto-218|<tuple|Codex|106>>
-    <associate|auto-219|<tuple|2.3|106>>
-    <associate|auto-22|<tuple|Python|22>>
-    <associate|auto-220|<tuple|2.3.1|107>>
-    <associate|auto-221|<tuple|Lukács|107>>
+    <associate|auto-219|<tuple|Codex|106>>
+    <associate|auto-22|<tuple|2.1.1|22>>
+    <associate|auto-220|<tuple|2.3|107>>
+    <associate|auto-221|<tuple|2.3.1|107>>
     <associate|auto-222|<tuple|Lukács|107>>
-    <associate|auto-223|<tuple|2Mózes|107>>
-    <associate|auto-224|<tuple|3Mózes|107>>
-    <associate|auto-225|<tuple|2.3.2|109>>
-    <associate|auto-226|<tuple|Lukács|109>>
-    <associate|auto-227|<tuple|Ézsaiás|110>>
-    <associate|auto-228|<tuple|bibref-parancs|110>>
-    <associate|auto-229|<tuple|2.3.3|110>>
-    <associate|auto-23|<tuple|2.1.2|23>>
-    <associate|auto-230|<tuple|Lukács|110>>
-    <associate|auto-231|<tuple|5Mózes|111>>
-    <associate|auto-232|<tuple|Lukács|111>>
-    <associate|auto-233|<tuple|5Mózes|111>>
-    <associate|auto-234|<tuple|Zsoltárok|112>>
-    <associate|auto-235|<tuple|Lukács|112>>
+    <associate|auto-223|<tuple|Lukács|107>>
+    <associate|auto-224|<tuple|2Mózes|107>>
+    <associate|auto-225|<tuple|3Mózes|109>>
+    <associate|auto-226|<tuple|2.3.2|109>>
+    <associate|auto-227|<tuple|Lukács|110>>
+    <associate|auto-228|<tuple|Ézsaiás|110>>
+    <associate|auto-229|<tuple|bibref-parancs|110>>
+    <associate|auto-23|<tuple|Python|23>>
+    <associate|auto-230|<tuple|2.3.3|110>>
+    <associate|auto-231|<tuple|Lukács|111>>
+    <associate|auto-232|<tuple|5Mózes|111>>
+    <associate|auto-233|<tuple|Lukács|111>>
+    <associate|auto-234|<tuple|5Mózes|112>>
+    <associate|auto-235|<tuple|Zsoltárok|112>>
     <associate|auto-236|<tuple|Lukács|113>>
-    <associate|auto-237|<tuple|5Mózes|113>>
-    <associate|auto-238|<tuple|2.3.4|113>>
-    <associate|auto-239|<tuple|Lukács|113>>
-    <associate|auto-24|<tuple|Ézsaiás|23>>
-    <associate|auto-240|<tuple|Ézsaiás|113>>
+    <associate|auto-237|<tuple|Lukács|113>>
+    <associate|auto-238|<tuple|5Mózes|113>>
+    <associate|auto-239|<tuple|2.3.4|113>>
+    <associate|auto-24|<tuple|2.1.2|23>>
+    <associate|auto-240|<tuple|Lukács|113>>
     <associate|auto-241|<tuple|Ézsaiás|113>>
-    <associate|auto-242|<tuple|2.3.5|116>>
-    <associate|auto-243|<tuple|Lukács|116>>
-    <associate|auto-244|<tuple|2Mózes|116>>
-    <associate|auto-245|<tuple|Lukács|116>>
-    <associate|auto-246|<tuple|Ézsaiás|116>>
-    <associate|auto-247|<tuple|Lukács|116>>
-    <associate|auto-248|<tuple|5Mózes|116>>
-    <associate|auto-249|<tuple|Józsué|116>>
-    <associate|auto-25|<tuple|Máté|23>>
-    <associate|auto-250|<tuple|3Mózes|116>>
-    <associate|auto-251|<tuple|Lukács|116>>
-    <associate|auto-252|<tuple|2Mózes|116>>
-    <associate|auto-253|<tuple|Lukács|116>>
-    <associate|auto-254|<tuple|Ézsaiás|116>>
-    <associate|auto-255|<tuple|Jeremiás|116>>
-    <associate|auto-256|<tuple|Lukács|116>>
-    <associate|auto-257|<tuple|Zsoltárok|116>>
-    <associate|auto-258|<tuple|Lukács|116>>
-    <associate|auto-259|<tuple|2Mózes|116>>
-    <associate|auto-26|<tuple|2.1|23>>
-    <associate|auto-260|<tuple|Lukács|116>>
-    <associate|auto-261|<tuple|Zsoltárok|116>>
+    <associate|auto-242|<tuple|Ézsaiás|116>>
+    <associate|auto-243|<tuple|2.3.5|116>>
+    <associate|auto-244|<tuple|Lukács|116>>
+    <associate|auto-245|<tuple|2Mózes|116>>
+    <associate|auto-246|<tuple|Lukács|116>>
+    <associate|auto-247|<tuple|Ézsaiás|116>>
+    <associate|auto-248|<tuple|Lukács|116>>
+    <associate|auto-249|<tuple|5Mózes|116>>
+    <associate|auto-25|<tuple|Ézsaiás|23>>
+    <associate|auto-250|<tuple|Józsué|116>>
+    <associate|auto-251|<tuple|3Mózes|116>>
+    <associate|auto-252|<tuple|Lukács|116>>
+    <associate|auto-253|<tuple|2Mózes|116>>
+    <associate|auto-254|<tuple|Lukács|116>>
+    <associate|auto-255|<tuple|Ézsaiás|116>>
+    <associate|auto-256|<tuple|Jeremiás|116>>
+    <associate|auto-257|<tuple|Lukács|116>>
+    <associate|auto-258|<tuple|Zsoltárok|116>>
+    <associate|auto-259|<tuple|Lukács|116>>
+    <associate|auto-26|<tuple|Máté|23>>
+    <associate|auto-260|<tuple|2Mózes|116>>
+    <associate|auto-261|<tuple|Lukács|116>>
     <associate|auto-262|<tuple|Zsoltárok|116>>
-    <associate|auto-263|<tuple|2.3.6|124>>
-    <associate|auto-264|<tuple|Lukács|124>>
-    <associate|auto-265|<tuple|Ézsaiás|124>>
-    <associate|auto-266|<tuple|bibref-parancs|125>>
-    <associate|auto-267|<tuple|2.4|126>>
+    <associate|auto-263|<tuple|Zsoltárok|124>>
+    <associate|auto-264|<tuple|2.3.6|124>>
+    <associate|auto-265|<tuple|Lukács|124>>
+    <associate|auto-266|<tuple|Ézsaiás|125>>
+    <associate|auto-267|<tuple|bibref-parancs|126>>
     <associate|auto-268|<tuple|2.4|127>>
-    <associate|auto-269|<tuple|2.4.1|128>>
-    <associate|auto-270|<tuple|János|128>>
-    <associate|auto-271|<tuple|Ézsaiás|128>>
-    <associate|auto-272|<tuple|2.4.2|130>>
-    <associate|auto-273|<tuple|János|130>>
-    <associate|auto-274|<tuple|Zsoltárok|130>>
-    <associate|auto-275|<tuple|2.4.3|131>>
-    <associate|auto-276|<tuple|2.4.4|133>>
-    <associate|auto-277|<tuple|János|133>>
-    <associate|auto-278|<tuple|Zsoltárok|133>>
-    <associate|auto-279|<tuple|János|133>>
+    <associate|auto-269|<tuple|2.4|128>>
+    <associate|auto-27|<tuple|2.1|?>>
+    <associate|auto-270|<tuple|2.4.1|128>>
+    <associate|auto-271|<tuple|János|128>>
+    <associate|auto-272|<tuple|Ézsaiás|130>>
+    <associate|auto-273|<tuple|2.4.2|130>>
+    <associate|auto-274|<tuple|János|130>>
+    <associate|auto-275|<tuple|Zsoltárok|131>>
+    <associate|auto-276|<tuple|2.4.3|133>>
+    <associate|auto-277|<tuple|2.4.4|133>>
+    <associate|auto-278|<tuple|János|133>>
+    <associate|auto-279|<tuple|Zsoltárok|133>>
     <associate|auto-28|<tuple|GreekCNTR|23>>
-    <associate|auto-280|<tuple|Ézsaiás|133>>
-    <associate|auto-281|<tuple|2.4.5|134>>
-    <associate|auto-282|<tuple|Strong-szám|136>>
-    <associate|auto-283|<tuple|SWORD|136>>
-    <associate|auto-284|<tuple|bibref-parancs|136>>
-    <associate|auto-285|<tuple|2.5|137>>
+    <associate|auto-280|<tuple|János|133>>
+    <associate|auto-281|<tuple|Ézsaiás|134>>
+    <associate|auto-282|<tuple|2.4.5|136>>
+    <associate|auto-283|<tuple|Strong-szám|136>>
+    <associate|auto-284|<tuple|SWORD|136>>
+    <associate|auto-285|<tuple|bibref-parancs|137>>
+    <associate|auto-286|<tuple|2.5|?>>
     <associate|auto-287|<tuple|GreekCNTR|137>>
-    <associate|auto-288|<tuple|bibref-parancs|137>>
-    <associate|auto-289|<tuple|2.4.6|138>>
-    <associate|auto-29|<tuple|Strong-szám|23>>
-    <associate|auto-290|<tuple|János|140>>
-    <associate|auto-291|<tuple|Zsoltárok|140>>
-    <associate|auto-292|<tuple|2.4.7|140>>
-    <associate|auto-293|<tuple|Makkabeus-felkelés|141>>
-    <associate|auto-294|<tuple|bibref-parancs|141>>
+    <associate|auto-288|<tuple|GreekCNTR|137>>
+    <associate|auto-289|<tuple|bibref-parancs|138>>
+    <associate|auto-29|<tuple|GreekCNTR|23>>
+    <associate|auto-290|<tuple|2.4.6|140>>
+    <associate|auto-291|<tuple|János|140>>
+    <associate|auto-292|<tuple|Zsoltárok|140>>
+    <associate|auto-293|<tuple|2.4.7|141>>
+    <associate|auto-294|<tuple|Makkabeus-felkelés|141>>
     <associate|auto-295|<tuple|bibref-parancs|141>>
-    <associate|auto-296|<tuple|SWORD|141>>
-    <associate|auto-297|<tuple|2.4.8|143>>
-    <associate|auto-298|<tuple|János|143>>
-    <associate|auto-299|<tuple|Zakariás|143>>
-    <associate|auto-3|<tuple|1|7>>
-    <associate|auto-30|<tuple|papirusz|24>>
-    <associate|auto-300|<tuple|2.4.9|144>>
-    <associate|auto-301|<tuple|Ézsaiás|144>>
-    <associate|auto-302|<tuple|János|144>>
-    <associate|auto-303|<tuple|Ézsaiás|145>>
-    <associate|auto-304|<tuple|János|145>>
-    <associate|auto-305|<tuple|bibref-parancs|146>>
-    <associate|auto-306|<tuple|2.4.10|147>>
-    <associate|auto-307|<tuple|János|147>>
-    <associate|auto-308|<tuple|Zsoltárok|147>>
-    <associate|auto-309|<tuple|János|147>>
-    <associate|auto-31|<tuple|Codex|24>>
-    <associate|auto-310|<tuple|Zsoltárok|147>>
-    <associate|auto-311|<tuple|2.4.11|148>>
-    <associate|auto-312|<tuple|János|149>>
-    <associate|auto-313|<tuple|Zsoltárok|149>>
-    <associate|auto-314|<tuple|János|149>>
-    <associate|auto-315|<tuple|Zsoltárok|150>>
-    <associate|auto-316|<tuple|János|150>>
-    <associate|auto-317|<tuple|2Mózes|152>>
-    <associate|auto-318|<tuple|János|152>>
-    <associate|auto-319|<tuple|Zakariás|152>>
+    <associate|auto-296|<tuple|bibref-parancs|141>>
+    <associate|auto-297|<tuple|SWORD|143>>
+    <associate|auto-298|<tuple|2.4.8|143>>
+    <associate|auto-299|<tuple|János|143>>
+    <associate|auto-3|<tuple|2|7>>
+    <associate|auto-30|<tuple|Strong-szám|24>>
+    <associate|auto-300|<tuple|Zakariás|144>>
+    <associate|auto-301|<tuple|2.4.9|144>>
+    <associate|auto-302|<tuple|Ézsaiás|144>>
+    <associate|auto-303|<tuple|János|145>>
+    <associate|auto-304|<tuple|Ézsaiás|145>>
+    <associate|auto-305|<tuple|János|146>>
+    <associate|auto-306|<tuple|bibref-parancs|147>>
+    <associate|auto-307|<tuple|2.4.10|147>>
+    <associate|auto-308|<tuple|János|147>>
+    <associate|auto-309|<tuple|Zsoltárok|147>>
+    <associate|auto-31|<tuple|papirusz|24>>
+    <associate|auto-310|<tuple|János|147>>
+    <associate|auto-311|<tuple|Zsoltárok|148>>
+    <associate|auto-312|<tuple|2.4.11|149>>
+    <associate|auto-313|<tuple|János|149>>
+    <associate|auto-314|<tuple|Zsoltárok|149>>
+    <associate|auto-315|<tuple|János|150>>
+    <associate|auto-316|<tuple|Zsoltárok|150>>
+    <associate|auto-317|<tuple|János|152>>
+    <associate|auto-318|<tuple|2Mózes|152>>
+    <associate|auto-319|<tuple|János|152>>
     <associate|auto-32|<tuple|Codex|24>>
-    <associate|auto-320|<tuple|2.4.12|153>>
-    <associate|auto-321|<tuple|2.5|154>>
-    <associate|auto-322|<tuple|JSCS|155>>
-    <associate|auto-323|<tuple|2.5|155>>
-    <associate|auto-324|<tuple|deuterokanonikus könyvek|155>>
-    <associate|auto-325|<tuple|A|157>>
-    <associate|auto-326|<tuple|A.1|157>>
-    <associate|auto-327|<tuple|Strong-szám|157>>
-    <associate|auto-328|<tuple|bibref-parancs|158>>
+    <associate|auto-320|<tuple|Zakariás|153>>
+    <associate|auto-321|<tuple|2.4.12|154>>
+    <associate|auto-322|<tuple|2.5|155>>
+    <associate|auto-323|<tuple|JSCS|155>>
+    <associate|auto-324|<tuple|2.5|155>>
+    <associate|auto-325|<tuple|deuterokanonikus könyvek|157>>
+    <associate|auto-326|<tuple|A|157>>
+    <associate|auto-327|<tuple|A.1|157>>
+    <associate|auto-328|<tuple|Strong-szám|158>>
     <associate|auto-329|<tuple|bibref-parancs|158>>
     <associate|auto-33|<tuple|Codex|24>>
     <associate|auto-330|<tuple|bibref-parancs|158>>
-    <associate|auto-331|<tuple|A.2|160>>
-    <associate|auto-332|<tuple|A.1|161>>
-    <associate|auto-333|<tuple|bibref-parancs|161>>
-    <associate|auto-334|<tuple|A.3|161>>
-    <associate|auto-335|<tuple|bibref-parancs|161>>
-    <associate|auto-336|<tuple|A.3.1|163>>
-    <associate|auto-337|<tuple|A.2|163>>
-    <associate|auto-338|<tuple|A.3|164>>
-    <associate|auto-339|<tuple|A.4|164>>
+    <associate|auto-331|<tuple|bibref-parancs|160>>
+    <associate|auto-332|<tuple|A.2|161>>
+    <associate|auto-333|<tuple|A.1|161>>
+    <associate|auto-334|<tuple|bibref-parancs|161>>
+    <associate|auto-335|<tuple|A.3|161>>
+    <associate|auto-336|<tuple|bibref-parancs|163>>
+    <associate|auto-337|<tuple|A.3.1|163>>
+    <associate|auto-338|<tuple|A.2|164>>
+    <associate|auto-339|<tuple|A.3|164>>
     <associate|auto-34|<tuple|Codex|24>>
     <associate|auto-340|<tuple|A.4|165>>
-    <associate|auto-341|<tuple|bibref-parancs|166>>
-    <associate|auto-342|<tuple|A.5|167>>
-    <associate|auto-343|<tuple|bibref-parancs|167>>
-    <associate|auto-344|<tuple|A.5|169>>
-    <associate|auto-345|<tuple|A.6|170>>
-    <associate|auto-346|<tuple|A.7|171>>
-    <associate|auto-347|<tuple|A.8|171>>
-    <associate|auto-348|<tuple|A.6|173>>
-    <associate|auto-349|<tuple|bibref-parancs|173>>
+    <associate|auto-341|<tuple|A.4|166>>
+    <associate|auto-342|<tuple|bibref-parancs|167>>
+    <associate|auto-343|<tuple|A.5|167>>
+    <associate|auto-344|<tuple|bibref-parancs|169>>
+    <associate|auto-345|<tuple|A.5|170>>
+    <associate|auto-346|<tuple|A.6|171>>
+    <associate|auto-347|<tuple|A.7|171>>
+    <associate|auto-348|<tuple|A.8|173>>
+    <associate|auto-349|<tuple|A.6|173>>
     <associate|auto-35|<tuple|Codex|24>>
-    <associate|auto-350|<tuple|A.7|174>>
+    <associate|auto-350|<tuple|bibref-parancs|174>>
     <associate|auto-351|<tuple|A.7|177>>
     <associate|auto-352|<tuple|A.7|179>>
-    <associate|auto-36|<tuple|bibref-parancs|24>>
+    <associate|auto-353|<tuple|A.7|?>>
+    <associate|auto-36|<tuple|Codex|24>>
     <associate|auto-37|<tuple|bibref-parancs|25>>
     <associate|auto-38|<tuple|bibref-parancs|26>>
-    <associate|auto-39|<tuple|Szeptuaginta|27>>
-    <associate|auto-4|<tuple|Szeptuaginta|7>>
-    <associate|auto-40|<tuple|2.2|27>>
-    <associate|auto-41|<tuple|2.1.3|28>>
-    <associate|auto-42|<tuple|Mikeás|28>>
-    <associate|auto-43|<tuple|Máté|28>>
-    <associate|auto-44|<tuple|2Sámuel|29>>
-    <associate|auto-45|<tuple|1Krónikák|29>>
-    <associate|auto-46|<tuple|2.1.4|31>>
-    <associate|auto-47|<tuple|Máté|31>>
-    <associate|auto-48|<tuple|Hóseás|32>>
-    <associate|auto-49|<tuple|2.1.5|32>>
-    <associate|auto-5|<tuple|1.1|8>>
-    <associate|auto-50|<tuple|Jeremiás|32>>
-    <associate|auto-51|<tuple|Máté|33>>
-    <associate|auto-52|<tuple|bibref-parancs|34>>
+    <associate|auto-39|<tuple|bibref-parancs|27>>
+    <associate|auto-4|<tuple|1|7>>
+    <associate|auto-40|<tuple|Szeptuaginta|27>>
+    <associate|auto-41|<tuple|2.2|28>>
+    <associate|auto-42|<tuple|2.1.3|28>>
+    <associate|auto-43|<tuple|Mikeás|28>>
+    <associate|auto-44|<tuple|Máté|29>>
+    <associate|auto-45|<tuple|2Sámuel|29>>
+    <associate|auto-46|<tuple|1Krónikák|31>>
+    <associate|auto-47|<tuple|2.1.4|31>>
+    <associate|auto-48|<tuple|Máté|32>>
+    <associate|auto-49|<tuple|Hóseás|32>>
+    <associate|auto-5|<tuple|Szeptuaginta|8>>
+    <associate|auto-50|<tuple|2.1.5|32>>
+    <associate|auto-51|<tuple|Jeremiás|33>>
+    <associate|auto-52|<tuple|Máté|34>>
     <associate|auto-53|<tuple|bibref-parancs|34>>
     <associate|auto-54|<tuple|bibref-parancs|34>>
     <associate|auto-55|<tuple|bibref-parancs|34>>
     <associate|auto-56|<tuple|bibref-parancs|34>>
-    <associate|auto-57|<tuple|2.1.6|35>>
-    <associate|auto-58|<tuple|Máté|35>>
-    <associate|auto-59|<tuple|Ézsaiás|35>>
+    <associate|auto-57|<tuple|bibref-parancs|35>>
+    <associate|auto-58|<tuple|2.1.6|35>>
+    <associate|auto-59|<tuple|Máté|35>>
     <associate|auto-6|<tuple|1.1|8>>
-    <associate|auto-60|<tuple|Aleppo-kódex|35>>
-    <associate|auto-61|<tuple|2.1.7|35>>
-    <associate|auto-62|<tuple|Máté|36>>
-    <associate|auto-63|<tuple|Ézsaiás|36>>
-    <associate|auto-64|<tuple|2.1.8|37>>
-    <associate|auto-65|<tuple|Máté|37>>
-    <associate|auto-66|<tuple|5Mózes|37>>
-    <associate|auto-67|<tuple|Zsoltárok|38>>
-    <associate|auto-68|<tuple|Máté|38>>
+    <associate|auto-60|<tuple|Ézsaiás|35>>
+    <associate|auto-61|<tuple|Aleppo-kódex|35>>
+    <associate|auto-62|<tuple|2.1.7|36>>
+    <associate|auto-63|<tuple|Máté|36>>
+    <associate|auto-64|<tuple|Ézsaiás|37>>
+    <associate|auto-65|<tuple|2.1.8|37>>
+    <associate|auto-66|<tuple|Máté|37>>
+    <associate|auto-67|<tuple|5Mózes|38>>
+    <associate|auto-68|<tuple|Zsoltárok|38>>
     <associate|auto-69|<tuple|Máté|39>>
-    <associate|auto-7|<tuple|1.2|9>>
-    <associate|auto-70|<tuple|5Mózes|39>>
-    <associate|auto-71|<tuple|Máté|39>>
-    <associate|auto-72|<tuple|5Mózes|40>>
-    <associate|auto-73|<tuple|2.1.9|41>>
-    <associate|auto-74|<tuple|Máté|42>>
-    <associate|auto-75|<tuple|Ézsaiás|43>>
-    <associate|auto-76|<tuple|2.1.10|43>>
-    <associate|auto-77|<tuple|Máté|43>>
-    <associate|auto-78|<tuple|2Mózes|43>>
-    <associate|auto-79|<tuple|Szeptuaginta|44>>
-    <associate|auto-8|<tuple|SWORD|9>>
-    <associate|auto-80|<tuple|Máté|44>>
-    <associate|auto-81|<tuple|2Mózes|44>>
-    <associate|auto-82|<tuple|Python|45>>
-    <associate|auto-83|<tuple|Máté|46>>
-    <associate|auto-84|<tuple|2Mózes|46>>
-    <associate|auto-85|<tuple|3Mózes|46>>
-    <associate|auto-86|<tuple|2.1.11|47>>
-    <associate|auto-87|<tuple|Máté|47>>
-    <associate|auto-88|<tuple|Ézsaiás|48>>
-    <associate|auto-89|<tuple|2.1.12|48>>
-    <associate|auto-9|<tuple|1.1|10>>
-    <associate|auto-90|<tuple|Máté|48>>
-    <associate|auto-91|<tuple|Hóseás|49>>
-    <associate|auto-92|<tuple|2.1.13|49>>
-    <associate|auto-93|<tuple|Máté|49>>
-    <associate|auto-94|<tuple|Mikeás|49>>
-    <associate|auto-95|<tuple|Máté|51>>
-    <associate|auto-96|<tuple|2Mózes|52>>
-    <associate|auto-97|<tuple|2.1.14|52>>
-    <associate|auto-98|<tuple|Máté|52>>
-    <associate|auto-99|<tuple|Hóseás|53>>
+    <associate|auto-7|<tuple|1.1|9>>
+    <associate|auto-70|<tuple|Máté|39>>
+    <associate|auto-71|<tuple|5Mózes|39>>
+    <associate|auto-72|<tuple|Máté|40>>
+    <associate|auto-73|<tuple|5Mózes|41>>
+    <associate|auto-74|<tuple|2.1.9|42>>
+    <associate|auto-75|<tuple|Máté|43>>
+    <associate|auto-76|<tuple|Ézsaiás|43>>
+    <associate|auto-77|<tuple|2.1.10|43>>
+    <associate|auto-78|<tuple|Máté|43>>
+    <associate|auto-79|<tuple|2Mózes|44>>
+    <associate|auto-8|<tuple|1.2|9>>
+    <associate|auto-80|<tuple|Szeptuaginta|44>>
+    <associate|auto-81|<tuple|Máté|44>>
+    <associate|auto-82|<tuple|2Mózes|45>>
+    <associate|auto-83|<tuple|Python|46>>
+    <associate|auto-84|<tuple|Máté|46>>
+    <associate|auto-85|<tuple|2Mózes|46>>
+    <associate|auto-86|<tuple|3Mózes|47>>
+    <associate|auto-87|<tuple|2.1.11|47>>
+    <associate|auto-88|<tuple|Máté|48>>
+    <associate|auto-89|<tuple|Ézsaiás|48>>
+    <associate|auto-9|<tuple|SWORD|10>>
+    <associate|auto-90|<tuple|2.1.12|48>>
+    <associate|auto-91|<tuple|Máté|49>>
+    <associate|auto-92|<tuple|Hóseás|49>>
+    <associate|auto-93|<tuple|2.1.13|49>>
+    <associate|auto-94|<tuple|Máté|49>>
+    <associate|auto-95|<tuple|Mikeás|51>>
+    <associate|auto-96|<tuple|Máté|52>>
+    <associate|auto-97|<tuple|2Mózes|52>>
+    <associate|auto-98|<tuple|2.1.14|52>>
+    <associate|auto-99|<tuple|Máté|53>>
     <associate|betuhelyes|<tuple|A.5|167>>
     <associate|bib-Benyik1996|<tuple|1|179>>
     <associate|bib-Bunning2022|<tuple|2|179>>
@@ -21733,7 +21764,7 @@
       <tuple|normal|<\surround|<hidden-binding|<tuple>|2.3><with|font-series|<quote|bold>|ábra.>
       |>
         A Mt 13:15 a Codex Sinaiticus elektronikus verziójában a
-        <locus|<id|%76142B268-763E11698>|<link|hyperlink|<id|%76142B268-763E11698>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
+        <locus|<id|%519158FE8-515B23D28>|<link|hyperlink|<id|%519158FE8-515B23D28>|<url|https://codexsinaiticus.org/>>|<with|font-family|<quote|tt>|language|<quote|verbatim>|https://codexsinaiticus.org/>>
         címen. A <with|font-shape|<quote|italic>|Transcription> részben (jobb
         oldalon) egy konkrét szóra duplán kattintva az
         <with|font-shape|<quote|italic>|Image> részben (bal oldalon) a kódex
